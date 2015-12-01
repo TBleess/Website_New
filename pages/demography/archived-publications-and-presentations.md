@@ -1,0 +1,101 @@
+##Archived Publications and Presentations
+- - -
+All archived Publications and Presentations are listed by year of original production date. If you have questions or are unable to locate a particular document, please send us an email.
+- - -
+####2014
+
+- [2014 Population Overview](https://drive.google.com/open?id=0B2oqdPZKJqK7TkpLeWVLLVdyWTg)
+- [Census Bureau Releases 2013 Estimates](https://drive.google.com/open?id=0B-vz6H4k4SESWlBnVXYwaVJObUk&authuser=0)
+- Annual Demography Meeting
+ - [Agenda](https://drive.google.com/open?id=0B2oqdPZKJqK7Q1BmQnNma0I1aFk)
+ - [Speaker Biographies](https://drive.google.com/open?id=0B0cPI4JYHGaTVl9LZTJ5MWE4aWs)
+ - [List of Attendees](https://drive.google.com/open?id=0B2oqdPZKJqK7S05KQWFPQU5ZX2s)
+ - [Attendee Map](https://drive.google.com/open?id=0B2oqdPZKJqK7eDlzNlBIMEU2NDg)
+ - [Colorado Planning & Management Region Map](https://drive.google.com/open?id=0B2oqdPZKJqK7d3JwNDBqQkJ0V0U)
+ - [Colorado Labor Force 1970-2040 Infographic](https://drive.google.com/open?id=0B2oqdPZKJqK7WXFSSjViVXdsbkk)
+ - [Colorado Population 1970-2014 Infographic](https://drive.google.com/open?id=0B2oqdPZKJqK7eFVnQmJmTUc4czA)
+ - [Colorado Population Change 2000-2013 Infographic](https://drive.google.com/open?id=0B2oqdPZKJqK7T0MzaHgyNG1oYUk)
+ - [Colorado Net Migration Infographic](https://drive.google.com/open?id=0B2oqdPZKJqK7a0cyXy04eHNPT1k)
+ - [Table1: Population Forecasts Data](https://drive.google.com/open?id=0B2oqdPZKJqK7RHdxYkNXYUZWdkk)
+ - [Table2: Population Estimates Data](https://drive.google.com/open?id=0B2oqdPZKJqK7TU1PUlV0dEpPM0U)
+ - [List of Updated Demography Products](https://drive.google.com/open?id=0B2oqdPZKJqK7dDFDUUxpN2U3ZDg)
+ - [Colorado's Economic Outlook: Connecting to Compete - Colorado and the Economics of Broadband Access](https://drive.google.com/open?id=0B2oqdPZKJqK7TmtQUnZ6WVRTRmM) presented by Grant Nulle, State Demography Office
+ - [State Population Forecast: A Tale of Three Regions, Impacts of An Aging Colorado](https://drive.google.com/open?id=0B2oqdPZKJqK7cHJnU0VBb2tJVEU) presented by Cindy DeGroen, State Demography Office
+ - [Colorado's Population Landscape: Millennials and Migration](https://drive.google.com/open?id=0B2oqdPZKJqK7UzVzUkwyQURnQ3M) presented by Rob Kemp, State Demography Office
+ - [Finding the Data You Need: A Guided Tour of Our Webmap Gallery](https://drive.google.com/open?id=0B0cPI4JYHGaTdmJfTXlObWpoQ2M) presented by Daniel Trone, State Demography Office
+ - [2012 Economic Census - Updates for Colorado](https://drive.google.com/open?id=0B2oqdPZKJqK7UHl4eUpjdTU3NEk) presented by Andrew Haite, US Census Bureau
+ - [Investing in Delta - Economic and Community Impacts of Grant Programs](https://drive.google.com/open?id=0B2oqdPZKJqK7QjdqWDhQXzZwWU0) presented by Rachel Harlow-Schalk and Elyse Ackerman Casselberry, CO Division of Local Government
+ - [Recovering From the Great Recession: From Coal to Broadband to Aging - How is Western Colorado Coping with Transitions](https://drive.google.com/open?id=0B2oqdPZKJqK7ZTFpU3JHdHlxTlk) presented by Michelle Haynes, Region 10
+ - [2013 Floods - Recovery and Investment - Where Are We One Year Later](https://drive.google.com/open?id=0B2oqdPZKJqK7ZFVwejNBbUxUajA) presented by Chantal Unfug, CO Division of Local Government
+- [Region Reports](https://drive.google.com/open?id=0B2oqdPZKJqK7Y0JsSE95NTRYNTQ)
+- - -
+####2013
+- [2013 Population Overview](https://drive.google.com/open?id=0B2oqdPZKJqK7N0IxNTNxMWNQUHc&authuser=0)
+- [Census Bureau Releases 2012 Estimates](https://drive.google.com/open?id=0B2oqdPZKJqK7bE00NFJ6ZDZ1TUE&authuser=0)
+- Annual Demography Meeting
+ - [Agenda](https://drive.google.com/open?id=0B4-eaNwOwFmYb09xWWx3YzVEOFE&authuser=0)
+ - [Speaker Biographies](https://drive.google.com/open?id=0B2oqdPZKJqK7M29ieE44QmdJRHc&authuser=0)
+ - [List of Attendees](https://drive.google.com/open?id=0B2oqdPZKJqK7Wkd1ZG9mVW1CS2c&authuser=0)
+ - [State Economic Forecast](https://drive.google.com/open?id=0B2oqdPZKJqK7SFFKbjVkYl82MjQ&authuser=0)
+ - [State Population Forecast](https://drive.google.com/open?id=0B4-eaNwOwFmYeWd3MmlrWGlTaWc&authuser=0)
+ - [State Population Estimates](https://drive.google.com/open?id=0B2oqdPZKJqK7dmVaNEw4RnNDeEE&authuser=0)
+ - [Colorado Main Streets 101](https://drive.google.com/open?id=0B2oqdPZKJqK7VG1HU3ZacnNWX3c&authuser=0)
+ - [Colorado Innovation: The 2013 Index](https://drive.google.com/open?id=0B2oqdPZKJqK7UUJITWtiVm5vRUk&authuser=0)
+ - [Northwest Colorado Council of Governments (Region 12) Update](https://drive.google.com/open?id=0B2oqdPZKJqK7UnhrcEJYS0hIbG8&authuser=0)
+ - [Coverage in Colorado's Counties: Forecasting Health Insurance](https://drive.google.com/open?id=0B2oqdPZKJqK7TTRxcG1MLXdoYU0&authuser=0)
+- - -
+####2012
+- [2012 Population Overview](https://drive.google.com/open?id=0B2oqdPZKJqK7cFAzbVFmYkNRWmc&authuser=0)
+- [Fiscal Managers Association Spring Meeting (May 2012)](https://drive.google.com/open?id=0B2oqdPZKJqK7V2VGSUt3cFVFQ2M&authuser=0)
+- Annual Demography Meeting
+ - [Agenda](https://drive.google.com/open?id=0B4-eaNwOwFmYR3hVcEd0M253Yms&authuser=0)
+ - [Speaker's Biographies](https://drive.google.com/open?id=0B4-eaNwOwFmYWWthZGIybWVPcFk&authuser=0)
+ - [List of Attendees](https://drive.google.com/open?id=0B4-eaNwOwFmYbmg3OENxbjlLVWM&authuser=0)
+ - [State Economic Forecast](https://drive.google.com/open?id=0B4-eaNwOwFmYelhWRkZ3YkZzbms&authuser=0)
+ - [State Population Forecast](https://drive.google.com/open?id=0B4-eaNwOwFmYTUpZdG0wcG1hbUU&authuser=0)
+ - [State Population Estimates](https://drive.google.com/open?id=0B4-eaNwOwFmYMVpIZF9hYVpXRk0&authuser=0)
+ - [El Paso County Economic Update & Impact of Wildfire](https://drive.google.com/open?id=0B2oqdPZKJqK7dTJXeU5naU5FcGs&authuser=0)
+ - [Colorado Innovation 2012](https://drive.google.com/open?id=0B2oqdPZKJqK7d3hFejVINVQyOHc&authuser=0)
+ - [Employment Situation in Colorado](https://drive.google.com/open?id=0B2oqdPZKJqK7bmp1RUQyVTdSbDg&authuser=0)
+- - -
+####2011
+- [Census Bureau Releases 2010 ACS 1-Year Estimates](https://drive.google.com/open?id=0B2oqdPZKJqK7cC1XY0RoX0dFM3c&authuser=0)
+- [Colorado 2010 Census Summary Findings](https://drive.google.com/open?id=0B2oqdPZKJqK7aDVNMmNmWDE4dVE&authuser=0)
+- Annual Demography Meeting
+ - [Agenda](https://drive.google.com/open?id=0B4-eaNwOwFmYWU9PLTFNLUlsaFE&authuser=0)
+ - [Speaker's Biographies](https://drive.google.com/open?id=0B4-eaNwOwFmYX09pUkZnSlN2SGc&authuser=0)
+ - [List of Attendees](https://drive.google.com/open?id=0B4-eaNwOwFmYbjhvMzZjUGRYWGs&authuser=0)
+ - [Region Reports](http://dola.colorado.gov/demog-cms/content/region-profiles)
+ - [State Economic Forecast](https://drive.google.com/open?id=0B4-eaNwOwFmYaVpzYkVmcHc1Ukk&authuser=0)
+ - [2010 Census Findings: Results, Comparison to SDO and Challenging the Counts](https://drive.google.com/open?id=0B2oqdPZKJqK7emtHaWV4T3hpdW8&authuser=0)
+ - [Colorado Population Forecasts & Estimates](https://drive.google.com/open?id=0B2oqdPZKJqK7czhBZE9fc3FSNzg&authuser=0)
+ - [Toward a More Competitive Colorado](https://drive.google.com/open?id=0B2oqdPZKJqK7a0dRbHdlN1pVODQ&authuser=0)
+ - [Demographic and Economic Impacts of Aging](https://drive.google.com/open?id=0B2oqdPZKJqK7M0JXbWhGY0thbmc&authuser=0)
+- Region Reports
+ - [1-14](https://drive.google.com/open?id=0B2oqdPZKJqK7NkJxWlJHZDZUeHc&authuser=0)
+- - -
+####2010
+- Annual Demography Meeting
+ - [Agenda](https://drive.google.com/open?id=0B4-eaNwOwFmYa3lBQkNDN1dqT2c&authuser=0)
+ - [Speaker's Biographies](https://drive.google.com/open?id=0B4-eaNwOwFmYVWhqOWprSGU0U2M&authuser=0)
+ - [List of Attendees](https://drive.google.com/open?id=0B4-eaNwOwFmYWDVIakw0UGhCbDg&authuser=0)
+ - [2010 Economic Outlook](https://drive.google.com/open?id=0B2oqdPZKJqK7aXUzeDZVRVlidnc&authuser=0)
+ - [Colorado Population Forecasts](https://drive.google.com/open?id=0B2oqdPZKJqK7RndiejRXZHF4ZDA&authuser=0)
+ - [Colorado Population Estimates](https://drive.google.com/open?id=0B2oqdPZKJqK7b3ZxS09DY2s4WHM&authuser=0)
+ - [2010 Census Update](https://drive.google.com/open?id=0B2oqdPZKJqK7UlZfV3NDU0I3NHc&authuser=0)
+ - [Architecture for Immigration Reform](https://drive.google.com/open?id=0B2oqdPZKJqK7ME91RnBacFN6eVU&authuser=0)
+ - [Colorado Population Forecast Methodology](https://drive.google.com/open?id=0B2oqdPZKJqK7RU92Z1RSVnJERXc&authuser=0)
+ - [Colorado Population Estimates Methodology](https://drive.google.com/open?id=0B2oqdPZKJqK7cW5HQzBZcUVwTzQ&authuser=0)
+ - ["Making Sense Out of All This Economic & Demographic Data"](https://drive.google.com/open?id=0B2oqdPZKJqK7TndqYjFzaUZqcDA&authuser=0)
+ - ["Understanding and Using the American Community Survey"](https://drive.google.com/open?id=0B4-eaNwOwFmYUEsta3pCUTRpNEk&authuser=0)
+- - -
+####2008
+- [Colorado Demographic Fact Sheet](https://drive.google.com/open?id=0B2oqdPZKJqK7eDFoTDFLbnMtTzg&authuser=0)
+- 2008 Cumulative Socio-Economic Analysis for Northwest Colorado
+ - [Executive Summary](https://drive.google.com/open?id=0B2oqdPZKJqK7bjJwcFVhMldJMXc&authuser=0)
+ - [Full Report](https://drive.google.com/open?id=0B2oqdPZKJqK7YVJ4cldIMENkcWc&authuser=0)
+ - [Long Presentation](https://drive.google.com/open?id=0B2oqdPZKJqK7X3otYlNxOU5ubXM&authuser=0)
+ - [Short Presentation](https://drive.google.com/open?id=0B2oqdPZKJqK7b1FwbGtLdGNoZlU&authuser=0)
+- - -
+####2006
+- [Understanding the Age Distribution of the Colorado Population](https://drive.google.com/open?id=0B2oqdPZKJqK7REVkdlp3LTZvSkk&authuser=0)
