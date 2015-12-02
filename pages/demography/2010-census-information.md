@@ -8,7 +8,7 @@ permalink: "/demography/2010-census-information/"
 ---
 ## 2010 Census Information
 - - -
-[Looking for 2010 Colorado Census Data? It's available here!]()
+[Looking for 2010 Colorado Census Data? It's available here!](/demography/2010-census-information/)
 - - -
 #### Colorado and the 2010 Census
 The administration of the decennial Census is a federal activity mandated by the constitution. In order for our communities to ensure they are completely and accurately counted in April 2010, it must also be a partnership between the US Census Bureau and local governments.

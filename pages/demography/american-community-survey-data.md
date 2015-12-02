@@ -28,8 +28,8 @@ permalink: "/demography/american-community-survey-data/"
 
 #### Maps
 
-[Thematic maps]() based on ACS data are available.
+[Thematic maps](/demography/thematic-maps/) based on ACS data are available.
 - - -
 #### And More
 
-More information is also available on our [ACS Information page](), including information on Margins of Error and downloadable user guides. Additional information can also be found on the [US Census Bureau's website](http://www.census.gov/).
+More information is also available on our [ACS Information page](/demography/american-community-survey-information/), including information on Margins of Error and downloadable user guides. Additional information can also be found on the [US Census Bureau's website](http://www.census.gov/).

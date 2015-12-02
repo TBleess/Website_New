@@ -13,11 +13,11 @@ permalink: "/demography/labor-force/"
 
 #### Labor Force Participation
 
-[Labor Force Participation by Age and Gender]()
+[Labor Force Participation by Age and Gender](https://dola.colorado.gov/demog_webapps/lfpParameters.jsf)
 
 #### Journey  to Work/ County to County Worker Flows
 
-[Census Transportation Planning Products (CTPP) Data]()
+[Census Transportation Planning Products (CTPP) Data](http://www.fhwa.dot.gov/planning/census_issues/ctpp/data_products/acsdataprod.cfm)
 
 2006-2010 American Community Survey (ACS) Data
 

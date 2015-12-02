@@ -56,7 +56,7 @@
     url: "/demography/american-community-survey-data/"
   - title: "2010 Census Data"
     url: "http://dola.colorado.gov/demog-cms/content/census-data"
-  - title: "2010 Census Data"
+  - title: "2000 Census Data"
     url: "/demography/2000-census-data/"
   - title: "American Community Survey Information"
     url: "/demography/american-community-survey-information/"
@@ -102,7 +102,7 @@
   dropdown:
   - title: "Webmap Gallery"
     url: "http://dola.colorado.gov/gis-cms/content/map-gallery"
-  - title: "PDF Maps"
+  - title: "Thematic Maps"
     url: "/demography/thematic-maps/"
   - title: "GIS Data"
     url: "https://data.colorado.gov/browse?category=Demographics&tags=gocode&utf8=%E2%9C%93"

@@ -9,17 +9,17 @@ permalink: "/demography/cedis/"
 ## CEDIS
 - - -
 #### Population Data
-- [Colorado Census Data]()
+- [Colorado Census Data](/demography/us-census-data-information/)
 - [Colorado County Profile System](https://dola.colorado.gov/demog_webapps/psc_parameters.jsf)
-- [Population Forecasts]()
-- [Population Forecasts by Age]()
-- [Population by Race & Hispanic Origin]()
-- [Census Population Estimates (census.gov)]()
+- [Population Forecasts](/demography/population-totals-colorado-substate/)
+- [Population Forecasts by Age](/demography/age-gender-population-data/)
+- [Population by Race & Hispanic Origin](/demography/race-hispanic-origin/)
+- [Census Population Estimates (census.gov)](http://www.census.gov/popest/estimates.html)
 
 - - -
 #### Housing Unit and Household Data
 - [Colorado County Profile System](https://dola.colorado.gov/demog_webapps/psc_parameters.jsf)
-- [Housing Unit and Household Estimates]()
+- [Housing Unit and Household Estimates](http://dola.colorado.gov/demog-cms/content/housing-and-households)
 - [Households by Region, Type, Age, Tenure, and Income](https://dola.colorado.gov/households/income_parameters.jsf)
 - [Division of Housing Vacancy and Rent Surveys](https://www.colorado.gov/pacific/dola/vacancy-rent-surveys)
 

@@ -12,11 +12,12 @@ permalink: "/demography/infographics/"
 
 The following infographics were developed by the State Demography Office.
 
-- [Colorado Population Change 1970-2040]()
-- [Colorado Population Change 2000-2013]()
-- [Colorado Labor Force 1970-2040]()
-- [Colorado Households 1970-2014]()
+- [Colorado Population Change 1970-2040](#a)
+- [Colorado Population Change 2000-2013](#b)
+- [Colorado Labor Force 1970-2040](#c)
+- [Colorado Households 1970-2014](#d)
 
+<a name="a"></a>
 - - -
 
 #### Colorado Population Change 1970-2040 (2014)
@@ -25,6 +26,7 @@ The following infographics were developed by the State Demography Office.
 
 ![Colorado Population Change 1970-2040](/images/colorado-population-change-1970-2040.jpeg)
 
+<a name="b"></a>
 - - -
 
 #### Colorado Population Change 2000-2013 (2014)
@@ -33,6 +35,7 @@ The following infographics were developed by the State Demography Office.
 
 ![Colorado Population Change 2000-2013](/images/colorado-population-change-2000-2013.jpeg)
 
+<a name="c"></a>
 - - -
 
 #### Colorado Labor Force 1970-2040 (2014)
@@ -41,6 +44,7 @@ The following infographics were developed by the State Demography Office.
 
 ![Colorado Population Change 1970-2040](/images/colorado-labor-force-1970-2040.jpeg)
 
+<a name="d"></a>
 - - -
 
 #### Colorado Households 1970-2040 (2015)

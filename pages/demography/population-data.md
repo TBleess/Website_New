@@ -13,18 +13,18 @@ permalink: "/demography/population-data/"
 
 #### Population totals are available for the following geographies:
 
-- [United States & States]()
-- [State and Sub-State Regions]()
-- [Counties]()
-- [Municipalities]()
+- [United States & States](/demography/population-totals-us-states/)
+- [State and Sub-State Regions](/demography/population-totals-colorado-substate/)
+- [Counties](/demography/population-totals/counties/)
+- [Municipalities](/demography/population/totals/counties/)
 
 **Note:** The State Demography Office has produced an update to its population estimates and forecasts to incorporate the recently released 2010 Census count population totals. The files are available with the 2010 Census data.
 
 #### Additional Population data:
 
-- [Age and Gender]()
-- [Components of Change]()
-- [Race and Hispanic Origin]()
+- [Age and Gender](/demography/age-gender-population-data/)
+- [Components of Change](/demography/components-of-change/)
+- [Race and Hispanic Origin](/demography/race-hispanic-origin/)
 - [US Census Bureau](http://www.census.gov/)
 
 #### Also Available:
@@ -34,5 +34,5 @@ permalink: "/demography/population-data/"
 - [Definitions of Sub-State Regions](https://drive.google.com/open?id=0B2oqdPZKJqK7RU92Z1RSVnJERXc)
 - [Planning Management Region Map](https://drive.google.com/open?id=0B2oqdPZKJqK7VjNuRWdiYnRhbnM)
 - [Statistical Regions Map](https://drive.google.com/open?id=0B2oqdPZKJqK7VjNuRWdiYnRhbnM)
-- [Thematic Maps]()
+- [Thematic Maps](/demography/thematic-maps/)
 - [Land Density](https://drive.google.com/open?id=0B6P5TF4k2v8qeTFXSmxJc1phNW8)
