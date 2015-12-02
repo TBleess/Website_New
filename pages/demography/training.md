@@ -2,7 +2,7 @@
 
 layout: page
 title: "Training"
-permalink: "/demography/training/"
+permalink: "/demography/training"
 
 ---
 
