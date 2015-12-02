@@ -3,8 +3,6 @@
 layout: page
 title: "Info"
 permalink: "/info/"
-header:
-    image_fullwidth: "header_drop.jpg"
     
 ---
 ## About the State Demography Office

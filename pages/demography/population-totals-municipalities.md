@@ -1,11 +1,24 @@
-##Population Totals for Colorado Municipalities
+---
+
+layout: page
+title: "Population Totals Municipalities"
+permalink: "/demography/population-totals-municipalities"
+
+---
+
+## Population Totals for Colorado Municipalities
+
 - - -
-####Historical Census - years (1870 to 2010)
+
+#### Historical Census - years (1870 to 2010)
+
 Population totals for Colorado, counties & places, 1870 to 2010 are available [here](https://dola.colorado.gov/demog_webapps/hcp_parameters.jsf).
 
 You may obtain a list of municipalities, their dates of incorporation and county locations at the [State Archives](http://www.colorado.gov/dpa/doit/archives/muninc.html).
+
 - - -
-####Population Estimates - years (1990 to Current)
+
+#### Population Estimates - years (1990 to Current)
 
 Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2014 and was finalized in October 2015.
 
@@ -17,6 +30,9 @@ This option allows the user to select any combination of state, counties or muni
 
 [Municipalities Within Counties:](https://dola.colorado.gov/demog_webapps/mpe_parameters.jsf)
 This option allows the user to select a county and list the population estimates for all of the municipalities within that particular county. Years available 1980, 1990 to current.
+
 - - -
-####Population Forecasts
+
+#### Population Forecasts
+
 Population forecasts are not available for municipalities. Forecasts are available for counties and sub-state regions only.

@@ -3,8 +3,6 @@
 layout: page
 title: "Contact"
 permalink: "/contact/"
-header:
-    image_fullwidth: "header_drop.jpg"
     
 ---
 ## State Demography Office - Contact Us

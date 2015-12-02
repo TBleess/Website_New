@@ -1,4 +1,11 @@
-##2000 Census Data
+---
+
+layout: page
+title: "2000 Census Data"
+permalink: "/demography/2000-census-data"
+
+---
+## 2000 Census Data
 - - -
 [Glossary of Census Terms](http://factfinder.census.gov/help/en/index.htm#glossary.htm)
 
@@ -20,7 +27,8 @@
 
 As with all census data you can find this information and much more on the [US Census Bureau's website](http://www.census.gov/).
 - - -
-####Popular Items
+#### Popular Items
+
 - [Comparing Census and ACS data](http://www.huduser.org/portal/home.html)
 - [Map Gallery](https://dola.colorado.gov/maps)
 - [What are Metropolitan & Micropolitan Statistical Areas](http://www.census.gov/population/metro/)

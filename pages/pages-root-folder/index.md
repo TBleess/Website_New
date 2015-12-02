@@ -2,6 +2,10 @@
 layout: frontpage
 homepage: true
 permalink: /index.html
+header:
+    image_fullwidth: "mtn.jpg"
+    caption: Colorado Mountains by Zach Dischner
+    caption_url: https://www.flickr.com/photos/zachd1_618/6562432801
 ---  
 ## State Demography Office
 ---

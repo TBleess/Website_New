@@ -1,4 +1,12 @@
-##American Community Survey Information
+---
+
+layout: page
+title: "American Community Survey Information"
+permalink: "/demography/american-community-survey-information"
+
+    
+---
+## American Community Survey Information
 - - -
 [Online Training Now Available!]()
 
@@ -8,7 +16,7 @@ To help communities, state governments and federal programs, the US Census Burea
 
 The State Demography Office has compiled information to help data users understand and use this continuous stream of information. Please visit our [FAQ page]() and check out our handy [user guide to understanding Margins of Error (MOE)](https://drive.google.com/open?id=0B5RRfcb8KXAsazdPdXZsZkxsRUE). Have more questions? [Let us know!](barbara.musick@state.co.us)
 - - -
-####Other Resources
+#### Other Resources
 
 The [US Census Bureau](http://www.census.gov/acs/www/) maintains the most comprehensive collection of ACS information available, including:
 - Guidance for data users

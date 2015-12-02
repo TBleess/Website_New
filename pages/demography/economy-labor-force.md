@@ -1,8 +1,20 @@
-##The Economy and Labor Force
+---
+
+layout: page
+title: "Economy and Labor Force"
+permalink: "/demography/economy-labor-force"
+
+---
+
+## The Economy and Labor Force
+
 - - -
+
 The Office uses state and county economic analyses and forecasts to assist in the preparation of the population forecasts, greatly improving their accuracy. The link between the population and the economy is the labor force.
+
 - - -
-####Data are available on the following topics:
+
+#### Data are available on the following topics:
 
 - [Labor Force]()
 - [Jobs]()

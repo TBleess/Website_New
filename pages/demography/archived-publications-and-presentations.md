@@ -1,8 +1,17 @@
-##Archived Publications and Presentations
+---
+
+layout: page
+title: "Archived Publications and Presentations"
+permalink: "/demography/archived-publications-and-presentations"
+
+    
+---
+
+## Archived Publications and Presentations
 - - -
 All archived Publications and Presentations are listed by year of original production date. If you have questions or are unable to locate a particular document, please send us an email.
 - - -
-####2014
+#### 2014
 
 - [2014 Population Overview](https://drive.google.com/open?id=0B2oqdPZKJqK7TkpLeWVLLVdyWTg)
 - [Census Bureau Releases 2013 Estimates](https://drive.google.com/open?id=0B-vz6H4k4SESWlBnVXYwaVJObUk&authuser=0)
@@ -28,8 +37,9 @@ All archived Publications and Presentations are listed by year of original produ
  - [Recovering From the Great Recession: From Coal to Broadband to Aging - How is Western Colorado Coping with Transitions](https://drive.google.com/open?id=0B2oqdPZKJqK7ZTFpU3JHdHlxTlk) presented by Michelle Haynes, Region 10
  - [2013 Floods - Recovery and Investment - Where Are We One Year Later](https://drive.google.com/open?id=0B2oqdPZKJqK7ZFVwejNBbUxUajA) presented by Chantal Unfug, CO Division of Local Government
 - [Region Reports](https://drive.google.com/open?id=0B2oqdPZKJqK7Y0JsSE95NTRYNTQ)
+
 - - -
-####2013
+#### 2013
 - [2013 Population Overview](https://drive.google.com/open?id=0B2oqdPZKJqK7N0IxNTNxMWNQUHc&authuser=0)
 - [Census Bureau Releases 2012 Estimates](https://drive.google.com/open?id=0B2oqdPZKJqK7bE00NFJ6ZDZ1TUE&authuser=0)
 - Annual Demography Meeting
@@ -43,8 +53,9 @@ All archived Publications and Presentations are listed by year of original produ
  - [Colorado Innovation: The 2013 Index](https://drive.google.com/open?id=0B2oqdPZKJqK7UUJITWtiVm5vRUk&authuser=0)
  - [Northwest Colorado Council of Governments (Region 12) Update](https://drive.google.com/open?id=0B2oqdPZKJqK7UnhrcEJYS0hIbG8&authuser=0)
  - [Coverage in Colorado's Counties: Forecasting Health Insurance](https://drive.google.com/open?id=0B2oqdPZKJqK7TTRxcG1MLXdoYU0&authuser=0)
+ 
 - - -
-####2012
+#### 2012
 - [2012 Population Overview](https://drive.google.com/open?id=0B2oqdPZKJqK7cFAzbVFmYkNRWmc&authuser=0)
 - [Fiscal Managers Association Spring Meeting (May 2012)](https://drive.google.com/open?id=0B2oqdPZKJqK7V2VGSUt3cFVFQ2M&authuser=0)
 - Annual Demography Meeting
@@ -57,8 +68,9 @@ All archived Publications and Presentations are listed by year of original produ
  - [El Paso County Economic Update & Impact of Wildfire](https://drive.google.com/open?id=0B2oqdPZKJqK7dTJXeU5naU5FcGs&authuser=0)
  - [Colorado Innovation 2012](https://drive.google.com/open?id=0B2oqdPZKJqK7d3hFejVINVQyOHc&authuser=0)
  - [Employment Situation in Colorado](https://drive.google.com/open?id=0B2oqdPZKJqK7bmp1RUQyVTdSbDg&authuser=0)
+ 
 - - -
-####2011
+#### 2011
 - [Census Bureau Releases 2010 ACS 1-Year Estimates](https://drive.google.com/open?id=0B2oqdPZKJqK7cC1XY0RoX0dFM3c&authuser=0)
 - [Colorado 2010 Census Summary Findings](https://drive.google.com/open?id=0B2oqdPZKJqK7aDVNMmNmWDE4dVE&authuser=0)
 - Annual Demography Meeting
@@ -73,8 +85,9 @@ All archived Publications and Presentations are listed by year of original produ
  - [Demographic and Economic Impacts of Aging](https://drive.google.com/open?id=0B2oqdPZKJqK7M0JXbWhGY0thbmc&authuser=0)
 - Region Reports
  - [1-14](https://drive.google.com/open?id=0B2oqdPZKJqK7NkJxWlJHZDZUeHc&authuser=0)
+ 
 - - -
-####2010
+#### 2010
 - Annual Demography Meeting
  - [Agenda](https://drive.google.com/open?id=0B4-eaNwOwFmYa3lBQkNDN1dqT2c&authuser=0)
  - [Speaker's Biographies](https://drive.google.com/open?id=0B4-eaNwOwFmYVWhqOWprSGU0U2M&authuser=0)
@@ -88,14 +101,16 @@ All archived Publications and Presentations are listed by year of original produ
  - [Colorado Population Estimates Methodology](https://drive.google.com/open?id=0B2oqdPZKJqK7cW5HQzBZcUVwTzQ&authuser=0)
  - ["Making Sense Out of All This Economic & Demographic Data"](https://drive.google.com/open?id=0B2oqdPZKJqK7TndqYjFzaUZqcDA&authuser=0)
  - ["Understanding and Using the American Community Survey"](https://drive.google.com/open?id=0B4-eaNwOwFmYUEsta3pCUTRpNEk&authuser=0)
+ 
 - - -
-####2008
+#### 2008
 - [Colorado Demographic Fact Sheet](https://drive.google.com/open?id=0B2oqdPZKJqK7eDFoTDFLbnMtTzg&authuser=0)
 - 2008 Cumulative Socio-Economic Analysis for Northwest Colorado
  - [Executive Summary](https://drive.google.com/open?id=0B2oqdPZKJqK7bjJwcFVhMldJMXc&authuser=0)
  - [Full Report](https://drive.google.com/open?id=0B2oqdPZKJqK7YVJ4cldIMENkcWc&authuser=0)
  - [Long Presentation](https://drive.google.com/open?id=0B2oqdPZKJqK7X3otYlNxOU5ubXM&authuser=0)
  - [Short Presentation](https://drive.google.com/open?id=0B2oqdPZKJqK7b1FwbGtLdGNoZlU&authuser=0)
+ 
 - - -
-####2006
+#### 2006
 - [Understanding the Age Distribution of the Colorado Population](https://drive.google.com/open?id=0B2oqdPZKJqK7REVkdlp3LTZvSkk&authuser=0)

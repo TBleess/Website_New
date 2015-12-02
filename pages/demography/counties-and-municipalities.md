@@ -1,13 +1,30 @@
-##Counties and Municipalities
+---
+
+layout: page
+title: "Counties and Municipalities"
+permalink: "/demography/counties-and-municipalities"
+
+---
+
+## Counties and Municipalities
+
 - - -
-####Census
+
+#### Census
+
 - Through [American FactFinder](http://factfinder.census.gov/home/saff/aff_transition.html) you can obtain a multitude of housing data. Data are available from the 2010 Census and the American Community Survey.
 - The State Demography Office has also prepared Colorado-specific housing data tables, available on our  2010 Census data page.
+
 - - -
-####Estimates
+
+#### Estimates
+
 - [Housing Unit and Household Estimates](https://drive.google.com/open?id=0B-vz6H4k4SESckk0SlVZMEs3ekE&authuser=0) are prepared annually for Colorado, counties and municipalities by the State Demography Office.
+
 - - -
-####Forecasts
+
+#### Forecasts
+
 - [Colorado Household Projections 2010 to 2040](https://dola.colorado.gov/households/forecasts_parameters.jsf)
 
 This report presents draft projections of household by type of household for Colorado. The projections were prepared by the State Demography Office (SDO), part of the Colorado Division of Local Government. These projections are an attempt to prepare projections of households by type and by age of householder for the state for use by local governments and the private sector for planning and decision-making.

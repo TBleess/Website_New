@@ -1,5 +1,15 @@
-##Understanding Margins of Error
+---
+
+layout: page
+title: "Understanding Margins of Error"
+permalink: "/demography/understanding-margins-error"
+
+---
+
+## Understanding Margins of Error
+
 - - -
+
 All data that are based on samples, such as the American Community Survey (ACS), include a range of uncertainty. Two broad types of error can occur: sampling error and non-sampling error. Non-sampling errors can result from mistakes in how the data are reported or coded, problems in the sampling frame or survey questionnaires, or problems related to non-response or interviewer bias. The Census Bureau tries to minimize non-sampling errors by using trained interviewers and by carefully reviewing the survey's sampline methods, data processing techniques, and questionnaire design.
 
 Sampling error occurs when data are bassed on a sample of a population (approximately 1 in 40 households) rather than the full population. The uncertainty is basedon the fact that the:
@@ -13,7 +23,7 @@ The Census Bureau publishes all their estimates with a 90-percent confidence int
 
 For example, the ACS Data Profile for Colorado, shown below, shows that an estimated 969,768 married-couple families resided in the state in 2009.
 
-![Colorado ACS Data Profile](moe_picture.jpeg)
+![Colorado ACS Data Profile](/images/moe_picture.jpeg)
 
 **By adding and subtracting the margin of error from the point estimate, we can calculate the 90-percent confidence interval for that estimate:**
 
@@ -23,8 +33,10 @@ For example, the ACS Data Profile for Colorado, shown below, shows that an estim
 **Therefore, we can be 90 percent confident that the true number of married-couple families in Colorado in 2009 falls somewhere between 958,879 and 980,657.**
 
 The MOE around an estimate is important because it helps you draw conclusions about the data. Small differences between two estimates may not be statistically significant if the confidence intervals of those estimates overlap. However, the Census Bureau cautions data users not to rely on overlapping confidence intervals as a test for statistical significance, because this method will not always produce accurate results. Instead, the Census Bureau recommends conducting statistical significance tests.
+
 - - -
-####How Big is Too Big?
+
+#### How Big is Too Big?
 
 Margins of Error are useful in assessing the reliability of estimates and whether the differences between estimates are significant. In general, the larger the margin of error relative to the size of the estimate, the less reliable is the estimate. There are no hard and fast rules about the usability of an estimate based on the size of the MOE; it all depends on the context and how the estimate will be used.
 
@@ -35,6 +47,7 @@ Margins of Error are useful in assessing the reliability of estimates and whethe
 **Relative size = MOE/Estimate = 11.4%**
 
 The margin of error relative to the estimate is 11.4%. In general, we are suggesting for users:
+
 - Always consider the context and how the estimate will be used,
 - Do not use estimates when the MOE is larger than 50% of the estimate, and
 - Use with caution when the MOE is 20% to 50% of the estimate.

@@ -1,14 +1,26 @@
-##Population Totals for Colorado and Sub-state Regions
+---
+
+layout: page
+title: "Population Totals Colorado Substate"
+permalink: "/demography/population-totals-colorado-substate"
+
+---
+
+## Population Totals for Colorado and Sub-State Regions
+
 - - -
-####Historical Census - years (1790 to 2010) 
+
+#### Historical Census - years (1790 to 2010) 
 
 Population totals for Colorado, counties & places, 1870 to 2010 are available [here](https://dola.colorado.gov/demog_webapps/hcp_parameters.jsf).
 
 Historical Census data can also be obtained through the [University of Virginia](http://mapserver.lib.virginia.edu/). This site presents data for the people and the economy of the U.S. for each state and county from 1790 to 1960.
 
 You may obtain a list of municipalities along with their dates of incorporation and county locations from the [State Archives](http://www.colorado.gov/dpa/doit/archives/muninc.html).
+
 - - -
-####Population Estimates - years (1985 to 2014) 
+
+#### Population Estimates - years (1985 to 2014)
 
 Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2014 and was finalized in October 2015.
 
@@ -21,8 +33,10 @@ This option allows the user to select any combination of state, counties or muni
 [County Profile:](https://dola.colorado.gov/demog_webapps/psc_parameters.jsf)
 
 The County Profile database allows the user to select population estimates along with other variables, for years 1985 to present.
+
 - - -
-####Population Forecasts - years (2000 to 2050) 
+
+#### Population Forecasts - years (2000 to 2050) 
 
 Population forecasts are produced annually by the State Demography Office. Our most recent forecasts were produced in October 2015.
 
