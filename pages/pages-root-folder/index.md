@@ -3,7 +3,7 @@ layout: frontpage
 homepage: true
 permalink: /index.html
 ---  
-##State Demography Office
+## State Demography Office
 ---
 
 Important Updates
@@ -16,13 +16,16 @@ The **State Demography Office** is the primary state agency for population and d
 
 Please visit our [Contact Us]() page to learn more, or send us an email with any questions or comments!
 
-####Demography Dashboard 
+#### Demography Dashboard  
 
+  
 Our new Demography Dashboard shows graphs and charts for various datasets by county. Graphs include: Net Migration by Age, Population Estimates, Population Projections and Components of Change. Click below to choose your county and get started!
 
-<div id="inline"></div>
 
-####Popular Items
+<a href="https://dola.colorado.gov/demog_webapps/dashboard.jsf">![Dashboard](images/dashboard.jpg)</a>
+
+
+#### Popular Items
 
 - [Join the Demography Listserv](https://dola.colorado.gov/list_server/demography_signup.jsf)
 - [Population & Labor Force Infographics]()

@@ -35,7 +35,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Economics"
+- title: "Economy"
   url: "/economy/"
   side: left
   dropdown:
@@ -54,8 +54,8 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Maps and Tools
-  url: "/gis/"
+- title: Tools
+  url: "/tools/"
   side: left
   dropdown:
   - title: "Changelog"
@@ -73,7 +73,11 @@
 - title: "Search"
   url: "/search/"
   side: right
-
+  
+- title: "Info"
+  url: "/info/"
+  side: right
+  
 - title: "Contact"
   url: "/contact/"
   side: right
