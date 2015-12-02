@@ -2,7 +2,7 @@
 
 layout: page
 title: "2000 Census Data"
-permalink: "/demography/2000-census-data"
+permalink: "/demography/2000-census-data/"
 
 ---
 ## 2000 Census Data

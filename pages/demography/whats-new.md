@@ -2,7 +2,7 @@
 
 layout: page
 title: "What's New?"
-permalink: "/demography/whats-new"
+permalink: "/demography/whats-new/"
 
 ---
 

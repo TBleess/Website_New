@@ -2,7 +2,7 @@
 
 layout: page
 title: "Components of Change"
-permalink: "/demography/components-of-change"
+permalink: "/demography/components-of-change/"
 
     
 ---

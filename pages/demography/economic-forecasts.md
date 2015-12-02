@@ -2,7 +2,7 @@
 
 layout: page
 title: "Economic Forecasts"
-permalink: "/demography/economic-forecasts"
+permalink: "/demography/economic-forecasts/"
 
     
 ---

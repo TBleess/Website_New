@@ -2,7 +2,7 @@
 
 layout: page
 title: "Thematic Maps"
-permalink: "/demography/thematic-maps"
+permalink: "/demography/thematic-maps/"
 
 ---
 

@@ -2,7 +2,7 @@
 
 layout: page
 title: "Census Data FAQ"
-permalink: "/demography/census-data-faq"
+permalink: "/demography/census-data-faq/"
 
     
 ---

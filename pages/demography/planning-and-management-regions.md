@@ -2,7 +2,7 @@
 
 layout: page
 title: "Planning and Management Regions"
-permalink: "/demography/planning-and-management-regions"
+permalink: "/demography/planning-and-management-regions/"
 
 ---
 

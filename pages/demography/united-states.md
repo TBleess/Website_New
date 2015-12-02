@@ -2,7 +2,7 @@
 
 layout: page
 title: "United States"
-permalink: "/demography/united-states"
+permalink: "/demography/united-states/"
 
 ---
 

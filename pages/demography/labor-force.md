@@ -2,7 +2,7 @@
 
 layout: page
 title: "Labor Force"
-permalink: "/demography/labor-force"
+permalink: "/demography/labor-force/"
 
 ---
 

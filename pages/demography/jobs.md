@@ -2,7 +2,7 @@
 
 layout: page
 title: "Jobs"
-permalink: "/demography/jobs"
+permalink: "/demography/jobs/"
 
 ---
 

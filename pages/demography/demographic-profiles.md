@@ -2,7 +2,7 @@
 
 layout: page
 title: "Demographic Profiles"
-permalink: "/demography/demographic-profiles"
+permalink: "/demography/demographic-profiles/"
 
 ---
 

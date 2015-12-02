@@ -2,7 +2,7 @@
 
 layout: page
 title: "GIS Maps and Data"
-permalink: "/demography/gis-maps-and-data"
+permalink: "/demography/gis-maps-and-data/"
     
 ---
 

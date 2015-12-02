@@ -2,7 +2,7 @@
 
 layout: page
 title: "Population Totals Counties"
-permalink: "/demography/population-totals-counties"
+permalink: "/demography/population-totals-counties/"
 
 ---
 

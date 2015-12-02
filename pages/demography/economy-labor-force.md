@@ -2,7 +2,7 @@
 
 layout: page
 title: "Economy and Labor Force"
-permalink: "/demography/economy-labor-force"
+permalink: "/demography/economy-labor-force/"
 
 ---
 

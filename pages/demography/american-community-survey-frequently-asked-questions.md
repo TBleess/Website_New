@@ -2,7 +2,7 @@
 
 layout: page
 title: "American Community Survey Frequently Asked Questions"
-permalink: "/demography/american-community-survey-frequently-asked-questions"
+permalink: "/demography/american-community-survey-frequently-asked-questions/"
 
     
 ---

@@ -2,7 +2,7 @@
 
 layout: page
 title: "Race and Hispanic Origin"
-permalink: "/demography/race-hispanic-origin"
+permalink: "/demography/race-hispanic-origin/"
 
 ---
 

@@ -2,7 +2,7 @@
 
 layout: page
 title: "Counties and Municipalities"
-permalink: "/demography/counties-and-municipalities"
+permalink: "/demography/counties-and-municipalities/"
 
 ---
 

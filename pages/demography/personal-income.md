@@ -2,7 +2,7 @@
 
 layout: page
 title: "Personal Income"
-permalink: "/demography/personal-income"
+permalink: "/demography/personal-income/"
 
 ---
 

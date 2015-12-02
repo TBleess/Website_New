@@ -2,7 +2,7 @@
 
 layout: page
 title: "Age Gender Population Data"
-permalink: "/demography/age-gender-population-data"
+permalink: "/demography/age-gender-population-data/"
 
     
 ---

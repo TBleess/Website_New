@@ -2,7 +2,7 @@
 
 layout: page
 title: "Housing and Households"
-permalink: "/demography/housing-and-households"
+permalink: "/demography/housing-and-households/"
 
 ---
 

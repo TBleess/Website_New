@@ -2,7 +2,7 @@
 
 layout: page
 title: "Population Toals US and States"
-permalink: "/demography/population-totals-us-states"
+permalink: "/demography/population-totals-us-states/"
 
 ---
 

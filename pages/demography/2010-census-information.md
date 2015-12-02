@@ -2,7 +2,7 @@
 
 layout: page
 title: "2010 Census Information"
-permalink: "/demography/2010-census-information"
+permalink: "/demography/2010-census-information/"
 
     
 ---

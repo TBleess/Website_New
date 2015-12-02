@@ -2,7 +2,7 @@
 
 layout: page
 title: "Resources"
-permalink: "/demography/resources"
+permalink: "/demography/resources/"
 
 ---
 

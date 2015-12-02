@@ -2,7 +2,7 @@
 
 layout: page
 title: "Publications and Presentations"
-permalink: "/demography/publications-and-presentations"
+permalink: "/demography/publications-and-presentations/"
 
 ---
 

@@ -2,7 +2,7 @@
 
 layout: page
 title: "American Community Survey Data"
-permalink: "/demography/american-community-survey-data"
+permalink: "/demography/american-community-survey-data/"
 
     
 ---

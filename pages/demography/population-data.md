@@ -2,7 +2,7 @@
 
 layout: page
 title: "Population Data"
-permalink: "/demography/population-data"
+permalink: "/demography/population-data/"
 
 ---
 

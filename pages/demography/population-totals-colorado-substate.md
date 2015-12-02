@@ -2,7 +2,7 @@
 
 layout: page
 title: "Population Totals Colorado Substate"
-permalink: "/demography/population-totals-colorado-substate"
+permalink: "/demography/population-totals-colorado-substate/"
 
 ---
 

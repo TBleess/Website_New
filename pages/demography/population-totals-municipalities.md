@@ -2,7 +2,7 @@
 
 layout: page
 title: "Population Totals Municipalities"
-permalink: "/demography/population-totals-municipalities"
+permalink: "/demography/population-totals-municipalities/"
 
 ---
 

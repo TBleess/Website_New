@@ -2,7 +2,7 @@
 
 layout: page
 title: "Understanding Margins of Error"
-permalink: "/demography/understanding-margins-error"
+permalink: "/demography/understanding-margins-error/"
 
 ---
 

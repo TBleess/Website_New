@@ -2,7 +2,7 @@
 
 layout: page
 title: "US Census Data Information"
-permalink: "/demography/us-census-data-information"
+permalink: "/demography/us-census-data-information/"
 
 ---
 
