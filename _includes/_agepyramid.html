@@ -49,16 +49,12 @@ xhr.send(null);
   
   
   xhr.onreadystatechange = function () {
-  var DONE = 4; // readyState 4 means the request is done.
-  var OK = 200; // status 200 is a successful return.
+  var DONE = 4;
+  var OK = 200;
   if (xhr.readyState === DONE) {
     if (xhr.status === OK) {
-      console.log(xhr.responseText); // 'This is the returned text.'
 
       var data=JSON.parse(xhr.responseText);
-      console.log(data.source);
-      
-      console.log(data.data[0].geoname);
       
       var title = document.getElementById('geoname');
       title.innerHTML=data.data[0].geoname;
@@ -71,18 +67,16 @@ xhr.send(null);
       
       loadchart(data.data[0]);
     } else {
-      console.log('Error: ' + xhr.status); // An error occurred during the request.
+      console.log('Error: ' + xhr.status); 
     }
   }
 };
   
   
 function loadchart(data){
-  // SET UP DIMENSIONS
 var w = 500,
     h = 300;
     
-// margin.middle is distance from center line to each y-axis
 var margin = {
   top: 20,
   right: 20,
@@ -91,14 +85,11 @@ var margin = {
   middle: 28
 };
     
-// the width of each side of the chart
 var regionWidth = w/2 - margin.middle;
 
-// these are the x-coordinates of the y-axes
 var pointA = regionWidth,
     pointB = w - regionWidth;
 
-// some contrived data
 var exampleData = [
   {group: '0-9', male: parseInt(data.b01001003)+parseInt(data.b01001004), female: parseInt(data.b01001027)+parseInt(data.b01001028)},
   {group: '10-19', male: parseInt(data.b01001005)+parseInt(data.b01001006)+parseInt(data.b01001007), female: parseInt(data.b01001029)+parseInt(data.b01001030)+parseInt(data.b01001031)},
@@ -111,30 +102,24 @@ var exampleData = [
   {group: '80+', male: parseInt(data.b01001024)+parseInt(data.b01001025), female: parseInt(data.b01001048)+parseInt(data.b01001049)}
 ];
 
-// GET THE TOTAL POPULATION SIZE AND CREATE A FUNCTION FOR RETURNING THE PERCENTAGE
 var totalPopulation = d3.sum(exampleData, function(d) { return d.male + d.female; }),
     percentage = function(d) { return d / totalPopulation; };
   
-  
-// CREATE SVG
+
 var svg = d3.select('#chart').append('svg')
   .attr('width', margin.left + w + margin.right)
   .attr('height', margin.top + h + margin.bottom)
-  // ADD A GROUP FOR THE SPACE WITHIN THE MARGINS
+
   .append('g')
     .attr('transform', translation(margin.left, margin.top));
 
-// find the maximum data value on either side
-//  since this will be shared by both of the x-axes
+  
 var maxValue = Math.max(
   d3.max(exampleData, function(d) { return percentage(d.male); }),
   d3.max(exampleData, function(d) { return percentage(d.female); })
 );
 
-// SET UP SCALES
   
-// the xScale goes from 0 to the width of a region
-//  it will be reversed for the left x-axis
 var xScale = d3.scale.linear()
   .domain([0, maxValue])
   .range([0, regionWidth])
@@ -153,7 +138,6 @@ var yScale = d3.scale.ordinal()
   .rangeRoundBands([h,0], 0.1);
 
 
-// SET UP AXES
 var yAxisLeft = d3.svg.axis()
   .scale(yScale)
   .orient('right')
@@ -172,19 +156,16 @@ var xAxisRight = d3.svg.axis()
   .tickFormat(d3.format('%'));
 
 var xAxisLeft = d3.svg.axis()
-  // REVERSE THE X-AXIS SCALE ON THE LEFT SIDE BY REVERSING THE RANGE
+
   .scale(xScale.copy().range([pointA, 0]))
   .orient('bottom')
   .tickFormat(d3.format('%'));
 
-// MAKE GROUPS FOR EACH SIDE OF CHART
-// scale(-1,1) is used to reverse the left side so the bars grow left instead of right
 var leftBarGroup = svg.append('g')
   .attr('transform', translation(pointA, 0) + 'scale(-1,1)');
 var rightBarGroup = svg.append('g')
   .attr('transform', translation(pointB, 0));
 
-// DRAW AXES
 svg.append('g')
   .attr('class', 'axis y left')
   .attr('transform', translation(pointA, 0))
@@ -207,7 +188,6 @@ svg.append('g')
   .attr('transform', translation(pointB, h))
   .call(xAxisRight);
 
-// DRAW BARS
 leftBarGroup.selectAll('.bar.left')
   .data(exampleData)
   .enter().append('rect')
@@ -227,7 +207,6 @@ rightBarGroup.selectAll('.bar.right')
     .attr('height', yScale.rangeBand());
 
 
-// so sick of string concatenation for translations
 function translation(x,y) {
   return 'translate(' + x + ',' + y + ')';
 }
