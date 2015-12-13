@@ -1,0 +1,58 @@
+---
+layout: page
+title: "Denver Test"
+fips: 108125
+permalink: "/apage.html"
+---
+
+<br />
+<p>Name:&nbsp;<span id="geoname"></span></p>
+<p>Population:&nbsp;<span id="population"></span>&nbsp;&nbsp;&nbsp;<span id="dataset"></span></p>
+<div id="chart"></div>
+
+
+<style>
+  #dataset{
+    font-size: 8px;
+  }
+  
+</style>
+
+
+<script>
+  
+  
+  var xhr = new XMLHttpRequest();
+xhr.open('GET', 'http://54.69.15.55/CensusAPI/demog.php?db=acs0812&table=b01001&geonum={{page.fips}}');
+xhr.send(null);
+  
+  
+  xhr.onreadystatechange = function () {
+  var DONE = 4; // readyState 4 means the request is done.
+  var OK = 200; // status 200 is a successful return.
+  if (xhr.readyState === DONE) {
+    if (xhr.status === OK) {
+      console.log(xhr.responseText); // 'This is the returned text.'
+
+      var data=JSON.parse(xhr.responseText);
+      console.log(data.source);
+      
+      console.log(data.data[0].geoname);
+      
+      var title = document.getElementById('geoname');
+      title.innerHTML=data.data[0].geoname;
+      
+      var population = document.getElementById('population');
+      population.innerHTML=data.data[0].b01001001;
+      
+      var dataset = document.getElementById('dataset');
+      dataset.innerHTML= "(" + data.source + ")";
+      
+    } else {
+      console.log('Error: ' + xhr.status); // An error occurred during the request.
+    }
+  }
+};
+  
+  
+</script>
