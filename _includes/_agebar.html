@@ -20,7 +20,7 @@
 }
 
 .x.axis path {
-  display: none;
+  /*display: none;*/
 }
 
 </style>
@@ -30,6 +30,30 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 <script>
 
+  
+  var xhr2 = new XMLHttpRequest();
+xhr2.open('GET', 'http://54.69.15.55/CensusAPI/demog.php?db=acs0812&table=b01001&geonum={{page.fips}}');
+xhr2.send(null);
+  
+  
+  xhr2.onreadystatechange = function () {
+  var DONE = 4;
+  var OK = 200;
+  if (xhr2.readyState === DONE) {
+    if (xhr2.status === OK) {
+
+      var data=JSON.parse(xhr2.responseText);
+      
+      
+      loadchart2(data.data[0]);
+    } else {
+      console.log('Error: ' + xhr2.status); 
+    }
+  }
+};
+  
+  function loadchart2(data){
+  
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 480,
     height = 294;
@@ -56,15 +80,21 @@ var svg = d3.select('#agebar').append('svg')
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
   data=[
-    {'letter': 'A', 'frequency': 0.08167},
-    {'letter': 'B', 'frequency': 0.01492},    
-    {'letter': 'C', 'frequency': 0.02782},
-    {'letter': 'D', 'frequency': 0.04253},
-    {'letter': 'E', 'frequency': 0.12702},    
-    {'letter': 'F', 'frequency': 0.08167}];
+  {letter: '0-9', frequency: (parseInt(data.b01001003)+parseInt(data.b01001004)+parseInt(data.b01001027)+parseInt(data.b01001028))/parseInt(data.b01001001)},
+  {letter: '10-19', frequency: (parseInt(data.b01001005)+parseInt(data.b01001006)+parseInt(data.b01001007)+parseInt(data.b01001029)+parseInt(data.b01001030)+parseInt(data.b01001031))/parseInt(data.b01001001)},
+  {letter: '20-29', frequency: (parseInt(data.b01001008)+parseInt(data.b01001009)+parseInt(data.b01001010)+parseInt(data.b01001011)+parseInt(data.b01001032)+parseInt(data.b01001033)+parseInt(data.b01001034)+parseInt(data.b01001035))/parseInt(data.b01001001)},
+  {letter: '30-39', frequency: (parseInt(data.b01001012)+parseInt(data.b01001013)+parseInt(data.b01001036)+parseInt(data.b01001037))/parseInt(data.b01001001)},
+  {letter: '40-49', frequency: (parseInt(data.b01001014)+parseInt(data.b01001015)+parseInt(data.b01001038)+parseInt(data.b01001039))/parseInt(data.b01001001)},
+  {letter: '50-59', frequency: (parseInt(data.b01001016)+parseInt(data.b01001017)+parseInt(data.b01001040)+parseInt(data.b01001041))/parseInt(data.b01001001)},
+  {letter: '60-69', frequency: (parseInt(data.b01001018)+parseInt(data.b01001019)+parseInt(data.b01001020)+parseInt(data.b01001021)+parseInt(data.b01001042)+parseInt(data.b01001043)+parseInt(data.b01001044)+parseInt(data.b01001045))/parseInt(data.b01001001)},
+  {letter: '70-79', frequency: (parseInt(data.b01001022)+parseInt(data.b01001023)+parseInt(data.b01001046)+parseInt(data.b01001047))/parseInt(data.b01001001)},
+  {letter: '80+', frequency: (parseInt(data.b01001024)+parseInt(data.b01001025)+parseInt(data.b01001048)+parseInt(data.b01001049))/parseInt(data.b01001001)}
+];
   
   x.domain(data.map(function(d) { return d.letter; }));
-  y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
+  y.domain([0, d3.max(data, function(d) { 
+    console.log(d.frequency);
+    return d.frequency; })]);
 
   svg.append("g")
       .attr("class", "x axis")
@@ -95,5 +125,7 @@ function type(d) {
   d.frequency = +d.frequency;
   return d;
 }
-
+    
+  }
+  
 </script>
