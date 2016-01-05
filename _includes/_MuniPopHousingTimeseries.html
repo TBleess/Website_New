@@ -442,9 +442,9 @@
   
     viewresults.onclick=function(){
   
-   //   document.getElementById("dlcsv").style.display='inline-block';
+   /*   document.getElementById("dlcsv").style.display='inline-block';*/
       
-    // Return an array of the selected option values
+    /* Return an array of the selected option values*/
     function getSelectValues(select) {
   var result = [];
   var options = select && select.options;
@@ -471,10 +471,10 @@
       yearstring="2014";
     }else{
       yearstring = selectedYears.join(",");
-    } //if no year is selected, 2014 is chosen as default
+    } /*if no year is selected, 2014 is chosen as default*/
     
         
-    //search input for placefips with 99990.  store county numbers in array
+    /*search input for placefips with 99990.  store county numbers in array*/
     var unincorporated=[];
     var munilist=[];
     
@@ -486,14 +486,14 @@
       }
     }
     
-    //will ping API 3 times: one for counties, one for munis, one for unincorporated munis
+    /*will ping API 3 times: one for counties, one for munis, one for unincorporated munis*/
     var requestcount=0;
     var finishedrequests=0;
     var countyresults=false;
     var muniresults=false;
     var unincorporatedresults=false;
       
-    //counties
+    /*counties*/
     if(selectedCounties.length>0){
       requestcount++;
       var countystring = "year=" + yearstring + "&countyfips=" + selectedCounties.join(",") + "&compressed=" + compressed + statstring;
@@ -508,7 +508,7 @@
         });
     }
     
-    //munis
+    /*munis*/
     if(munilist.length>0){
       requestcount++;
       var munistring = "year=" + yearstring + "&placefips=" + munilist.join(",") + "&compressed=" + compressed + statstring;
@@ -523,7 +523,7 @@
         });
     }
     
-    //unincorporated munis
+    /*unincorporated munis*/
     if(unincorporated.length>0){
       requestcount++;
       var unincorporatedstring = "year=" + yearstring + "&placefips=99990&countyfips=" + unincorporated.join(",") + "&compressed=" + compressed + statstring;
@@ -538,7 +538,7 @@
         });
     }
     
-    //ajax request function
+    /*ajax request function*/
     function requestdata(querystring, resolve, reject){
       
       var xhttp = new XMLHttpRequest();
@@ -547,14 +547,14 @@
         if (xhttp.readyState == 4 && xhttp.status == 200) {
             finishedrequests++;
             resolve(JSON.parse(xhttp.responseText));
-          } //fill in for error codes later
+          } /*fill in for error codes later*/
         };
       
       xhttp.open("GET", "https://d2bm5f0oqkufle.cloudfront.net/gather?"+querystring, true);
       xhttp.send();
     }
     
-    //check to see that all ajax requests are finished
+    /*check to see that all ajax requests are finished*/
     function check() {
       if (finishedrequests < requestcount) { 
         setTimeout(check, 200); 
@@ -640,13 +640,13 @@
         if(county===123){return "Weld County";}
         if(county===125){return "Yuma County";}
         
-        return ""; //fallback (replaces otherwise undefined)
+        return ""; /*fallback (replaces otherwise undefined)*/
       }
       
       function createtable(results){
 
           var table = document.getElementById("resultstable");
-          table.innerHTML = ""; //clear all previous content
+          table.innerHTML = ""; /*clear all previous content*/
         
           var header = table.createTHead();
           var hrow = header.insertRow(0);     
@@ -691,10 +691,10 @@
           
           var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
           
-          // Create an empty <tr> element and add it to the 1st position of the table:
+          /* Create an empty <tr> element and add it to the 1st position of the table:*/
           var row = tableRef.insertRow(rownum);
 
-          // Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:
+          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
           var cell1 = row.insertCell(0);
           var cell2 = row.insertCell(1);
           var cell3 = row.insertCell(2);
@@ -709,7 +709,7 @@
           var cell12 = row.insertCell(11);
           var cell13 = row.insertCell(12);
           
-          // Add some text to the new cells:
+          /* Add some text to the new cells:*/
           cell1.innerHTML = year;
           cell2.innerHTML = clookup(countyfips);
           cell3.innerHTML = placename;
@@ -731,9 +731,9 @@
       }
          
       
-     // content="a,b,c/n1,2,3/n4,5,6";
-//dl.href="data:text/csv,"+encodeURIComponent(content);
-//dl.click();
+     /* content="a,b,c/n1,2,3/n4,5,6";*/
+/*dl.href="data:text/csv,"+encodeURIComponent(content);*/
+/*dl.click();*/
     
   };
   
