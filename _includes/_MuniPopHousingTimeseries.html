@@ -425,10 +425,14 @@
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 
-<table id="resultstable">
-  
-  
-</table>
+<table id="resultstable"></table>
+
+<br />
+
+<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" />
+
+<!--<a id=dl download="file.txt">Download</a>-->
+
 
 
 
@@ -438,6 +442,8 @@
   
     viewresults.onclick=function(){
   
+   //   document.getElementById("dlcsv").style.display='inline-block';
+      
     // Return an array of the selected option values
     function getSelectValues(select) {
   var result = [];
@@ -544,7 +550,7 @@
           } //fill in for error codes later
         };
       
-      xhttp.open("GET", "http://red-meteor-147235.nitrousapp.com:4000/gather?"+querystring, true);
+      xhttp.open("GET", "https://d2bm5f0oqkufle.cloudfront.net/gather?"+querystring, true);
       xhttp.send();
     }
     
@@ -642,6 +648,38 @@
           var table = document.getElementById("resultstable");
           table.innerHTML = ""; //clear all previous content
         
+          var header = table.createTHead();
+          var hrow = header.insertRow(0);     
+          var hcell1 = hrow.insertCell(0);
+          var hcell2 = hrow.insertCell(1);
+          var hcell3 = hrow.insertCell(2);
+          var hcell4 = hrow.insertCell(3);
+          var hcell5 = hrow.insertCell(4);
+          var hcell6 = hrow.insertCell(5);        
+          var hcell7 = hrow.insertCell(6);
+          var hcell8 = hrow.insertCell(7);
+          var hcell9 = hrow.insertCell(8);
+          var hcell10 = hrow.insertCell(9);
+          var hcell11 = hrow.insertCell(10);
+          var hcell12 = hrow.insertCell(11);           
+          var hcell13 = hrow.insertCell(12);     
+        
+          hcell1.innerHTML = "YEAR";
+          hcell2.innerHTML = "COUNTY";
+          hcell3.innerHTML = "PLACE";
+          hcell4.innerHTML = "CFIPS";
+          hcell5.innerHTML = "PFIPS";
+          hcell6.innerHTML = "Total Population";
+          hcell7.innerHTML = "Household Population";
+          hcell8.innerHTML = "Group Quarters Population";
+          hcell9.innerHTML = "Household Size";
+          hcell10.innerHTML = "Total Housing Units";
+          hcell11.innerHTML = "Occupied Housing Units";
+          hcell12.innerHTML = "Vacant Housing Units";
+          hcell13.innerHTML = "Vacancy Rate";        
+        
+          var body = table.appendChild(document.createElement('tbody'));
+        
         
         
         for(var i=0;i<results.length;i++){
@@ -650,8 +688,11 @@
         
         
         function addrow(rownum, year, placename, placefips, countyfips, totalpopulation, householdpopulation, groupquarterspopulation,totalhousingunits, occupiedhousingunits, vacanthousingunits){
+          
+          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+          
           // Create an empty <tr> element and add it to the 1st position of the table:
-          var row = table.insertRow(rownum);
+          var row = tableRef.insertRow(rownum);
 
           // Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:
           var cell1 = row.insertCell(0);
@@ -677,11 +718,11 @@
           cell6.innerHTML = totalpopulation;
           cell7.innerHTML = householdpopulation;
           cell8.innerHTML = groupquarterspopulation;
-          cell9.innerHTML = "householdsize";
+          cell9.innerHTML = (parseInt(householdpopulation) / parseInt(totalhousingunits)).toFixed(2);;
           cell10.innerHTML = totalhousingunits;
           cell11.innerHTML = occupiedhousingunits;
           cell12.innerHTML = vacanthousingunits;
-          cell13.innerHTML = "vacancyrate";
+          cell13.innerHTML = ((parseInt(vacanthousingunits) / parseInt(totalhousingunits))*100).toFixed(1)+"%";
           
         }
         
@@ -689,6 +730,10 @@
         
       }
          
+      
+     // content="a,b,c/n1,2,3/n4,5,6";
+//dl.href="data:text/csv,"+encodeURIComponent(content);
+//dl.click();
     
   };
   
