@@ -5,12 +5,13 @@ permalink: /info/
 published: true
 ---
 
+
 ## About the State Demography Office
 [Download our informational pamphlet](https://drive.google.com/open?id=0B2oqdPZKJqK7NVBaNWFyZUd2V28&authuser=0)  
 
 ---
 
-<!--<form onsubmit="this.action = document.getElementById('filename').value">
+<form onsubmit="this.action = document.getElementById('filename').value">
     <select id="filename">
         <option value="/downloads/file1.pdf">File 1</option>
         <option value="/downloads/file2.pdf">File 2</option>
@@ -19,7 +20,7 @@ published: true
         <option value="/downloads/file5.pdf">File 5</option>
     </select>
     <input type="submit" value="Download" class="grey-btn" />
-</form>-->
+</form>
 
 #### Roles and Responsibilities
 
