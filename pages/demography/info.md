@@ -1,14 +1,19 @@
 ---
-
 layout: page
-title: "Info"
-permalink: "/info/"
-    
+title: Info
+permalink: /info/
+published: true
 ---
+
 ## About the State Demography Office
 [Download our informational pamphlet](https://drive.google.com/open?id=0B2oqdPZKJqK7NVBaNWFyZUd2V28&authuser=0)  
 
 ---
+
+<select>
+<option>Hello</option>
+<option>Second</option>
+</select>
 
 #### Roles and Responsibilities
 
