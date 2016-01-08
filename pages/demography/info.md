@@ -10,10 +10,16 @@ published: true
 
 ---
 
-<select>
-<option>Hello</option>
-<option>Second</option>
-</select>
+<form onsubmit="this.action = document.getElementById('filename').value">
+    <select id="filename">
+        <option value="/downloads/file1.pdf">File 1</option>
+        <option value="/downloads/file2.pdf">File 2</option>
+        <option value="/downloads/file3.pdf">File 3</option>
+        <option value="/downloads/file4.pdf">File 4</option>
+        <option value="/downloads/file5.pdf">File 5</option>
+    </select>
+    <input type="submit" value="Download" class="grey-btn" />
+</form>
 
 #### Roles and Responsibilities
 
