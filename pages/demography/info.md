@@ -10,7 +10,7 @@ published: true
 
 ---
 
-<form onsubmit="this.action = document.getElementById('filename').value">
+<!--<form onsubmit="this.action = document.getElementById('filename').value">
     <select id="filename">
         <option value="/downloads/file1.pdf">File 1</option>
         <option value="/downloads/file2.pdf">File 2</option>
@@ -19,7 +19,7 @@ published: true
         <option value="/downloads/file5.pdf">File 5</option>
     </select>
     <input type="submit" value="Download" class="grey-btn" />
-</form>
+</form>-->
 
 #### Roles and Responsibilities
 
