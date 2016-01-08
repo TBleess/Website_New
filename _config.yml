@@ -254,3 +254,19 @@ prose:
   ignore:
     - /_plugins
     - /_includes
+    - /.bundle
+    - /_data
+    - /_layouts
+    - /_sass
+    - /assets
+    - /news
+    - .gitignore
+    - .jekyll-metadata
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - _config.yml
+    - _config_dev.yml
+  media:
+    - 'images'
+   
