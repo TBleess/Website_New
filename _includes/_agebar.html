@@ -1,36 +1,44 @@
-<style>
+<!--
+custom_js:
+- https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.10/d3.min.js
+-->
 
-.bar {
+
+<style>
+  #agebar svg{
+  border: 1px solid #ccc;
+}
+  
+.agebar.bar {
   fill: steelblue;
 }
 
-.bar:hover {
+.agebar.bar:hover {
   fill: brown;
 }
 
-.axis {
+.agebar.axis {
   font: 10px sans-serif;
 }
 
-.axis path,
-.axis line {
+.agebar.axis path,
+.agebar.axis line {
   fill: none;
   stroke: #000;
   shape-rendering: crispEdges;
 }
 
-.x.axis path {
-  /*display: none;*/
+.agebar.x.axis path {
+  display: none;
 }
 
 </style>
 <br />
-<div id="agebar"></div>
+<div id="agebar" class="agebar"></div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 <script>
 
-  
+(function () {  
   var xhr2 = new XMLHttpRequest();
 xhr2.open('GET', 'https://d2bm5f0oqkufle.cloudfront.net/CensusAPI/demog.php?db=acs0812&table=b01001&geonum={{page.fips}}');
 xhr2.send(null);
@@ -76,6 +84,7 @@ var yAxis = d3.svg.axis()
 var svg = d3.select('#agebar').append('svg')
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
+    .attr("class", "agebar")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -93,28 +102,21 @@ var svg = d3.select('#agebar').append('svg')
   
   x.domain(data.map(function(d) { return d.letter; }));
   y.domain([0, d3.max(data, function(d) { 
-    console.log(d.frequency);
     return d.frequency; })]);
 
   svg.append("g")
-      .attr("class", "x axis")
+      .attr("class", "x axis agebar")
       .attr("transform", "translate(0," + height + ")")
       .call(xAxis);
 
   svg.append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
-    .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("Frequency");
+      .attr("class", "y axis agebar")
+      .call(yAxis);
 
   svg.selectAll(".bar")
       .data(data)
     .enter().append("rect")
-      .attr("class", "bar")
+      .attr("class", "bar agebar")
       .attr("x", function(d) { return x(d.letter); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.frequency); })
@@ -127,5 +129,7 @@ function type(d) {
 }
     
   }
+  
+  })();
   
 </script>

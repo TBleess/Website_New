@@ -1,48 +1,49 @@
+<!--
+custom_js:
+- https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.10/d3.min.js
+-->
+
 
 <br />
-<p>Name:&nbsp;<span id="geoname"></span></p>
-<p>Population:&nbsp;<span id="population"></span>&nbsp;&nbsp;&nbsp;<span id="dataset"></span></p>
-<div id="chart"></div>
+<p>Name:&nbsp;<span id="agepyramidgeoname"></span></p>
+<p>Population:&nbsp;<span id="agepyramidpopulation"></span>&nbsp;&nbsp;&nbsp;<span id="agepyramiddataset"></span></p>
+<div id="agepyramid" ></div>
 
 
 <style>
-  #dataset{
-    font-size: 8px;
-  }
+
   
   
-  svg {
+  #agepyramid svg {
   border: 1px solid #ccc;
 }
 
-.axis line,
-.axis path {
+.agepyramid.axis line,
+.agepyramid.axis path {
   shape-rendering: crispEdges;
   fill: transparent;
   stroke: #555;
 }
-.axis text {
+.agepyramid.axis text {
   font-size: 11px;
 }
 
 
-.bar {
+.agepyramid.bar {
   fill-opacity: 0.5;
 }
-.bar.left {
+.agepyramid.bar.left {
   fill: steelblue;
 }
-.bar.right {
+.agepyramid.bar.right {
   fill: firebrick;
 }
 </style>  
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.10/d3.min.js"></script>
-
 
 <script>
   
-  
+(function () {
   var xhr = new XMLHttpRequest();
 xhr.open('GET', 'https://d2bm5f0oqkufle.cloudfront.net/CensusAPI/demog.php?db=acs0812&table=b01001&geonum={{page.fips}}');
 xhr.send(null);
@@ -56,13 +57,13 @@ xhr.send(null);
 
       var data=JSON.parse(xhr.responseText);
       
-      var title = document.getElementById('geoname');
+      var title = document.getElementById('agepyramidgeoname');
       title.innerHTML=data.data[0].geoname;
       
-      var population = document.getElementById('population');
+      var population = document.getElementById('agepyramidpopulation');
       population.innerHTML=data.data[0].b01001001;
       
-      var dataset = document.getElementById('dataset');
+      var dataset = document.getElementById('agepyramiddataset');
       dataset.innerHTML= "(" + data.source + ")";
       
       loadchart(data.data[0]);
@@ -106,7 +107,7 @@ var totalPopulation = d3.sum(exampleData, function(d) { return d.male + d.female
     percentage = function(d) { return d / totalPopulation; };
   
 
-var svg = d3.select('#chart').append('svg')
+var svg = d3.select('#agepyramid').append('svg')
   .attr('width', margin.left + w + margin.right)
   .attr('height', margin.top + h + margin.bottom)
 
@@ -167,31 +168,31 @@ var rightBarGroup = svg.append('g')
   .attr('transform', translation(pointB, 0));
 
 svg.append('g')
-  .attr('class', 'axis y left')
+  .attr('class', 'axis y left agepyramid')
   .attr('transform', translation(pointA, 0))
   .call(yAxisLeft)
   .selectAll('text')
   .style('text-anchor', 'middle');
 
 svg.append('g')
-  .attr('class', 'axis y right')
+  .attr('class', 'axis y right agepyramid')
   .attr('transform', translation(pointB, 0))
   .call(yAxisRight);
 
 svg.append('g')
-  .attr('class', 'axis x left')
+  .attr('class', 'axis x left agepyramid')
   .attr('transform', translation(0, h))
   .call(xAxisLeft);
 
 svg.append('g')
-  .attr('class', 'axis x right')
+  .attr('class', 'axis x right agepyramid')
   .attr('transform', translation(pointB, h))
   .call(xAxisRight);
 
 leftBarGroup.selectAll('.bar.left')
   .data(exampleData)
   .enter().append('rect')
-    .attr('class', 'bar left')
+    .attr('class', 'bar left agepyramid')
     .attr('x', 0)
     .attr('y', function(d) { return yScale(d.group); })
     .attr('width', function(d) { return xScale(percentage(d.male)); })
@@ -200,7 +201,7 @@ leftBarGroup.selectAll('.bar.left')
 rightBarGroup.selectAll('.bar.right')
   .data(exampleData)
   .enter().append('rect')
-    .attr('class', 'bar right')
+    .attr('class', 'bar right agepyramid')
     .attr('x', 0)
     .attr('y', function(d) { return yScale(d.group); })
     .attr('width', function(d) { return xScale(percentage(d.female)); })
@@ -212,6 +213,7 @@ function translation(x,y) {
 }
   
 }
-  
+    
+})();
   
 </script>
