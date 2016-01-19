@@ -1,3 +1,10 @@
+<!--
+custom_js:
+- ../assets/js/FileSaver.min.js
+- ../assets/js/Promise.min.js
+-->
+
+
 <style>
   select{
     height: auto;
@@ -431,7 +438,7 @@
 
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" />
 
-<!--<a id=dl download="file.txt">Download</a>-->
+
 
 
 
@@ -442,7 +449,7 @@
   
     viewresults.onclick=function(){
   
-   /*   document.getElementById("dlcsv").style.display='inline-block';*/
+   document.getElementById("dlcsv").style.display='inline-block';
       
     /* Return an array of the selected option values*/
     function getSelectValues(select) {
@@ -725,17 +732,58 @@
           cell13.innerHTML = ((parseInt(vacanthousingunits) / parseInt(totalhousingunits))*100).toFixed(1)+"%";
           
         }
-        
 
-        
       }
-         
-      
-     /* content="a,b,c/n1,2,3/n4,5,6";*/
-/*dl.href="data:text/csv,"+encodeURIComponent(content);*/
-/*dl.click();*/
+
     
   };
+  
+  
+    var dlcsv=document.getElementById('dlcsv');
+  
+  /*hilarious (to me) solution is to inject an iframe.  Dont mess with ajax*/
+  //compressed with lzstring to allow for bigger data
+    dlcsv.onclick=function(){
+      
+      var csvstring="";
+      
+      var oTable = document.getElementById('resultstable');
+
+//gets rows of table
+var rowLength = oTable.rows.length;
+
+//loops through rows    
+for (i = 0; i < rowLength; i++){
+
+   //gets cells of current row
+   var oCells = oTable.rows.item(i).cells;
+
+   //gets amount of cells of current row
+   var cellLength = oCells.length;
+
+   //loops through each cell in current row
+   for(var j = 0; j < cellLength; j++){
+      /* get your cell info here */
+      if(j===0 && i>0){csvstring=csvstring+"\n";}
+      csvstring = csvstring + oCells.item(j).innerHTML;
+     if(j< cellLength ){csvstring=csvstring+",";}
+     
+   }
+  
+  
+}
+      
+    /*  var iframe = document.createElement('iframe');
+iframe.style.display = "none";
+      var compress=LZString.compressToEncodedURIComponent(csvstring);
+      console.log(csvstring.length);
+iframe.src = "http://red-meteor-147235.nitrousapp.com:4000/csv?filename=funfile&data="+compress;
+document.body.appendChild(iframe);*/
+      
+var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
+saveAs(blob, "hello world.csv");
+      
+    }
   
   
 </script>  
