@@ -267,6 +267,8 @@ prose:
     - LICENSE
     - _config.yml
     - _config_dev.yml
+    - CNAME
+    - /pages/pages-root-folder
   media:
     - 'images'
    
