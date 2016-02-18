@@ -55,43 +55,6 @@ exclude:
     - INSTALL.md
 
 
-# The language setting is used in /includes/header.html for html-settings
-language: "en"
-
-
-
-#
-#       ____       ____            ____
-#      / __ \___  / __/___ ___  __/ / /_
-#     / / / / _ \/ /_/ __ `/ / / / / __/
-#    / /_/ /  __/ __/ /_/ / /_/ / / /_
-#   /_____/\___/_/  \__,_/\__,_/_/\__/
-#
-# Default Settings
-
-defaults:
-  -
-    scope:
-      path: "" 				# an empty string here means all files in the project
-      type: "pages"
-    values:
-      show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: sdo     # Default author for pages
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      show_meta: true   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: sdo     # Default author for posts
-
-
-
-
 #     _____ __________
 #    / ___// ____/ __ \
 #    \__ \/ __/ / / / /
@@ -152,16 +115,6 @@ og_description:                     "Feeling Responsive is built on the fabulous
 
 
 
-#      _____
-#     / ___/____ ___________
-#     \__ \/ __ `/ ___/ ___/
-#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
-#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
-#
-
-#sass:
-#    sass_dir: _sass
-#    style: :compressed
 
 
 #       ___                __      __  _
@@ -185,6 +138,8 @@ prose:
     - /.bundle
     - /_data
     - /_layouts
+    - /pages/pages-utility
+    - /pages/xtest
     - /assets
     - /news
     - .gitignore
