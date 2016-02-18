@@ -1,0 +1,15 @@
+---
+layout: page
+title: "SYA"
+permalink: "/test3.html"
+custom_js:
+- ../assets/js/FileSaver.min.js
+
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
+
+	{% include _CountySYA_2015.html %}

@@ -1,0 +1,82 @@
+td.columnLeft {
+    text-align: left;
+    vertical-align: top;
+}
+
+td.columnCenter {
+    text-align: center;
+    vertical-align: top;
+}
+
+td.columnRight {
+    text-align: right;
+    vertical-align: top;
+}
+
+.errorMessages {
+    font-weight: bold;
+    color: red;
+}
+
+.warningMessages {
+    font-weight: bold;
+    color: #999900;
+}
+
+.informationMessages {
+    font-weight: bold;
+    color: green;
+}
+
+@media screen and (max-width: 800px) {
+    #tabWrapper .tabActive {
+        font-weight: bold;
+    }
+}
+
+@media screen and (min-width: 801px) {
+    #tabContainer {
+        width: 100%;
+        padding-top: 10px;
+    }
+
+    #tabWrapper {
+        width: 100%;
+    }
+
+    #tabWrapper:after {
+        content: " ";
+        display: block;
+        border-bottom: 1px solid #36424a;
+        padding-top: 35px;
+    }
+
+    #tabWrapper .tabActive {
+        padding: 5px 10px; 
+        float: left;
+        border-left: 1px solid #36424a;
+        border-top: 1px solid #36424a; 
+        border-right: 1px solid #36424a; 
+        border-bottom: none;
+        border-radius: 5px 5px 0 0;
+        font-weight: bold;
+        background-color: #efefef;
+        height: 25px;
+    }
+
+    #tabWrapper .tabInactive {
+        padding: 5px 10px; 
+        float: left;
+        border: 1px solid #36424a;
+        border-radius: 5px 5px 0 0;
+        background-color: #dcdcdc;
+    }
+
+    #tabContainer #tabContent {
+        clear: both;
+        width: 99%;
+        padding: 10px 5px 5px 5px;
+    }
+}
+
+
