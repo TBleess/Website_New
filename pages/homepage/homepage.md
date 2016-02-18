@@ -1,4 +1,5 @@
 ---
+title: Colorado Demography Homepage
 layout: page
 permalink: /index.html
 ---  

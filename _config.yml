@@ -18,19 +18,11 @@ slogan: "Population and the Econonmy"
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: "The State Demography Office is the primary state agency for population and demographic information in Colorado. Its data are used by state agencies to forecast growth or decline and to plan and develop programs and community resources."
 
-# Main author of the website
-# See > authors.yml
-author: dt
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-#
-#url: 'https://phlow.github.io/feeling-responsive'
 url: 'http://demography.dola.colorado.gov'
 baseurl: ''
 
-# This is for the editing function in _/includes/improve_content
-# Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/coloradodemography/coloradodemography.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -99,17 +91,6 @@ defaults:
 
 
 
-#       _   __            _             __  _
-#      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
-#     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
-#    / /|  / /_/ /| |/ / / /_/ / /_/ / /_/ / /_/ / / / /
-#   /_/ |_/\__,_/ |___/_/\__, /\__,_/\__/_/\____/_/ /_/
-#                       /____/
-#
-#  Open _data/navigation.yml to adjust the left and right topbar navigation
-#
-
-
 
 #     _____ __________
 #    / ___// ____/ __ \
@@ -169,17 +150,6 @@ og_description:                     "Feeling Responsive is built on the fabulous
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-
-#        ____  _
-#       / __ \(_)________ ___  _______
-#      / / / / / ___/ __ `/ / / / ___/
-#     / /_/ / (__  ) /_/ / /_/ (__  )
-#    /_____/_/____/\__, /\__,_/____/
-#                    /_/
-#
-# used in _includes/comments
-
-#disqus_shortname: feelingresponsive
 
 
 #      _____
