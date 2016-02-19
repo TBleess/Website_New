@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Area Profile"
-fips: 108125
-permalink: "/test.html"
+title: "County Race Estimate"
+permalink: "/race-estimate.html"
 custom_js:
-- https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.10/d3.min.js
+- ../assets/js/FileSaver.min.js
+
 ---
 {% if page.custom_js %}
   {% for js_file in page.custom_js %}
@@ -12,6 +12,4 @@ custom_js:
   {% endfor %}
 {% endif %}
 
-	{% include _agepyramid.html %}
-	{% include _agebar.html %}
-
+	{% include _raceEstimate.html %}

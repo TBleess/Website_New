@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Example"
-permalink: "/test2.html"
+title: "County Race Forecast"
+permalink: "/race-forecast.html"
 custom_js:
 - ../assets/js/FileSaver.min.js
-- ../assets/js/Promise.min.js
 
 ---
 {% if page.custom_js %}
@@ -13,4 +12,4 @@ custom_js:
   {% endfor %}
 {% endif %}
 
-	{% include _MuniPopHousingTimeseries.html %}
+	{% include _raceForecast.html %}

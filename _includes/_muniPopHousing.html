@@ -14,7 +14,7 @@ custom_js:
 <h2>Population and Housing Timeseries</h2>
 
 
-<label for="countiesSelected" style="font-weight: bold;">Select 0 or more counties:</label>
+<label for="countiesSelected" style="font-weight: bold;">Select 0 or more counties:</label><br />
 <select id="countiesSelected" name="countiesSelected" multiple="multiple" size="5">	
 	<option value="1">Adams</option>
 	<option value="3">Alamosa</option>
@@ -80,8 +80,8 @@ custom_js:
 	<option value="121">Washington</option>
 	<option value="123">Weld</option>
 	<option value="125">Yuma</option>
-</select>
-<label for="municipalitiesSelected" style="font-weight: bold;">Select 0 or more municipalities:</label>
+</select><br /><br />
+<label for="municipalitiesSelected" style="font-weight: bold;">Select 0 or more municipalities:</label><br />
 <select id="municipalitiesSelected" name="municipalitiesSelected" multiple="multiple" size="5">	
   <option value="99990:1">Adams Unincorp. Area</option>
 	<option value="760">Aguilar</option>
@@ -416,27 +416,27 @@ custom_js:
 	<option value="86475">Yampa</option>
 	<option value="86750">Yuma</option>
 	<option value="99990:125">Yuma Unincorp. Area</option>
-</select>
-<label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label>
+</select><br /><br />
+<label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
 <select id="yearsSelected" name="yearsSelected" multiple="multiple" size="5">
   <option value="2014">2014</option>
 	<option value="2013">2013</option>
 	<option value="2012">2012</option>
 	<option value="2011">2011</option>
 	<option value="2010">2010</option>
-</select>
+</select><br /><br />
 
   <input type="radio" name="compressed" value="yes" checked>Sum Results&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="no">Show Components<br />
+  <input type="radio" name="compressed" value="no">Show Components<br /><br />
   
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
-
+<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
 <table id="resultstable"></table>
 
-<br />
 
-<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" />
+
+
 
 
 

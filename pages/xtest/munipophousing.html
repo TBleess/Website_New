@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "SYA"
-permalink: "/test3.html"
+title: "Municipal Population and Housing"
+permalink: "/muni-pop-housing.html"
 custom_js:
 - ../assets/js/FileSaver.min.js
+- ../assets/js/Promise.min.js
 
 ---
 {% if page.custom_js %}
@@ -12,4 +13,4 @@ custom_js:
   {% endfor %}
 {% endif %}
 
-	{% include _CountySYA_2015.html %}
+	{% include _muniPopHousing.html %}
