@@ -1,0 +1,273 @@
+<!--
+custom_js:
+- ../assets/js/FileSaver.min.js
+-->
+
+
+<style>
+  select{
+    height: auto;
+  }
+</style>  
+
+<h2>Base Industries Analysis</h2>
+
+
+<label for="countiesSelected" style="font-weight: bold;">Select a County:</label><br />
+<select id="countiesSelected" name="countiesSelected">	
+	<option value="0">Statewide</option>
+	<option value="500">Denver-Boulder MSA</option>
+	<option value="3">Alamosa</option>
+	<option value="7">Archuleta</option>
+	<option value="9">Baca</option>
+	<option value="11">Bent</option>
+	<option value="15">Chaffee</option>
+	<option value="17">Cheyenne</option>
+	<option value="19">Clear Creek</option>
+	<option value="21">Conejos</option>
+	<option value="23">Costilla</option>
+	<option value="25">Crowley</option>
+	<option value="27">Custer</option>
+	<option value="29">Delta</option>
+	<option value="33">Dolores</option>
+	<option value="37">Eagle</option>
+	<option value="41">El Paso</option>
+	<option value="39">Elbert</option>
+	<option value="43">Fremont</option>
+	<option value="45">Garfield</option>
+	<option value="47">Gilpin</option>
+	<option value="49">Grand</option>
+	<option value="51">Gunnison</option>
+	<option value="53">Hinsdale</option>
+	<option value="55">Huerfano</option>
+	<option value="57">Jackson</option>
+	<option value="61">Kiowa</option>
+	<option value="63">Kit Carson</option>
+	<option value="67">La Plata</option>
+	<option value="65">Lake</option>
+	<option value="69">Larimer</option>
+	<option value="71">Las Animas</option>
+	<option value="73">Lincoln</option>
+	<option value="75">Logan</option>
+	<option value="77">Mesa</option>
+	<option value="79">Mineral</option>
+	<option value="81">Moffat</option>
+	<option value="83">Montezuma</option>
+	<option value="85">Montrose</option>
+	<option value="87">Morgan</option>
+	<option value="89">Otero</option>
+	<option value="91">Ouray</option>
+	<option value="93">Park</option>
+	<option value="95">Phillips</option>
+	<option value="97">Pitkin</option>
+	<option value="99">Prowers</option>
+	<option value="101">Pueblo</option>
+	<option value="103">Rio Blanco</option>
+	<option value="105">Rio Grande</option>
+	<option value="107">Routt</option>
+	<option value="109">Saguache</option>
+	<option value="111">San Juan</option>
+	<option value="113">San Miguel</option>
+	<option value="115">Sedgwick</option>
+	<option value="117">Summit</option>
+	<option value="119">Teller</option>
+	<option value="121">Washington</option>
+	<option value="123">Weld</option>
+	<option value="125">Yuma</option>
+</select><br /><br />
+
+  <input type="submit" id="callapi" value="View Results" class="form-submit" />
+<br /><br /><br />
+<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
+<table id="resultstable"></table>
+
+
+
+<script>
+  
+  var viewresults=document.getElementById('callapi');
+  
+    viewresults.onclick=function(){
+      
+    var selectedCounties = getSelectValues(countiesSelected);
+  
+      
+          /*counties*/
+    if(selectedCounties.length===0){
+      alert('please choose a county selection');
+      return;
+    }
+      
+   document.getElementById("dlcsv").style.display='inline-block';
+      
+    /* Return an array of the selected option values*/
+    function getSelectValues(select) {
+  var result = [];
+  var options = select && select.options;
+  var opt;
+
+  for (var i=0, iLen=options.length; i<iLen; i++) {
+    opt = options[i];
+
+    if (opt.selected) {
+      result.push(opt.value || opt.text);
+    }
+  }
+  return result;
+}
+
+      
+      
+      var querystring = "county=" + selectedCounties.join(",");
+      
+      //console.log(querystring);
+      
+   requestdata(querystring);
+      
+      
+    /*ajax request function*/
+    function requestdata(querystring){
+      
+      var xhttp = new XMLHttpRequest();
+      
+      xhttp.onreadystatechange = function() {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            createtable(JSON.parse(xhttp.responseText));
+          } 
+        };
+      
+      xhttp.open("GET", "http://red-meteor-147235.nitrousapp.com:4001/base-analysis?"+querystring, true);
+      xhttp.send();
+    }
+    
+         
+      
+      function createtable(results){
+
+          var table = document.getElementById("resultstable");
+          table.innerHTML = ""; /*clear all previous content*/
+        
+          var header = table.createTHead();
+          var hrow = header.insertRow(0);     
+          var hcell1 = hrow.insertCell(0);
+          var hcell2 = hrow.insertCell(1);
+          var hcell3 = hrow.insertCell(2);
+          var hcell4 = hrow.insertCell(3);
+
+        
+          hcell1.innerHTML = "Area";
+          hcell2.innerHTML = "Industry Group";
+          hcell3.innerHTML = "Employment";
+          hcell4.innerHTML = "Employment % of Basic";
+        
+          hcell3.style.textAlign = 'right';
+          hcell4.style.textAlign = 'right';
+          
+          var body = table.appendChild(document.createElement('tbody'));
+        
+        
+
+          addrow(0,results[0].cname, "Traditional - All Totals", Math.round(parseFloat(results[0].agri_emp) + parseFloat(results[0].mining_emp) + parseFloat(results[0].manuf_emp) +parseFloat(results[0].govt_emp)),  Math.round(((parseFloat(results[0].agri_emp) + parseFloat(results[0].mining_emp) + parseFloat(results[0].manuf_emp) +parseFloat(results[0].govt_emp))/  (parseFloat(results[0].total_basic_emp)))*10000)/100 );
+
+          addrow(1,results[0].cname, "Traditional - Agribusiness", Math.round(parseFloat(results[0].agri_emp)),  Math.round((parseFloat(results[0].agri_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );  
+
+          addrow(2,results[0].cname, "Traditional - Mining", Math.round(parseFloat(results[0].mining_emp)),  Math.round((parseFloat(results[0].mining_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );         
+
+          addrow(3,results[0].cname, "Traditional - Manufacturing", Math.round(parseFloat(results[0].manuf_emp)),  Math.round((parseFloat(results[0].manuf_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );                 
+
+          addrow(4,results[0].cname, "Traditional - Government", Math.round(parseFloat(results[0].govt_emp)),  Math.round((parseFloat(results[0].govt_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );                 
+
+          addrow(5,results[0].cname, "Regional Center / National Services - All Totals", Math.round(parseFloat(results[0].regl_serv_emp)),  Math.round((parseFloat(results[0].regl_serv_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );        
+
+          addrow(6,results[0].cname, "Regional Center / National Services - Construction", Math.round(parseFloat(results[0].natl_const_emp)),  Math.round((parseFloat(results[0].natl_const_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );                
+
+          addrow(7,results[0].cname, "Regional Center / National Services - Communications", Math.round(parseFloat(results[0].natl_comm_emp)),  Math.round((parseFloat(results[0].natl_comm_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );               
+
+          addrow(8,results[0].cname, "Regional Center / National Services - Trade and Transportation", Math.round(parseFloat(results[0].natl_trade_emp)),  Math.round((parseFloat(results[0].natl_trade_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );              
+
+          addrow(9,results[0].cname, "Regional Center / National Services - Professional and Business Services", Math.round(parseFloat(results[0].natl_bus_emp)),  Math.round((parseFloat(results[0].natl_bus_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );    
+
+          addrow(10,results[0].cname, "Regional Center / National Services - Finance, Insurance and Real Estate", Math.round(parseFloat(results[0].natl_fire_emp)),  Math.round((parseFloat(results[0].natl_fire_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );           
+
+          addrow(11,results[0].cname, "Regional Center / National Services - Education and Health Services", Math.round(parseFloat(results[0].natl_ed_emp)),  Math.round((parseFloat(results[0].natl_ed_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );           
+
+          addrow(12,results[0].cname, "Tourism", Math.round(parseFloat(results[0].tourism_emp)),  Math.round((parseFloat(results[0].tourism_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );                    
+
+          addrow(13,results[0].cname, "Households - Commuters", Math.round(parseFloat(results[0].commuter_emp)),  Math.round((parseFloat(results[0].commuter_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );               
+
+          addrow(14,results[0].cname, "Households - Retirees", Math.round(parseFloat(results[0].retiree_emp)),  Math.round((parseFloat(results[0].retiree_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );        
+
+          addrow(15,results[0].cname, "Households - with Public Assistance Income (excluding retirees)", Math.round(parseFloat(results[0].other_hhd_emp)),  Math.round((parseFloat(results[0].other_hhd_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );             
+
+          addrow(16,results[0].cname, "Households - with Dividends, Interest, and Rental Income (excluding retirees)", Math.round(parseFloat(results[0].other_inc_emp)),  Math.round((parseFloat(results[0].other_inc_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );             
+
+          addrow(17,results[0].cname, "Total Direct Basic", Math.round(parseFloat(results[0].direct_basic_emp)),  "" );                     
+
+          addrow(18,results[0].cname, "Worker Local Res. Services (Non Basic)", Math.round(parseFloat(results[0].wrkr_lrs_emp)),  "" );            
+
+          addrow(19,results[0].cname, "Indirect Basic", Math.round(parseFloat(results[0].ib_emp)),  "" );            
+
+          addrow(20,results[0].cname, "Total All Industries", Math.round(parseFloat(results[0].employment)),  "" );       
+
+          addrow(21,results[0].cname, "Ratio: Total / Direct Basic", ((Math.round((parseFloat(results[0].employment)/parseFloat(results[0].direct_basic_emp))*100))/100),  "" );           
+        
+        function addrow(rownum, cname, desc, stat, pct){
+          
+          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+          
+          /* Create an empty <tr> element and add it to the 1st position of the table:*/
+          var row = tableRef.insertRow(rownum);
+
+          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+          var cell1 = row.insertCell(0);
+          var cell2 = row.insertCell(1);
+          var cell3 = row.insertCell(2);
+          var cell4 = row.insertCell(3);
+
+          
+          /* Add some text to the new cells:*/
+          cell1.innerHTML = cname;
+          cell2.innerHTML = desc;
+          cell3.innerHTML = stat;
+          cell4.innerHTML = pct;
+                  
+          cell3.style.textAlign = 'right';
+          cell4.style.textAlign = 'right';
+              
+        }
+
+      }
+
+    
+  };
+  
+  
+    var dlcsv=document.getElementById('dlcsv');
+
+    dlcsv.onclick=function(){
+      
+      var csvstring="";
+      
+      var oTable = document.getElementById('resultstable');
+var rowLength = oTable.rows.length;
+for (i = 0; i < rowLength; i++){
+   var oCells = oTable.rows.item(i).cells;
+   var cellLength = oCells.length;
+   for(var j = 0; j < cellLength; j++){
+      /* get your cell info here */
+      if(j===0 && i>0){csvstring=csvstring+"\n";}
+      var addCell="\"" + oCells.item(j).innerHTML + "\"";
+      //addCell = addCell.replace(/,/g , "\",\"");
+      csvstring = csvstring + addCell;
+     if(j< cellLength ){csvstring=csvstring+",";}
+     }
+}
+      
+      
+var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
+saveAs(blob, "baseAnalysis_data.csv");
+      
+    }
+  
+  
+</script>  
