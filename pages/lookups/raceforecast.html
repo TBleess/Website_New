@@ -1,16 +1,19 @@
-<!--
+---
+layout: page
+title: "County Race Forecast"
+permalink: "/race-forecast.html"
 custom_js:
 - ../assets/js/FileSaver.min.js
--->
+
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
 
 
-<style>
-  select{
-    height: auto;
-  }
-</style>  
-
-<h2>Household Projections</h2>
+<h2>County Race by Age Forecast</h2>
 
 
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
@@ -121,35 +124,43 @@ custom_js:
 	<option value="2046">2046</option>
 	<option value="2047">2047</option>
 	<option value="2048">2048</option>  
-	<option value="2049">2049</option>
-  <option value="2050">2050</option>  
+	<option value="2049">2049</option>  
+	<option value="2050">2050</option>    
 </select><br /><br />
 <label for="ageGroups" style="font-weight: bold;">Select 1 or more age groups:</label><br />
-<select id="ageGroups" name="ageGroups" multiple="multiple" size="4">
-  <option value="1">Age 18 to 24</option>
-	<option value="2">Age 25 to 44</option>
-	<option value="3">Age 45 to 64</option>
-  <option value="4">Age 65 plus</option>
+<select id="ageGroups" name="ageGroups" multiple="multiple" size="3">
+  <option value="0">Age 0-17</option>
+	<option value="18">Age 18-64</option>
+	<option value="65">Age 65+</option>
 </select><br /><br />
-<label for="householdType" style="font-weight: bold;">Select 1 or more Household Types:</label><br />
-<select id="householdType" name="householdType" multiple="multiple" size="4">
-  <option value="1">One adult with no children</option>
-	<option value="2">One adult with children</option>
-	<option value="3">More than one adult with no children</option>
-  <option value="4">More than one adult with children</option>
+<label for="raceGroups" style="font-weight: bold;">Select 1 or more race categories:</label><br />
+<select id="raceGroups" name="raceGroups" multiple="multiple" size="5">
+  <option value="1">Hispanic</option>
+	<option value="2">White non Hispanic</option>
+	<option value="3">Asian non Hispanic</option>
+	<option value="4">American Indian non Hispanic</option>
+	<option value="5">Black non Hispanic</option>
+	<!--<option value="6">Total</option>-->
 </select><br /><br />
 <label for="groupBy" style="font-weight: bold;">Select 0 or more variables to summarize by:</label><br />
 <select id="groupBy" name="groupBy" multiple="multiple" size="4">
   <option value="a">Year</option>
 	<option value="b">County</option>
 	<option value="c">Age Group</option>
-	<option value="d">Household Type</option>  
+	<option value="d">Race</option>
 </select><br /><br />
-
+  
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
 <table id="resultstable"></table>
+
+
+
+
+
+
+
 
 
 
@@ -162,8 +173,8 @@ custom_js:
     var selectedCounties = getSelectValues(countiesSelected);
     var selectedYears = getSelectValues(yearsSelected);
     var selectedAges = getSelectValues(ageGroups);
+    var selectedRaces = getSelectValues(raceGroups);      
     var selectedGroupBy = getSelectValues(groupBy);        
-    var selectedHouseholdType = getSelectValues(householdType);        
       
           /*counties*/
     if(selectedCounties.length===0){
@@ -180,11 +191,11 @@ custom_js:
       alert('please choose an age group selection');
       return;
     }      
-          /*household type*/
-    if(selectedHouseholdType.length===0){
-      alert('please choose a household type selection');
+          /*race*/
+    if(selectedRaces.length===0){
+      alert('please choose a race selection');
       return;
-    }     
+    }
       
    document.getElementById("dlcsv").style.display='inline-block';
       
@@ -203,7 +214,9 @@ custom_js:
   }
   return result;
 }
-
+    
+   
+      
 
       var groupstring = selectedGroupBy.join(",");
      var group="";
@@ -217,29 +230,14 @@ custom_js:
       if(groupstring==="a,d"){group='opt7';}
       if(groupstring==="b,c"){group='opt8';}
       if(groupstring==="b,d"){group='opt9';}
-      if(groupstring==="c,d"){group='opt10';}    
-      if(groupstring==="a,b,c"){group='opt11';}  
-      if(groupstring==="a,b,d"){group='opt12';}        
-      if(groupstring==="b,c,d"){group='opt13';}       
+      if(groupstring==="c,d"){group='opt10';}
+      if(groupstring==="a,b,c"){group='opt11';}
+      if(groupstring==="a,b,d"){group='opt12';}      
+      if(groupstring==="a,c,d"){group='opt13';}
+      if(groupstring==="b,c,d"){group='opt14';}   
       
-    //opt1: year
-    //opt2: area_code
-    //opt3: age_group_id
-    //opt4: household_type_id
-    //opt5: year, area_code
-    //opt6: year, age_group_id
-    //opt7: year, household_type_id
-    //opt8: area_code, age_group_id
-    //opt9: area_code, household_type_id
-    //opt10: age_group_id, household_type_id
-    //opt11: year, area_code, age_group_id
-    //opt12: year, area_code, household_type_id
-    //opt13: area_code, age_group_id, household_type_id
-      
-      
-      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&household=" + selectedHouseholdType.join(",") + "&group=" + group;
-      
-      //console.log(querystring);
+      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&race=" + selectedRaces.join(",") + "&group=" + group;
+      console.log(querystring);
       
    requestdata(querystring);
       
@@ -255,7 +253,7 @@ custom_js:
           } 
         };
       
-      xhttp.open("GET", "http://red-meteor-147235.nitrousapp.com:4001/household?"+querystring, true);
+      xhttp.open("GET", "http://red-meteor-147235.nitrousapp.com:4000/sya-race-forecast?"+querystring, true);
       xhttp.send();
     }
     
@@ -326,27 +324,8 @@ custom_js:
         if(county===123){return "Weld County";}
         if(county===125){return "Yuma County";}
         
-        return undefined; /*fallback (replaces otherwise undefined)*/
+        return ""; /*fallback (replaces otherwise undefined)*/
       }
-
-      
-      function agelookup(cat){
-        if(cat===1){return "18-24";}
-        if(cat===2){return "25-44";}
-        if(cat===3){return "45-64";}
-        if(cat===4){return "65 & Over";}
-        
-        return undefined; /*fallback (replaces otherwise undefined)*/
-      }
-      
-      function hhlookup(cat){
-        if(cat===1){return "One adult with no children";}
-        if(cat===2){return "One adult with children";}
-        if(cat===3){return "More than one adult with no children";}
-        if(cat===4){return "More than one adult with children";}
-        
-        return undefined; /*fallback (replaces otherwise undefined)*/
-      }            
       
       function createtable(results){
 
@@ -365,20 +344,27 @@ custom_js:
           hcell1.innerHTML = "COUNTY";
           hcell2.innerHTML = "CFIPS";
           hcell3.innerHTML = "YEAR";
-          hcell4.innerHTML = "AGE_GROUP";
-          hcell5.innerHTML = "HOUSEHOLD_TYPE";
-          hcell6.innerHTML = "Total_Households";
-          
+          hcell4.innerHTML = "AGE";
+          hcell5.innerHTML = "RACE";
+          hcell6.innerHTML = "COUNT";
+      
+        
           var body = table.appendChild(document.createElement('tbody'));
         
         
         
         for(var i=0;i<results.length;i++){
-          addrow(i,clookup(results[i].area_code) || "", results[i].area_code || "", results[i].year || "", agelookup(results[i].age_group_id) || "", hhlookup(results[i].household_type_id) || "", results[i].total_households || "")
+          
+          var pass_age = results[i].age || "";
+          if(results[i].age===0){pass_age="Age 0-17";}
+          if(results[i].age===18){pass_age="Age 18-64";}
+          if(results[i].age===65){pass_age="Age 65+";}
+          
+          addrow(i,results[i].county || "", results[i].county_fips || "", results[i].year || "", pass_age, results[i].race || "", results[i].count)
         }
         
         
-        function addrow(rownum, county, county_fips, year, age, household, total_household){
+        function addrow(rownum, county, county_fips, year, age, race, count){
           
           var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
           
@@ -392,15 +378,16 @@ custom_js:
           var cell4 = row.insertCell(3);
           var cell5 = row.insertCell(4);
           var cell6 = row.insertCell(5);
+
           
           /* Add some text to the new cells:*/
           cell1.innerHTML = county;
           cell2.innerHTML = county_fips;
           cell3.innerHTML = year;
           cell4.innerHTML = age;
-          cell5.innerHTML = household;
-          cell6.innerHTML = total_household;
-              
+          cell5.innerHTML = race;
+          cell6.innerHTML = count;
+          
         }
 
       }
@@ -430,7 +417,7 @@ for (i = 0; i < rowLength; i++){
       
       
 var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "householdProjections_data.csv");
+saveAs(blob, "raceForecast_data.csv");
       
     }
   

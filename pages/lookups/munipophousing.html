@@ -1,15 +1,17 @@
-<!--
+---
+layout: page
+title: "Municipal Population and Housing"
+permalink: "/muni-pop-housing.html"
 custom_js:
 - ../assets/js/FileSaver.min.js
 - ../assets/js/Promise.min.js
--->
 
-
-<style>
-  select{
-    height: auto;
-  }
-</style>  
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
 
 <h2>Population and Housing Timeseries</h2>
 
@@ -81,6 +83,8 @@ custom_js:
 	<option value="123">Weld</option>
 	<option value="125">Yuma</option>
 </select><br /><br />
+<br />
+
 <label for="municipalitiesSelected" style="font-weight: bold;">Select 0 or more municipalities:</label><br />
 <select id="municipalitiesSelected" name="municipalitiesSelected" multiple="multiple" size="5">	
   <option value="99990:1">Adams Unincorp. Area</option>
@@ -416,7 +420,8 @@ custom_js:
 	<option value="86475">Yampa</option>
 	<option value="86750">Yuma</option>
 	<option value="99990:125">Yuma Unincorp. Area</option>
-</select><br /><br />
+</select><br /><br /><br />
+
 <label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
 <select id="yearsSelected" name="yearsSelected" multiple="multiple" size="5">
   <option value="2014">2014</option>
@@ -424,7 +429,7 @@ custom_js:
 	<option value="2012">2012</option>
 	<option value="2011">2011</option>
 	<option value="2010">2010</option>
-</select><br /><br />
+</select><br /><br /><br />
 
   <input type="radio" name="compressed" value="yes" checked>Sum Results&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <input type="radio" name="compressed" value="no">Show Components<br /><br />
@@ -557,7 +562,7 @@ custom_js:
           } /*fill in for error codes later*/
         };
       
-      xhttp.open("GET", "https://d2bm5f0oqkufle.cloudfront.net/gather?"+querystring, true);
+      xhttp.open("GET", "http://red-meteor-147235.nitrousapp.com:4000/munipophousing?"+querystring, true);
       xhttp.send();
     }
     

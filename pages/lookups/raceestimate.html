@@ -1,14 +1,17 @@
-<!--
+---
+layout: page
+title: "County Race Estimate"
+permalink: "/race-estimate.html"
 custom_js:
 - ../assets/js/FileSaver.min.js
--->
 
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
 
-<style>
-  select{
-    height: auto;
-  }
-</style>  
 
 <h2>County Race by Age Estimates</h2>
 

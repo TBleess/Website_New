@@ -1,16 +1,19 @@
-<!--
+---
+layout: page
+title: "Components of Change"
+permalink: "/components-change.html"
 custom_js:
 - ../assets/js/FileSaver.min.js
--->
+
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
 
 
-<style>
-  select{
-    height: auto;
-  }
-</style>  
-
-<h2>County Race by Age Forecast</h2>
+<h2>Components of Change</h2>
 
 
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
@@ -81,8 +84,48 @@ custom_js:
 	<option value="125">Yuma</option>
 </select><br /><br />
 <label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
-<select id="yearsSelected" name="yearsSelected" multiple="multiple" size="5">
-  <option value="2010">2010</option>
+<select id="yearsSelected" name="yearsSelected" multiple="multiple" size="4">
+	<option value="1970">1970</option>
+	<option value="1971">1971</option>
+	<option value="1972">1972</option>
+	<option value="1973">1973</option>
+	<option value="1974">1974</option>
+	<option value="1975">1975</option>
+	<option value="1976">1976</option>
+	<option value="1977">1977</option>
+	<option value="1978">1978</option>
+	<option value="1979">1979</option>
+	<option value="1980">1980</option>
+	<option value="1981">1981</option>
+	<option value="1982">1982</option>
+	<option value="1983">1983</option>
+	<option value="1984">1984</option>
+	<option value="1985">1985</option>
+	<option value="1986">1986</option>
+	<option value="1987">1987</option>
+	<option value="1988">1988</option>
+	<option value="1989">1989</option>
+	<option value="1990">1990</option>
+	<option value="1991">1991</option>
+	<option value="1992">1992</option>
+	<option value="1993">1993</option>
+	<option value="1994">1994</option>
+	<option value="1995">1995</option>
+	<option value="1996">1996</option>
+	<option value="1997">1997</option>
+	<option value="1998">1998</option>
+	<option value="1999">1999</option>  
+	<option value="2000">2000</option>
+	<option value="2001">2001</option>
+	<option value="2002">2002</option>
+	<option value="2003">2003</option>
+	<option value="2004">2004</option>
+	<option value="2005">2005</option>
+	<option value="2006">2006</option>
+	<option value="2007">2007</option>
+	<option value="2008">2008</option>
+	<option value="2009">2009</option>    
+	<option value="2010">2010</option>
 	<option value="2011">2011</option>
 	<option value="2012">2012</option>
 	<option value="2013">2013</option>
@@ -90,9 +133,9 @@ custom_js:
 	<option value="2015">2015</option>
 	<option value="2016">2016</option>
 	<option value="2017">2017</option>
-	<option value="2018">2018</option>  
-	<option value="2019">2019</option>
-  <option value="2020">2020</option>
+	<option value="2018">2018</option>
+	<option value="2019">2019</option>      
+	<option value="2020">2020</option>
 	<option value="2021">2021</option>
 	<option value="2022">2022</option>
 	<option value="2023">2023</option>
@@ -100,9 +143,9 @@ custom_js:
 	<option value="2025">2025</option>
 	<option value="2026">2026</option>
 	<option value="2027">2027</option>
-	<option value="2028">2028</option>  
-	<option value="2029">2029</option>
-  <option value="2030">2030</option>
+	<option value="2028">2028</option>
+	<option value="2029">2029</option>   
+	<option value="2030">2030</option>
 	<option value="2031">2031</option>
 	<option value="2032">2032</option>
 	<option value="2033">2033</option>
@@ -110,9 +153,9 @@ custom_js:
 	<option value="2035">2035</option>
 	<option value="2036">2036</option>
 	<option value="2037">2037</option>
-	<option value="2038">2038</option>  
-	<option value="2039">2039</option>
-  <option value="2040">2040</option>
+	<option value="2038">2038</option>
+	<option value="2039">2039</option>     
+	<option value="2040">2040</option>
 	<option value="2041">2041</option>
 	<option value="2042">2042</option>
 	<option value="2043">2043</option>
@@ -120,44 +163,19 @@ custom_js:
 	<option value="2045">2045</option>
 	<option value="2046">2046</option>
 	<option value="2047">2047</option>
-	<option value="2048">2048</option>  
-	<option value="2049">2049</option>  
+	<option value="2048">2048</option>
+	<option value="2049">2049</option>     
 	<option value="2050">2050</option>    
 </select><br /><br />
-<label for="ageGroups" style="font-weight: bold;">Select 1 or more age groups:</label><br />
-<select id="ageGroups" name="ageGroups" multiple="multiple" size="3">
-  <option value="0">Age 0-17</option>
-	<option value="18">Age 18-64</option>
-	<option value="65">Age 65+</option>
-</select><br /><br />
-<label for="raceGroups" style="font-weight: bold;">Select 1 or more race categories:</label><br />
-<select id="raceGroups" name="raceGroups" multiple="multiple" size="5">
-  <option value="1">Hispanic</option>
-	<option value="2">White non Hispanic</option>
-	<option value="3">Asian non Hispanic</option>
-	<option value="4">American Indian non Hispanic</option>
-	<option value="5">Black non Hispanic</option>
-	<!--<option value="6">Total</option>-->
-</select><br /><br />
-<label for="groupBy" style="font-weight: bold;">Select 0 or more variables to summarize by:</label><br />
-<select id="groupBy" name="groupBy" multiple="multiple" size="4">
-  <option value="a">Year</option>
-	<option value="b">County</option>
-	<option value="c">Age Group</option>
-	<option value="d">Race</option>
-</select><br /><br />
-  
+
+    <input type="radio" name="compressed" value="" checked>No Grouping&nbsp;&nbsp;&nbsp;
+  <input type="radio" name="compressed" value="&group=opt1">Group by Year&nbsp;&nbsp;&nbsp;
+  <input type="radio" name="compressed" value="&group=opt2">Group by County&nbsp;&nbsp;&nbsp;
+<br /><br />
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
 <table id="resultstable"></table>
-
-
-
-
-
-
-
 
 
 
@@ -169,9 +187,7 @@ custom_js:
       
     var selectedCounties = getSelectValues(countiesSelected);
     var selectedYears = getSelectValues(yearsSelected);
-    var selectedAges = getSelectValues(ageGroups);
-    var selectedRaces = getSelectValues(raceGroups);      
-    var selectedGroupBy = getSelectValues(groupBy);        
+    
       
           /*counties*/
     if(selectedCounties.length===0){
@@ -183,17 +199,7 @@ custom_js:
       alert('please choose one or more years');
       return;
     }
-          /*age*/
-    if(selectedAges.length===0){
-      alert('please choose an age group selection');
-      return;
-    }      
-          /*race*/
-    if(selectedRaces.length===0){
-      alert('please choose a race selection');
-      return;
-    }
-      
+
    document.getElementById("dlcsv").style.display='inline-block';
       
     /* Return an array of the selected option values*/
@@ -211,29 +217,11 @@ custom_js:
   }
   return result;
 }
-    
-   
-      
 
-      var groupstring = selectedGroupBy.join(",");
-     var group="";
+      var compressed = document.querySelector('input[name="compressed"]:checked').value;
+     
+      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") +  compressed;
       
-      if(groupstring==="a"){group='opt1';}
-      if(groupstring==="b"){group='opt2';}
-      if(groupstring==="c"){group='opt3';}
-      if(groupstring==="d"){group='opt4';}
-      if(groupstring==="a,b"){group='opt5';}
-      if(groupstring==="a,c"){group='opt6';}
-      if(groupstring==="a,d"){group='opt7';}
-      if(groupstring==="b,c"){group='opt8';}
-      if(groupstring==="b,d"){group='opt9';}
-      if(groupstring==="c,d"){group='opt10';}
-      if(groupstring==="a,b,c"){group='opt11';}
-      if(groupstring==="a,b,d"){group='opt12';}      
-      if(groupstring==="a,c,d"){group='opt13';}
-      if(groupstring==="b,c,d"){group='opt14';}   
-      
-      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&race=" + selectedRaces.join(",") + "&group=" + group;
       console.log(querystring);
       
    requestdata(querystring);
@@ -250,7 +238,7 @@ custom_js:
           } 
         };
       
-      xhttp.open("GET", "http://red-meteor-147235.nitrousapp.com:4000/sya-race-forecast?"+querystring, true);
+      xhttp.open("GET", "http://red-meteor-147235.nitrousapp.com:4001/components?"+querystring, true);
       xhttp.send();
     }
     
@@ -321,7 +309,7 @@ custom_js:
         if(county===123){return "Weld County";}
         if(county===125){return "Yuma County";}
         
-        return ""; /*fallback (replaces otherwise undefined)*/
+        return undefined; /*fallback (replaces otherwise undefined)*/
       }
       
       function createtable(results){
@@ -337,14 +325,19 @@ custom_js:
           var hcell4 = hrow.insertCell(3);
           var hcell5 = hrow.insertCell(4);
           var hcell6 = hrow.insertCell(5);        
+          var hcell7 = hrow.insertCell(6);    
+          var hcell8 = hrow.insertCell(7);        
+          var hcell9 = hrow.insertCell(8);   
         
           hcell1.innerHTML = "COUNTY";
           hcell2.innerHTML = "CFIPS";
           hcell3.innerHTML = "YEAR";
-          hcell4.innerHTML = "AGE";
-          hcell5.innerHTML = "RACE";
-          hcell6.innerHTML = "COUNT";
-      
+          hcell4.innerHTML = "Population";
+          hcell5.innerHTML = "Change";
+          hcell6.innerHTML = "Births";
+          hcell7.innerHTML = "Deaths";
+          hcell8.innerHTML = "NetMigration";
+          hcell9.innerHTML = "Datatype";      
         
           var body = table.appendChild(document.createElement('tbody'));
         
@@ -352,16 +345,11 @@ custom_js:
         
         for(var i=0;i<results.length;i++){
           
-          var pass_age = results[i].age || "";
-          if(results[i].age===0){pass_age="Age 0-17";}
-          if(results[i].age===18){pass_age="Age 18-64";}
-          if(results[i].age===65){pass_age="Age 65+";}
-          
-          addrow(i,results[i].county || "", results[i].county_fips || "", results[i].year || "", pass_age, results[i].race || "", results[i].count)
+          addrow(i,clookup(results[i].countyfips) || "", results[i].countyfips || "", results[i].year || "", results[i].estimate || "", results[i].change || "", results[i].births || "", results[i].deaths || "",results[i].netmig || "",results[i].datatype || "")
         }
         
         
-        function addrow(rownum, county, county_fips, year, age, race, count){
+        function addrow(rownum, county, countyfips, year, population, change, births, deaths, netmig, datatype){
           
           var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
           
@@ -375,15 +363,20 @@ custom_js:
           var cell4 = row.insertCell(3);
           var cell5 = row.insertCell(4);
           var cell6 = row.insertCell(5);
-
-          
+          var cell7 = row.insertCell(6);
+          var cell8 = row.insertCell(7);
+          var cell9 = row.insertCell(8);
+            
           /* Add some text to the new cells:*/
           cell1.innerHTML = county;
-          cell2.innerHTML = county_fips;
+          cell2.innerHTML = countyfips;
           cell3.innerHTML = year;
-          cell4.innerHTML = age;
-          cell5.innerHTML = race;
-          cell6.innerHTML = count;
+          cell4.innerHTML = population;
+          cell5.innerHTML = change;
+          cell6.innerHTML = births;
+          cell7.innerHTML = deaths; 
+          cell8.innerHTML = netmig;
+          cell9.innerHTML = datatype;             
           
         }
 
@@ -414,7 +407,7 @@ for (i = 0; i < rowLength; i++){
       
       
 var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "raceForecast_data.csv");
+saveAs(blob, "componentsChange_data.csv");
       
     }
   

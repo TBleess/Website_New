@@ -1,14 +1,16 @@
-<!--
+---
+layout: page
+title: "County Profile Lookup"
+permalink: "/county-profile.html"
 custom_js:
 - ../assets/js/FileSaver.min.js
--->
 
-
-<style>
-  select{
-    height: auto;
-  }
-</style>  
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
 
 <h2>County Demographic Profiles</h2>
 

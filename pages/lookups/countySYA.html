@@ -1,14 +1,17 @@
-<!--
+---
+layout: page
+title: "County Single Year of Age"
+permalink: "/county-sya.html"
 custom_js:
 - ../assets/js/FileSaver.min.js
--->
 
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
 
-<style>
-  select{
-    height: auto;
-  }
-</style>  
 
 <h2>County Population by Single Year of Age</h2>
 

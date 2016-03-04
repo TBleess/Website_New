@@ -1,16 +1,19 @@
-<!--
+---
+layout: page
+title: "Household Projections"
+permalink: "/household-projections.html"
 custom_js:
 - ../assets/js/FileSaver.min.js
--->
+
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
 
 
-<style>
-  select{
-    height: auto;
-  }
-</style>  
-
-<h2>Labor Force Participation</h2>
+<h2>Household Projections</h2>
 
 
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
@@ -113,28 +116,39 @@ custom_js:
 	<option value="2038">2038</option>  
 	<option value="2039">2039</option>
   <option value="2040">2040</option>
+	<option value="2041">2041</option>
+	<option value="2042">2042</option>
+	<option value="2043">2043</option>
+	<option value="2044">2044</option>
+	<option value="2045">2045</option>
+	<option value="2046">2046</option>
+	<option value="2047">2047</option>
+	<option value="2048">2048</option>  
+	<option value="2049">2049</option>
+  <option value="2050">2050</option>  
 </select><br /><br />
 <label for="ageGroups" style="font-weight: bold;">Select 1 or more age groups:</label><br />
-<select id="ageGroups" name="ageGroups" multiple="multiple" size="5">
-  <option value="a">Age 16 to 19</option>
-	<option value="b">Age 20 to 24</option>
-	<option value="c">Age 25 to 34</option>
-  <option value="d">Age 35 to 44</option>
-	<option value="e">Age 45 to 54</option>
-	<option value="f">Age 55 to 64</option>
-	<option value="g">Age 65 and over</option>
+<select id="ageGroups" name="ageGroups" multiple="multiple" size="4">
+  <option value="1">Age 18 to 24</option>
+	<option value="2">Age 25 to 44</option>
+	<option value="3">Age 45 to 64</option>
+  <option value="4">Age 65 plus</option>
+</select><br /><br />
+<label for="householdType" style="font-weight: bold;">Select 1 or more Household Types:</label><br />
+<select id="householdType" name="householdType" multiple="multiple" size="4">
+  <option value="1">One adult with no children</option>
+	<option value="2">One adult with children</option>
+	<option value="3">More than one adult with no children</option>
+  <option value="4">More than one adult with children</option>
 </select><br /><br />
 <label for="groupBy" style="font-weight: bold;">Select 0 or more variables to summarize by:</label><br />
-<select id="groupBy" name="groupBy" multiple="multiple" size="3">
+<select id="groupBy" name="groupBy" multiple="multiple" size="4">
   <option value="a">Year</option>
 	<option value="b">County</option>
 	<option value="c">Age Group</option>
+	<option value="d">Household Type</option>  
 </select><br /><br />
-    <input type="radio" name="compressed" value="" checked>Sum Male and Female&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&gender=m">Male Only&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&gender=f">Female Only&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&gender=b">List Male and Female<br />  
-<br />
+
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
@@ -152,6 +166,7 @@ custom_js:
     var selectedYears = getSelectValues(yearsSelected);
     var selectedAges = getSelectValues(ageGroups);
     var selectedGroupBy = getSelectValues(groupBy);        
+    var selectedHouseholdType = getSelectValues(householdType);        
       
           /*counties*/
     if(selectedCounties.length===0){
@@ -168,7 +183,11 @@ custom_js:
       alert('please choose an age group selection');
       return;
     }      
-
+          /*household type*/
+    if(selectedHouseholdType.length===0){
+      alert('please choose a household type selection');
+      return;
+    }     
       
    document.getElementById("dlcsv").style.display='inline-block';
       
@@ -188,7 +207,6 @@ custom_js:
   return result;
 }
 
-      var compressed = document.querySelector('input[name="compressed"]:checked').value;
 
       var groupstring = selectedGroupBy.join(",");
      var group="";
@@ -196,15 +214,33 @@ custom_js:
       if(groupstring==="a"){group='opt1';}
       if(groupstring==="b"){group='opt2';}
       if(groupstring==="c"){group='opt3';}
-      if(groupstring==="a,b"){group='opt4';}
-      if(groupstring==="a,c"){group='opt5';}
-      if(groupstring==="b,c"){group='opt6';}
-      if(groupstring==="a,b,c"){group='opt7';}
- 
+      if(groupstring==="d"){group='opt4';}
+      if(groupstring==="a,b"){group='opt5';}
+      if(groupstring==="a,c"){group='opt6';}
+      if(groupstring==="a,d"){group='opt7';}
+      if(groupstring==="b,c"){group='opt8';}
+      if(groupstring==="b,d"){group='opt9';}
+      if(groupstring==="c,d"){group='opt10';}    
+      if(groupstring==="a,b,c"){group='opt11';}  
+      if(groupstring==="a,b,d"){group='opt12';}        
+      if(groupstring==="b,c,d"){group='opt13';}       
+      
+    //opt1: year
+    //opt2: area_code
+    //opt3: age_group_id
+    //opt4: household_type_id
+    //opt5: year, area_code
+    //opt6: year, age_group_id
+    //opt7: year, household_type_id
+    //opt8: area_code, age_group_id
+    //opt9: area_code, household_type_id
+    //opt10: age_group_id, household_type_id
+    //opt11: year, area_code, age_group_id
+    //opt12: year, area_code, household_type_id
+    //opt13: area_code, age_group_id, household_type_id
       
       
-      
-      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + compressed + "&group=" + group;
+      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&household=" + selectedHouseholdType.join(",") + "&group=" + group;
       
       //console.log(querystring);
       
@@ -222,7 +258,7 @@ custom_js:
           } 
         };
       
-      xhttp.open("GET", "http://red-meteor-147235.nitrousapp.com:4001/labor-force?"+querystring, true);
+      xhttp.open("GET", "http://red-meteor-147235.nitrousapp.com:4001/household?"+querystring, true);
       xhttp.send();
     }
     
@@ -295,6 +331,25 @@ custom_js:
         
         return undefined; /*fallback (replaces otherwise undefined)*/
       }
+
+      
+      function agelookup(cat){
+        if(cat===1){return "18-24";}
+        if(cat===2){return "25-44";}
+        if(cat===3){return "45-64";}
+        if(cat===4){return "65 & Over";}
+        
+        return undefined; /*fallback (replaces otherwise undefined)*/
+      }
+      
+      function hhlookup(cat){
+        if(cat===1){return "One adult with no children";}
+        if(cat===2){return "One adult with children";}
+        if(cat===3){return "More than one adult with no children";}
+        if(cat===4){return "More than one adult with children";}
+        
+        return undefined; /*fallback (replaces otherwise undefined)*/
+      }            
       
       function createtable(results){
 
@@ -309,28 +364,24 @@ custom_js:
           var hcell4 = hrow.insertCell(3);
           var hcell5 = hrow.insertCell(4);
           var hcell6 = hrow.insertCell(5);        
-          var hcell7 = hrow.insertCell(6);    
-          var hcell8 = hrow.insertCell(7);   
         
           hcell1.innerHTML = "COUNTY";
           hcell2.innerHTML = "CFIPS";
           hcell3.innerHTML = "YEAR";
-          hcell4.innerHTML = "AGE";
-          hcell5.innerHTML = "GENDER";
-          hcell6.innerHTML = "Labor Force";
-          hcell7.innerHTML = "Universe";
-          hcell8.innerHTML = "Participation Rate";      
-        
+          hcell4.innerHTML = "AGE_GROUP";
+          hcell5.innerHTML = "HOUSEHOLD_TYPE";
+          hcell6.innerHTML = "Total_Households";
+          
           var body = table.appendChild(document.createElement('tbody'));
         
         
         
         for(var i=0;i<results.length;i++){
-          addrow(i,clookup(results[i].area_code) || "", results[i].area_code || "", results[i].population_year || "", results[i].age_group || "", results[i].gender || "", results[i].laborforce || "", results[i].cni_pop_16pl || "", results[i].participationrate || "")
+          addrow(i,clookup(results[i].area_code) || "", results[i].area_code || "", results[i].year || "", agelookup(results[i].age_group_id) || "", hhlookup(results[i].household_type_id) || "", results[i].total_households || "")
         }
         
         
-        function addrow(rownum, county, county_fips, year, age, gender, laborforce, cni_pop_16pl, participationrate){
+        function addrow(rownum, county, county_fips, year, age, household, total_household){
           
           var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
           
@@ -344,18 +395,15 @@ custom_js:
           var cell4 = row.insertCell(3);
           var cell5 = row.insertCell(4);
           var cell6 = row.insertCell(5);
-          var cell7 = row.insertCell(6);
-          var cell8 = row.insertCell(7);
           
           /* Add some text to the new cells:*/
           cell1.innerHTML = county;
           cell2.innerHTML = county_fips;
           cell3.innerHTML = year;
           cell4.innerHTML = age;
-          cell5.innerHTML = gender;
-          cell6.innerHTML = laborforce;
-          cell7.innerHTML = cni_pop_16pl;          
-          cell8.innerHTML = Number(participationrate*100).toFixed(2);                    
+          cell5.innerHTML = household;
+          cell6.innerHTML = total_household;
+              
         }
 
       }
@@ -385,7 +433,7 @@ for (i = 0; i < rowLength; i++){
       
       
 var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "laborForce_data.csv");
+saveAs(blob, "householdProjections_data.csv");
       
     }
   
