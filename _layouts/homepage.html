@@ -1,4 +1,7 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
   <head>
     
     <link type="text/css" rel="stylesheet" href="/dola_assets/common.css" />
@@ -6,6 +9,7 @@
 
     <link type="text/css" rel="stylesheet" href="/dola_assets/meanmenu.css" />
 
+    
         <meta name="author" content="State of Colorado" />
         <meta name="description" content="Colorado Department of Local Affairs" />
         <meta name="MobileOptimized" content="width" />
@@ -24,6 +28,25 @@
             document.createElement('@media');
             </script>
             <![endif]-->
+    
+    <style>
+
+.wrap {
+  max-width: 1120px; 
+  display: inline-block;
+}
+
+.content {
+  margin-right: 2%; 
+}
+
+.infobox {
+  float: right; 
+  width: 33%; 
+  margin-top: 40px;
+  margin-left: 20px;
+}
+      </style>
     
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.js"></script>
     <script type="text/javascript" src="/dola_assets/jquery.meanmenu.js"></script>
@@ -57,14 +80,33 @@
                 <section id="content" role="main">
                     <div id="main-content">
                       
-                                            
-                    {{ content }}
-                      
-                      
+                       <div class="wrap">
+                         
+                          <div class="infobox">
+                            
+                           <ul>
+                             {% for link in site.data.infobox %}
+                              <li>
+                                <a href="{{ link.url }}">{{ link.name }}</a>
+                              </li>
+                             {% endfor %}
+                           </ul>
+                            
+                          </div>
+                         
+                          <div class="content">
+                             {{ content }}
+                          </div>
+                         
+
+                         
+                      </div>
+                                                                
                     </div>
                 </section>
             </div>
         </div>
+
 
                   {% include _footer.html %}
     

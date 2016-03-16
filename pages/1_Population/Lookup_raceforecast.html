@@ -1,0 +1,425 @@
+---
+layout: page
+title: "County Race Forecast"
+permalink: "/population/data/race-forecast.html"
+custom_js:
+- /assets/js/FileSaver.min.js
+
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
+
+
+<h2>County Race by Age Forecast</h2>
+
+
+<label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
+<select id="countiesSelected" name="countiesSelected" multiple="multiple" size="5">	
+	<option value="1">Adams</option>
+	<option value="3">Alamosa</option>
+	<option value="5">Arapahoe</option>
+	<option value="7">Archuleta</option>
+	<option value="9">Baca</option>
+	<option value="11">Bent</option>
+	<option value="13">Boulder</option>
+	<option value="14">Broomfield</option>
+	<option value="15">Chaffee</option>
+	<option value="17">Cheyenne</option>
+	<option value="19">Clear Creek</option>
+	<option value="21">Conejos</option>
+	<option value="23">Costilla</option>
+	<option value="25">Crowley</option>
+	<option value="27">Custer</option>
+	<option value="29">Delta</option>
+	<option value="31">Denver</option>
+	<option value="33">Dolores</option>
+	<option value="35">Douglas</option>
+	<option value="37">Eagle</option>
+	<option value="41">El Paso</option>
+	<option value="39">Elbert</option>
+	<option value="43">Fremont</option>
+	<option value="45">Garfield</option>
+	<option value="47">Gilpin</option>
+	<option value="49">Grand</option>
+	<option value="51">Gunnison</option>
+	<option value="53">Hinsdale</option>
+	<option value="55">Huerfano</option>
+	<option value="57">Jackson</option>
+	<option value="59">Jefferson</option>
+	<option value="61">Kiowa</option>
+	<option value="63">Kit Carson</option>
+	<option value="67">La Plata</option>
+	<option value="65">Lake</option>
+	<option value="69">Larimer</option>
+	<option value="71">Las Animas</option>
+	<option value="73">Lincoln</option>
+	<option value="75">Logan</option>
+	<option value="77">Mesa</option>
+	<option value="79">Mineral</option>
+	<option value="81">Moffat</option>
+	<option value="83">Montezuma</option>
+	<option value="85">Montrose</option>
+	<option value="87">Morgan</option>
+	<option value="89">Otero</option>
+	<option value="91">Ouray</option>
+	<option value="93">Park</option>
+	<option value="95">Phillips</option>
+	<option value="97">Pitkin</option>
+	<option value="99">Prowers</option>
+	<option value="101">Pueblo</option>
+	<option value="103">Rio Blanco</option>
+	<option value="105">Rio Grande</option>
+	<option value="107">Routt</option>
+	<option value="109">Saguache</option>
+	<option value="111">San Juan</option>
+	<option value="113">San Miguel</option>
+	<option value="115">Sedgwick</option>
+	<option value="117">Summit</option>
+	<option value="119">Teller</option>
+	<option value="121">Washington</option>
+	<option value="123">Weld</option>
+	<option value="125">Yuma</option>
+</select><br /><br />
+<label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
+<select id="yearsSelected" name="yearsSelected" multiple="multiple" size="5">
+  <option value="2010">2010</option>
+	<option value="2011">2011</option>
+	<option value="2012">2012</option>
+	<option value="2013">2013</option>
+	<option value="2014">2014</option>
+	<option value="2015">2015</option>
+	<option value="2016">2016</option>
+	<option value="2017">2017</option>
+	<option value="2018">2018</option>  
+	<option value="2019">2019</option>
+  <option value="2020">2020</option>
+	<option value="2021">2021</option>
+	<option value="2022">2022</option>
+	<option value="2023">2023</option>
+	<option value="2024">2024</option>
+	<option value="2025">2025</option>
+	<option value="2026">2026</option>
+	<option value="2027">2027</option>
+	<option value="2028">2028</option>  
+	<option value="2029">2029</option>
+  <option value="2030">2030</option>
+	<option value="2031">2031</option>
+	<option value="2032">2032</option>
+	<option value="2033">2033</option>
+	<option value="2034">2034</option>
+	<option value="2035">2035</option>
+	<option value="2036">2036</option>
+	<option value="2037">2037</option>
+	<option value="2038">2038</option>  
+	<option value="2039">2039</option>
+  <option value="2040">2040</option>
+	<option value="2041">2041</option>
+	<option value="2042">2042</option>
+	<option value="2043">2043</option>
+	<option value="2044">2044</option>
+	<option value="2045">2045</option>
+	<option value="2046">2046</option>
+	<option value="2047">2047</option>
+	<option value="2048">2048</option>  
+	<option value="2049">2049</option>  
+	<option value="2050">2050</option>    
+</select><br /><br />
+<label for="ageGroups" style="font-weight: bold;">Select 1 or more age groups:</label><br />
+<select id="ageGroups" name="ageGroups" multiple="multiple" size="3">
+  <option value="0">Age 0-17</option>
+	<option value="18">Age 18-64</option>
+	<option value="65">Age 65+</option>
+</select><br /><br />
+<label for="raceGroups" style="font-weight: bold;">Select 1 or more race categories:</label><br />
+<select id="raceGroups" name="raceGroups" multiple="multiple" size="5">
+  <option value="1">Hispanic</option>
+	<option value="2">White non Hispanic</option>
+	<option value="3">Asian non Hispanic</option>
+	<option value="4">American Indian non Hispanic</option>
+	<option value="5">Black non Hispanic</option>
+	<!--<option value="6">Total</option>-->
+</select><br /><br />
+<label for="groupBy" style="font-weight: bold;">Select 0 or more variables to summarize by:</label><br />
+<select id="groupBy" name="groupBy" multiple="multiple" size="4">
+  <option value="a">Year</option>
+	<option value="b">County</option>
+	<option value="c">Age Group</option>
+	<option value="d">Race</option>
+</select><br /><br />
+  
+  <input type="submit" id="callapi" value="View Results" class="form-submit" />
+<br /><br /><br />
+<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
+<table id="resultstable"></table>
+
+
+
+
+
+
+
+
+
+
+<script>
+  
+  var viewresults=document.getElementById('callapi');
+  
+    viewresults.onclick=function(){
+      
+    var selectedCounties = getSelectValues(countiesSelected);
+    var selectedYears = getSelectValues(yearsSelected);
+    var selectedAges = getSelectValues(ageGroups);
+    var selectedRaces = getSelectValues(raceGroups);      
+    var selectedGroupBy = getSelectValues(groupBy);        
+      
+          /*counties*/
+    if(selectedCounties.length===0){
+      alert('please choose a county selection');
+      return;
+    }
+           /*years*/
+    if(selectedYears.length===0){
+      alert('please choose one or more years');
+      return;
+    }
+          /*age*/
+    if(selectedAges.length===0){
+      alert('please choose an age group selection');
+      return;
+    }      
+          /*race*/
+    if(selectedRaces.length===0){
+      alert('please choose a race selection');
+      return;
+    }
+      
+   document.getElementById("dlcsv").style.display='inline-block';
+      
+    /* Return an array of the selected option values*/
+    function getSelectValues(select) {
+  var result = [];
+  var options = select && select.options;
+  var opt;
+
+  for (var i=0, iLen=options.length; i<iLen; i++) {
+    opt = options[i];
+
+    if (opt.selected) {
+      result.push(opt.value || opt.text);
+    }
+  }
+  return result;
+}
+    
+   
+      
+
+      var groupstring = selectedGroupBy.join(",");
+     var group="";
+      
+      if(groupstring==="a"){group='opt1';}
+      if(groupstring==="b"){group='opt2';}
+      if(groupstring==="c"){group='opt3';}
+      if(groupstring==="d"){group='opt4';}
+      if(groupstring==="a,b"){group='opt5';}
+      if(groupstring==="a,c"){group='opt6';}
+      if(groupstring==="a,d"){group='opt7';}
+      if(groupstring==="b,c"){group='opt8';}
+      if(groupstring==="b,d"){group='opt9';}
+      if(groupstring==="c,d"){group='opt10';}
+      if(groupstring==="a,b,c"){group='opt11';}
+      if(groupstring==="a,b,d"){group='opt12';}      
+      if(groupstring==="a,c,d"){group='opt13';}
+      if(groupstring==="b,c,d"){group='opt14';}   
+      
+      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&race=" + selectedRaces.join(",") + "&group=" + group;
+      console.log(querystring);
+      
+   requestdata(querystring);
+      
+      
+    /*ajax request function*/
+    function requestdata(querystring){
+      
+      var xhttp = new XMLHttpRequest();
+      
+      xhttp.onreadystatechange = function() {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            createtable(JSON.parse(xhttp.responseText));
+          } 
+        };
+      
+      xhttp.open("GET", "http://104.197.26.248:4001/sya-race-forecast?"+querystring, true);
+      xhttp.send();
+    }
+    
+      
+      function clookup(county){
+        if(county===1){return "Adams County";}
+        if(county===3){return "Alamosa County";}
+        if(county===5){return "Arapahoe County";}
+        if(county===7){return "Archuleta County";}
+        if(county===9){return "Baca County";}
+        if(county===11){return "Bent County";}
+        if(county===13){return "Boulder County";}
+        if(county===14){return "Broomfield County";}
+        if(county===15){return "Chaffee County";}
+        if(county===17){return "Cheyenne County";}
+        if(county===19){return "Clear Creek County";}
+        if(county===21){return "Conejos County";}
+        if(county===23){return "Costilla County";}
+        if(county===25){return "Crowley County";}
+        if(county===27){return "Custer County";}
+        if(county===29){return "Delta County";}
+        if(county===31){return "Denver County";}
+        if(county===33){return "Dolores County";}
+        if(county===35){return "Douglas County";}
+        if(county===37){return "Eagle County";}
+        if(county===39){return "Elbert County";}
+        if(county===41){return "El Paso County";}
+        if(county===43){return "Fremont County";}
+        if(county===45){return "Garfield County";}        
+        if(county===47){return "Gilpin County";}
+        if(county===49){return "Grand County";}
+        if(county===51){return "Gunnison County";}
+        if(county===53){return "Hinsdale County";}
+        if(county===55){return "Huerfano County";}
+        if(county===57){return "Jackson County";}
+        if(county===59){return "Jefferson County";}
+        if(county===61){return "Kiowa County";}
+        if(county===63){return "Kit Carson County";}
+        if(county===65){return "Lake County";}
+        if(county===67){return "La Plata County";}
+        if(county===69){return "Larimer County";}        
+        if(county===71){return "Las Animas County";}
+        if(county===73){return "Lincoln County";}
+        if(county===75){return "Logan County";}
+        if(county===77){return "Mesa County";}
+        if(county===79){return "Mineral County";}
+        if(county===81){return "Moffat County";}
+        if(county===83){return "Montezuma County";}
+        if(county===85){return "Montrose County";}
+        if(county===87){return "Morgan County";}
+        if(county===89){return "Otero County";}
+        if(county===91){return "Ouray County";}
+        if(county===93){return "Park County";}        
+        if(county===95){return "Phillips County";}
+        if(county===97){return "Pitkin County";}
+        if(county===99){return "Prowers County";}
+        if(county===101){return "Pueblo County";}
+        if(county===103){return "Rio Blanco County";}
+        if(county===105){return "Rio Grande County";}
+        if(county===107){return "Routt County";}
+        if(county===109){return "Saguache County";}
+        if(county===111){return "San Juan County";}
+        if(county===113){return "San Miguel County";}
+        if(county===115){return "Sedgwick County";}
+        if(county===117){return "Summit County";}    
+        if(county===119){return "Teller County";}
+        if(county===121){return "Washington County";}
+        if(county===123){return "Weld County";}
+        if(county===125){return "Yuma County";}
+        
+        return ""; /*fallback (replaces otherwise undefined)*/
+      }
+      
+      function createtable(results){
+
+          var table = document.getElementById("resultstable");
+          table.innerHTML = ""; /*clear all previous content*/
+        
+          var header = table.createTHead();
+          var hrow = header.insertRow(0);     
+          var hcell1 = hrow.insertCell(0);
+          var hcell2 = hrow.insertCell(1);
+          var hcell3 = hrow.insertCell(2);
+          var hcell4 = hrow.insertCell(3);
+          var hcell5 = hrow.insertCell(4);
+          var hcell6 = hrow.insertCell(5);        
+        
+          hcell1.innerHTML = "COUNTY";
+          hcell2.innerHTML = "CFIPS";
+          hcell3.innerHTML = "YEAR";
+          hcell4.innerHTML = "AGE";
+          hcell5.innerHTML = "RACE";
+          hcell6.innerHTML = "COUNT";
+      
+        
+          var body = table.appendChild(document.createElement('tbody'));
+        
+        
+        
+        for(var i=0;i<results.length;i++){
+          
+          var pass_age = results[i].age || "";
+          if(results[i].age===0){pass_age="Age 0-17";}
+          if(results[i].age===18){pass_age="Age 18-64";}
+          if(results[i].age===65){pass_age="Age 65+";}
+          
+          addrow(i,results[i].county || "", results[i].county_fips || "", results[i].year || "", pass_age, results[i].race || "", results[i].count)
+        }
+        
+        
+        function addrow(rownum, county, county_fips, year, age, race, count){
+          
+          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+          
+          /* Create an empty <tr> element and add it to the 1st position of the table:*/
+          var row = tableRef.insertRow(rownum);
+
+          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+          var cell1 = row.insertCell(0);
+          var cell2 = row.insertCell(1);
+          var cell3 = row.insertCell(2);
+          var cell4 = row.insertCell(3);
+          var cell5 = row.insertCell(4);
+          var cell6 = row.insertCell(5);
+
+          
+          /* Add some text to the new cells:*/
+          cell1.innerHTML = county;
+          cell2.innerHTML = county_fips;
+          cell3.innerHTML = year;
+          cell4.innerHTML = age;
+          cell5.innerHTML = race;
+          cell6.innerHTML = count;
+          
+        }
+
+      }
+
+    
+  };
+  
+  
+    var dlcsv=document.getElementById('dlcsv');
+
+    dlcsv.onclick=function(){
+      
+      var csvstring="";
+      
+      var oTable = document.getElementById('resultstable');
+var rowLength = oTable.rows.length;
+for (i = 0; i < rowLength; i++){
+   var oCells = oTable.rows.item(i).cells;
+   var cellLength = oCells.length;
+   for(var j = 0; j < cellLength; j++){
+      /* get your cell info here */
+      if(j===0 && i>0){csvstring=csvstring+"\n";}
+      csvstring = csvstring + oCells.item(j).innerHTML;
+     if(j< cellLength ){csvstring=csvstring+",";}
+     }
+}
+      
+      
+var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
+saveAs(blob, "raceForecast_data.csv");
+      
+    }
+  
+  
+</script>  

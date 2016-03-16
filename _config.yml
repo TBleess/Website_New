@@ -39,7 +39,8 @@ urlimg: 'http://demography.dola.colorado.gov/images'
 markdown: kramdown
 
   
-permalink: /:categories/:title/
+# permalink: pretty
+
 highlight: rouge
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']

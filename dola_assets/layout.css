@@ -142,13 +142,13 @@
     margin:0;
 }
 
-@media screen and (max-width: 930px) {
+@media screen and (max-width: 984px) {
     #top-bar-right {
         float: left;
     }
 }
 
-@media screen and (min-width: 931px) {
+@media screen and (min-width: 985px) {
     #top-navigation-wrapper{
         background-color: #21201e;
         height: 48px;
@@ -261,4 +261,3 @@
     padding-top: 14px;
     padding-bottom: 13px;
 }
-

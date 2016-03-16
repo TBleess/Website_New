@@ -7,7 +7,7 @@
 
 url: 'http://rubymaputopia-146415.nitrousapp.com:3000'
 baseurl: ''
-urlimg: 'http://rubymaputopia-146415.nitrousapp.com:3000/images'
+urlimg: '/images'
 
 
 # Disable when not in production

@@ -1,0 +1,434 @@
+---
+layout: page
+title: "County Profile Lookup"
+permalink: "/population/data/county-profile.html"
+custom_js:
+- /assets/js/FileSaver.min.js
+
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
+
+<h2>County Demographic Profiles</h2>
+
+<br />
+<label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
+<select id="countiesSelected" class="formtable" name="countiesSelected" multiple="multiple" size="5">	
+	<option value="1">Adams</option>
+	<option value="3">Alamosa</option>
+	<option value="5">Arapahoe</option>
+	<option value="7">Archuleta</option>
+	<option value="9">Baca</option>
+	<option value="11">Bent</option>
+	<option value="13">Boulder</option>
+	<option value="14">Broomfield</option>
+	<option value="15">Chaffee</option>
+	<option value="17">Cheyenne</option>
+	<option value="19">Clear Creek</option>
+	<option value="21">Conejos</option>
+	<option value="23">Costilla</option>
+	<option value="25">Crowley</option>
+	<option value="27">Custer</option>
+	<option value="29">Delta</option>
+	<option value="31">Denver</option>
+	<option value="33">Dolores</option>
+	<option value="35">Douglas</option>
+	<option value="37">Eagle</option>
+	<option value="41">El Paso</option>
+	<option value="39">Elbert</option>
+	<option value="43">Fremont</option>
+	<option value="45">Garfield</option>
+	<option value="47">Gilpin</option>
+	<option value="49">Grand</option>
+	<option value="51">Gunnison</option>
+	<option value="53">Hinsdale</option>
+	<option value="55">Huerfano</option>
+	<option value="57">Jackson</option>
+	<option value="59">Jefferson</option>
+	<option value="61">Kiowa</option>
+	<option value="63">Kit Carson</option>
+	<option value="67">La Plata</option>
+	<option value="65">Lake</option>
+	<option value="69">Larimer</option>
+	<option value="71">Las Animas</option>
+	<option value="73">Lincoln</option>
+	<option value="75">Logan</option>
+	<option value="77">Mesa</option>
+	<option value="79">Mineral</option>
+	<option value="81">Moffat</option>
+	<option value="83">Montezuma</option>
+	<option value="85">Montrose</option>
+	<option value="87">Morgan</option>
+	<option value="89">Otero</option>
+	<option value="91">Ouray</option>
+	<option value="93">Park</option>
+	<option value="95">Phillips</option>
+	<option value="97">Pitkin</option>
+	<option value="99">Prowers</option>
+	<option value="101">Pueblo</option>
+	<option value="103">Rio Blanco</option>
+	<option value="105">Rio Grande</option>
+	<option value="107">Routt</option>
+	<option value="109">Saguache</option>
+	<option value="111">San Juan</option>
+	<option value="113">San Miguel</option>
+	<option value="115">Sedgwick</option>
+	<option value="117">Summit</option>
+	<option value="119">Teller</option>
+	<option value="121">Washington</option>
+	<option value="123">Weld</option>
+	<option value="125">Yuma</option>
+</select>
+
+<br /><br />
+<label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
+<select id="yearsSelected" class="formtable" name="yearsSelected" multiple="multiple" size="5">
+	<option value="1985">1985</option>
+	<option value="1986">1986</option>
+	<option value="1987">1987</option>
+	<option value="1988">1988</option>
+  <option value="1989">1989</option>
+  <option value="1990">1990</option>
+	<option value="1991">1991</option>
+	<option value="1992">1992</option>
+	<option value="1993">1993</option>
+	<option value="1994">1994</option>
+  <option value="1995">1995</option>
+	<option value="1996">1996</option>
+	<option value="1997">1997</option>
+	<option value="1998">1998</option>
+	<option value="1999">1999</option>
+  <option value="2000">2000</option>
+	<option value="2001">2001</option>
+	<option value="2002">2002</option>
+	<option value="2003">2003</option>
+	<option value="2004">2004</option>
+  <option value="2005">2005</option>
+	<option value="2006">2006</option>
+	<option value="2007">2007</option>
+	<option value="2008">2008</option>
+	<option value="2009">2009</option>
+  <option value="2010">2010</option>
+	<option value="2011">2011</option>
+	<option value="2012">2012</option>
+	<option value="2013">2013</option>
+	<option value="2014">2014</option>
+</select>
+
+<br /><br />
+<label for="demographics" style="font-weight: bold;">Select 1 or more statistics:</label><br />
+<select id="demographics" class="formtable" name="demographics" multiple="multiple" size="5">
+  <option value="births">Births</option>
+	<option value="deaths">Deaths</option>
+	<option value="netmigration">Net Migration</option>
+	<option value="naturalincrease">Natural Increase</option>  
+	<option value="censusbuildingpermits">Census Building Permits</option>
+	<option value="groupquarterspopulation">Group Quarters Population</option>
+  <option value="householdpopulation">Household Population</option>
+	<option value="households">Households</option>
+	<option value="householdsize">Household Size</option>
+	<option value="totalhousingunits">Total Housing Units</option>
+	<option value="vacancyrate">Vacancy Rate</option>
+	<option value="vacanthousingunits">Vacant Housing Units</option>
+</select>
+
+<br /><br />
+  <input type="radio" name="compressed" value="no" checked>No Grouping&nbsp;&nbsp;&nbsp;
+  <input type="radio" name="compressed" value="opt1">Group by Year&nbsp;&nbsp;&nbsp;
+  <input type="radio" name="compressed" value="opt2">Group by County
+<br /><br />
+  <input type="submit" id="callapi" value="View Results" class="form-submit" />
+<br /><br /><br />
+<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" />
+<br />
+<table id="resultstable"></table>
+
+
+
+
+
+
+
+
+
+
+<script>
+  
+  var viewresults=document.getElementById('callapi');
+  
+  /* click VIEW RESULTS BUTTON */
+    viewresults.onclick=function(){
+
+      
+    /* Return an array of the selected option values*/
+    function getSelectValues(select) {
+  var result = [];
+  var options = select && select.options;
+  var opt;
+
+  for (var i=0, iLen=options.length; i<iLen; i++) {
+    opt = options[i];
+
+    if (opt.selected) {
+      result.push(opt.value || opt.text);
+    }
+  }
+  return result;
+}
+    
+    var selectedCounties = getSelectValues(countiesSelected);
+    var selectedYears = getSelectValues(yearsSelected);
+    var selectedStats = getSelectValues(demographics);
+      
+    var compressed = document.querySelector('input[name="compressed"]:checked').value;
+      
+    var yearstring;
+    var statstring;
+    var countystring;
+      
+      /*VALIDATION*/
+    if(selectedYears.length===0){
+      alert('no year selected');
+      return;
+    }else{
+      yearstring = selectedYears.join(",");
+    }
+    
+    if(selectedStats.length===0){
+      alert('no demographics selected');
+      return;
+    }else{
+      statstring = selectedStats.join(",");
+    }        
+    
+    if(selectedCounties.length===0){
+      alert('no county selected');
+      return;
+    }else{
+      countystring = selectedCounties.join(",");
+    }        
+      
+      var querystring="vars=" + statstring + "&county=" + countystring + "&year=" + yearstring + "&group=" + compressed;
+      
+ 
+      /* make Download CSV button visible */
+   document.getElementById("dlcsv").style.display='inline-block';      
+      
+    requestdata(querystring);
+      
+    /*ajax request function*/
+    function requestdata(querystring){
+      
+      var xhttp = new XMLHttpRequest();
+      
+      xhttp.onreadystatechange = function() {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            createtable(JSON.parse(xhttp.responseText));
+          } /*fill in for error codes later*/
+        };
+      
+      xhttp.open("GET", "http://104.197.26.248:4001/profile?"+querystring, true);
+      xhttp.send();
+    }
+    
+          
+      function clookup(county){
+        if(county===1){return "Adams County";}
+        if(county===3){return "Alamosa County";}
+        if(county===5){return "Arapahoe County";}
+        if(county===7){return "Archuleta County";}
+        if(county===9){return "Baca County";}
+        if(county===11){return "Bent County";}
+        if(county===13){return "Boulder County";}
+        if(county===14){return "Broomfield County";}
+        if(county===15){return "Chaffee County";}
+        if(county===17){return "Cheyenne County";}
+        if(county===19){return "Clear Creek County";}
+        if(county===21){return "Conejos County";}
+        if(county===23){return "Costilla County";}
+        if(county===25){return "Crowley County";}
+        if(county===27){return "Custer County";}
+        if(county===29){return "Delta County";}
+        if(county===31){return "Denver County";}
+        if(county===33){return "Dolores County";}
+        if(county===35){return "Douglas County";}
+        if(county===37){return "Eagle County";}
+        if(county===39){return "Elbert County";}
+        if(county===41){return "El Paso County";}
+        if(county===43){return "Fremont County";}
+        if(county===45){return "Garfield County";}        
+        if(county===47){return "Gilpin County";}
+        if(county===49){return "Grand County";}
+        if(county===51){return "Gunnison County";}
+        if(county===53){return "Hinsdale County";}
+        if(county===55){return "Huerfano County";}
+        if(county===57){return "Jackson County";}
+        if(county===59){return "Jefferson County";}
+        if(county===61){return "Kiowa County";}
+        if(county===63){return "Kit Carson County";}
+        if(county===65){return "Lake County";}
+        if(county===67){return "La Plata County";}
+        if(county===69){return "Larimer County";}        
+        if(county===71){return "Las Animas County";}
+        if(county===73){return "Lincoln County";}
+        if(county===75){return "Logan County";}
+        if(county===77){return "Mesa County";}
+        if(county===79){return "Mineral County";}
+        if(county===81){return "Moffat County";}
+        if(county===83){return "Montezuma County";}
+        if(county===85){return "Montrose County";}
+        if(county===87){return "Morgan County";}
+        if(county===89){return "Otero County";}
+        if(county===91){return "Ouray County";}
+        if(county===93){return "Park County";}        
+        if(county===95){return "Phillips County";}
+        if(county===97){return "Pitkin County";}
+        if(county===99){return "Prowers County";}
+        if(county===101){return "Pueblo County";}
+        if(county===103){return "Rio Blanco County";}
+        if(county===105){return "Rio Grande County";}
+        if(county===107){return "Routt County";}
+        if(county===109){return "Saguache County";}
+        if(county===111){return "San Juan County";}
+        if(county===113){return "San Miguel County";}
+        if(county===115){return "Sedgwick County";}
+        if(county===117){return "Summit County";}    
+        if(county===119){return "Teller County";}
+        if(county===121){return "Washington County";}
+        if(county===123){return "Weld County";}
+        if(county===125){return "Yuma County";}
+        
+        return undefined; /*fallback (replaces otherwise undefined)*/
+      }
+      
+      
+      function createtable(results){
+
+          var table = document.getElementById("resultstable");
+          table.innerHTML = ""; /*clear all previous content*/
+        
+          var header = table.createTHead();
+          var hrow = header.insertRow(0);     
+          var hcell1 = hrow.insertCell(0);
+          var hcell2 = hrow.insertCell(1);
+          var hcell3 = hrow.insertCell(2);
+          var hcell4 = hrow.insertCell(3);
+          var hcell5 = hrow.insertCell(4);
+          var hcell6 = hrow.insertCell(5);        
+          var hcell7 = hrow.insertCell(6);
+          var hcell8 = hrow.insertCell(7);
+          var hcell9 = hrow.insertCell(8);
+          var hcell10 = hrow.insertCell(9);
+          var hcell11 = hrow.insertCell(10);
+          var hcell12 = hrow.insertCell(11);
+          var hcell13 = hrow.insertCell(12);
+          var hcell14 = hrow.insertCell(13);
+          var hcell15 = hrow.insertCell(14);
+        
+          hcell1.innerHTML = "CFIPS";
+          hcell2.innerHTML = "YEAR";
+          hcell3.innerHTML = "COUNTY";
+          hcell4.innerHTML = "Births";
+          hcell5.innerHTML = "Deaths";
+          hcell6.innerHTML = "Net Migration";
+          hcell7.innerHTML = "Natural Increase";
+          hcell8.innerHTML = "Census Building Permits";
+          hcell9.innerHTML = "Group Quarters Population";      
+          hcell10.innerHTML = "Household Population";        
+          hcell11.innerHTML = "Households";
+          hcell12.innerHTML = "Household Size";
+          hcell13.innerHTML = "Total Housing Units";        
+          hcell14.innerHTML = "Vacancy Rate";
+          hcell15.innerHTML = "Vacant Housing Units";
+        
+        var body = table.appendChild(document.createElement('tbody'));
+        
+        
+        
+        for(var i=0;i<results.length;i++){
+          
+          addrow(i,results[i].countyfips || "",results[i].year || "",clookup(results[i].countyfips) || "",results[i].births || "",results[i].deaths || "",results[i].netmigration || "",results[i].naturalincrease || "",results[i].censusbuildingpermits || "",results[i].groupquarterspopulation || "",results[i].householdpopulation || "",results[i].households || "",results[i].householdsize || "",results[i].totalhousingunits || "",results[i].vacancyrate || "",results[i].vacanthousingunits || "");
+          
+        }
+        
+        
+        function addrow(rownum, countyfips, year, county, births, deaths, netmigration, naturalincrease, censusbuildingpermits, groupquarterspopulation, householdpopulation, households, householdsize, totalhousingunits, vacancyrate, vacanthousingunits){
+          
+          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+          
+          /* Create an empty <tr> element and add it to the 1st position of the table:*/
+          var row = tableRef.insertRow(rownum);
+
+          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+          var cell1 = row.insertCell(0);
+          var cell2 = row.insertCell(1);
+          var cell3 = row.insertCell(2);
+          var cell4 = row.insertCell(3);
+          var cell5 = row.insertCell(4);
+          var cell6 = row.insertCell(5);
+          var cell7 = row.insertCell(6);
+          var cell8 = row.insertCell(7);
+          var cell9 = row.insertCell(8);
+          var cell10 = row.insertCell(9);
+          var cell11 = row.insertCell(10);
+          var cell12 = row.insertCell(11);
+          var cell13 = row.insertCell(12);
+          var cell14 = row.insertCell(13);
+          var cell15 = row.insertCell(14);
+
+          
+          /* Add some text to the new cells:*/
+          cell1.innerHTML = countyfips;
+          cell2.innerHTML = year;
+          cell3.innerHTML = county;
+          cell4.innerHTML = births;
+          cell5.innerHTML = deaths;
+          cell6.innerHTML = netmigration;
+          cell7.innerHTML = naturalincrease;
+          cell8.innerHTML = censusbuildingpermits;
+          cell9.innerHTML = groupquarterspopulation;
+          cell10.innerHTML = householdpopulation;
+          cell11.innerHTML = households;
+          cell12.innerHTML = householdsize;
+          cell13.innerHTML = totalhousingunits;
+          cell14.innerHTML = vacancyrate;
+          cell15.innerHTML = vacanthousingunits;
+          
+        }
+
+      }
+
+    
+  };
+  
+  
+    var dlcsv=document.getElementById('dlcsv');
+  
+    dlcsv.onclick=function(){
+      
+      var csvstring="";
+      
+      var oTable = document.getElementById('resultstable');
+var rowLength = oTable.rows.length;
+for (i = 0; i < rowLength; i++){
+   var oCells = oTable.rows.item(i).cells;
+   var cellLength = oCells.length;
+   for(var j = 0; j < cellLength; j++){
+      /* get your cell info here */
+      if(j===0 && i>0){csvstring=csvstring+"\n";}
+      csvstring = csvstring + oCells.item(j).innerHTML;
+     if(j< cellLength ){csvstring=csvstring+",";}
+     }
+}
+      
+      
+var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
+saveAs(blob, "county_profile.csv");
+      
+    }
+  
+  
+</script>  
