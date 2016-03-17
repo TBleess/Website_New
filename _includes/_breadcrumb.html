@@ -13,6 +13,8 @@
   }
 </style>  
   
+<!--Hacky workaround of liquid templating language not having a 'titlecase' filter -->
+
 <nav class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
  <a href="{{ site.url }}">{{ site.data.language.breadcrumb_start }}</a>&nbsp;&gt;
  {% assign crumbs = page.url | split: '/' %}
@@ -20,7 +22,7 @@
     {% if forloop.last %}
         <a class="current">{{ page.title }}</a>
     {% else %}
-        <a href="{{ site.url }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | capitalize_all }}</a>&nbsp;&gt;
+        <a href="{{ site.url }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | capitalize | replace:'Gis','GIS' | replace:'Births deaths migration',"Births, Deaths and Migration"  | replace:'Economy labor force',"Economy and Labor Force" | replace:'Census acs','Census and ACS' | replace:'Housing and households','Housing and Households' }}</a>&nbsp;&gt;
     {% endif %}
   {% endfor %}
 </nav>
