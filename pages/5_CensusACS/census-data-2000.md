@@ -30,6 +30,6 @@ As with all census data you can find this information and much more on the [US C
 #### Popular Items
 
 - [Comparing Census and ACS data](http://www.huduser.org/portal/home.html)
-- [Map Gallery](https://dola.colorado.gov/maps)
+- [Map Gallery](/gis/map-gallery.html)
 - [What are Metropolitan & Micropolitan Statistical Areas](http://www.census.gov/population/metro/)
 - [Urban & Rural Definitions](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)

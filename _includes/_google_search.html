@@ -1,5 +1,15 @@
 {% comment %}TODO consider https://developers.google.com/custom-search/docs/element{% endcomment %}
 {% capture google_search_site %}{{ site.url }}{{ site.baseurl }}/{% endcapture %}
+<style>
+  #google-search{
+    width: 100%;
+    max-width: 400px;
+    margin-right: 50px;
+    height: 30px;
+    font-size: 18px;
+    padding-left: 20px;
+  }
+</style>  
 <script language="Javascript" type="text/javascript">
 	function google_search() {
 		var query = document.getElementById("google-search").value;

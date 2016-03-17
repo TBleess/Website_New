@@ -10,7 +10,7 @@ permalink: "/gis/maps-and-data.html"
 
 **Webmap Gallery**
 
-- [Interactive Web Maps and Data Visualizations](http://dola.colorado.gov/gis-cms/content/map-gallery) *Change*
+- [Interactive Web Maps and Data Visualizations](/gis/map-gallery.html)
 
 **PDF Maps**
 

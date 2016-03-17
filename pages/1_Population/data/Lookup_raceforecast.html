@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Labor Force"
-permalink: "/economy-labor-force/data/labor-force.html"
+title: "County Race Forecast"
+permalink: "/population/data/race-forecast.html"
 custom_js:
 - /assets/js/FileSaver.min.js
+file: ""
+description: ""
 
 ---
 {% if page.custom_js %}
@@ -13,7 +15,7 @@ custom_js:
 {% endif %}
 
 
-<h2>Labor Force Participation</h2>
+<h2>County Race by Age Forecast</h2>
 
 
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
@@ -116,32 +118,51 @@ custom_js:
 	<option value="2038">2038</option>  
 	<option value="2039">2039</option>
   <option value="2040">2040</option>
+	<option value="2041">2041</option>
+	<option value="2042">2042</option>
+	<option value="2043">2043</option>
+	<option value="2044">2044</option>
+	<option value="2045">2045</option>
+	<option value="2046">2046</option>
+	<option value="2047">2047</option>
+	<option value="2048">2048</option>  
+	<option value="2049">2049</option>  
+	<option value="2050">2050</option>    
 </select><br /><br />
 <label for="ageGroups" style="font-weight: bold;">Select 1 or more age groups:</label><br />
-<select id="ageGroups" name="ageGroups" multiple="multiple" size="5">
-  <option value="a">Age 16 to 19</option>
-	<option value="b">Age 20 to 24</option>
-	<option value="c">Age 25 to 34</option>
-  <option value="d">Age 35 to 44</option>
-	<option value="e">Age 45 to 54</option>
-	<option value="f">Age 55 to 64</option>
-	<option value="g">Age 65 and over</option>
+<select id="ageGroups" name="ageGroups" multiple="multiple" size="3">
+  <option value="0">Age 0-17</option>
+	<option value="18">Age 18-64</option>
+	<option value="65">Age 65+</option>
+</select><br /><br />
+<label for="raceGroups" style="font-weight: bold;">Select 1 or more race categories:</label><br />
+<select id="raceGroups" name="raceGroups" multiple="multiple" size="5">
+  <option value="1">Hispanic</option>
+	<option value="2">White non Hispanic</option>
+	<option value="3">Asian non Hispanic</option>
+	<option value="4">American Indian non Hispanic</option>
+	<option value="5">Black non Hispanic</option>
+	<!--<option value="6">Total</option>-->
 </select><br /><br />
 <label for="groupBy" style="font-weight: bold;">Select 0 or more variables to summarize by:</label><br />
-<select id="groupBy" name="groupBy" multiple="multiple" size="3">
+<select id="groupBy" name="groupBy" multiple="multiple" size="4">
   <option value="a">Year</option>
 	<option value="b">County</option>
 	<option value="c">Age Group</option>
+	<option value="d">Race</option>
 </select><br /><br />
-    <input type="radio" name="compressed" value="" checked>Sum Male and Female&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&gender=m">Male Only&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&gender=f">Female Only&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&gender=b">List Male and Female<br />  
-<br />
+  
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
 <table id="resultstable"></table>
+
+
+
+
+
+
+
 
 
 
@@ -154,6 +175,7 @@ custom_js:
     var selectedCounties = getSelectValues(countiesSelected);
     var selectedYears = getSelectValues(yearsSelected);
     var selectedAges = getSelectValues(ageGroups);
+    var selectedRaces = getSelectValues(raceGroups);      
     var selectedGroupBy = getSelectValues(groupBy);        
       
           /*counties*/
@@ -171,7 +193,11 @@ custom_js:
       alert('please choose an age group selection');
       return;
     }      
-
+          /*race*/
+    if(selectedRaces.length===0){
+      alert('please choose a race selection');
+      return;
+    }
       
    document.getElementById("dlcsv").style.display='inline-block';
       
@@ -190,8 +216,9 @@ custom_js:
   }
   return result;
 }
-
-      var compressed = document.querySelector('input[name="compressed"]:checked').value;
+    
+   
+      
 
       var groupstring = selectedGroupBy.join(",");
      var group="";
@@ -199,17 +226,20 @@ custom_js:
       if(groupstring==="a"){group='opt1';}
       if(groupstring==="b"){group='opt2';}
       if(groupstring==="c"){group='opt3';}
-      if(groupstring==="a,b"){group='opt4';}
-      if(groupstring==="a,c"){group='opt5';}
-      if(groupstring==="b,c"){group='opt6';}
-      if(groupstring==="a,b,c"){group='opt7';}
- 
+      if(groupstring==="d"){group='opt4';}
+      if(groupstring==="a,b"){group='opt5';}
+      if(groupstring==="a,c"){group='opt6';}
+      if(groupstring==="a,d"){group='opt7';}
+      if(groupstring==="b,c"){group='opt8';}
+      if(groupstring==="b,d"){group='opt9';}
+      if(groupstring==="c,d"){group='opt10';}
+      if(groupstring==="a,b,c"){group='opt11';}
+      if(groupstring==="a,b,d"){group='opt12';}      
+      if(groupstring==="a,c,d"){group='opt13';}
+      if(groupstring==="b,c,d"){group='opt14';}   
       
-      
-      
-      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + compressed + "&group=" + group;
-      
-      //console.log(querystring);
+      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&race=" + selectedRaces.join(",") + "&group=" + group;
+      console.log(querystring);
       
    requestdata(querystring);
       
@@ -225,7 +255,7 @@ custom_js:
           } 
         };
       
-      xhttp.open("GET", "http://104.197.26.248:4001/labor-force?"+querystring, true);
+      xhttp.open("GET", "http://104.197.26.248:4001/sya-race-forecast?"+querystring, true);
       xhttp.send();
     }
     
@@ -296,7 +326,7 @@ custom_js:
         if(county===123){return "Weld County";}
         if(county===125){return "Yuma County";}
         
-        return undefined; /*fallback (replaces otherwise undefined)*/
+        return ""; /*fallback (replaces otherwise undefined)*/
       }
       
       function createtable(results){
@@ -312,28 +342,31 @@ custom_js:
           var hcell4 = hrow.insertCell(3);
           var hcell5 = hrow.insertCell(4);
           var hcell6 = hrow.insertCell(5);        
-          var hcell7 = hrow.insertCell(6);    
-          var hcell8 = hrow.insertCell(7);   
         
           hcell1.innerHTML = "COUNTY";
           hcell2.innerHTML = "CFIPS";
           hcell3.innerHTML = "YEAR";
           hcell4.innerHTML = "AGE";
-          hcell5.innerHTML = "GENDER";
-          hcell6.innerHTML = "Labor Force";
-          hcell7.innerHTML = "Universe";
-          hcell8.innerHTML = "Participation Rate";      
+          hcell5.innerHTML = "RACE";
+          hcell6.innerHTML = "COUNT";
+      
         
           var body = table.appendChild(document.createElement('tbody'));
         
         
         
         for(var i=0;i<results.length;i++){
-          addrow(i,clookup(results[i].area_code) || "", results[i].area_code || "", results[i].population_year || "", results[i].age_group || "", results[i].gender || "", results[i].laborforce || "", results[i].cni_pop_16pl || "", results[i].participationrate || "")
+          
+          var pass_age = results[i].age || "";
+          if(results[i].age===0){pass_age="Age 0-17";}
+          if(results[i].age===18){pass_age="Age 18-64";}
+          if(results[i].age===65){pass_age="Age 65+";}
+          
+          addrow(i,results[i].county || "", results[i].county_fips || "", results[i].year || "", pass_age, results[i].race || "", results[i].count)
         }
         
         
-        function addrow(rownum, county, county_fips, year, age, gender, laborforce, cni_pop_16pl, participationrate){
+        function addrow(rownum, county, county_fips, year, age, race, count){
           
           var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
           
@@ -347,18 +380,16 @@ custom_js:
           var cell4 = row.insertCell(3);
           var cell5 = row.insertCell(4);
           var cell6 = row.insertCell(5);
-          var cell7 = row.insertCell(6);
-          var cell8 = row.insertCell(7);
+
           
           /* Add some text to the new cells:*/
           cell1.innerHTML = county;
           cell2.innerHTML = county_fips;
           cell3.innerHTML = year;
           cell4.innerHTML = age;
-          cell5.innerHTML = gender;
-          cell6.innerHTML = laborforce;
-          cell7.innerHTML = cni_pop_16pl;          
-          cell8.innerHTML = Number(participationrate*100).toFixed(2);                    
+          cell5.innerHTML = race;
+          cell6.innerHTML = count;
+          
         }
 
       }
@@ -388,7 +419,7 @@ for (i = 0; i < rowLength; i++){
       
       
 var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "laborForce_data.csv");
+saveAs(blob, "raceForecast_data.csv");
       
     }
   

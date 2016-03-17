@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: "Economy and Labor Force"
+title: "Economy and Labor Force Data"
 permalink: "/economy-labor-force/"
 
 ---

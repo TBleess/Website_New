@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "County Race Forecast"
-permalink: "/population/data/race-forecast.html"
+title: "Jobs by Sector"
+permalink: "/economy-labor-force/data/jobs-by-sector.html"
 custom_js:
 - /assets/js/FileSaver.min.js
+file: ""
+description: ""
 
 ---
 {% if page.custom_js %}
@@ -13,11 +15,12 @@ custom_js:
 {% endif %}
 
 
-<h2>County Race by Age Forecast</h2>
+<h2>Jobs by Sector (NAICS)</h2>
 
-
-<label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
-<select id="countiesSelected" name="countiesSelected" multiple="multiple" size="5">	
+<br />
+<label for="countiesSelected" style="font-weight: bold;">Select a county:</label><br />
+<select id="countiesSelected" class="formtable" name="countiesSelected" size="5">	
+	<option value="0">Colorado</option>
 	<option value="1">Adams</option>
 	<option value="3">Alamosa</option>
 	<option value="5">Arapahoe</option>
@@ -82,85 +85,32 @@ custom_js:
 	<option value="121">Washington</option>
 	<option value="123">Weld</option>
 	<option value="125">Yuma</option>
-</select><br /><br />
-<label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
-<select id="yearsSelected" name="yearsSelected" multiple="multiple" size="5">
+</select>
+
+<br /><br />
+<label for="yearsSelected" style="font-weight: bold;">Select a year:</label><br />
+<select id="yearsSelected" class="formtable" name="yearsSelected" size="5">
+	<option value="2001">2001</option>
+	<option value="2002">2002</option>
+	<option value="2003">2003</option>
+	<option value="2004">2004</option>
+  <option value="2005">2005</option>
+	<option value="2006">2006</option>
+	<option value="2007">2007</option>
+	<option value="2008">2008</option>
+	<option value="2009">2009</option>
   <option value="2010">2010</option>
 	<option value="2011">2011</option>
 	<option value="2012">2012</option>
 	<option value="2013">2013</option>
 	<option value="2014">2014</option>
-	<option value="2015">2015</option>
-	<option value="2016">2016</option>
-	<option value="2017">2017</option>
-	<option value="2018">2018</option>  
-	<option value="2019">2019</option>
-  <option value="2020">2020</option>
-	<option value="2021">2021</option>
-	<option value="2022">2022</option>
-	<option value="2023">2023</option>
-	<option value="2024">2024</option>
-	<option value="2025">2025</option>
-	<option value="2026">2026</option>
-	<option value="2027">2027</option>
-	<option value="2028">2028</option>  
-	<option value="2029">2029</option>
-  <option value="2030">2030</option>
-	<option value="2031">2031</option>
-	<option value="2032">2032</option>
-	<option value="2033">2033</option>
-	<option value="2034">2034</option>
-	<option value="2035">2035</option>
-	<option value="2036">2036</option>
-	<option value="2037">2037</option>
-	<option value="2038">2038</option>  
-	<option value="2039">2039</option>
-  <option value="2040">2040</option>
-	<option value="2041">2041</option>
-	<option value="2042">2042</option>
-	<option value="2043">2043</option>
-	<option value="2044">2044</option>
-	<option value="2045">2045</option>
-	<option value="2046">2046</option>
-	<option value="2047">2047</option>
-	<option value="2048">2048</option>  
-	<option value="2049">2049</option>  
-	<option value="2050">2050</option>    
-</select><br /><br />
-<label for="ageGroups" style="font-weight: bold;">Select 1 or more age groups:</label><br />
-<select id="ageGroups" name="ageGroups" multiple="multiple" size="3">
-  <option value="0">Age 0-17</option>
-	<option value="18">Age 18-64</option>
-	<option value="65">Age 65+</option>
-</select><br /><br />
-<label for="raceGroups" style="font-weight: bold;">Select 1 or more race categories:</label><br />
-<select id="raceGroups" name="raceGroups" multiple="multiple" size="5">
-  <option value="1">Hispanic</option>
-	<option value="2">White non Hispanic</option>
-	<option value="3">Asian non Hispanic</option>
-	<option value="4">American Indian non Hispanic</option>
-	<option value="5">Black non Hispanic</option>
-	<!--<option value="6">Total</option>-->
-</select><br /><br />
-<label for="groupBy" style="font-weight: bold;">Select 0 or more variables to summarize by:</label><br />
-<select id="groupBy" name="groupBy" multiple="multiple" size="4">
-  <option value="a">Year</option>
-	<option value="b">County</option>
-	<option value="c">Age Group</option>
-	<option value="d">Race</option>
-</select><br /><br />
-  
+</select>
+
+<br /><br />
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
 <table id="resultstable"></table>
-
-
-
-
-
-
-
 
 
 
@@ -171,31 +121,18 @@ custom_js:
     viewresults.onclick=function(){
       
     var selectedCounties = getSelectValues(countiesSelected);
-    var selectedYears = getSelectValues(yearsSelected);
-    var selectedAges = getSelectValues(ageGroups);
-    var selectedRaces = getSelectValues(raceGroups);      
-    var selectedGroupBy = getSelectValues(groupBy);        
+    var selectedYears = getSelectValues(yearsSelected);  
       
           /*counties*/
     if(selectedCounties.length===0){
       alert('please choose a county selection');
       return;
     }
-           /*years*/
+          /*years*/
     if(selectedYears.length===0){
-      alert('please choose one or more years');
-      return;
-    }
-          /*age*/
-    if(selectedAges.length===0){
-      alert('please choose an age group selection');
+      alert('please choose a year selection');
       return;
     }      
-          /*race*/
-    if(selectedRaces.length===0){
-      alert('please choose a race selection');
-      return;
-    }
       
    document.getElementById("dlcsv").style.display='inline-block';
       
@@ -214,51 +151,10 @@ custom_js:
   }
   return result;
 }
-    
-   
-      
 
-      var groupstring = selectedGroupBy.join(",");
-     var group="";
-      
-      if(groupstring==="a"){group='opt1';}
-      if(groupstring==="b"){group='opt2';}
-      if(groupstring==="c"){group='opt3';}
-      if(groupstring==="d"){group='opt4';}
-      if(groupstring==="a,b"){group='opt5';}
-      if(groupstring==="a,c"){group='opt6';}
-      if(groupstring==="a,d"){group='opt7';}
-      if(groupstring==="b,c"){group='opt8';}
-      if(groupstring==="b,d"){group='opt9';}
-      if(groupstring==="c,d"){group='opt10';}
-      if(groupstring==="a,b,c"){group='opt11';}
-      if(groupstring==="a,b,d"){group='opt12';}      
-      if(groupstring==="a,c,d"){group='opt13';}
-      if(groupstring==="b,c,d"){group='opt14';}   
-      
-      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&race=" + selectedRaces.join(",") + "&group=" + group;
-      console.log(querystring);
-      
-   requestdata(querystring);
-      
-      
-    /*ajax request function*/
-    function requestdata(querystring){
-      
-      var xhttp = new XMLHttpRequest();
-      
-      xhttp.onreadystatechange = function() {
-        if (xhttp.readyState == 4 && xhttp.status == 200) {
-            createtable(JSON.parse(xhttp.responseText));
-          } 
-        };
-      
-      xhttp.open("GET", "http://104.197.26.248:4001/sya-race-forecast?"+querystring, true);
-      xhttp.send();
-    }
-    
       
       function clookup(county){
+        if(county===0){return "Colorado";}
         if(county===1){return "Adams County";}
         if(county===3){return "Alamosa County";}
         if(county===5){return "Arapahoe County";}
@@ -324,8 +220,33 @@ custom_js:
         if(county===123){return "Weld County";}
         if(county===125){return "Yuma County";}
         
-        return ""; /*fallback (replaces otherwise undefined)*/
+        return undefined; /*fallback (replaces otherwise undefined)*/
       }
+            
+      
+      var querystring = "county=" + selectedCounties.join(",") + "&year=" + selectedYears.join(",");
+      
+      console.log(querystring);
+      
+   requestdata(querystring);
+      
+      
+    /*ajax request function*/
+    function requestdata(querystring){
+      
+      var xhttp = new XMLHttpRequest();
+      
+      xhttp.onreadystatechange = function() {
+        if (xhttp.readyState == 4 && xhttp.status == 200) {
+            createtable(JSON.parse(xhttp.responseText));
+          } 
+        };
+      
+      xhttp.open("GET", "http://104.197.26.248:4001/jobs?"+querystring, true);
+      xhttp.send();
+    }
+    
+         
       
       function createtable(results){
 
@@ -339,32 +260,33 @@ custom_js:
           var hcell3 = hrow.insertCell(2);
           var hcell4 = hrow.insertCell(3);
           var hcell5 = hrow.insertCell(4);
-          var hcell6 = hrow.insertCell(5);        
         
-          hcell1.innerHTML = "COUNTY";
-          hcell2.innerHTML = "CFIPS";
-          hcell3.innerHTML = "YEAR";
-          hcell4.innerHTML = "AGE";
-          hcell5.innerHTML = "RACE";
-          hcell6.innerHTML = "COUNT";
-      
+          hcell1.innerHTML = "Year";
+          hcell2.innerHTML = "Area";
+          hcell3.innerHTML = "NAICS Code";
+          hcell4.innerHTML = "Sector";
+          hcell5.innerHTML = "Jobs";
         
+          hcell5.style.textAlign = 'right';
+          
           var body = table.appendChild(document.createElement('tbody'));
         
         
-        
-        for(var i=0;i<results.length;i++){
-          
-          var pass_age = results[i].age || "";
-          if(results[i].age===0){pass_age="Age 0-17";}
-          if(results[i].age===18){pass_age="Age 18-64";}
-          if(results[i].age===65){pass_age="Age 65+";}
-          
-          addrow(i,results[i].county || "", results[i].county_fips || "", results[i].year || "", pass_age, results[i].race || "", results[i].count)
-        }
-        
-        
-        function addrow(rownum, county, county_fips, year, age, race, count){
+          for(var i=0;i<results.length;i++){
+            var total_jobs=results[i].total_jobs;
+            if (Number(results[i].total_jobs)>0){
+              total_jobs=Math.round(Number(total_jobs)); //no change
+            }else if( results[i].total_jobs === "0"){
+              total_jobs='0';
+            }else{
+              total_jobs='suppressed';
+            }
+            
+            addrow(i,results[i].population_year, clookup(results[i].area_code), results[i].sector_id, results[i].sector_name, total_jobs );
+          }
+
+
+        function addrow(rownum, year, county, naics, sector, ttl){
           
           var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
           
@@ -377,17 +299,16 @@ custom_js:
           var cell3 = row.insertCell(2);
           var cell4 = row.insertCell(3);
           var cell5 = row.insertCell(4);
-          var cell6 = row.insertCell(5);
-
           
           /* Add some text to the new cells:*/
-          cell1.innerHTML = county;
-          cell2.innerHTML = county_fips;
-          cell3.innerHTML = year;
-          cell4.innerHTML = age;
-          cell5.innerHTML = race;
-          cell6.innerHTML = count;
-          
+          cell1.innerHTML = year;
+          cell2.innerHTML = county;
+          cell3.innerHTML = naics;
+          cell4.innerHTML = sector;
+          cell5.innerHTML = ttl;
+
+          cell5.style.textAlign = 'right';
+              
         }
 
       }
@@ -410,14 +331,17 @@ for (i = 0; i < rowLength; i++){
    for(var j = 0; j < cellLength; j++){
       /* get your cell info here */
       if(j===0 && i>0){csvstring=csvstring+"\n";}
-      csvstring = csvstring + oCells.item(j).innerHTML;
+     var cellval=oCells.item(j).innerHTML;
+      var addCell="\"" + cellval.replace(/\&nbsp;/g," ") + "\"";
+      //addCell = addCell.replace(/,/g , "\",\"");
+      csvstring = csvstring + addCell;
      if(j< cellLength ){csvstring=csvstring+",";}
      }
 }
       
       
 var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "raceForecast_data.csv");
+saveAs(blob, "jobsBySector_data.csv");
       
     }
   

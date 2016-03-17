@@ -22,7 +22,7 @@ You can start by checking out our Quick Start Guides, which are available on our
 - - -
 
 #### What if I have a specific question that isn't covered here, or in the Quick Start Guides?
-The Census Bureau publishes an [in-depth FAQ](https://ask.census.gov/faq.php?dept=769&id=5000). They also allow you to [Chat](https://ask.census.gov/chat/phplive.php?d=1) or [submit a question](https://ask.census.gov/newrequest.php) which they'll answer via email. You can also contact our office with any questions at [dlg.helpdesk@state.co.us](dlg.helpdesk@state.co.us).
+The Census Bureau publishes an [in-depth FAQ](https://ask.census.gov/faq.php?dept=769&id=5000). They also allow you to [Chat](https://ask.census.gov/chat/phplive.php?d=1) or [submit a question](https://ask.census.gov/newrequest.php) which they'll answer via email. You can also contact our office with any questions at [dlg.helpdesk@state.co.us](mailto:dlg.helpdesk@state.co.us).
 
 - - -
 

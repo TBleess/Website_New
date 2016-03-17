@@ -1,8 +1,8 @@
 ---
-permalink: /search/
+permalink: /search.html
 layout: page
 title: "Search"
 sitemap: false
 ---
-## Search
+## Search for content within demography.dola.colorado.gov
 {% include _google_search.html %}

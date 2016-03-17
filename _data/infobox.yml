@@ -1,5 +1,5 @@
 - name: "Webmap Gallery"
-  url: "https://dola.colorado.gov/maps"
+  url: "/gis/map-gallery.html"
 - name: "Infographics"
   url: "/demography/infographics.html"
 - name: "Demographic Profiles"

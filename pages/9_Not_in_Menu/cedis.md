@@ -7,7 +7,7 @@ permalink: "/demography/cedis.html"
     
 ---
 
-## CEDIS
+## Colorado Economic Demographic Information System
 
 - - -
 
