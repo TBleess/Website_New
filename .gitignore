@@ -2,3 +2,5 @@ _site/
 .sass-cache/
 .bundle/
 .jekyll-metadata
+crawl_results.log
+
