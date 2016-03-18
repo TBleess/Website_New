@@ -1,3 +1,5 @@
+- name: "Data Page"
+  url: "/data/index.html"
 - name: "Webmap Gallery"
   url: "/gis/map-gallery.html"
 - name: "Infographics"

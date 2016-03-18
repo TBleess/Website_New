@@ -1,0 +1,39 @@
+
+    <style>
+    
+
+
+@media screen and (min-width: 785px) {
+  
+  .infolinks {
+display: none;
+}
+  
+      }
+      
+
+@media screen and (max-width: 784px) {
+  
+.infolinks {
+  width: 100%;
+  background-color: #fff;
+  margin-left: -6px;
+  padding: 6px;
+
+}
+      }
+      
+      </style>
+
+                          <div class="infolinks">
+
+                            <h4>Quick Links</h4>
+                           <ul>
+                             {% for link in site.data.infobox %}
+                              <li>
+                                <a href="{{ link.url }}">{{ link.name }}</a>
+                              </li>
+                             {% endfor %}
+                           </ul>
+                            
+                          </div>

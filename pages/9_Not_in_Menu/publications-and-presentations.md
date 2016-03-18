@@ -10,17 +10,18 @@ permalink: "/demography/publications-and-presentations.html"
 
 - - -
 
-#### The following Publications & Presentations are available from the State Demography Office:
+#### Click on a subject below to see the Publications for that category:
 
-- [Infographics](/demography/infographics.html)
-- [Publications & Reports](#a)
-- [Community Profiles](#b)
-- [Presentations](#c)
-- [2015 Annual Demography Conference](#d)
-- [Press Releases](#e)
-- [Archived Publications and Presentations](/demography/archived-publications-and-presentations.html)
 
-<a name="a"></a>
+<div style="text-align: center;" markdown="1">
+
+[Infographics](/demography/infographics.html) \| [Publications & Reports](#publications-and-reports) \| [Community Profiles](#community-profiles) \| [Presentations](#presentations) \| [Thematic Maps and GIS Data](/gis/thematic-maps-gis-data.html)
+
+[2015 Annual Demography Conference](#annual-conference-2015) \| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations.html)
+
+</div>
+
+
 
 - - -
 
@@ -31,7 +32,7 @@ permalink: "/demography/publications-and-presentations.html"
 - [Infographics](/demography/infographics.html)
 - [Colorado Labor Force (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7T3FqeGdUZDhUOGM)
 - [Colorado Mineral and Energy Update (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7UWNjU1ZuVnVEUmc)
-- ["Social Generations" (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7dU9uVzdzaE84c0k)
+- [\"Social Generations\" (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7dU9uVzdzaE84c0k)
 - [Colorado Economic Update (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7X2ttZkplOTRRczQ)
 - [2012 Jobs Estimates Summary  (2013)](https://drive.google.com/open?id=0B2oqdPZKJqK7MEVncWlCVmNEVE0)
 - [Region Profiles & Reports](http://dola.colorado.gov/dlg/demog/region_profiles.html) *Move*
@@ -39,7 +40,6 @@ permalink: "/demography/publications-and-presentations.html"
 - [Colorado Economic Self-Sufficiency Standard (2011)](https://www.colorado.gov/pacific/colorado-economic-self-sufficiency-standard-2011) *Broken*
 - [Cost of Living Differentials in Colorado (2007)](https://drive.google.com/open?id=0B2oqdPZKJqK7NE1XNDVrN2tBelE)
 
-<a name="b"></a>
 
 - - -
  
@@ -78,13 +78,13 @@ permalink: "/demography/publications-and-presentations.html"
 - [Wray town (5/2015)](https://drive.google.com/open?id=0B2oqdPZKJqK7T19QZUY3WEpqeTA)
 - [Victor town (3/2015)](https://drive.google.com/open?id=0B-vz6H4k4SESX0J6QVZoVWRtQUU)
 
-<a name="c"></a>
+
 
 - - -
 
 #### Presentations
 
-- ["Social Generations" (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7bkxBeXN3TlFlNEE)
+- [\"Social Generations\" (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7bkxBeXN3TlFlNEE)
 - [Colorado Economic & Demographic Overview (February 2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7VnVocTdzS1ByV00)
 - [Economics of Non-renewable Resource Extraction (October 2013)](https://drive.google.com/open?id=0B2oqdPZKJqK7aUNDRUZkamVpTlk)
 - [Budget & Audit 101 (August 2013)](https://drive.google.com/open?id=0B2oqdPZKJqK7NVdvUldCeURyRUE)
@@ -95,11 +95,10 @@ permalink: "/demography/publications-and-presentations.html"
 - [2010 Census Data and the New American FactFinder (March 2011)](https://drive.google.com/open?id=0B2oqdPZKJqK7c3F6aVk5LUlKd1U)
 - [Tourism Economies: Colorado Association of Ski Towns (January 2011)](https://drive.google.com/open?id=0B2oqdPZKJqK7bHZRV3ZYZUhTcVE)
 
-<a name="d"></a>
 
 - - -
 
-#### 2015 Annual Conference
+#### Annual Conference 2015
 
 - [Agenda](https://drive.google.com/open?id=0B-vz6H4k4SESN1A3TXYwUnIyLWs&authuser=0)
 - [Speaker Biographies](https://drive.google.com/open?id=0B-vz6H4k4SESa1RiVWt3ZERfYkk&authuser=0)
@@ -115,11 +114,10 @@ permalink: "/demography/publications-and-presentations.html"
 - [Sprinting or Plodding? An Economic Outlook](https://drive.google.com/open?id=0B-vz6H4k4SESLTd1Y2ZIeDNzN2M&authuser=0) presented by Chris Akers, State Demography Office
 - [Transitions in Age and Increasing Diversity: The 2015 Population Forecast](https://drive.google.com/open?id=0B-vz6H4k4SESRENtSXlCd25NazA&authuser=0) presented by Cindy DeGroen, State Demography Office
 - [Colorado\'s Population Landscape: Migration and the Great Recession](https://drive.google.com/open?id=0B-vz6H4k4SESaEdlS0FpcnQ0eDg&authuser=0) presented by Rob Kemp, PhD, State Demography Office
-- [Financing Colorado\'s Future – A Look at Interaction of School Finance and the Funding of State Government](https://drive.google.com/open?id=0B-vz6H4k4SESWW9xeXlkcFg4SXc&authuser=0) presented by Phyllis Resnick, PhD, Colorado Futures Center at Colorado State University
+- [Financing Colorado\'s Future - A Look at Interaction of School Finance and the Funding of State Government](https://drive.google.com/open?id=0B-vz6H4k4SESWW9xeXlkcFg4SXc&authuser=0) presented by Phyllis Resnick, PhD, Colorado Futures Center at Colorado State University
 - [It Costs What to Live Here!? Cost of Living Differentials Across the State](https://drive.google.com/open?id=0B-vz6H4k4SESUDJoS1ZCQmFyM0U&authuser=0) presented by Elizabeth Garner, State Demography Office
 - [Housing Matters Panel: Costs, Challenges, and Opportunities](https://drive.google.com/open?id=0B-vz6H4k4SESSnpPWGFDQWoxSVU&authuser=0) presented by Jason Schrock, Chief Economist, Office of State Planning and Budgeting; Alison George, Director, Division of Housing, Department of Local Affairs; and Cris White, Executive Director and CEO, Colorado Housing and Finance Authority
 
-<a name="e"></a>
 
 - - -
 

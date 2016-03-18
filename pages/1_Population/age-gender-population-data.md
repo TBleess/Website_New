@@ -13,7 +13,7 @@ permalink: "/population/age-gender-population-data.html"
 
 #### United States
 
-- 2010 Census data are available through [American Factfinder](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml)
+- 2010 Census data are available through [American Factfinder (census.gov)](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml)
 - Estimates of age are available from the [U.S. Census Bureau](http://www.census.gov/popest/data/cities/totals/2011/index.html) for 2011
 - Forecasts of age are available from the [U.S. Census Bureau](http://www.census.gov/population/projections/) by 5 year and selected age groups 2000 to 2030
 
@@ -32,5 +32,5 @@ Click [here](https://drive.google.com/file/d/0B2oqdPZKJqK7d3JwNDBqQkJ0V0U/edit) 
 
 #### Municipalities
 
-- Age level data are available using [American Factfinder](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml).
+- Age level data are available using [American Factfinder (census.gov)](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml).
 - Estimates & Forecasts **are not** available by age & gender for municipalities

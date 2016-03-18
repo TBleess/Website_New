@@ -20,6 +20,6 @@ The Office uses state and county economic analyses and forecasts to assist in th
 - [Jobs](/economy-labor-force/jobs.html)
 - [Economic Base Analysis](/economy-labor-force/data/base-analysis.html)
 - [Economic Forecast](/economy-labor-force/economic-forecasts.html)
-- [Personal Income (BEA)](/economy-labor-force/personal-income.html)
+- [Personal Income (BEA)](http://www.bea.gov/newsreleases/regional/spi/sqpi_newsrelease.htm)
 - [Labor Market Information (LMI)](http://lmigateway.coworkforce.com/lmigateway/)
 - [Local Economic Information Summary Documentation (LEIFA)](https://drive.google.com/open?id=0B5iJvaUI0tr6YWJhaDVPTjZ1QU0)

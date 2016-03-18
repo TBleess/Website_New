@@ -132,24 +132,23 @@ og_description:                     "Feeling Responsive is built on the fabulous
 
 prose:
   ignore:
-    - /_plugins
     - /_includes
-    - /.bundle
-    - /_data
     - /_layouts
-    - /pages/pages-utility
-    - /pages/xtest
     - /assets
-    - /news
+    - /dola_assets
+    - /geojson
+    - /pages/__pages-utility
+    - /pages/--Test
+    - _config.yml
+    - _config_dev.yml
+    - CNAME
+    - crawl_results.log
     - .gitignore
     - .jekyll-metadata
     - Gemfile
     - Gemfile.lock
     - LICENSE
-    - _config.yml
-    - _config_dev.yml
-    - CNAME
-    - /pages/pages-root-folder
+    - robots.txt
   media:
     - 'images'
    

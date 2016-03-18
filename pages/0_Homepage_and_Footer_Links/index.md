@@ -19,6 +19,6 @@ Our new Demography Dashboard shows graphs and charts for various datasets by cou
 
 #### Popular Items
 
-- [What are Metropolitan & Micropolitan Statistical Areas?](http://www.census.gov/population/metro/)
-- [Urban & Rural Definitions](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)
+- [What are Metropolitan & Micropolitan Statistical Areas? (census.gov)](http://www.census.gov/population/metro/)
+- [Urban & Rural Definitions (census.gov)](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)
 - [Net Migration by Age Charts](https://dola.colorado.gov/demog_webapps/netMigrationByAgeComparison.jsf)

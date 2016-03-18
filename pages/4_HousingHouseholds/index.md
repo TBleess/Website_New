@@ -29,4 +29,5 @@ permalink: "/housing-and-households/"
 #### Other Resources
 
 - [Division of Housing](https://www.colorado.gov/pacific/dola/division-housing)
-- [Housing & Urban Development](http://www.huduser.org/portal/)
+- [Housing & Urban Development (HUD)](http://www.huduser.org/portal/)
+- [US Census Bureau Housing Topics (census.gov)](http://www.census.gov/housing/)

@@ -13,6 +13,9 @@
         <meta name="MobileOptimized" content="width" />
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width" />
+        
+            {% include _twitterCard.html %}
+            {% include _facebookOpenGraph.html %}
     
             <!--[if lt IE 9]>
             <script>
@@ -27,24 +30,6 @@
             </script>
             <![endif]-->
     
-    <style>
-
-.wrap {
-  max-width: 1120px; 
-  display: inline-block;
-}
-
-
-.infobox {
-  float: right; 
-  width: 33%; 
-  margin-top: 40px;
-  margin-left: 20px;
-    background-color: #fff;
-    border-radius: 5px;
-  margin-right: -20px;
-}
-      </style>
     
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.js"></script>
     <script type="text/javascript" src="/dola_assets/jquery.meanmenu.js"></script>
@@ -75,33 +60,24 @@
               
                   {% include _breadcrumb.html %}
               
-                <section id="content" role="main">
+
                     <div id="main-content">
                       
-                       <div class="wrap">
+
                          
-                          <div class="infobox">
-                            
-                           <ul>
-                             {% for link in site.data.infobox %}
-                              <li>
-                                <a href="{{ link.url }}">{{ link.name }}</a>
-                              </li>
-                             {% endfor %}
-                           </ul>
-                            
-                          </div>
+                           {% include _infobox.html %}
                          
                           <div class="content">
                              {{ content }}
-                          </div>
-                         
+
 
                          
+                            {% include _infolinks.html %}
+                            
                       </div>
                                                                 
                     </div>
-                </section>
+
             </div>
         </div>
 

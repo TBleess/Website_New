@@ -24,7 +24,7 @@ permalink: "/population/"
 
 - [Age and Gender](/population/age-gender-population-data.html)
 - [Race and Hispanic Origin](/population/race-hispanic-origin.html)
-- [US Census Bureau](http://www.census.gov/)
+- [US Census Bureau (census.gov)](http://www.census.gov/)
 
 #### Also Available:
 
@@ -33,5 +33,5 @@ permalink: "/population/"
 - [Definitions of Sub-State Regions](https://drive.google.com/open?id=0B2oqdPZKJqK7RU92Z1RSVnJERXc)
 - [Planning Management Region Map](https://drive.google.com/open?id=0B2oqdPZKJqK7VjNuRWdiYnRhbnM)
 - [Statistical Regions Map](https://drive.google.com/open?id=0B2oqdPZKJqK7VjNuRWdiYnRhbnM)
-- [Thematic Maps](/gis/thematic-maps.html)
+- [Thematic Maps and GIS Data](/gis/thematic-maps-gis-data.html)
 - [Land Density](https://drive.google.com/open?id=0B6P5TF4k2v8qeTFXSmxJc1phNW8)

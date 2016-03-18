@@ -6,9 +6,13 @@ permalink: "/census-acs/american-community-survey-frequently-asked-questions.htm
 
     
 ---
+
 ## American Community Survey - Frequently Asked Questions
+
 - - -
+
 #### What is the American Community Survey?
+
 The American Community Survey (ACS) is an ongoing survey that provides data every year, giving communities the current information they need to plan investments and services. Information from the survey generates data that help determine how more than $400 billion in federal and state funds are distributed every year. To help communities, state governments and federal programs, the US Census Bureau collects data on:
 
 - Age
@@ -47,7 +51,7 @@ The State Demography Office strongly encourages data users to evaluate all data 
 
 #### What are all the data products available from the ACS?
 
-Download a handy "cheat sheet" listing data products and the types of information available in each.
+Download a handy \"cheat sheet\" listing data products and the types of information available in each.
 
 #### Can I compare ACS estimates from different years, or to Decennial Census Data?
 

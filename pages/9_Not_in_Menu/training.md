@@ -43,4 +43,6 @@ The following webinar-based trainings are available for view with commentary. Wh
 
 #### Other
 
-- [American FactFinder FAQs](https://ask.census.gov/faq.php?dept=769&id=5000)
+- [American FactFinder Quick FAQ](/census-acs/census-data-aff-faq.html)
+- [American FactFinder FAQs (census.gov)](https://ask.census.gov/faq.php?dept=769&id=5000)
+

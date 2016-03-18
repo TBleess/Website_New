@@ -12,6 +12,9 @@
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width" />
     
+            {% include _twitterCard.html %}
+            {% include _facebookOpenGraph.html %}
+    
             <!--[if lt IE 9]>
             <script>
             document.createElement('header');
@@ -54,7 +57,6 @@
               
                   {% include _breadcrumb.html %}
               
-                <section id="content" role="main">
                     <div id="main-content">
                       
                                             
@@ -62,7 +64,6 @@
                       
                       
                     </div>
-                </section>
             </div>
         </div>
 

@@ -7,7 +7,7 @@ permalink: "/census-acs/2000-census-data.html"
 ---
 ## 2000 Census Data
 - - -
-[Glossary of Census Terms](http://factfinder.census.gov/help/en/index.htm#glossary.htm)
+[Glossary of Census Terms (census.gov)](http://factfinder.census.gov/help/en/index.htm#glossary.htm)
 
 [2000 to 2010 Race and Ethnic Comparisons by County](https://drive.google.com/open?id=0B5RRfcb8KXAsSXdLaEhmclRyelk). View population changes from 2000 to 2010 including absolute and percent changes for the total population and 18+. Please note this Excel file has multiple tabs.
 
@@ -29,7 +29,7 @@ As with all census data you can find this information and much more on the [US C
 - - -
 #### Popular Items
 
-- [Comparing Census and ACS data](http://www.huduser.org/portal/home.html)
+- [Comparing Census and ACS data (HUD)](http://www.huduser.org/portal/home.html)
 - [Map Gallery](/gis/map-gallery.html)
-- [What are Metropolitan & Micropolitan Statistical Areas](http://www.census.gov/population/metro/)
-- [Urban & Rural Definitions](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)
+- [What are Metropolitan & Micropolitan Statistical Areas (census.gov)](http://www.census.gov/population/metro/)
+- [Urban & Rural Definitions (census.gov)](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)

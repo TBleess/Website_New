@@ -12,7 +12,7 @@ permalink: "/housing-and-households/counties-and-municipalities/"
 
 #### Census
 
-- Through [American FactFinder](http://factfinder.census.gov/home/saff/aff_transition.html) you can obtain a multitude of housing data. Data are available from the 2010 Census and the American Community Survey.
+- Through [American FactFinder (census.gov)](http://factfinder.census.gov/home/saff/aff_transition.html) you can obtain a multitude of housing data. Data are available from the 2010 Census and the American Community Survey.
 - The State Demography Office has also prepared Colorado-specific housing data tables, available on our  2010 Census data page.
 
 - - -

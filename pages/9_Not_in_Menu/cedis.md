@@ -49,6 +49,5 @@ permalink: "/demography/cedis.html"
 
 #### Income and Earnings Tax
 
-- [Personal Income Components Estimates and Forecasts](/economy-labor-force/personal-income.html)
 - [Households by Region, Type, Age, Tenure, and Income](https://dola.colorado.gov/households/income_parameters.jsf) *WTF*
 - [Bureau of Economic Analysis Personal Income by Source (bea.gov)](http://www.bea.gov/regional/index.htm)

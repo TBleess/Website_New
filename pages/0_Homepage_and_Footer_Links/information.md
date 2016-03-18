@@ -1,21 +1,33 @@
 ---
 layout: page
-title: Info
+title: Demography Office Information
 permalink: /information.html
 published: true
 ---
 
 
 ## About the State Demography Office
-[Download our informational pamphlet](https://drive.google.com/open?id=0B2oqdPZKJqK7NVBaNWFyZUd2V28&authuser=0)  
+- [Download our informational pamphlet](https://drive.google.com/open?id=0B2oqdPZKJqK7NVBaNWFyZUd2V28&authuser=0)  
+
+
+----
+
+##### Click on a subject below to see more information:
+
+<div style="text-align: center;" markdown="1">
+
+[Roles and Responsibilities](#roles-and-responsibilities) \| [Population Data and Programs](#population-data-and-programs) \| [Data Available](#data-available) \| [Uses of the Data](#uses-of-the-data) \| [Other Services Available](#other-services-available)
+
+</div>
 
 ---
+
 
 #### Roles and Responsibilities
 
 The State Demography Office is the primary state agency for population and demographic information. Its data are used by state agencies to forecast demand for facilities and services. These data are also used by local governments and non-profit organizations in the state to anticipate growth or decline and to plan and develop programs and community resources. The office's location in the Department of Local Affairs insures that its data and information is developed in ways that account for local input and needs. The office makes the data publicly available on their website, answers requests for economic and demographic data and provides training workshops on accessing and using the data.  
 
-#### Types of Population Data and Programs
+#### Population Data and Programs
 
 **Census:** The U.S. Census Bureau conducts a complete survey of the population every ten years (ending in zero). The office represents state and local needs and concerns relating to the conduct of the decennial census. In addition, the U.S. Census Bureau collects social and economic characteristics of the population in part to determine the needs for federal grant programs. The State Demography Office processes these data and makes them available to the public on our website. Local governments use this information to better understand their communities and identify areas of need. In order to achieve the best census possible, the State Demography Office works with the Census Bureau and local governments in updating maps of all streets, and inventories of all housing units.  
 
@@ -37,7 +49,7 @@ Thematic and reference maps are available on our website; custom maps are availa
 
 ---
 
-#### Types of Data Available
+#### Data Available
 
 
 **Population: Past, Present and Future**
@@ -59,7 +71,6 @@ Thematic and reference maps are available on our website; custom maps are availa
 **The Economy**
 
 - Jobs
-- Personal Income
 - Economic Forecasts and Analyses
 
 **Households**
@@ -151,7 +162,7 @@ Thematic and reference maps are available on our website; custom maps are availa
 
 ---
 
-#### Other Services Available from the State Demography Office
+#### Other Services Available
 
 - Answers to requests for economic and demographic data.
 - Provides user-training workshops on accessing and using census, demographic, and economic data.
