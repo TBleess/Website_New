@@ -22,7 +22,7 @@ permalink: "/housing-and-households/"
 
 - [Estimates Methodology](https://drive.google.com/file/d/0B0m67XbcqVYRSl9pcU9Sek9aQzA/view?usp=sharing)
 - [Definition of Sub-State Regions](https://drive.google.com/file/d/0B0m67XbcqVYRMDUyMTRoRkdEVzg/view?usp=sharing)
-- [Planning Management Region Map](https://drive.google.com/open?id=0B2oqdPZKJqK7VjNuRWdiYnRhbnM)
+- [Planning Management Region Map](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
 
 - - -
 

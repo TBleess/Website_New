@@ -15,6 +15,7 @@ permalink: "/gis/index.html"
 
 **Download Maps and Data**
 
-- [PDF Thematic Maps & GIS Data](/gis/thematic-maps-gis-data.html)
+- [PDF Thematic Maps](/gis/thematic-maps.html)
+- [GIS Data](/gis/gis-data.html)
 
 

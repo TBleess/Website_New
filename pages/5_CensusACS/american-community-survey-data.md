@@ -29,7 +29,9 @@ permalink: "/census-acs/american-community-survey-data.html"
 
 #### Maps
 
-[Thematic maps and GIS Data](/gis/thematic-maps-gis-data.html) based on ACS data are available.
+- [Thematic Maps](/gis/thematic-maps.html) based on ACS data are available.
+- [GIS Data](/gis/gis-data.html)
+
 
 - - -
 

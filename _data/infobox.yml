@@ -13,6 +13,6 @@
 - name: "Local Government Data Links"
   url: "/demography/cedis.html"
 - name: "CTF Population Info"
-  url: "https://www.colorado.gov/pacific/dola/final-ctf-estimates"
+  url: "/demography/final-ctf-estimates.html"
 - name: "Join the Demography Listserv"
   url: "https://dola.colorado.gov/list_server/demography_signup.jsf"

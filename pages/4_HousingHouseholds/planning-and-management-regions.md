@@ -13,7 +13,7 @@ permalink: "/housing-and-households/planning-and-management-regions/"
 
 [Colorado Household Projections 2000 to 2050](/housing-and-households/data/household-projections.html)
 
-[Click to view Map of Colorado Planning and Management Regions](https://drive.google.com/file/d/0B2oqdPZKJqK7VjNuRWdiYnRhbnM/edit)
+[Click to view Map of Colorado Planning and Management Regions](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
 
 This report presents draft projections of households by type of household for Colorado. The projections were prepared by the State Demography Office (SDO), part of the Colorado Division of Local Government. These projections are an attempt to prepare projections of households by type and by age of householder for the state for use by local governments and the private sector for planning and decision-making.
 

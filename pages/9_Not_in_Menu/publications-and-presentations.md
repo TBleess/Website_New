@@ -15,7 +15,7 @@ permalink: "/demography/publications-and-presentations.html"
 
 <div style="text-align: center;" markdown="1">
 
-[Infographics](/demography/infographics.html) \| [Publications & Reports](#publications-and-reports) \| [Community Profiles](#community-profiles) \| [Presentations](#presentations) \| [Thematic Maps and GIS Data](/gis/thematic-maps-gis-data.html)
+[Infographics](/demography/infographics.html) \| [Publications & Reports](#publications-and-reports) \| [Community Profiles](#community-profiles) \| [Presentations](#presentations) \| [Thematic Maps](/gis/thematic-maps.html) \| [GIS Data](/gis/gis-data.html)
 
 [2015 Annual Demography Conference](#annual-conference-2015) \| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations.html)
 
@@ -104,7 +104,7 @@ permalink: "/demography/publications-and-presentations.html"
 - [Speaker Biographies](https://drive.google.com/open?id=0B-vz6H4k4SESa1RiVWt3ZERfYkk&authuser=0)
 - [List of Attendees](https://drive.google.com/open?id=0B-vz6H4k4SESMjVnQzBBRXZkbEk&authuser=0)
 - [Attendee Map](https://drive.google.com/open?id=0B-vz6H4k4SESRTZxR2UwNF9FeHc&authuser=0)
-- [Colorado Planning & Management Region Map](https://drive.google.com/open?id=0B-vz6H4k4SESR1JwVGxqQXJXOVk&authuser=0)
+- [Colorado Planning & Management Region Map](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
 - [Region Reports](https://drive.google.com/open?id=0B-vz6H4k4SESeGxoQjZTYV8tN0U&authuser=0)
 - [Cost Of Living](https://drive.google.com/open?id=0B-vz6H4k4SESajdRcHRjcThka3c&authuser=0)
 - [Components of Change](https://drive.google.com/open?id=0B-vz6H4k4SESSmRKVkpuTGszY0E&authuser=0)
