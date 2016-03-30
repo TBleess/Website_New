@@ -24,21 +24,23 @@ permalink: "/gis/gis-data.html"
 
 #### Boundaries
 
-- Municipal Boundaries
-- Annexations
+- [Municipal Boundaries](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/MuniBounds)
+- [Annexations](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Annexations.zip)
+- [DeAnnexations](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/DeAnnexations.zip)
+- [Boundary-Annexation Hybrid](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Web_Annexations)
 - Region Boundaries
-  - DOLA Field Regions
-  - Planning and Management Regions
-- Special Districts (all)
-  - Metropolitan Districts
-  - Park and Recreation Districts
-  - Fire Protection Districts
-  - Hospital Districts
-  - Water and Sanitation Districts
-  - Library Districts
-  - School Districts
-  - Soil Conservation Districts
-  - Cemetary Districts
+  - [DOLA Field Regions](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Field_Regions.zip)
+  - [Planning and Management Regions](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Planning_Regions.zip)
+- [Special Districts (all)](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlall.zip)
+  - [Metropolitan Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlmetro.zip)
+  - [Park and Recreation Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlpark.zip)
+  - [Fire Protection Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlfire.zip)
+  - [Hospital Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlhospital.zip)
+  - [Water and Sanitation Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlwatersan.zip)
+  - [Library Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dllibrary.zip)
+  - [School Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlschool.zip)
+  - [Soil Conservation Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlsoil.zip)
+  - [Cemetary Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlcemetary.zip)
 
 ----
 
