@@ -5,9 +5,21 @@ title: "State Demography Office Data Page"
 permalink: "/data/index.html"
 
 ---
-## Data Page: SDO Data Products and Data Tools
+## Data Page
 
-<ul>{% assign pages_list = site.pages | sort: 'title' %}{% for page in pages_list %}{% if page.tag == "popdata" or page.tag == "bdmdata"  or page.tag == "econdata" or page.tag == "hhdata" %}<br /><li><b><a href="{{ page.url }}">{{ page.title }}</a></b>&nbsp;&nbsp;{{ page.years }}</li><p>{{ page.description }} <br />OR download the raw data <a href="{{ page.file }}">here</a>.</p>{% endif %}{% endfor %}</ul><br />
+
+##### Click on a subject below to see the maps or data for that category:
+
+<div style="text-align: center;" markdown="1">
+
+[Demography Office Data](#state-demography-office-data) \| [Census Data Tools](#census-data-tools) \| [GIS Data Downloads](#gis-data-downloads)
+
+</div>
+
+
+## State Demography Office Data
+
+<ul>{% assign pages_list = site.pages | sort: 'title' %}{% for page in pages_list %}{% if page.tag == "popdata" or page.tag == "bdmdata"  or page.tag == "econdata" or page.tag == "hhdata" %}<br /><li><b><a href="{{ page.url }}">{{ page.title }}</a></b>&nbsp;&nbsp;{{ page.years }}</li><p>{{ page.description }} <br />OR download the raw data <a href="{{ page.file }}">here</a>.</p>{% endif %}{% endfor %}</ul>
 
 
 ## Census Data Tools
