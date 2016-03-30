@@ -17,8 +17,10 @@ permalink: "/data/index.html"
  - [American FactFinder (census.gov)](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) Census tool for accessing the vast universe of Census Data products; includes population, housing, and economic data.
 
 
+
 ## GIS Data Downloads
 
 - [GIS Data](/gis/gis-data.html) Municipal Boundaries, Annexations, Special Districts, American Community Survey and Census Shapefiles and much more!
+
 
 
