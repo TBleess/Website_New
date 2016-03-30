@@ -16,11 +16,13 @@ permalink: "/data/index.html"
 
 </div>
 
+---
 
 ## State Demography Office Data
 
 <ul>{% assign pages_list = site.pages | sort: 'title' %}{% for page in pages_list %}{% if page.tag == "popdata" or page.tag == "bdmdata"  or page.tag == "econdata" or page.tag == "hhdata" %}<br /><li><b><a href="{{ page.url }}">{{ page.title }}</a></b>&nbsp;&nbsp;{{ page.years }}</li><p>{{ page.description }} <br />OR download the raw data <a href="{{ page.file }}">here</a>.</p>{% endif %}{% endfor %}</ul>
 
+---
 
 ## Census Data Tools
 
@@ -28,11 +30,12 @@ permalink: "/data/index.html"
  
  - [American FactFinder (census.gov)](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) Census tool for accessing the vast universe of Census Data products; includes population, housing, and economic data.
 
-
+---
 
 ## GIS Data Downloads
 
 - [GIS Data](/gis/gis-data.html) Municipal Boundaries, Annexations, Special Districts, American Community Survey and Census Shapefiles and much more!
 
 
+---
 
