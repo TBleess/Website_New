@@ -11,7 +11,17 @@ Please visit our [Information Page](/information.html) to learn more, or [send u
 
 #### Demography Dashboard
   
-Our new Demography Dashboard shows graphs and charts for various datasets by county. Graphs include: Net Migration by Age, Population Estimates, Population Projections and Components of Change. Click below to choose your county and get started!
+Our new Demography Dashboard shows graphs and charts for various datasets by county. 
+
+Data and Charts include:
+
+
+- Net Migration by Age
+- Population Estimates
+- Population Projections
+- Components of Change 
+    
+Click below to choose your county and get started!
 
 
 <a href="https://gis.dola.colorado.gov/demographic_dashboard/">Demographic Dashboard</a>
