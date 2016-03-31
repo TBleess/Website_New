@@ -5,10 +5,6 @@ title: "State Demography Office Data Page"
 permalink: "/data/index.html"
 
 ---
-## Data Page
-
-
-##### Click on a subject below to see the maps or data for that category:
 
 <div style="text-align: center;" markdown="1">
 
@@ -16,13 +12,15 @@ permalink: "/data/index.html"
 
 </div>
 
+
 ---
 
 ## State Demography Office Data
 
-<ul>{% assign pages_list = site.pages | sort: 'title' %}{% for page in pages_list %}{% if page.tag == "popdata" or page.tag == "bdmdata"  or page.tag == "econdata" or page.tag == "hhdata" %}<br /><li><b><a href="{{ page.url }}">{{ page.title }}</a></b>&nbsp;&nbsp;{{ page.years }}</li><p>{{ page.description }} <br />OR download the raw data <a href="{{ page.file }}">here</a>.</p>{% endif %}{% endfor %}</ul>
+<ul>{% assign pages_list = site.pages | sort: 'title' %}{% for page in pages_list %}{% if page.tag == "popdata" or page.tag == "bdmdata"  or page.tag == "econdata" or page.tag == "hhdata" %}<br /><li><b><a href="{{ page.url }}">{{ page.title }}</a></b>&nbsp;&nbsp;{{ page.years }}</li><p><i>{{ page.description }} </i><br /><br />OR download: <a href="{{ page.file }}">{{ page.file | split: '/' | last }}</a></p><hr>{% endif %}{% endfor %}</ul>
 
----
+
+<br />
 
 ## Census Data Tools
 
@@ -30,12 +28,16 @@ permalink: "/data/index.html"
  
  - [American FactFinder (census.gov)](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) Census tool for accessing the vast universe of Census Data products; includes population, housing, and economic data.
 
+<br />
+
 ---
+<br />
 
 ## GIS Data Downloads
 
 - [GIS Data](/gis/gis-data.html) Municipal Boundaries, Annexations, Special Districts, American Community Survey and Census Shapefiles and much more!
 
+<br />
 
 ---
 

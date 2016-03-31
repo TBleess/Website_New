@@ -5,8 +5,11 @@ title: "2000 Census Data"
 permalink: "/census-acs/2000-census-data.html"
 
 ---
+
 ## 2000 Census Data
+
 - - -
+
 [Glossary of Census Terms (census.gov)](http://factfinder.census.gov/help/en/index.htm#glossary.htm)
 
 [2000 to 2010 Race and Ethnic Comparisons by County](https://drive.google.com/open?id=0B5RRfcb8KXAsSXdLaEhmclRyelk). View population changes from 2000 to 2010 including absolute and percent changes for the total population and 18+. Please note this Excel file has multiple tabs.
@@ -26,10 +29,13 @@ permalink: "/census-acs/2000-census-data.html"
 [Census for Colorado School Districts](http://nces.ed.gov/surveys/sdds/index.aspx). Census data for school districts can be found at the National Center for Education Statistics (NCES). Also, the [Colorado Department of Education](http://www.cde.state.co.us/) provides data on Colorado School Districts.
 
 As with all census data you can find this information and much more on the [US Census Bureau's website](http://www.census.gov/).
+
 - - -
+
 #### Popular Items
 
 - [Comparing Census and ACS data (HUD)](http://www.huduser.org/portal/home.html)
 - [Map Gallery](/gis/map-gallery.html)
 - [What are Metropolitan & Micropolitan Statistical Areas (census.gov)](http://www.census.gov/population/metro/)
 - [Urban & Rural Definitions (census.gov)](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)
+
