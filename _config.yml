@@ -20,7 +20,7 @@ description: "The State Demography Office is the primary state agency for popula
 
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-url: 'http://demography.dola.colorado.gov'
+url: 'https://demography.dola.colorado.gov'
 baseurl: ''
 
 
@@ -30,7 +30,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://demography.dola.colorado.gov/images'
+urlimg: 'https://demography.dola.colorado.gov/images'
 
 
 

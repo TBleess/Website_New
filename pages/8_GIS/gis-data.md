@@ -10,11 +10,11 @@ permalink: "/gis/gis-data.html"
 
 - - -
 
-##### Click on a subject below to see the maps or data for that category:
+##### Click on a subject below to see geodata for that category:
 
 <div style="text-align: center;" markdown="1">
 
-**GIS Data**:  [Boundaries](#boundaries) \| [DOLA Grants](#dola-grants) \| [Census and ACS](#census-and-acs) \| [Other](#other)
+**GIS Data**:  [Boundaries](#boundaries) \| [DOLA Grants](#dola-grants-since-2010) \| [Census and ACS](#census-and-acs) \| [Other](#other)
 
 </div>
 
@@ -44,10 +44,10 @@ permalink: "/gis/gis-data.html"
 
 ----
 
-#### DOLA Grants
+#### DOLA Grants (Since 2010)
 
 - Broadband Grants
-- All DOLA Grants (Since 2010)
+- All DOLA Grants
   - Energy/Mineral Assistance Program
   - Rural Economic Development Initiative
   - Limited Gaming Impact Program
@@ -83,7 +83,7 @@ permalink: "/gis/gis-data.html"
 
 #### Other
 
-- Main Street Communities
+- Colorado Main Street Communities
 - HUD Low and Moderate Income Data
   - Block Groups
   - Tracts
