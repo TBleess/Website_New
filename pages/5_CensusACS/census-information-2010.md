@@ -37,7 +37,7 @@ The US Census Bureau's official [2010 Census website (census.gov)](http://www.ce
 
 #### Historical Information
 
-The following documents represent previously released Census information. Please [contact our office](dola.helpdesk@state.co.us) with any questions.
+The following documents represent previously released Census information. Please [contact our office](mailto:dola.helpdesk@state.co.us) with any questions.
 
 - [Why the Census Matters: Money](https://drive.google.com/file/d/0B0m67XbcqVYRLVlFU0s3a0hoSEE/view?usp=sharing)
 - [Why the Census Matters: Power](https://drive.google.com/file/d/0B0m67XbcqVYRMnk4UjVMWm16SG8/view?usp=sharing)

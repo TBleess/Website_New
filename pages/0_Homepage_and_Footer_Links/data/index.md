@@ -8,7 +8,7 @@ permalink: "/data/index.html"
 
 <div style="text-align: center;" markdown="1">
 
-[Demography Office Data](#state-demography-office-data) \| [Census Data Tools](#census-data-tools) \| [GIS Data Downloads](#gis-data-downloads)
+[Demography Office Data](#state-demography-office-data) \| [Census Data Tools](#census-data-tools) \| [GIS Data Downloads](/gis/gis-data.html)
 
 </div>
 

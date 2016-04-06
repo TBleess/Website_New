@@ -24,10 +24,10 @@ permalink: "/gis/gis-data.html"
 
 #### Boundaries
 
-- [Municipal Boundaries](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/MuniBounds)
+- [Municipal Boundaries](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/MuniBounds.zip)
 - [Annexations](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Annexations.zip)
 - [DeAnnexations](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/DeAnnexations.zip)
-- [Boundary-Annexation Hybrid](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Web_Annexations)
+- [Boundary-Annexation Hybrid](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Web_Annexations.zip)
 - Region Boundaries
   - [DOLA Field Regions](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Field_Regions.zip)
   - [Planning and Management Regions](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Planning_Regions.zip)
@@ -83,12 +83,12 @@ permalink: "/gis/gis-data.html"
 
 #### Other
 
-- Colorado Main Street Communities
+- [Colorado Main Street Communities](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/CO_Main_Street.zip)
 - HUD Low and Moderate Income Data
-  - Block Groups
-  - Tracts
-  - Counties
-  - Places
+  - [Block Groups](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/lm_bg.zip)
+  - [Tracts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/lm_tr.zip)
+  - [Counties](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/lm_cnty.zip)
+  - [Places](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/lm_pl.zip)
 
 ----
 
