@@ -17,7 +17,7 @@ The Office uses state and county economic analyses and forecasts to assist in th
 #### Data are available on the following topics:
 
 - [Labor Force](/economy-labor-force/labor-force.html)
-- [Jobs](/economy-labor-force/jobs.html)
+- [Jobs](/economy-labor-force/data/jobs-by-sector.html)
 - [Economic Base Analysis](/economy-labor-force/data/base-analysis.html)
 - [Economic Forecast](/economy-labor-force/economic-forecasts.html)
 - [Personal Income (BEA)](http://www.bea.gov/newsreleases/regional/spi/sqpi_newsrelease.htm)

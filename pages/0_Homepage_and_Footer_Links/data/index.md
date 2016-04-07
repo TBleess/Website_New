@@ -8,7 +8,7 @@ permalink: "/data/index.html"
 
 <div style="text-align: center;" markdown="1">
 
-[Demography Office Data](#state-demography-office-data) \| [Census Data Tools](#census-data-tools) \| [GIS Data Downloads](/gis/gis-data.html)
+[Demography Office Data](#state-demography-office-data) \| [Census Data Tools](#census-data-tools) \| [GIS Data Downloads](/gis/gis-data.html) \| [Thematic Maps](/gis/thematic-maps.html)
 
 </div>
 
@@ -40,4 +40,14 @@ permalink: "/data/index.html"
 <br />
 
 ---
+<br />
+
+## Thematic Maps
+
+- [Thematic Maps](/gis/thematic-maps.html)  A variety of thematic maps using data from: ACS 2010-2014, Census 2010 and original data from the Colorado State Demography Office!
+
+<br />
+
+---
+
 
