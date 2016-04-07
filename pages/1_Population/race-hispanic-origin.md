@@ -2,7 +2,7 @@
 
 layout: page
 title: "Race and Hispanic Origin"
-permalink: "/population/race-hispanic-origin.html"
+permalink: "/population/race-hispanic-origin/"
 
 ---
 
@@ -26,14 +26,14 @@ permalink: "/population/race-hispanic-origin.html"
 - [Census](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml). In addition to the 2010 Census data available via American FactFinder, the State Demography Office has also posted tables featuring race and Hispanic origin data on our [2010 Census data page](/census-acs/).
 - [Estimates (census.gov)](http://www.census.gov/popest/counties/asrh/). The U.S. Census Bureau publishes county population estimates each year for total population with details on age, sex, race and Hispanic origin. The reference date for these estimates is July 1, 2000 to 2009.
 - [Forecasts](https://drive.google.com/open?id=0B5iJvaUI0tr6bTFuVENSTDlFTlE). Population forecasts by race and ethnicity are produced annually at the state level only by the State Demography Office. The most recent forecasts were produced in October 2011. The forecasts are based on data from the 2000 Census Modified Race Data and expected trends in fertility and survival based on race specific birth and death data released by the Colorado Department of Public Health and Environment. Also available in [Excel](https://drive.google.com/open?id=0B2oqdPZKJqK7QlFmRWdFTF9kSnc).
-- [Population by County, Age, Race and Gender](/population/data/race-estimate.html). Population estimates are produced annually by the State Demography Office. These tables are estimates of the population's age, sex, race and ethnic distribution by country for the years beginning in 2000 through 2010. These data are based on distributions from the 2000 and 2010 Census of age, sex, race and ethnicity. However, the race categories released by the Census Bureau have been bridged to the following five race categories: White non-Hispanic, Hispanic, Black non-Hispanic, Asian/PI non-Hispanic and AI/AN non-Hispanic. Please contact [Cindy Degroen](mailto:cindy.degroen@state.co.us) with any questions regarding the estimates or the bridging methods.
-- [Population Forecast by County, Age, Race and Gender](/population/data/race-forecast.html). Forecast 2010-2050. Please contact [Cindy DeGroen](mailto:cindy.degroen@state.co.us) with any questions regarding the estimates or the bridging methods.
+- [Population by County, Age, Race and Gender](/population/data/race-estimate#county-race-by-age-estimates). Population estimates are produced annually by the State Demography Office. These tables are estimates of the population's age, sex, race and ethnic distribution by country for the years beginning in 2000 through 2010. These data are based on distributions from the 2000 and 2010 Census of age, sex, race and ethnicity. However, the race categories released by the Census Bureau have been bridged to the following five race categories: White non-Hispanic, Hispanic, Black non-Hispanic, Asian/PI non-Hispanic and AI/AN non-Hispanic. Please contact [Cindy Degroen](mailto:cindy.degroen@state.co.us) with any questions regarding the estimates or the bridging methods.
+- [Population Forecast by County, Age, Race and Gender](/population/data/race-forecast#county-race-by-age-forecast). Forecast 2010-2050. Please contact [Cindy DeGroen](mailto:cindy.degroen@state.co.us) with any questions regarding the estimates or the bridging methods.
 
 - - -
 
 #### Municipalities
 
-- [Census (census.gov)](http://factfinder.census.gov/home/saff/aff_transition.html). Through American FactFinder, you will be able to obtain a multitude of data this is cross-tabbed by race and ethnicity. Data are available from the 2010 Census and the American Community Survey. The State Demography Office has also posted tables featuring race and Hispanic origin data on our [2010 Census data page](/census-acs/2010-census-data.html).
+- [Census (census.gov)](http://factfinder.census.gov/home/saff/aff_transition.html). Through American FactFinder, you will be able to obtain a multitude of data this is cross-tabbed by race and ethnicity. Data are available from the 2010 Census and the American Community Survey. The State Demography Office has also posted tables featuring race and Hispanic origin data on our [2010 Census data page](/census-acs/2010-census-data#census-data-for-colorado-2010).
 - Estimates and Forecasts by race and Hispanic origin are not available for Colorado municipalities.
 
 - - -

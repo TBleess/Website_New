@@ -2,7 +2,7 @@
 
 layout: page
 title: "CEDIS"
-permalink: "/demography/cedis.html"
+permalink: "/demography/cedis/"
 
     
 ---
@@ -13,18 +13,18 @@ permalink: "/demography/cedis.html"
 
 #### Population Data
 
-- [Colorado Census Data](/census-acs/2010-census-information.html)
-- [Colorado County Profile System](/population/data/county-profile.html)
-- [Population Forecasts](/population/population-totals-colorado-substate.html)
-- [Population Forecasts by Age](/population/age-gender-population-data.html)
-- [Population by Race & Hispanic Origin](/population/race-hispanic-origin.html)
+- [Colorado Census Data](/census-acs/2010-census-information#census-information-2010)
+- [Colorado County Profile System](/population/data/county-profile#county-demographic-profiles)
+- [Population Forecasts](/population/population-totals-colorado-substate#population-totals-for-colorado-and-sub-state-regions)
+- [Population Forecasts by Age](/population/age-gender-population-data#age-and-gender-population-data)
+- [Population by Race & Hispanic Origin](/population/race-hispanic-origin#race-and-hispanic-origin)
 - [Census Population Estimates (census.gov)](http://www.census.gov/popest/estimates.html)
 
 - - -
 
 #### Housing Unit and Household Data
 
-- [Colorado County Profile System](/population/data/county-profile.html)
+- [Colorado County Profile System](/population/data/county-profile#county-demographic-profiles)
 - [Housing Unit and Household Estimates](http://dola.colorado.gov/demog-cms/content/housing-and-households) *Move*
 - [Households by Region, Type, Age, Tenure, and Income](https://dola.colorado.gov/households/income_parameters.jsf) *WTF*
 - [Division of Housing Vacancy and Rent Surveys](https://www.colorado.gov/pacific/dola/vacancy-rent-surveys)
@@ -34,7 +34,7 @@ permalink: "/demography/cedis.html"
 #### Employment Data
 
 - [Employment by Sector (SIC based) 1991-2001](https://dola.colorado.gov/demog_webapps/jss_parameters.jsf)
-- [Employment by Sector (NAICS based) 2001-Present](/economy-labor-force/data/jobs-by-sector.html)
+- [Employment by Sector (NAICS based) 2001-Present](/economy-labor-force/data/jobs-by-sector#jobs-by-sector-naics)
 
 - - -
 

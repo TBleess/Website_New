@@ -2,7 +2,7 @@
 
 layout: page
 title: "Census Data American Fact Finder FAQ"
-permalink: "/census-acs/census-data-aff-faq.html"
+permalink: "/census-acs/census-data-aff-faq/"
 
     
 ---
@@ -36,7 +36,7 @@ American FactFinder is an online application that provides access to detailed ta
 
 ### How do I get started using American FactFinder?
 
-You can start by checking out our Quick Start Guides, which are available on our [Training Page](/demography/training.html). The US Census Bureau also provides a [short introductory guide (census.gov)](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) to using AFF.
+You can start by checking out our Quick Start Guides, which are available on our [Training Page](/demography/training#training). The US Census Bureau also provides a [short introductory guide (census.gov)](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) to using AFF.
 
 - - -
 
@@ -48,7 +48,7 @@ The Census Bureau publishes an [in-depth FAQ (census.gov)](https://ask.census.go
 
 ### Do you offer training on how to use AFF?
 
-We do! Visit our [Training page](/demography/training.html) for more information. We offer in-person and webinar-based trainings. We also have recorded webinars you can view anytime.
+We do! Visit our [Training page](/demography/training#training) for more information. We offer in-person and webinar-based trainings. We also have recorded webinars you can view anytime.
 
 - - -
 
@@ -61,7 +61,7 @@ There are multiple way to search by geography, and Quick Start is the easiest.
 - A box entitled \"Community Facts\" will appear above your search results. Here you will see various data you can view about your community. CLick on the first link under 2010 Census. This will open a table where you will find the population for your community.
 - You can also select a table name in the search results, located under \"Community Facts.\" The search results will be organized by year starting with the most recent tables.
 
-If you\'re interested in more advanced geography searches, please visit our [Training Opportunities](/demography/training.html) page.
+If you\'re interested in more advanced geography searches, please visit our [Training Opportunities](/demography/training#training) page.
 
 - - -
 

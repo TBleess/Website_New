@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Demography Office Information
-permalink: /information.html
+permalink: /information/
 published: true
 ---
 

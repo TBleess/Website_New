@@ -2,7 +2,7 @@
 
 layout: page
 title: "American Community Survey Data"
-permalink: "/census-acs/american-community-survey-data.html"
+permalink: "/census-acs/american-community-survey-data/"
 
     
 ---
@@ -29,12 +29,12 @@ permalink: "/census-acs/american-community-survey-data.html"
 
 #### Maps
 
-- [Thematic Maps](/gis/thematic-maps.html) based on ACS data are available.
-- [GIS Data](/gis/gis-data.html)
+- [Thematic Maps](/gis/thematic-maps#thematic-maps) based on ACS data are available.
+- [GIS Data](/gis/gis-data#gis-data)
 
 
 - - -
 
 #### And More
 
-More information is also available on our [ACS Information page](/census-acs/american-community-survey-information.html), including information on Margins of Error and downloadable user guides. Additional information can also be found on the [US Census Bureau\'s website](http://www.census.gov/).
+More information is also available on our [ACS Information page](/census-acs/american-community-survey-information#american-community-survey-information), including information on Margins of Error and downloadable user guides. Additional information can also be found on the [US Census Bureau\'s website](http://www.census.gov/).

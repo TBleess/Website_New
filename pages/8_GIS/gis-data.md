@@ -2,7 +2,7 @@
 
 layout: page
 title: "Download GIS Data"
-permalink: "/gis/gis-data.html"
+permalink: "/gis/gis-data/"
 
 ---
 

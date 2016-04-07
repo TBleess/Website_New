@@ -2,7 +2,7 @@
 
 layout: page
 title: "Map Gallery"
-permalink: "/gis/map-gallery.html"
+permalink: "/gis/map-gallery/"
     
 ---
 <br />

@@ -2,7 +2,7 @@
 
 layout: page
 title: "Housing and Households Data"
-permalink: "/housing-and-households/data/index.html"
+permalink: "/housing-and-households/data/"
 
 ---
 

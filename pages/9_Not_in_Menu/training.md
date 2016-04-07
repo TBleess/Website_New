@@ -2,7 +2,7 @@
 
 layout: page
 title: "Training"
-permalink: "/demography/training.html"
+permalink: "/demography/training/"
 
 ---
 
@@ -43,6 +43,6 @@ The following webinar-based trainings are available for view with commentary. Wh
 
 #### Other
 
-- [American FactFinder Quick FAQ](/census-acs/census-data-aff-faq.html)
+- [American FactFinder Quick FAQ](/census-acs/census-data-aff-faq#american-fact-finder---frequently-asked-questions)
 - [American FactFinder FAQs (census.gov)](https://ask.census.gov/faq.php?dept=769&id=5000)
 

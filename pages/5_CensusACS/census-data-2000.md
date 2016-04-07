@@ -2,11 +2,11 @@
 
 layout: page
 title: "2000 Census Data"
-permalink: "/census-acs/2000-census-data.html"
+permalink: "/census-acs/2000-census-data/"
 
 ---
 
-## 2000 Census Data
+## Census Data (2000)
 
 - - -
 
@@ -21,8 +21,6 @@ permalink: "/census-acs/2000-census-data.html"
 [Quick Tables](http://dola.colorado.gov/demog-cms/content/census-quick-tables). These pdf documents break Census 2000 data down to specific subject modules. These modules outline specific socio-economic characteristics of the population at a county level only. Modules vary in size and subject detail.
 
 [Create Your Own Table](https://dola.colorado.gov/demog_webapps/ccTopic.jsf). This option is available for those users who would like to create their own tables using selected variables. This data is available for all counties and municipalities.
-
-[Legislative District Profiles](http://dola.colorado.gov/demog-cms/content/census-legislative-profiles). This pdf is an 8-page population and housing profile containing data taken from the Short (100% count) and Long-Form (sample) questionnaires. It is available for every State of Colorado House and Senate District.
 
 [1990 & 2000 Demographic Trends](http://dola.colorado.gov/demog-cms/content/demographic-trends). This one page outlines basic data from the 1990 and 2000 Census for Colorado counties and municipalities.
 

@@ -11,11 +11,11 @@ permalink: "/gis/index.html"
 
 **Webmap Gallery**
 
-- [Interactive Web Maps and Data Visualizations](/gis/map-gallery.html)
+- [Interactive Web Maps and Data Visualizations](/gis/map-gallery/)
 
 **Download Maps and Data**
 
-- [PDF Thematic Maps](/gis/thematic-maps.html)
-- [GIS Data](/gis/gis-data.html)
+- [PDF Thematic Maps](/gis/thematic-maps#thematic-maps)
+- [GIS Data](/gis/gis-data#gis-data)
 
 

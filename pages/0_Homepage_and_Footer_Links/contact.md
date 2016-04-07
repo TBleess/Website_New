@@ -2,10 +2,10 @@
 
 layout: page
 title: "Contact"
-permalink: "/contact.html"
+permalink: "/contact/"
     
 ---
-## State Demography Office - Contact Us
+## Contact Us
 - - -
 State Demography Office  
 1313 Sherman Street, Room 521  

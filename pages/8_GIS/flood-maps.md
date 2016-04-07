@@ -2,11 +2,11 @@
 
 layout: page
 title: "Download Maps and Data"
-permalink: "/gis/flood-maps.html"
+permalink: "/gis/flood-maps/"
 
 ---
 
-## 2013 Flood Maps
+## Flood Maps (2013)
 
 **Adams County**
 

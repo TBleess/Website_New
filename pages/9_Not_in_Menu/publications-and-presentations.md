@@ -2,7 +2,7 @@
 
 layout: page
 title: "Publications and Presentations"
-permalink: "/demography/publications-and-presentations.html"
+permalink: "/demography/publications-and-presentations/"
 
 ---
 
@@ -15,9 +15,9 @@ permalink: "/demography/publications-and-presentations.html"
 
 <div style="text-align: center;" markdown="1">
 
-[Infographics](/demography/infographics.html) \| [Publications & Reports](#publications-and-reports) \| [Community Profiles](#community-profiles) \| [Presentations](#presentations) \| [Thematic Maps](/gis/thematic-maps.html) \| [GIS Data](/gis/gis-data.html)
+[Infographics](/demography/infographics#infographics) \| [Publications & Reports](#publications-and-reports) \| [Community Profiles](#community-profiles) \| [Presentations](#presentations) \| [Thematic Maps](/gis/thematic-maps#thematic-maps) \| [GIS Data](/gis/gis-data#gis-data)
 
-[2015 Annual Demography Conference](#annual-conference-2015) \| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations.html)
+[2015 Annual Demography Conference](#annual-conference-2015) \| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations#archived-publications-and-presentations)
 
 </div>
 
@@ -29,7 +29,7 @@ permalink: "/demography/publications-and-presentations.html"
 
 - [What Paradox? Educational Attainment by Place of Birth](https://drive.google.com/open?id=0B2oqdPZKJqK7RDloZG45V2JmNmc)
 - [Colorado Migration](https://drive.google.com/open?id=0B2oqdPZKJqK7TVRiYlI5RnR0Tms)
-- [Infographics](/demography/infographics.html)
+- [Infographics](/demography/infographics#infographics)
 - [Colorado Labor Force (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7T3FqeGdUZDhUOGM)
 - [Colorado Mineral and Energy Update (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7UWNjU1ZuVnVEUmc)
 - [\"Social Generations\" (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7dU9uVzdzaE84c0k)

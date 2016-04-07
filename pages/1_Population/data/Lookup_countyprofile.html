@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "County Profile Lookup"
-permalink: "/population/data/county-profile.html"
+permalink: "/population/data/county-profile/"
 custom_js:
 - /assets/js/FileSaver.min.js
 file: "https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/county_profiles.csv"
@@ -16,7 +16,7 @@ tag: "popdata"
   {% endfor %}
 {% endif %}
 
-<h2>County Demographic Profiles</h2>
+<h2 id="county-demographic-profiles">County Demographic Profiles</h2>
 
 <br />
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />

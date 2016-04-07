@@ -2,7 +2,7 @@
 
 layout: page
 title: "Population Totals Counties"
-permalink: "/population/population-totals-counties.html"
+permalink: "/population/population-totals-counties/"
 
 ---
 
@@ -31,7 +31,7 @@ This option allows the user to select any combination of state, counties or muni
 [Municipalities Within Counties:](https://dola.colorado.gov/demog_webapps/mpe_parameters.jsf) *Change*
 This option allows the user to select a county and list the population estimates for all of the municipalities within that particular county. Years available 1980, 1990 to current.
 
-[County Profile:](/population/data/county-profile.html)
+[County Profile:](/population/data/county-profile#county-demographic-profiles)
 The County Profile database allows the user to select population estimates along with other variables, for years 1985 to current.
 
 - - -
@@ -45,4 +45,4 @@ These tables illustrate the population for future years, based on plausible cour
 - [5 year increments, 2000 - 2050](https://drive.google.com/open?id=0B-vz6H4k4SESV1NLOHZCVXoyVm8&authuser=0)
 - [1 year increments, 2000 - 2050](https://drive.google.com/open?id=0B-vz6H4k4SESdkNHSng2VGlEc1k&authuser=0)
 
-[Population Forecasts By Age & Gender](/population/data/county-sya.html)
+[Population Forecasts By Age & Gender](/population/data/county-sya#county-population-by-single-year-of-age)

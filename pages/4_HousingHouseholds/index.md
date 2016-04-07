@@ -12,9 +12,9 @@ permalink: "/housing-and-households/"
 
 #### Data on Housing and Households are available for the following geographies:
 
-- [United States](/housing-and-households/united-states/)
-- [Planning and Management Regions](/housing-and-households/planning-and-management-regions/)
-- [Counties and Municipalities](/housing-and-households/counties-and-municipalities/)
+- [United States](/housing-and-households/united-states#united-states)
+- [Planning and Management Regions](/housing-and-households/planning-and-management-regions#planning-and-management-regions)
+- [Counties and Municipalities](/housing-and-households/counties-and-municipalities#counties-and-municipalities)
 
 - - -
 

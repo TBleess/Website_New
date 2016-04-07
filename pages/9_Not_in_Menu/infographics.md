@@ -2,7 +2,7 @@
 
 layout: page
 title: "Infographics"
-permalink: "/demography/infographics.html"
+permalink: "/demography/infographics/"
 
 ---
 

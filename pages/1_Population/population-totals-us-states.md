@@ -2,11 +2,11 @@
 
 layout: page
 title: "Population Totals US and States"
-permalink: "/population/population-totals-us-states.html"
+permalink: "/population/population-totals-us-states/"
 
 ---
 
-## Population Totals for the U.S. and States
+## Population Totals for the US and States
 
 - - -
 

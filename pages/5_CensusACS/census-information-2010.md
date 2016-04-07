@@ -2,16 +2,16 @@
 
 layout: page
 title: "2010 Census Information"
-permalink: "/census-acs/2010-census-information.html"
+permalink: "/census-acs/2010-census-information/"
 
     
 ---
 
-## 2010 Census Information
+## Census Information (2010)
 
 - - -
 
-[Looking for 2010 Colorado Census Data? It's available here!](/census-acs/2010-census-data.html)
+[Looking for 2010 Colorado Census Data? It is available here!](/census-acs/2010-census-data#census-data-for-colorado-2010)
 
 - - -
 
@@ -31,7 +31,7 @@ Colorado had a 72% participation rate. Curious to see how your community did? [D
 
 #### More Census Information
 
-The US Census Bureau's official [2010 Census website (census.gov)](http://www.census.gov/2010census/) is packed with information.
+The US Census Bureau\'s official [2010 Census website (census.gov)](http://www.census.gov/2010census/) is packed with information.
 
 - - -
 

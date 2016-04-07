@@ -7,7 +7,7 @@ permalink: /index.html
 ---
 The **State Demography Office** is the primary state agency for population and demographic information. 
 
-Please visit our [Information Page](/information.html) to learn more, or [send us an email](/contact.html) with any questions or comments!
+Please visit our [Information Page](/information#about-the-state-demography-office) to learn more, or [send us an email](/contact#contact-us) with any questions or comments!
 
 #### Demography Dashboard
   

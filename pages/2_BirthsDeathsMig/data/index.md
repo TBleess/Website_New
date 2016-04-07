@@ -2,7 +2,7 @@
 
 layout: page
 title: "Biths Deaths and Migration Data"
-permalink: "/births-deaths-migration/data/index.html"
+permalink: "/births-deaths-migration/data/"
 
 ---
 ## Births, Deaths and Migration: Data and Lookups

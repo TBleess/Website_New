@@ -2,7 +2,7 @@
 
 layout: page
 title: "Population Data"
-permalink: "/population/data/index.html"
+permalink: "/population/data/"
 
 ---
 ## Population: Data and Lookups

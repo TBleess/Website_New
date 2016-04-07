@@ -2,7 +2,7 @@
 
 layout: page
 title: "Understanding Margins of Error"
-permalink: "/demography/understanding-margins-error.html"
+permalink: "/demography/understanding-margins-error/"
 
 ---
 
@@ -52,4 +52,4 @@ The margin of error relative to the estimate is 11.4%. In general, we are sugges
 - Do not use estimates when the MOE is larger than 50% of the estimate, and
 - Use with caution when the MOE is 20% to 50% of the estimate.
 
-These are general guidelines only and will depend on the question being asked and the importance of exactness. In Colorado many of our communities are small will therefore, due to size, have larger margins of error. Sometimes uncertain information is better than no information at all, and other times it is worse. What is important is to report the margin of error when reporting the estimate so that other user/readers will understand the uncertainty related to the estimates. Visit our [Resources page](/demography/index.html) for a downloadable guide to Understanding MOE.
+These are general guidelines only and will depend on the question being asked and the importance of exactness. In Colorado many of our communities are small will therefore, due to size, have larger margins of error. Sometimes uncertain information is better than no information at all, and other times it is worse. What is important is to report the margin of error when reporting the estimate so that other user/readers will understand the uncertainty related to the estimates. Visit our [Resources page](/demography#resources) for a downloadable guide to Understanding MOE.

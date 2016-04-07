@@ -2,17 +2,17 @@
 
 layout: page
 title: "2010 Census Data"
-permalink: "/census-acs/2010-census-data.html"
+permalink: "/census-acs/2010-census-data/"
 
 ---
 
-## 2010 Census Data for Colorado
+## Census Data for Colorado (2010)
 
 - - -
 
 The State Demography Office will continue to evaluate data from the 2010 Census, and will be posting new tables as they become available, so check back often! Our press releases are available here.
 
-Check out our [Training Opportunities](/demography/training.html) page for easy-to-follow guides to using American FactFinder.
+Check out our [Training Opportunities](/demography/training#training) page for easy-to-follow guides to using American FactFinder.
 
 ### Urban/Rural Data
 

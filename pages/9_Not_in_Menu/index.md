@@ -2,7 +2,7 @@
 
 layout: page
 title: "Demography Resources"
-permalink: "/demography/index.html"
+permalink: "/demography/"
 
 ---
 
@@ -27,10 +27,10 @@ permalink: "/demography/index.html"
 
 #### Data
 
-- [Colorado data tables](/census-acs/american-community-survey-data.html)
+- [Colorado data tables](/census-acs/american-community-survey-data#american-community-survey-data-for-colorado)
 
 - - -
 
 #### Miscellaneous
 
-- [Check out our training opportunities!](/demography/training.html)
+- [Check out our training opportunities!](/demography/training#training)

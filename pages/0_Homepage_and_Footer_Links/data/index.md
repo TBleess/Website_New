@@ -2,13 +2,13 @@
 
 layout: page
 title: "State Demography Office Data Page"
-permalink: "/data/index.html"
+permalink: "/data/"
 
 ---
 
 <div style="text-align: center;" markdown="1">
 
-[Demography Office Data](#state-demography-office-data) \| [Census Data Tools](#census-data-tools) \| [GIS Data Downloads](/gis/gis-data.html) \| [Thematic Maps](/gis/thematic-maps.html)
+[Demography Office Data](#state-demography-office-data) \| [Census Data Tools](#census-data-tools) \| [GIS Data Downloads](/gis/gis-data#gis-data) \| [Thematic Maps](/gis/thematic-maps#thematic-maps)
 
 </div>
 
@@ -24,7 +24,7 @@ permalink: "/data/index.html"
 
 ## Census Data Tools
 
- - [Census Search](/CensusAPI/queryapi.html) Easy to use, custom search tool created by the State Demography Office.  Search Census and American Community Survey data from 1980 to 2014.  Covers Colorado and the nation: Block Groups, Tracts, Counties, Places, and States.
+ - [Census Search](/CensusAPI) Easy to use, custom search tool created by the State Demography Office.  Search Census and American Community Survey data from 1980 to 2014.  Covers Colorado and the nation: Block Groups, Tracts, Counties, Places, and States.
  
  - [American FactFinder (census.gov)](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) Census tool for accessing the vast universe of Census Data products; includes population, housing, and economic data.
 
@@ -35,7 +35,7 @@ permalink: "/data/index.html"
 
 ## GIS Data Downloads
 
-- [GIS Data](/gis/gis-data.html) Municipal Boundaries, Annexations, Special Districts, American Community Survey and Census Shapefiles and much more!
+- [GIS Data](/gis/gis-data#gis-data) Municipal Boundaries, Annexations, Special Districts, American Community Survey and Census Shapefiles and much more!
 
 <br />
 
@@ -44,7 +44,7 @@ permalink: "/data/index.html"
 
 ## Thematic Maps
 
-- [Thematic Maps](/gis/thematic-maps.html)  A variety of thematic maps using data from: ACS 2010-2014, Census 2010 and original data from the Colorado State Demography Office!
+- [Thematic Maps](/gis/thematic-maps#thematic-maps)  A variety of thematic maps using data from: ACS 2010-2014, Census 2010 and original data from the Colorado State Demography Office!
 
 <br />
 

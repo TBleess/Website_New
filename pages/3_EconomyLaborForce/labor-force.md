@@ -2,7 +2,7 @@
 
 layout: page
 title: "Labor Force"
-permalink: "/economy-labor-force/labor-force.html"
+permalink: "/economy-labor-force/labor-force/"
 
 ---
 
@@ -13,7 +13,7 @@ permalink: "/economy-labor-force/labor-force.html"
 
 #### Labor Force Participation
 
-[Labor Force Participation by Age and Gender](/economy-labor-force/data/labor-force.html)
+[Labor Force Participation by Age and Gender](/economy-labor-force/data/labor-force#labor-force-participation)
 
 #### Journey  to Work/ County to County Worker Flows
 

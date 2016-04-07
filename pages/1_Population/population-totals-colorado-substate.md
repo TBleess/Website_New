@@ -2,7 +2,7 @@
 
 layout: page
 title: "Population Totals Colorado Substate"
-permalink: "/population/population-totals-colorado-substate.html"
+permalink: "/population/population-totals-colorado-substate/"
 
 ---
 
@@ -28,7 +28,7 @@ Population estimates are produced annually by the State Demography Office. The m
 
 This option allows the user to select any combination of state, counties or municipalities for the year(s) of 1980, 1990 to current.
 
-[County Profile:](/population/data/county-profile.html)
+[County Profile:](/population/data/county-profile#county-demographic-profiles)
 
 The County Profile database allows the user to select population estimates along with other variables, for years 1985 to present.
 
@@ -43,5 +43,5 @@ These tables illustrate the population for future years, based on plausible cour
 - [5 year increments, 2000 - 2050 excel](https://drive.google.com/open?id=0B-vz6H4k4SESWkFIeW5VWHRzMFE&authuser=0)
 - [1 year increments, 2000 - 2050 excel](https://drive.google.com/open?id=0B-vz6H4k4SESaWs2UXJJSnBpYVE&authuser=0)
 
-[Population Forecasts By Age & Gender](/population/data/county-sya.html)
+[Population Forecasts By Age & Gender](/population/data/county-sya#county-population-by-single-year-of-age)
 
