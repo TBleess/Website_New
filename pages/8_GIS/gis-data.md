@@ -65,19 +65,19 @@ permalink: "/gis/gis-data.html"
 #### Census and ACS
 
 - 2010-2014 American Community Survey (with demographic characteristics)
-  - Block Groups
-  - Tracts
-  - Counties
-  - Places
-  - ZIP
+  - [Block Groups](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/ACS1014_bg.zip)
+  - [Tracts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/ACS1014_tract.zip)
+  - [Counties](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/ACS1014_county.zip)
+  - [Places](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/ACS1014_place.zip)
+  - [ZIP](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/ACS1014_zcta.zip)
 
 - 2010 US Census (with demographic characteristics)
-  - Blocks
-  - Block Groups
-  - Tracts
-  - Counties
-  - Places
-  - ZIP
+  - [Blocks](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Blocks%202010.zip)
+  - [Block Groups](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Block%20Groups%202010.zip)
+  - [Tracts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Tracts%202010.zip)
+  - [Counties](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Counties%202010.zip)
+  - [Places](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Places%202010.zip)
+  - [ZIP](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Zipcodes%202010.zip)
 
 ----
 
