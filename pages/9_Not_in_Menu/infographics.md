@@ -3,6 +3,7 @@
 layout: page
 title: "Infographics"
 permalink: "/demography/infographics/"
+datalink: "/data"
 
 ---
 

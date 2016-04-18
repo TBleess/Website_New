@@ -174,49 +174,49 @@ tag: "econdata"
         
         
 
-          addrow(0,results[0].cname, "Traditional - All Totals", Math.round(parseFloat(results[0].agri_emp) + parseFloat(results[0].mining_emp) + parseFloat(results[0].manuf_emp) +parseFloat(results[0].govt_emp)),  Math.round(((parseFloat(results[0].agri_emp) + parseFloat(results[0].mining_emp) + parseFloat(results[0].manuf_emp) +parseFloat(results[0].govt_emp))/  (parseFloat(results[0].total_basic_emp)))*10000)/100 );
+          addrow(0,results[0].cname, "Traditional - All Totals", (Math.round(parseFloat(results[0].agri_emp) + parseFloat(results[0].mining_emp) + parseFloat(results[0].manuf_emp) +parseFloat(results[0].govt_emp))).toLocaleString(),  (Math.round(((parseFloat(results[0].agri_emp) + parseFloat(results[0].mining_emp) + parseFloat(results[0].manuf_emp) +parseFloat(results[0].govt_emp))/  (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );
 
-          addrow(1,results[0].cname, "Traditional - Agribusiness", Math.round(parseFloat(results[0].agri_emp)),  Math.round((parseFloat(results[0].agri_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );  
+          addrow(1,results[0].cname, "Traditional - Agribusiness", (Math.round(parseFloat(results[0].agri_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].agri_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );  
 
-          addrow(2,results[0].cname, "Traditional - Mining", Math.round(parseFloat(results[0].mining_emp)),  Math.round((parseFloat(results[0].mining_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );         
+          addrow(2,results[0].cname, "Traditional - Mining", (Math.round(parseFloat(results[0].mining_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].mining_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );         
 
-          addrow(3,results[0].cname, "Traditional - Manufacturing", Math.round(parseFloat(results[0].manuf_emp)),  Math.round((parseFloat(results[0].manuf_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );                 
+          addrow(3,results[0].cname, "Traditional - Manufacturing", (Math.round(parseFloat(results[0].manuf_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].manuf_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );                 
 
-          addrow(4,results[0].cname, "Traditional - Government", Math.round(parseFloat(results[0].govt_emp)),  Math.round((parseFloat(results[0].govt_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );                 
+          addrow(4,results[0].cname, "Traditional - Government", (Math.round(parseFloat(results[0].govt_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].govt_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );                 
 
-          addrow(5,results[0].cname, "Regional Center / National Services - All Totals", Math.round(parseFloat(results[0].regl_serv_emp)),  Math.round((parseFloat(results[0].regl_serv_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );        
+          addrow(5,results[0].cname, "Regional Center / National Services - All Totals", (Math.round(parseFloat(results[0].regl_serv_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].regl_serv_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );        
 
-          addrow(6,results[0].cname, "Regional Center / National Services - Construction", Math.round(parseFloat(results[0].natl_const_emp)),  Math.round((parseFloat(results[0].natl_const_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );                
+          addrow(6,results[0].cname, "Regional Center / National Services - Construction", (Math.round(parseFloat(results[0].natl_const_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_const_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );                
 
-          addrow(7,results[0].cname, "Regional Center / National Services - Communications", Math.round(parseFloat(results[0].natl_comm_emp)),  Math.round((parseFloat(results[0].natl_comm_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );               
+          addrow(7,results[0].cname, "Regional Center / National Services - Communications", (Math.round(parseFloat(results[0].natl_comm_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_comm_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );               
 
-          addrow(8,results[0].cname, "Regional Center / National Services - Trade and Transportation", Math.round(parseFloat(results[0].natl_trade_emp)),  Math.round((parseFloat(results[0].natl_trade_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );              
+          addrow(8,results[0].cname, "Regional Center / National Services - Trade and Transportation", (Math.round(parseFloat(results[0].natl_trade_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_trade_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );              
 
-          addrow(9,results[0].cname, "Regional Center / National Services - Professional and Business Services", Math.round(parseFloat(results[0].natl_bus_emp)),  Math.round((parseFloat(results[0].natl_bus_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );    
+          addrow(9,results[0].cname, "Regional Center / National Services - Professional and Business Services", (Math.round(parseFloat(results[0].natl_bus_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_bus_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );    
 
-          addrow(10,results[0].cname, "Regional Center / National Services - Finance, Insurance and Real Estate", Math.round(parseFloat(results[0].natl_fire_emp)),  Math.round((parseFloat(results[0].natl_fire_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );           
+          addrow(10,results[0].cname, "Regional Center / National Services - Finance, Insurance and Real Estate", (Math.round(parseFloat(results[0].natl_fire_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_fire_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );           
 
-          addrow(11,results[0].cname, "Regional Center / National Services - Education and Health Services", Math.round(parseFloat(results[0].natl_ed_emp)),  Math.round((parseFloat(results[0].natl_ed_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );           
+          addrow(11,results[0].cname, "Regional Center / National Services - Education and Health Services", (Math.round(parseFloat(results[0].natl_ed_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_ed_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );           
 
-          addrow(12,results[0].cname, "Tourism", Math.round(parseFloat(results[0].tourism_emp)),  Math.round((parseFloat(results[0].tourism_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );                    
+          addrow(12,results[0].cname, "Tourism", (Math.round(parseFloat(results[0].tourism_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].tourism_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );                    
 
-          addrow(13,results[0].cname, "Households - Commuters", Math.round(parseFloat(results[0].commuter_emp)),  Math.round((parseFloat(results[0].commuter_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );               
+          addrow(13,results[0].cname, "Households - Commuters", (Math.round(parseFloat(results[0].commuter_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].commuter_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );               
 
-          addrow(14,results[0].cname, "Households - Retirees", Math.round(parseFloat(results[0].retiree_emp)),  Math.round((parseFloat(results[0].retiree_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );        
+          addrow(14,results[0].cname, "Households - Retirees", (Math.round(parseFloat(results[0].retiree_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].retiree_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );        
 
-          addrow(15,results[0].cname, "Households - with Public Assistance Income (excluding retirees)", Math.round(parseFloat(results[0].other_hhd_emp)),  Math.round((parseFloat(results[0].other_hhd_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );             
+          addrow(15,results[0].cname, "Households - with Public Assistance Income (excluding retirees)", (Math.round(parseFloat(results[0].other_hhd_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].other_hhd_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );             
 
-          addrow(16,results[0].cname, "Households - with Dividends, Interest, and Rental Income (excluding retirees)", Math.round(parseFloat(results[0].other_inc_emp)),  Math.round((parseFloat(results[0].other_inc_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100 );             
+          addrow(16,results[0].cname, "Households - with Dividends, Interest, and Rental Income (excluding retirees)", (Math.round(parseFloat(results[0].other_inc_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].other_inc_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );             
 
-          addrow(17,results[0].cname, "Total Direct Basic", Math.round(parseFloat(results[0].direct_basic_emp)),  "" );                     
+          addrow(17,results[0].cname, "Total Direct Basic", (Math.round(parseFloat(results[0].direct_basic_emp))).toLocaleString(),  "" );                     
 
-          addrow(18,results[0].cname, "Worker Local Res. Services (Non Basic)", Math.round(parseFloat(results[0].wrkr_lrs_emp)),  "" );            
+          addrow(18,results[0].cname, "Worker Local Res. Services (Non Basic)", (Math.round(parseFloat(results[0].wrkr_lrs_emp))).toLocaleString(),  "" );            
 
-          addrow(19,results[0].cname, "Indirect Basic", Math.round(parseFloat(results[0].ib_emp)),  "" );            
+          addrow(19,results[0].cname, "Indirect Basic", (Math.round(parseFloat(results[0].ib_emp))).toLocaleString(),  "" );            
 
-          addrow(20,results[0].cname, "Total All Industries", Math.round(parseFloat(results[0].employment)),  "" );       
+          addrow(20,results[0].cname, "Total All Industries", (Math.round(parseFloat(results[0].employment))).toLocaleString(),  "" );       
 
-          addrow(21,results[0].cname, "Ratio: Total / Direct Basic", ((Math.round((parseFloat(results[0].employment)/parseFloat(results[0].direct_basic_emp))*100))/100),  "" );           
+          addrow(21,results[0].cname, "Ratio: Total / Direct Basic", (((Math.round((parseFloat(results[0].employment)/parseFloat(results[0].direct_basic_emp))*100))/100)).toLocaleString(),  "" );           
         
         function addrow(rownum, cname, desc, stat, pct){
           

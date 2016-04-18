@@ -3,7 +3,7 @@
 layout: page
 title: "CEDIS"
 permalink: "/demography/cedis/"
-
+datalink: "/data"
     
 ---
 

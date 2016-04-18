@@ -442,7 +442,7 @@ tag: "popdata"
           cell4.innerHTML = age;
           cell5.innerHTML = sex;
           cell6.innerHTML = race;
-          cell7.innerHTML = count;          
+          cell7.innerHTML = Number(count).toLocaleString();          
           
         }
 
@@ -466,7 +466,7 @@ for (i = 0; i < rowLength; i++){
    for(var j = 0; j < cellLength; j++){
       /* get your cell info here */
       if(j===0 && i>0){csvstring=csvstring+"\n";}
-      csvstring = csvstring + oCells.item(j).innerHTML;
+      csvstring = csvstring + '"' + oCells.item(j).innerHTML + '"';
      if(j< cellLength ){csvstring=csvstring+",";}
      }
 }

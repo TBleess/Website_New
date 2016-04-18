@@ -3,6 +3,7 @@
 layout: page
 title: "United States"
 permalink: "/housing-and-households/united-states/"
+datalink: "/housing-and-households/data"
 
 ---
 

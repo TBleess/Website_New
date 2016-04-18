@@ -375,11 +375,11 @@ tag: "bdmdata"
           cell1.innerHTML = county;
           cell2.innerHTML = countyfips;
           cell3.innerHTML = year;
-          cell4.innerHTML = population;
-          cell5.innerHTML = change;
-          cell6.innerHTML = births;
-          cell7.innerHTML = deaths; 
-          cell8.innerHTML = netmig;
+          cell4.innerHTML = Number(population).toLocaleString();
+          cell5.innerHTML = Number(change).toLocaleString();
+          cell6.innerHTML = Number(births).toLocaleString();
+          cell7.innerHTML = Number(deaths).toLocaleString(); 
+          cell8.innerHTML = Number(netmig).toLocaleString();
           cell9.innerHTML = datatype;             
           
         }
@@ -404,7 +404,7 @@ for (i = 0; i < rowLength; i++){
    for(var j = 0; j < cellLength; j++){
       /* get your cell info here */
       if(j===0 && i>0){csvstring=csvstring+"\n";}
-      csvstring = csvstring + oCells.item(j).innerHTML;
+      csvstring = csvstring + '"' + oCells.item(j).innerHTML + '"';
      if(j< cellLength ){csvstring=csvstring+",";}
      }
 }

@@ -3,6 +3,7 @@
 layout: page
 title: "Population Totals US and States"
 permalink: "/population/population-totals-us-states/"
+datalink: "/population/data"
 
 ---
 

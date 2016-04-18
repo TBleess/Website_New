@@ -3,6 +3,7 @@
 layout: page
 title: "2015 Annual Demography Conference Videos"
 permalink: "/demography/demography-conference-videos/"
+datalink: "/data"
 
 ---
 

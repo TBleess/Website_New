@@ -3,6 +3,7 @@
 layout: page
 title: "Training"
 permalink: "/demography/training/"
+datalink: "/data"
 
 ---
 

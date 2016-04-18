@@ -3,6 +3,7 @@
 layout: page
 title: "Population Data"
 permalink: "/population/"
+datalink: "/population/data"
 
 ---
 

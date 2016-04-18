@@ -3,6 +3,8 @@ layout: page
 title: Demography Office Information
 permalink: /information/
 published: true
+datalink: "/data"
+
 ---
 
 

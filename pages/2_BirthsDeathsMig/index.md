@@ -3,7 +3,7 @@
 layout: page
 title: "Births Deaths Migration"
 permalink: "/births-deaths-migration/"
-
+datalink: "/births-deaths-migration/data"
     
 ---
 

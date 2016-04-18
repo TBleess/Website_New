@@ -3,6 +3,7 @@
 layout: page
 title: "Contact"
 permalink: "/contact/"
+datalink: "/data"
     
 ---
 ## Contact Us

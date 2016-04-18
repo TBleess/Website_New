@@ -406,7 +406,7 @@ tag: "hhdata"
           cell3.innerHTML = year;
           cell4.innerHTML = age;
           cell5.innerHTML = household;
-          cell6.innerHTML = total_household;
+          cell6.innerHTML = Number(total_household).toLocaleString();
               
         }
 
@@ -430,7 +430,7 @@ for (i = 0; i < rowLength; i++){
    for(var j = 0; j < cellLength; j++){
       /* get your cell info here */
       if(j===0 && i>0){csvstring=csvstring+"\n";}
-      csvstring = csvstring + oCells.item(j).innerHTML;
+      csvstring = csvstring + '"' + oCells.item(j).innerHTML + '"';
      if(j< cellLength ){csvstring=csvstring+",";}
      }
 }

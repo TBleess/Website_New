@@ -3,6 +3,7 @@
 layout: page
 title: "Race and Hispanic Origin"
 permalink: "/population/race-hispanic-origin/"
+datalink: "/population/data"
 
 ---
 

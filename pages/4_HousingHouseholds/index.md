@@ -3,6 +3,7 @@
 layout: page
 title: "Housing and Households"
 permalink: "/housing-and-households/"
+datalink: "/housing-and-households/data"
 
 ---
 
@@ -14,7 +15,7 @@ permalink: "/housing-and-households/"
 
 - [United States](/housing-and-households/united-states#united-states)
 - [Planning and Management Regions](/housing-and-households/planning-and-management-regions#planning-and-management-regions)
-- [Counties and Municipalities](/housing-and-households/counties-and-municipalities#counties-and-municipalities)
+- [Counties and Municipalities](/housing-and-households/counties-and-municipalities#counties-and-municipalities) 
 
 - - -
 

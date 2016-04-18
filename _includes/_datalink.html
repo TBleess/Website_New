@@ -1,0 +1,32 @@
+<style>
+
+.datalink {
+  float: right;
+  font-size: 90%;
+  color: black;
+    text-decoration: none;
+  top: 0px;
+  margin-top: -20px;
+  width: 80px;
+  right: 10px;
+    display: block;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: #bad0e7;
+    line-height: 26px;
+  margin-right: 2px;
+  text-align: center;
+  border: .25px solid rgb(149,149,149);
+}
+  
+.datalink:hover{
+  background-color: grey;
+}
+  
+</style>
+
+{% if page.datalink %}
+
+<a href="{{page.datalink}}" class="datalink" >Get Data</a>
+
+{% endif %}

@@ -3,6 +3,7 @@
 layout: page
 title: "Demography Resources"
 permalink: "/demography/"
+datalink: "/data"
 
 ---
 

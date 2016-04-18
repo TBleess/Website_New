@@ -3,6 +3,7 @@
 layout: page
 title: "Labor Force"
 permalink: "/economy-labor-force/labor-force/"
+datalink: "/economy-labor-force/data"
 
 ---
 

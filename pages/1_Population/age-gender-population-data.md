@@ -3,7 +3,7 @@
 layout: page
 title: "Age Gender Population Data"
 permalink: "/population/age-gender-population-data/"
-
+datalink: "/population/data"
     
 ---
 

@@ -731,14 +731,14 @@ tag: "popdata"
           cell3.innerHTML = placename;
           cell4.innerHTML = countyfips;
           cell5.innerHTML = placefips;
-          cell6.innerHTML = totalpopulation;
-          cell7.innerHTML = householdpopulation;
-          cell8.innerHTML = groupquarterspopulation;
-          cell9.innerHTML = (parseInt(householdpopulation) / parseInt(totalhousingunits)).toFixed(2);;
-          cell10.innerHTML = totalhousingunits;
-          cell11.innerHTML = occupiedhousingunits;
-          cell12.innerHTML = vacanthousingunits;
-          cell13.innerHTML = ((parseInt(vacanthousingunits) / parseInt(totalhousingunits))*100).toFixed(1)+"%";
+          cell6.innerHTML = Number(totalpopulation).toLocaleString();
+          cell7.innerHTML = Number(householdpopulation).toLocaleString();
+          cell8.innerHTML = Number(groupquarterspopulation).toLocaleString();
+          cell9.innerHTML = Number((parseInt(householdpopulation) / parseInt(totalhousingunits)).toFixed(2)).toLocaleString();
+          cell10.innerHTML = Number(totalhousingunits).toLocaleString();
+          cell11.innerHTML = Number(occupiedhousingunits).toLocaleString();
+          cell12.innerHTML = Number(vacanthousingunits).toLocaleString();
+          cell13.innerHTML = Number((parseInt(vacanthousingunits) / parseInt(totalhousingunits)).toFixed(4)).toLocaleString();
           
         }
 
@@ -763,7 +763,7 @@ for (i = 0; i < rowLength; i++){
    for(var j = 0; j < cellLength; j++){
       /* get your cell info here */
       if(j===0 && i>0){csvstring=csvstring+"\n";}
-      csvstring = csvstring + oCells.item(j).innerHTML;
+      csvstring = csvstring + '"' + oCells.item(j).innerHTML + '"';
      if(j< cellLength ){csvstring=csvstring+",";}
      }
 }

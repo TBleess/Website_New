@@ -3,7 +3,7 @@
 layout: page
 title: "Economic Forecasts"
 permalink: "/economy-labor-force/economic-forecasts/"
-
+datalink: "/economy-labor-force/data"
     
 ---
 

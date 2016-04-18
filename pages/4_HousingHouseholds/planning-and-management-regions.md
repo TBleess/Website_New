@@ -3,6 +3,7 @@
 layout: page
 title: "Planning and Management Regions"
 permalink: "/housing-and-households/planning-and-management-regions/"
+datalink: "/housing-and-households/data"
 
 ---
 

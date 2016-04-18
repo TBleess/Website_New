@@ -3,6 +3,7 @@
 layout: page
 title: "Download Maps and Data"
 permalink: "/gis/thematic-maps/"
+datalink: "/gis/gis-data#gis-data"
 
 ---
 

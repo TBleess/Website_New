@@ -3,6 +3,7 @@
 layout: page
 title: "Population Totals Counties"
 permalink: "/population/population-totals-counties/"
+datalink: "/population/data"
 
 ---
 

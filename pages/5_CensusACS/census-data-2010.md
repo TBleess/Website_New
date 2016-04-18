@@ -3,6 +3,7 @@
 layout: page
 title: "2010 Census Data"
 permalink: "/census-acs/2010-census-data/"
+datalink: "/data/#census-data-tools"
 
 ---
 

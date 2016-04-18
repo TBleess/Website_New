@@ -2,6 +2,8 @@
 title: Colorado Demography Homepage
 layout: homepage
 permalink: /index.html
+
+
 ---  
 ## State Demography Office
 ---

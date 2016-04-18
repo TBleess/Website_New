@@ -3,6 +3,7 @@
 layout: page
 title: "Population Totals Municipalities"
 permalink: "/population/population-totals-municipalities/"
+datalink: "/population/data"
 
 ---
 

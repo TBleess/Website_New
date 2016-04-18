@@ -3,6 +3,7 @@
 layout: page
 title: "Final CTF Estimates"
 permalink: "/demography/final-ctf-estimates/"
+datalink: "/data"
 
 ---
 

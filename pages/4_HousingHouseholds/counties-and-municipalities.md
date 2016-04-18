@@ -3,6 +3,7 @@
 layout: page
 title: "Counties and Municipalities"
 permalink: "/housing-and-households/counties-and-municipalities/"
+datalink: "/housing-and-households/data"
 
 ---
 

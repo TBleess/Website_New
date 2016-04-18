@@ -360,12 +360,12 @@ tag: "econdata"
           cell3.innerHTML = year;
           cell4.innerHTML = age;
           cell5.innerHTML = gender;
-          cell6.innerHTML = laborforce;
-          cell7.innerHTML = cni_pop_16pl;          
-          cell8.innerHTML = Number(participationrate*100).toFixed(2);                    
+          cell6.innerHTML = Number(laborforce).toLocaleString();
+          cell7.innerHTML = Number(cni_pop_16pl).toLocaleString();          
+          cell8.innerHTML = (Number(participationrate*100).toFixed(2)).toLocaleString();                    
         }
 
-      }
+      } 
 
     
   };
@@ -385,7 +385,7 @@ for (i = 0; i < rowLength; i++){
    for(var j = 0; j < cellLength; j++){
       /* get your cell info here */
       if(j===0 && i>0){csvstring=csvstring+"\n";}
-      csvstring = csvstring + oCells.item(j).innerHTML;
+      csvstring = csvstring + '"' + oCells.item(j).innerHTML + '"';
      if(j< cellLength ){csvstring=csvstring+",";}
      }
 }

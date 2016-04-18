@@ -3,7 +3,8 @@
 layout: page
 title: "Map Gallery"
 permalink: "/gis/map-gallery/"
-    
+datalink: "/gis/gis-data#gis-data"
+
 ---
 <br />
 

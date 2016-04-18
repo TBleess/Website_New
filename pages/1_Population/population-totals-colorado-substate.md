@@ -3,6 +3,7 @@
 layout: page
 title: "Population Totals Colorado Substate"
 permalink: "/population/population-totals-colorado-substate/"
+datalink: "/population/data"
 
 ---
 

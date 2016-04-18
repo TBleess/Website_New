@@ -3,7 +3,7 @@
 layout: page
 title: "American Community Survey Data"
 permalink: "/census-acs/american-community-survey-data/"
-
+datalink: "/data/#census-data-tools"
     
 ---
 ## American Community Survey Data for Colorado

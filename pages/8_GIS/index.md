@@ -3,6 +3,7 @@
 layout: page
 title: "GIS Maps and Data"
 permalink: "/gis/index.html"
+datalink: "/gis/gis-data#gis-data"
     
 ---
 

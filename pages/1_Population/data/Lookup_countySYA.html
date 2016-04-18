@@ -415,9 +415,9 @@ tag: "popdata"
           cell2.innerHTML = year;
           cell3.innerHTML = age;
           cell4.innerHTML = county;
-          cell5.innerHTML = malepopulation;
-          cell6.innerHTML = femalepopulation;
-          cell7.innerHTML = totalpopulation;
+          cell5.innerHTML = Number(malepopulation).toLocaleString();
+          cell6.innerHTML = Number(femalepopulation).toLocaleString();
+          cell7.innerHTML = Number(totalpopulation).toLocaleString();
           cell8.innerHTML = datatype;
 
           
@@ -443,7 +443,7 @@ for (i = 0; i < rowLength; i++){
    for(var j = 0; j < cellLength; j++){
       /* get your cell info here */
       if(j===0 && i>0){csvstring=csvstring+"\n";}
-      csvstring = csvstring + oCells.item(j).innerHTML;
+      csvstring = csvstring + '"' + oCells.item(j).innerHTML + '"';
      if(j< cellLength ){csvstring=csvstring+",";}
      }
 }
