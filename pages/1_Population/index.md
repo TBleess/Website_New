@@ -3,6 +3,7 @@
 layout: page
 title: "Population Data"
 permalink: "/population/"
+description: "Population subject directory for the Colorado State Demography Office"
 datalink: "/population/data"
 
 ---

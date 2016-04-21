@@ -2,42 +2,21 @@
 layout: default
 ---
 
-
-  <body>
-
-                 {% include _top-bar.html %}
-
-        <div id="page-wrapper">
-            <div id="page-wrapper-inner">
-
-                  {% include _header.html %}
-
-                  {% include _breadcrumb.html %}
-
-
-                    <div id="main-content">
-
-
-
-                           {% include _infobox.html %}
-
-                          <div class="content">
-                             {{ content }}
-
-
-
-                            {% include _infolinks.html %}
-
-                      </div>
-
-                    </div>
-
-            </div>
+<body>
+  {% include _top-bar.html %}
+  <div id="page-wrapper">
+    <div id="page-wrapper-inner">
+      {% include _header.html %}
+      {% include _breadcrumb.html %}
+      <div id="main-content">
+        {% include _infobox.html %}
+        <div class="content">
+          {{ content }}
+          {% include _infolinks.html %}
         </div>
-
-
-                  {% include _footer.html %}
-
-   
+      </div>
+    </div>
+  </div>
+  {% include _footer.html %}
 </body>
 
