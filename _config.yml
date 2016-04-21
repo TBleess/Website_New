@@ -32,13 +32,16 @@ baseurl: ''
 #
 urlimg: 'https://demography.dola.colorado.gov/images'
 
-
+compress_html:
+  clippings: all
+  comments:  ["<!-- ", " -->"]
+  endings:   all
 
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
 
-  
+
 # permalink: pretty
 
 highlight: rouge
@@ -151,4 +154,3 @@ prose:
     - robots.txt
   media:
     - 'images'
-   

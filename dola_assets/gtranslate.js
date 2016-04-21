@@ -13,14 +13,14 @@
             } else {
                 showTranslate($gtranslate);
             }
-            e.stopPropagation(); // This is the preferred method.
+            e.stopPropagation();
             return false;
         });
 
         $gtranslate.children('.translate-content').bind('click.openTranslate', function (e) {
             console.log(e.target);
             if (!$(e.target).is('img') && !$(e.target).is('a')) {
-                e.stopPropagation(); // This is the preferred method.
+                e.stopPropagation(); 
                 return false;
             }
         });

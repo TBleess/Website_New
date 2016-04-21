@@ -144,7 +144,7 @@ tag: "econdata"
 <br />
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
-<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
+<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br /><br />
 <table id="resultstable"></table>
 
 
@@ -213,7 +213,7 @@ tag: "econdata"
       
       var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + compressed + "&group=" + group;
       
-      //console.log(querystring);
+      /*console.log(querystring);*/
       
    requestdata(querystring);
       

@@ -15,7 +15,7 @@ The Office uses state and county economic analyses and forecasts to assist in th
 
 - - -
 
-#### Data are available on the following topics:
+### Data are available on the following topics:
 
 - [Labor Force](/economy-labor-force/labor-force#labor-force)
 - [Jobs](/economy-labor-force/data/jobs-by-sector#jobs-by-sector-naics)

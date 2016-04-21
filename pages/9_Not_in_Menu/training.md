@@ -29,7 +29,7 @@ To register, please email [barbara.musick@state.co.us](mailto:barbara.musick@sta
 The following webinar-based trainings are available for view with commentary. When applicable, copies of the slides are also available in pdf format.
 
 - [Overview of State Demography Office Websites](http://codeptofla.adobeconnect.com/p9e7broy4a3/) (Length: 22 minutes)
-- [Introduction to the American Community Survey](http://codeptofla.adobeconnect.com/p30058547/) (Length: 25 minutes)   [Slides](https://drive.google.com/open?id=0B-vz6H4k4SESRlVIMFFjQm5nODg&authuser=0) (pdf)
+- [Introduction to the American Community Survey](http://codeptofla.adobeconnect.com/p30058547/) (Length: 25 minutes)   [Slides ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B-vz6H4k4SESRlVIMFFjQm5nODg&authuser=0)
 
 - - -
 
@@ -37,7 +37,8 @@ The following webinar-based trainings are available for view with commentary. Wh
 
 - [American FactFinder Quick Start Guide](https://drive.google.com/open?id=0B-vz6H4k4SESN0JubGJRNktLT3M&authuser=0)
 - [American FactFinder Guide to Finding Tract and Block data](https://drive.google.com/open?id=0B-vz6H4k4SESQVZJdWs5LXRkekU&authuser=0)
-- [American FactFinder2 Deep Linking Guide](http://factfinder2.census.gov/files/AFF_deep_linking_guide.pdf)
+- [American FactFinder2 Deep Linking Guide ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://factfinder2.census.gov/files/AFF_deep_linking_guide.pdf)
+
 - [American FactFinder 2 Guide to Demographic Profile for Cities, Towns and CDPs](https://drive.google.com/open?id=0B-vz6H4k4SESSy1qN29SNGVRZmc&authuser=0)
 
 - - -

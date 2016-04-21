@@ -1,69 +1,30 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    
-    <link type="text/css" rel="stylesheet" href="/dola_assets/common.css" />
-    <link type="text/css" rel="stylesheet" href="/dola_assets/layout.css" />
-    <link type="text/css" rel="stylesheet" href="/dola_assets/meanmenu.css" />
+---
+layout: default
+---
 
-            {% include _meta.html %}
-    
-            {% include _twitterCard.html %}
-            {% include _facebookOpenGraph.html %}
-    
-            <!--[if lt IE 9]>
-            <script>
-            document.createElement('header');
-            document.createElement('nav');
-            document.createElement('section');
-            document.createElement('article');
-            document.createElement('aside');
-            document.createElement('footer');
-            document.createElement('hgroup');
-            document.createElement('@media');
-            </script>
-            <![endif]-->
-    
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.js"></script>
-    <script type="text/javascript" src="/dola_assets/jquery.meanmenu.js"></script>
-    <script type="text/javascript" src="/dola_assets/gtranslate.js"></script>    
-    
-            <script type="text/javascript">
 
-            jQuery(document).ready(function () {
-                jQuery('header nav').meanmenu();
-              
-            });
-        </script> 
-    
-    
-        <title>Population by Age and Gender</title>
-  
-  </head>
-  
-  
   <body>
-    
+
                  {% include _top-bar.html %}
 
         <div id="page-wrapper">
             <div id="page-wrapper-inner">
-              
+
                   {% include _header.html %}
-              
+
                   {% include _breadcrumb.html %}
-                  {% include _datalink.html %}              
+                  {% include _datalink.html %}
                     <div id="main-content">
-                      
-                                            
+
+
                     {{ content }}
-                      
-                      
+
+
                     </div>
             </div>
         </div>
 
-                  {% include _footer.html %}
-    	{% include _footer_scripts.html %}
+      {% include _footer.html %}
+    
+   
 </body>
-</html>

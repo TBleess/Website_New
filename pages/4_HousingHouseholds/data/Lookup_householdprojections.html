@@ -229,24 +229,24 @@ tag: "hhdata"
       if(groupstring==="a,b,d"){group='opt12';}        
       if(groupstring==="b,c,d"){group='opt13';}       
       
-    //opt1: year
-    //opt2: area_code
-    //opt3: age_group_id
-    //opt4: household_type_id
-    //opt5: year, area_code
-    //opt6: year, age_group_id
-    //opt7: year, household_type_id
-    //opt8: area_code, age_group_id
-    //opt9: area_code, household_type_id
-    //opt10: age_group_id, household_type_id
-    //opt11: year, area_code, age_group_id
-    //opt12: year, area_code, household_type_id
-    //opt13: area_code, age_group_id, household_type_id
+    /*opt1: year
+    opt2: area_code
+    opt3: age_group_id
+    opt4: household_type_id
+    opt5: year, area_code
+    opt6: year, age_group_id
+    opt7: year, household_type_id
+    opt8: area_code, age_group_id
+    opt9: area_code, household_type_id
+    opt10: age_group_id, household_type_id
+    opt11: year, area_code, age_group_id
+    opt12: year, area_code, household_type_id
+    opt13: area_code, age_group_id, household_type_id*/
       
       
       var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&household=" + selectedHouseholdType.join(",") + "&group=" + group;
       
-      //console.log(querystring);
+      /*console.log(querystring);*/
       
    requestdata(querystring);
       

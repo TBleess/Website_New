@@ -17,7 +17,7 @@ One-page worksheets which summarize the jobs, labor force and population forecas
 
 In the spreadsheets the region total is listed first followed by the counties within the region. However, for the counties in Region 3 only Gilpin and Clear Creek are listed separately. The rest are combined for a Metro Denver total. For questions please contact Chris Akers at 303-866-7751 or [chris.akers@state.co.us](mailto:chris.akers@state.co.us). 
 
-Jobs and Labor Force ([Region Map](https://console.cloud.google.com/m/cloudstorage/b/maps-static/o/PlanningManagement8x11.pdf))
+Jobs and Labor Force ([Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://console.cloud.google.com/m/cloudstorage/b/maps-static/o/PlanningManagement8x11.pdf)
 
 - [State](https://drive.google.com/open?id=0B-vz6H4k4SESWnJrREZ2ank3QWc&authuser=0)
 - [Regions 1 through 8](https://drive.google.com/open?id=0B-vz6H4k4SESR3k2TW1ZN0J5bTQ&authuser=0)

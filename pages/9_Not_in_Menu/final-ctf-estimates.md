@@ -22,7 +22,7 @@ Please send us any updates to contact information and if there are any questions
 
 Table 1 provides 2010 through 2014 estimates of county population.
 
-Table 1 [Excel](https://drive.google.com/open?id=0B-vz6H4k4SEScDNNRmZTclJNZjg&authuser=0) or [PDF](https://drive.google.com/open?id=0B-vz6H4k4SESaXZGaTUxVFM1ODA&authuser=0)
+Table 1 [Excel](https://drive.google.com/open?id=0B-vz6H4k4SEScDNNRmZTclJNZjg&authuser=0) or [PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B-vz6H4k4SESaXZGaTUxVFM1ODA&authuser=0)
 
 ---- 
 

@@ -128,7 +128,7 @@ ACS 5-year estimates are available down to the Block Group level, but not throug
 
 ### Is there a complete list of all ACS tables?
 
-A complete list is available within the ACS technical documentation for each set of estimates: [1-year (census.gov)](http://www2.census.gov/acs2010_1yr/summaryfile/ACS_2010_SF_Tech_Doc.pdf), [3-year (census.gov)](http://www2.census.gov/acs2010_3yr/summaryfile/ACS_2008-2010_SF_Tech_Doc.pdf) and [5-year (census.gov)](http://www2.census.gov/acs2010_5yr/summaryfile/ACS_2006-2010_SF_Tech_Doc.pdf).
+A complete list is available within the ACS technical documentation for each set of estimates: [1-year (census.gov) ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://www2.census.gov/acs2010_1yr/summaryfile/ACS_2010_SF_Tech_Doc.pdf), [3-year (census.gov) ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://www2.census.gov/acs2010_3yr/summaryfile/ACS_2008-2010_SF_Tech_Doc.pdf) and [5-year (census.gov) ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://www2.census.gov/acs2010_5yr/summaryfile/ACS_2006-2010_SF_Tech_Doc.pdf).
 
 
 ---

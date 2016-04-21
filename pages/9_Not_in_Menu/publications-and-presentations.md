@@ -105,7 +105,7 @@ datalink: "/data"
 - [Speaker Biographies](https://drive.google.com/open?id=0B-vz6H4k4SESa1RiVWt3ZERfYkk&authuser=0)
 - [List of Attendees](https://drive.google.com/open?id=0B-vz6H4k4SESMjVnQzBBRXZkbEk&authuser=0)
 - [Attendee Map](https://drive.google.com/open?id=0B-vz6H4k4SESRTZxR2UwNF9FeHc&authuser=0)
-- [Colorado Planning & Management Region Map](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
+- [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
 - [Region Reports](https://drive.google.com/open?id=0B-vz6H4k4SESeGxoQjZTYV8tN0U&authuser=0)
 - [Cost Of Living](https://drive.google.com/open?id=0B-vz6H4k4SESajdRcHRjcThka3c&authuser=0)
 - [Components of Change](https://drive.google.com/open?id=0B-vz6H4k4SESSmRKVkpuTGszY0E&authuser=0)

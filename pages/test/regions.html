@@ -1,10 +1,12 @@
 ---
+
 layout: page
 title: "Understanding Colorado Regions"
-permalink: "/colorado-regions.html"
+permalink: "/gis/colorado-regions/"
 custom_js:
 - http://d3js.org/d3.v3.min.js
 - http://d3js.org/d3.geo.projection.v0.min.js
+
 ---
 
 {% if page.custom_js %}
@@ -15,23 +17,26 @@ custom_js:
 
 <style type="text/css">
 
-    
+
     .place-label {
         font-family: Cambria, Georgia;
         font-size: 8pt;
         fill: #222;
         pointer-events: none;
     }
-    
+
     .lrg {
         font-weight: bold;
     }
 
 </style>
 
+<br />
+<h2>Understanding Colorado Regions</h2>
+
 
 <label for="countiesSelected" style="font-weight: bold;">Select a Region:</label><br />
-<select id="countiesSelected" class="formtable" name="countiesSelected">	
+<select id="countiesSelected" class="formtable" name="countiesSelected">
 	<option value="20" selected>Denver PMSA</option>
 	<option value="21">Denver-Boulder Metro Area</option>
 	<option value="22">Denver-Boulder-Greeley CMSA</option>
@@ -66,11 +71,11 @@ custom_js:
   position: relative;" width="0" height="0" xmlns="http://www.w3.org/2000/svg" version="1.1">
 <defs>
     <filter id="dropshadow" height="130%">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/> 
-      <feOffset dx="3" dy="3" result="offsetblur"/> 
-      <feMerge> 
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+      <feOffset dx="3" dy="3" result="offsetblur"/>
+      <feMerge>
         <feMergeNode/>
-        <feMergeNode in="SourceGraphic"/> 
+        <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
@@ -79,11 +84,11 @@ custom_js:
 
 
 <script type="text/javascript">
-  
+
   colors={};
   colors.selected="rgb(178,223,138)";
   colors.standard="rgb(166,206,227)";
-  
+
     //Width and height
     var w = 700;
     var h = 520;
@@ -111,13 +116,13 @@ custom_js:
         .attr("id", "map")
         .style("filter", "url(#dropshadow)"); //adds shadow to the state from definition in svgdefs
 
-    //create group element for labels (created after map, so that it draws on top of map)	
+    //create group element for labels (created after map, so that it draws on top of map)
     var labels = svg.append("svg:g")
         .attr("id", "labels");
 
 
     //Load in GeoJSON data
-    d3.json("geojson/County.geojson", function(json) {
+    d3.json("/geojson/County.geojson", function(json) {
 
         //Bind data and create one path per GeoJSON feature
         map.selectAll("path")
@@ -131,7 +136,7 @@ custom_js:
             .style("fill", colors.standard)
             .classed("county", true);
 
-        //add label for each feature   
+        //add label for each feature
         labels.selectAll("text")
             .data(json.features)
             .enter()
@@ -263,22 +268,22 @@ custom_js:
         }
 
         document.getElementById("countylist").innerHTML = countylist;
-      
-      
+
+
 
         d3.selectAll(".county").style("fill", function(d) {
             return colorcounties(d, selectedCounties[0]);
         });
-      
 
 
-      
+
+
     }
 
     function colorcounties(county, region) {
         var carray = get_region_array(region);
 
-        for (var i = 0; i < carray.length; i++) { 
+        for (var i = 0; i < carray.length; i++) {
             if (county.properties.GEOID === carray[i]) {
                 return colors.selected;
             }
@@ -360,10 +365,10 @@ custom_js:
 
         return [];
     }
-  
+
         //wait for d3 to catch up to the rest of the program
     setTimeout(function(){
-      listnames(); 
+      listnames();
     }, 500);
 
 

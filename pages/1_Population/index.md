@@ -12,7 +12,7 @@ datalink: "/population/data"
 
 - - -
 
-#### Population totals are available for the following geographies:
+### Population totals are available for the following geographies:
 
 - [United States & States](/population/population-totals-us-states#population-totals-for-the-us-and-states)
 - [State and Sub-State Regions](/population/population-totals-colorado-substate#population-totals-for-colorado-and-sub-state-regions)
@@ -21,18 +21,18 @@ datalink: "/population/data"
 
 **Note:** The State Demography Office has produced an update to its population estimates and forecasts to incorporate the recently released 2010 Census count population totals. The files are available with the 2010 Census data.
 
-#### Additional Population data:
+### Additional Population data:
 
 - [Age and Gender](/population/age-gender-population-data#age-and-gender-population-data)
 - [Race and Hispanic Origin](/population/race-hispanic-origin#race-and-hispanic-origin)
 - [US Census Bureau (census.gov)](http://www.census.gov/)
 
-#### Also Available:
+### Also Available:
 
 - [Estimates Methodology](https://drive.google.com/open?id=0B-vz6H4k4SESNm5hb1NmQWZWdlU&authuser=0)
 - [Forecasts Methodology](https://drive.google.com/open?id=0B2oqdPZKJqK7RU92Z1RSVnJERXc)
-- [Definitions of Sub-State Regions](https://drive.google.com/open?id=0B2oqdPZKJqK7RU92Z1RSVnJERXc)
-- [Planning Management Region Map](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
+- [Definitions of Sub-State Regions](/gis/colorado-regions/#understanding-colorado-regions)
+- [Planning Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
 - [Statistical Regions Map](https://drive.google.com/open?id=0B2oqdPZKJqK7VjNuRWdiYnRhbnM)
 - [Thematic Maps](/gis/thematic-maps#thematic-maps)
 - [GIS Data](/gis/gis-data#gis-data)

@@ -34,4 +34,4 @@ Colorado\'s labor force, the number of people working or looking for work, has u
 
 [Full Publication Here](https://drive.google.com/open?id=0B2oqdPZKJqK7T3FqeGdUZDhUOGM)
 
-Printable Infograph [JPG](https://drive.google.com/open?id=0B2oqdPZKJqK7RllMT1ZUdXdxU3c) \| [PDF](https://drive.google.com/open?id=0B2oqdPZKJqK7TnNkb2NIUHQtN3c)
+Printable Infograph [JPG ![image](/images/page_white_picture.png 'download image file')](https://drive.google.com/open?id=0B2oqdPZKJqK7RllMT1ZUdXdxU3c) \| [PDF  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B2oqdPZKJqK7TnNkb2NIUHQtN3c)

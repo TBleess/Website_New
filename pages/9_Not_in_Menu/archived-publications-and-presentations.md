@@ -23,7 +23,7 @@ All archived Publications and Presentations are listed by year of original produ
  - [Speaker Biographies](https://drive.google.com/open?id=0B0cPI4JYHGaTVl9LZTJ5MWE4aWs)
  - [List of Attendees](https://drive.google.com/open?id=0B2oqdPZKJqK7S05KQWFPQU5ZX2s)
  - [Attendee Map](https://drive.google.com/open?id=0B2oqdPZKJqK7eDlzNlBIMEU2NDg)
- - [Colorado Planning & Management Region Map](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
+ - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
  - [Colorado Labor Force 1970-2040 Infographic](https://drive.google.com/open?id=0B2oqdPZKJqK7WXFSSjViVXdsbkk)
  - [Colorado Population 1970-2014 Infographic](https://drive.google.com/open?id=0B2oqdPZKJqK7eFVnQmJmTUc4czA)
  - [Colorado Population Change 2000-2013 Infographic](https://drive.google.com/open?id=0B2oqdPZKJqK7T0MzaHgyNG1oYUk)

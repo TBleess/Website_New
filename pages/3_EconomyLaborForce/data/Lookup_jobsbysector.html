@@ -111,7 +111,7 @@ tag: "econdata"
 <br /><br />
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
-<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
+<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br /><br />
 <table id="resultstable"></table>
 
 
@@ -277,7 +277,7 @@ tag: "econdata"
           for(var i=0;i<results.length;i++){
             var total_jobs=results[i].total_jobs;
             if (Number(results[i].total_jobs)>0){
-              total_jobs=Math.round(Number(total_jobs)); //no change
+              total_jobs=Math.round(Number(total_jobs)); 
             }else if( results[i].total_jobs === "0"){
               total_jobs='0';
             }else{
@@ -335,7 +335,7 @@ for (i = 0; i < rowLength; i++){
       if(j===0 && i>0){csvstring=csvstring+"\n";}
      var cellval=oCells.item(j).innerHTML;
       var addCell="\"" + cellval.replace(/\&nbsp;/g," ") + "\"";
-      //addCell = addCell.replace(/,/g , "\",\"");
+      /*addCell = addCell.replace(/,/g , "\",\"");*/
       csvstring = csvstring + addCell;
      if(j< cellLength ){csvstring=csvstring+",";}
      }
