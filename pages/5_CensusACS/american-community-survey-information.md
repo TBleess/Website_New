@@ -15,7 +15,7 @@ The American Community Survey (ACS) is a nationwide, continuous survey designed 
 
 To help communities, state governments and federal programs, the US Census Bureau collects information on multiple characteristics including sex, race, income, health insurance, education and disabilities. All this detail is combined into statistics that are used to help decide everything from school lunch programs to new hospitals. You can [read more about the ACS on their website (census.gov)](http://www.census.gov/programs-surveys/acs/).
 
-The State Demography Office has compiled information to help data users understand and use this continuous stream of information. Please visit our [FAQ page](/census-acs/american-community-survey-frequently-asked-questions#american-community-survey---frequently-asked-questions) and check out our handy [user guide to understanding Margins of Error (MOE)](/demography/understanding-margins-error#understanding-margins-of-error). Have more questions? [Let us know!](mailto:barbara.musick@state.co.us)
+The State Demography Office has compiled information to help data users understand and use this continuous stream of information. Please visit our [FAQ page](/census-acs/american-community-survey-frequently-asked-questions#american-community-survey---frequently-asked-questions) and check out our handy [user guide to understanding Margins of Error (MOE)](/demography/understanding-margins-error#understanding-margins-of-error). Have more questions? [Let us know! ![email](/images/email_link.png 'send email')](mailto:barbara.musick@state.co.us)
 
 - - -
 

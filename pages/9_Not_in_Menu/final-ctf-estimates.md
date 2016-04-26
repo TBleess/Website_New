@@ -3,7 +3,6 @@
 layout: page
 title: "Final CTF Estimates"
 permalink: "/demography/final-ctf-estimates/"
-datalink: "/data"
 
 ---
 
@@ -13,7 +12,7 @@ The Colorado Department of Local Affairs, State Demography Office (SDO) has prep
 
 The July 1, 2014 estimates are based on the April 1, 2010 Census plus annual data on births, deaths net migration and change in group quarters facilities. The estimates for the previous year - July 1, 2013 will be different than the one released last year because of the updated census migration estimate data.
 
-Please send us any updates to contact information and if there are any questions or comments, please send them to Robert Kemp at [robert.kemp@state.co.us](mailto:robert.kemp@state.co.us) or call (303) 864-7755.
+Please send us any updates to contact information and if there are any questions or comments, please send them to Robert Kemp at [robert.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:robert.kemp@state.co.us) or call (303) 864-7755.
 
 
 ----

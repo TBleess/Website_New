@@ -5,9 +5,9 @@
 #
 # Start development with › $ jekyll serve --host 0.0.0.0 --port 3000 --config _config.yml,_config_dev.yml
 
+
 url: 'http://rubymaputopia-146415.nitrousapp.com:3000'
 baseurl: ''
-urlimg: '/images'
 
 
 # Disable when not in production
