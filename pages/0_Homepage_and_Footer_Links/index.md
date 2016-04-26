@@ -6,24 +6,9 @@ description: "The Colorado State Demography Office provides demographic and econ
 
 --- 
 
-<style> 
+{% include _homepageHeader.html %}
 
-.center {
-    text-align: center
-}
-
-</style>
-
-
-<h1 class="center"> State Demography Office </h1>
-
-
-<p class="center">The <b>State Demography Office </b> is the primary state agency for population and demographic information.
 <br>
-<br>
-Please visit our <a href="https://demography.dola.colorado.gov/information/#about-the-state-demography-office">Information Page</a> to learn more, or <a href="https://demography.dola.colorado.gov/contact/#contact-us">send us an email</a> with any questions or comments! </p>
-
-
 <h3 class="center"> Get Data for Your Area</h3>
 
 {% include _ourData.html %}
