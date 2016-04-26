@@ -4,33 +4,34 @@ layout: homepage
 permalink: /index.html
 description: "The Colorado State Demography Office provides demographic and economic information for Regions, Counties, and Communities in Colorado."
 
----  
-## State Demography Office
----
-The **State Demography Office** is the primary state agency for population and demographic information.
+--- 
 
-Please visit our [Information Page](/information#about-the-state-demography-office) to learn more, or [send us an email](/contact#contact-us) with any questions or comments!
+<style> 
 
-### Demography Dashboard
+.center {
+    text-align: center
+}
 
-Our new Demography Dashboard shows graphs and charts for various datasets by county.
-
-Data and Charts include:
+</style>
 
 
-- Net Migration by Age
-- Population Estimates
-- Population Projections
-- Components of Change
-
-Click below to choose your county and get started!
+<h1 class="center"> State Demography Office </h1>
 
 
-<a href="https://gis.dola.colorado.gov/demographic_dashboard/">Demographic Dashboard</a>
+<p class="center">The <b>State Demography Office </b> is the primary state agency for population and demographic information.
+<br>
+<br>
+Please visit our <a href="https://demography.dola.colorado.gov/information/#about-the-state-demography-office">Information Page</a> to learn more, or <a href="https://demography.dola.colorado.gov/contact/#contact-us">send us an email</a> with any questions or comments! </p>
 
 
-### Popular Items
+<h3 class="center"> Get Data for Your Area</h3>
 
-- [What are Metropolitan & Micropolitan Statistical Areas? (census.gov)](http://www.census.gov/population/metro/)
-- [Urban & Rural Definitions (census.gov)](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)
-- [Net Migration by Age Charts](https://dola.colorado.gov/demog_webapps/netMigrationByAgeComparison.jsf) *ToDo
+{% include _ourData.html %}
+<br>
+<br>
+
+<!--<h3 class="center"> Popular Items</h3>-->
+
+<!--- [What are Metropolitan & Micropolitan Statistical Areas? (census.gov)](http://www.census.gov/population/metro/)-->
+<!--- [Urban & Rural Definitions (census.gov)](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)-->
+<!--- [Net Migration by Age Charts](https://dola.colorado.gov/demog_webapps/netMigrationByAgeComparison.jsf) *ToDo-->

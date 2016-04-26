@@ -9,11 +9,12 @@ layout: default
       {% include _header.html %}
       {% include _breadcrumb.html %}
       <div id="main-content">
-        {% include _infobox.html %}
         <div class="content">
           {{ content }}
-          {% include _infolinks.html %}
+          
         </div>
+        {% include _infobox.html %}
+        {% include _infolinks.html %}
       </div>
     </div>
   </div>
