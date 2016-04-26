@@ -2,12 +2,12 @@
 
 layout: page
 title: "2015 Annual Demography Conference Videos"
-permalink: "/demography/demography-conference-videos/"
+permalink: "/demography/annual-demography-meeting-2015/"
 datalink: "/data"
 
 ---
 
-## 2015 Annual Demography Conference Videos
+## Annual Demography Meeting Videos (2015)
 
 - - -
 In 2015 we live-streamed our Annual Demography Meeting allowing data users from all over the state to virtually attend. Each presentation is below, in order. The agenda, presentations, and other handouts are available on our Publications page.  

@@ -11,13 +11,13 @@ datalink: "/data"
 
 - - -
 
-The State Demography Office periodically offers training sessions on a variety of data subjects and tools, including Census data. If you\'re interested in training on a specific topic not listed below, please send us an [email](mailto:barbara.musick@state.co.us). All trainings are free, and unless otherwise specified are held via webinar.
+The State Demography Office periodically offers training sessions on a variety of data subjects and tools, including Census data. If you\'re interested in training on a specific topic not listed below, please send us an [email ![email](/images/email_link.png 'send email')](mailto:barbara.musick@state.co.us). All trainings are free, and unless otherwise specified are held via webinar.
 
 - - -
 
 #### Upcoming Trainings
 
-To register, please email [barbara.musick@state.co.us](mailto:barbara.musick@state.co.us) and specify which training you\'re interested in.
+To register, please email [barbara.musick@state.co.us ![email](/images/email_link.png 'send email')](mailto:barbara.musick@state.co.us) and specify which training you\'re interested in.
 
 - American FactFinder Overview (Webinar, 45 minutes) Coming soon!
 - State Demography Office Overview (Webinar, 60 minutes) Coming soon!
