@@ -286,5 +286,5 @@
 
  jQuery(document).ready(function () {
                 jQuery('header nav').meanmenu();
-
+$(window).trigger('resize');
             });
