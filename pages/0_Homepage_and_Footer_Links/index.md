@@ -11,7 +11,7 @@ description: "The Colorado State Demography Office provides demographic and econ
 <br>
 <h3 class="center"> Get Data for Your Area</h3>
 
-{% include _ourData.html %}
+To Be Made
 <br>
 <br>
 
