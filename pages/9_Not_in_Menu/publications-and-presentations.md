@@ -36,7 +36,7 @@ datalink: "/data"
 - [\"Social Generations\" (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7dU9uVzdzaE84c0k)
 - [Colorado Economic Update (2014)](https://drive.google.com/open?id=0B2oqdPZKJqK7X2ttZkplOTRRczQ)
 - [2012 Jobs Estimates Summary  (2013)](https://drive.google.com/open?id=0B2oqdPZKJqK7MEVncWlCVmNEVE0)
-- [Region Profiles & Reports](http://dola.colorado.gov/dlg/demog/region_profiles.html) *Move*
+- [Region Profiles & Reports](https://dola.colorado.gov/dlg/demog/region_profiles.html) *Move*
 - [Aging in Colorado (July 2012)](https://drive.google.com/open?id=0B2oqdPZKJqK7NnhnQnVhWHdJV1E)
 - [Colorado Economic Self-Sufficiency Standard (2011)](https://www.colorado.gov/pacific/colorado-economic-self-sufficiency-standard-2011) *Broken*
 - [Cost of Living Differentials in Colorado (2007)](https://drive.google.com/open?id=0B2oqdPZKJqK7NE1XNDVrN2tBelE)
@@ -133,4 +133,4 @@ datalink: "/data"
 
 - - -
 
-Archived publications and presentations are available [here](/demography/archived-publications-and-presentations.html).
+Archived publications and presentations are available [here](/demography/archived-publications-and-presentations#archived-publications-and-presentations).

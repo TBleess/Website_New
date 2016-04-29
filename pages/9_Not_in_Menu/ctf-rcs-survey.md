@@ -20,7 +20,7 @@ Please go to the [DLG E-Filing Portal](https://dola.colorado.gov/dlg_efiling/). 
 
 Once logged in, you will start at a “contact” page.  If the information is correct, click on “continue without changes” or make and “save changes”.  On the next page you can see a summary of data submitted for previous years or click on the “Residential Construction Survey” tab where you will be able to submit building permits, certificates of occupancy and demolitions. Click on the Blue” Add Survey” and you will be prompted to select a geography and type of residential data and year.   **If you have submitted data in previous years, you do not need to submit again for those years, unless there are changes.**  We are primarily interested in building permits from 2013 or certificates of occupancy from July 2013 through June 2014 but will take the most current data you have as well as any changes or new data back to 2010.
 
-Please view the [Residential Construction Survey E-Filing Portal Instruction Sheet ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/RCS%20EFiling%20Instructions%20v2014.pdf) or the [Residential Construction Survey E-Filing Portal Instruction Webinar ![external link](/images/link.png 'external link')](http://codeptofla.adobeconnect.com/p65xvnzvwdp/) for instructions and more information.
+Please view the [Residential Construction Survey E-Filing Portal Instruction Sheet ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/RCS%20EFiling%20Instructions%20v2014.pdf) or the [Residential Construction Survey E-Filing Portal Instruction Webinar ![external link](/images/link.png 'external link')](http://codeptofla.adobeconnect.com/p65xvnzvwdp/) for instructions and more information.
 
 **Please contact us by phone or email if you have any changes in housing units or group quarters due to annexations.**
 
@@ -53,9 +53,9 @@ These tables are grouped by county. Please evaluate the number of housing units 
 
 Please evaluate the number of housing units for your area. Please submit total housing units as of July 1, 2014 (or previous years) by email using the Special District spreadsheet below and emailing them to [robert.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:robert.kemp@colorado.edu). Please include the name of the special district in the subject line. If the district is at build out please indicate that as well. If we do not hear from the district we will assume no change in housing units. 
 
-[Table 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/Table3.pdf)
+[Table 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/Table3.pdf)
 
-[Special Districts Data Spreadsheet ![xls](/images/page_white_excel.png 'download xls file')](http://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/ResidentialConstructionData_SpecialDistricts.xls)
+[Special Districts Data Spreadsheet ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/ResidentialConstructionData_SpecialDistricts.xls)
 
 ---
 
@@ -63,7 +63,7 @@ Please evaluate the number of housing units for your area. Please submit total h
 
 Please use this table to evaluate the group quarters facilities and population that we have on file for 2013. The data we have is based on what has been previously sent to us by your entity. Use the “Group Quarters Data Spreadsheet” to send us any updates in group quarters population or facility data If we do not receive new information we will carry forward information from the previous year.
 
-[Table 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/Table4.pdf)
+[Table 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/Table4.pdf)
 
 ---
 
@@ -71,5 +71,5 @@ Please use this table to evaluate the group quarters facilities and population t
 
 At this time you will not be able to use the online system to submit Group Quarters data. *Please use this spreadsheet to submit any updates to group quarters or new group quarter facilities to [robert.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:robert.kemp@colorado.edu).*
 
-[Spreadsheet ![xls](/images/page_white_excel.png 'download xls file')](http://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/GroupQuartersData2.xls)
+[Spreadsheet ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/GroupQuartersData2.xls)
 

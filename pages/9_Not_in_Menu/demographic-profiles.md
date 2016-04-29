@@ -16,5 +16,5 @@ The State Demography Office publishes multiple profiles and reports each year in
 - [County Profiles](/population/data/county-profile#county-demographic-profiles)
 - [Sub-state Profiles](https://dola.colorado.gov/demog_webapps/psr_parameters.jsf) *ToDo*
 - [2010 Census Profiles](/census-acs/2010-census-data#census-data-for-colorado-2010)
-- [2000 Census Profiles](http://dola.colorado.gov/dlg/demog/census_profiles.html) *ToDo*
-- [Region Profiles and Reports](http://dola.colorado.gov/dlg/demog/region_profiles.html) *Move*
+- [2000 Census Profiles](https://dola.colorado.gov/dlg/demog/census_profiles.html) *ToDo*
+- [Region Profiles and Reports](https://dola.colorado.gov/dlg/demog/region_profiles.html) *Move*

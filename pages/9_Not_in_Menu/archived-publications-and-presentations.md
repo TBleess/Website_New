@@ -86,7 +86,7 @@ All archived Publications and Presentations are listed by year of original produ
  - [Agenda](https://drive.google.com/open?id=0B4-eaNwOwFmYWU9PLTFNLUlsaFE&authuser=0)
  - [Speaker\'s Biographies](https://drive.google.com/open?id=0B4-eaNwOwFmYX09pUkZnSlN2SGc&authuser=0)
  - [List of Attendees](https://drive.google.com/open?id=0B4-eaNwOwFmYbjhvMzZjUGRYWGs&authuser=0)
- - [Region Reports](http://dola.colorado.gov/demog-cms/content/region-profiles)
+ - [Region Reports](https://dola.colorado.gov/demog-cms/content/region-profiles)
  - [State Economic Forecast](https://drive.google.com/open?id=0B4-eaNwOwFmYaVpzYkVmcHc1Ukk&authuser=0)
  - [2010 Census Findings: Results, Comparison to SDO and Challenging the Counts](https://drive.google.com/open?id=0B2oqdPZKJqK7emtHaWV4T3hpdW8&authuser=0)
  - [Colorado Population Forecasts & Estimates](https://drive.google.com/open?id=0B2oqdPZKJqK7czhBZE9fc3FSNzg&authuser=0)

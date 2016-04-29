@@ -8,7 +8,7 @@ permalink: "/demography/draft-ctf-estimates/"
 
 # Draft 2014 CTF Population Estimates
 
-[Letter to Local Governments ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/ctf_draft/CTFDraftLetter_2014_CaC_draft.pdf)
+[Letter to Local Governments ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/ctf_draft/CTFDraftLetter_2014_CaC_draft.pdf)
 
 The Colorado Department of Local Affairs, State Demography Office (SDO) has prepared draft July 1, 2014 population estimates for your review. These population estimates, once finalized, will be the basis for the distribution of Conservation Trust Fund (CTF) lottery funds to your jurisdiction.
 
@@ -39,10 +39,10 @@ Thank you for your assistance and cooperation.
 
 ---
 
-**TABLE 3:** In [Table 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/ctf_draft/table3.pdf), the municipal estimates are broken down into household and group quarters populations, and calculation of the implied vacancy rate is shown. Definitions for each column are given at the bottom of each page.
+**TABLE 3:** In [Table 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/ctf_draft/table3.pdf), the municipal estimates are broken down into household and group quarters populations, and calculation of the implied vacancy rate is shown. Definitions for each column are given at the bottom of each page.
 
 ---
 
-**METHODOLOGY:** The [methodology ![doc](/images/page_white_word.png 'download doc file')](http://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/ctf_draft/EstimatesMethods_2014.doc) provides a description of the methods used for creation of the annual population estimates for counties, municipalities and CTF-receiving special districts.
+**METHODOLOGY:** The [methodology ![doc](/images/page_white_word.png 'download doc file')](https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/ctf_draft/EstimatesMethods_2014.doc) provides a description of the methods used for creation of the annual population estimates for counties, municipalities and CTF-receiving special districts.
 
 ---

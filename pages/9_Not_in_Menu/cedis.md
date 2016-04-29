@@ -25,7 +25,7 @@ datalink: "/data"
 #### Housing Unit and Household Data
 
 - [Colorado County Profile System](/population/data/county-profile#county-demographic-profiles)
-- [Housing Unit and Household Estimates](http://dola.colorado.gov/demog-cms/content/housing-and-households) *Move*
+- [Housing Unit and Household Estimates](https://dola.colorado.gov/demog-cms/content/housing-and-households) *Move*
 - [Households by Region, Type, Age, Tenure, and Income](https://dola.colorado.gov/households/income_parameters.jsf) *WTF*
 - [Division of Housing Vacancy and Rent Surveys](https://www.colorado.gov/pacific/dola/vacancy-rent-surveys)
 
