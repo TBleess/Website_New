@@ -4,33 +4,19 @@ layout: homepage
 permalink: /index.html
 description: "The Colorado State Demography Office provides demographic and economic information for Regions, Counties, and Communities in Colorado."
 
----  
-## State Demography Office
----
-The **State Demography Office** is the primary state agency for population and demographic information.
+--- 
 
-Please visit our [Information Page](/information#about-the-state-demography-office) to learn more, or [send us an email](/contact#contact-us) with any questions or comments!
+{% include _homepageHeader.html %}
 
-### Demography Dashboard
+<br>
+<h3 class="center"> Get Data for Your Area</h3>
 
-Our new Demography Dashboard shows graphs and charts for various datasets by county.
+To Be Made
+<br>
+<br>
 
-Data and Charts include:
+<!--<h3 class="center"> Popular Items</h3>-->
 
-
-- Net Migration by Age
-- Population Estimates
-- Population Projections
-- Components of Change
-
-Click below to choose your county and get started!
-
-
-<a href="https://gis.dola.colorado.gov/demographic_dashboard/">Demographic Dashboard</a>
-
-
-### Popular Items
-
-- [What are Metropolitan & Micropolitan Statistical Areas? (census.gov)](http://www.census.gov/population/metro/)
-- [Urban & Rural Definitions (census.gov)](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)
-- [Net Migration by Age Charts](https://dola.colorado.gov/demog_webapps/netMigrationByAgeComparison.jsf) *ToDo
+<!--- [What are Metropolitan & Micropolitan Statistical Areas? (census.gov)](http://www.census.gov/population/metro/)-->
+<!--- [Urban & Rural Definitions (census.gov)](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)-->
+<!--- [Net Migration by Age Charts](https://dola.colorado.gov/demog_webapps/netMigrationByAgeComparison.jsf) *ToDo-->
