@@ -89,42 +89,42 @@ custom_js:
   colors.selected="rgb(178,223,138)";
   colors.standard="rgb(166,206,227)";
 
-    //Width and height
+    /*Width and height*/
     var w = 700;
     var h = 520;
 
-    //projection specific to Colorado
+    /*projection specific to Colorado*/
     var projection = d3.geo.transverseMercator()
         .translate([(w / 2) - 10, (h / 2) - 15])
         .scale(6500)
         .rotate([105.63, -39.18, 0])
         .center([0, 0]);
 
-    //Define path generator
+    /*Define path generator*/
     var path = d3.geo.path()
         .projection(projection);
 
-    //Create SVG element
+    /*Create SVG element*/
     var svg = d3.select("#svgcontainer")
         .append("svg")
         .attr("id", "statesvg")
         .attr("width", w)
         .attr("height", h);
 
-    //create group element, add map
+    /*create group element, add map*/
     var map = svg.append("svg:g")
         .attr("id", "map")
-        .style("filter", "url(#dropshadow)"); //adds shadow to the state from definition in svgdefs
+        .style("filter", "url(#dropshadow)"); /*adds shadow to the state from definition in svgdefs*/
 
-    //create group element for labels (created after map, so that it draws on top of map)
+    /*create group element for labels (created after map, so that it draws on top of map)*/
     var labels = svg.append("svg:g")
         .attr("id", "labels");
 
 
-    //Load in GeoJSON data
+    /*Load in GeoJSON data*/
     d3.json("/geojson/County.geojson", function(json) {
 
-        //Bind data and create one path per GeoJSON feature
+        /*Bind data and create one path per GeoJSON feature*/
         map.selectAll("path")
             .data(json.features)
             .enter()
@@ -136,7 +136,7 @@ custom_js:
             .style("fill", colors.standard)
             .classed("county", true);
 
-        //add label for each feature
+        /*add label for each feature*/
         labels.selectAll("text")
             .data(json.features)
             .enter()
@@ -366,7 +366,7 @@ custom_js:
         return [];
     }
 
-        //wait for d3 to catch up to the rest of the program
+        /*wait for d3 to catch up to the rest of the program*/
     setTimeout(function(){
       listnames();
     }, 500);
