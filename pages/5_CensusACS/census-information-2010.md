@@ -4,6 +4,7 @@ layout: page
 title: "2010 Census Information"
 permalink: "/census-acs/2010-census-information/"
 datalink: "/data/#census-data-tools"
+description: "Information about 2010 US Census"
     
 ---
 
@@ -25,7 +26,7 @@ We will maintain this website throughout the entire Census 2010 cycle (ending ab
 
 #### Participation Rates
 
-Colorado had a 72% participation rate. Curious to see how your community did? [Download a complete list of participation rates by county, city and town!](https://drive.google.com/file/d/0B0m67XbcqVYRY05QTEF5LV9hRmM/view?usp=sharing)
+Colorado had a 72% participation rate. Curious to see how your community did? [Download a complete list of participation rates by county, city and town! ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/0B0m67XbcqVYRY05QTEF5LV9hRmM/view?usp=sharing)
 
 - - -
 
@@ -39,12 +40,12 @@ The US Census Bureau\'s official [2010 Census website (census.gov)](http://www.c
 
 The following documents represent previously released Census information. Please [contact our office](mailto:dola.helpdesk@state.co.us) with any questions.
 
-- [Why the Census Matters: Money](https://drive.google.com/file/d/0B0m67XbcqVYRLVlFU0s3a0hoSEE/view?usp=sharing)
-- [Why the Census Matters: Power](https://drive.google.com/file/d/0B0m67XbcqVYRMnk4UjVMWm16SG8/view?usp=sharing)
-- [Hard-To-Count Areas](https://drive.google.com/file/d/0B0m67XbcqVYRQUE1QUdKa1QtSVk/view?usp=sharing)
-- [HTC Planning Database](https://drive.google.com/file/d/0B0m67XbcqVYRX3kyXzQweDhLbms/view?usp=sharing)
-- [Resources- Key Dates](https://drive.google.com/file/d/0B0m67XbcqVYReldCSUI5LV9RR1k/view?usp=sharing)
-- [Resources- The Form](https://drive.google.com/file/d/0B0m67XbcqVYRMkNGcmYzWGhHU0k/view?usp=sharing)
-- [Response Rates](https://drive.google.com/file/d/0B0m67XbcqVYRejMwWnNyUjNmclk/view?usp=sharing)
-- [Frequently Asked Questions](https://drive.google.com/file/d/0B0m67XbcqVYRaU5YQVVGTHhtTDQ/view?usp=sharing)
+- [Why the Census Matters: Money ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRLVlFU0s3a0hoSEE)
+- [Why the Census Matters: Power ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRMnk4UjVMWm16SG8)
+- [Hard-To-Count Areas ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRQUE1QUdKa1QtSVk)
+- [HTC Planning Database ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRX3kyXzQweDhLbms)
+- [Resources- Key Dates ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYReldCSUI5LV9RR1k)
+- [Resources- The Form ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRMkNGcmYzWGhHU0k)
+- [Response Rates ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRejMwWnNyUjNmclk)
+- [Frequently Asked Questions ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRaU5YQVVGTHhtTDQ)
 

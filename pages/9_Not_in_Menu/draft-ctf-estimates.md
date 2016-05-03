@@ -3,6 +3,7 @@
 layout: page
 title: "Draft CTF Estimates"
 permalink: "/demography/draft-ctf-estimates/"
+description: "Colorado Conservation Trust Fund Estimates Page"
 
 ---
 

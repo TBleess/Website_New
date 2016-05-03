@@ -3,6 +3,7 @@ permalink: /search/
 layout: page
 title: "Search"
 sitemap: false
+description: "Search within the Colorado Demography Office website."
 datalink: "/data"
 
 ---

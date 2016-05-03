@@ -4,6 +4,7 @@ layout: page
 title: "CEDIS"
 permalink: "/demography/cedis/"
 datalink: "/data"
+description: "Colorado Economic Demographic Information System links"
     
 ---
 

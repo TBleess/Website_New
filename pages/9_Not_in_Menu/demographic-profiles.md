@@ -4,6 +4,7 @@ layout: page
 title: "Demographic Profiles"
 permalink: "/demography/demographic-profiles/"
 datalink: "/data"
+description: "Colorado Demographic Profiles Page"
 
 ---
 

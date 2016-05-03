@@ -3,6 +3,7 @@
 layout: page
 title: "Download GIS Data"
 permalink: "/gis/gis-data/"
+description: "Download GIS data produced by the Colorado State Demography Office, and the Department of Local Affairs"
 
 ---
 

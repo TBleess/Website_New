@@ -3,6 +3,7 @@
 layout: page
 title: "Economy and Labor Force Data"
 permalink: "/economy-labor-force/data/"
+description: "Lookups for economy and labor force data produced by the Colorado State Demography Office"
 
 ---
 ## Economy and Labor Force: Data and Lookups

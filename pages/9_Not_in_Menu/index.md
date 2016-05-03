@@ -4,6 +4,7 @@ layout: page
 title: "Demography Resources"
 permalink: "/demography/"
 datalink: "/data"
+description: "List of miscellaneous demography resources."
 
 ---
 
@@ -20,9 +21,9 @@ datalink: "/data"
 
 #### Documents
 
-- [American FactFinder \"quick start\" guide with ACS Data Products overview (2-page)](https://drive.google.com/file/d/0B2oqdPZKJqK7dnJHOTB1OWRNUVk/edit)
-- [ACS Data Products overview](https://drive.google.com/open?id=0B5iJvaUI0tr6SC1YcHdTV0UwaWM)
-- [Margin of Error guidelines](https://drive.google.com/file/d/0B2oqdPZKJqK7bC1hYUxPNVVmRnM/edit)
+- [American FactFinder \"quick start\" guide with ACS Data Products overview  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7dnJHOTB1OWRNUVk)
+- [ACS Data Products overview ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B5iJvaUI0tr6SC1YcHdTV0UwaWM)
+- [Margin of Error guidelines ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7bC1hYUxPNVVmRnM)
 
 - - -
 

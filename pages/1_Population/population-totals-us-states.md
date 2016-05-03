@@ -4,6 +4,7 @@ layout: page
 title: "Population Totals US and States"
 permalink: "/population/population-totals-us-states/"
 datalink: "/population/data"
+description: "Population totals for the entire US and individual States."
 
 ---
 
@@ -21,8 +22,8 @@ Historical Census data is available from the [University of Virginia](http://map
 
 These data are produced by the [U.S. Census Bureau](http://www.census.gov/popest/estimates.html) for the U.S. and States, from 2010 to current.
 
-- [U.S. & States, Cumulative Change](https://drive.google.com/open?id=0B-vz6H4k4SEScGxqdHByeU9Gejg&authuser=0)
-- [U.S. & States, Annual Change](https://drive.google.com/open?id=0B-vz6H4k4SESREVNTlp0a1NURDA&authuser=0)
+- [U.S. & States, Cumulative Change ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SEScGxqdHByeU9Gejg)
+- [U.S. & States, Annual Change ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESREVNTlp0a1NURDA)
 
 - - -
 

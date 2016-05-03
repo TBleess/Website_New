@@ -4,6 +4,7 @@ layout: page
 title: "Housing and Households"
 permalink: "/housing-and-households/"
 datalink: "/housing-and-households/data"
+description: "Directory of Housing and Household resources."
 
 ---
 
@@ -21,8 +22,8 @@ datalink: "/housing-and-households/data"
 
 #### Also Available:
 
-- [Estimates Methodology](https://drive.google.com/file/d/0B0m67XbcqVYRSl9pcU9Sek9aQzA/view?usp=sharing)
-- [Definition of Sub-State Regions](https://drive.google.com/file/d/0B0m67XbcqVYRMDUyMTRoRkdEVzg/view?usp=sharing)
+- [Estimates Methodology ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRSl9pcU9Sek9aQzA)
+- [Definition of Sub-State Regions ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRMDUyMTRoRkdEVzg)
 - [Planning Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
 
 - - -

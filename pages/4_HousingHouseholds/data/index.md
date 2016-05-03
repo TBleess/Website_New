@@ -3,6 +3,7 @@
 layout: page
 title: "Housing and Households Data"
 permalink: "/housing-and-households/data/"
+description: "Lookups for Housing and Households data produced by the Colorado State Demography Office."
 
 ---
 

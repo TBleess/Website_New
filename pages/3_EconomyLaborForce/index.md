@@ -4,6 +4,7 @@ layout: page
 title: "Economy and Labor Force Data"
 permalink: "/economy-labor-force/"
 datalink: "/economy-labor-force/data"
+description: "Directory of Economic and Labor Force resources."
 
 ---
 
@@ -23,4 +24,4 @@ The Office uses state and county economic analyses and forecasts to assist in th
 - [Economic Forecast](/economy-labor-force/economic-forecasts#economic-forecasts)
 - [Personal Income (BEA)](http://www.bea.gov/newsreleases/regional/spi/sqpi_newsrelease.htm)
 - [Labor Market Information (LMI)](http://lmigateway.coworkforce.com/lmigateway/)
-- [Local Economic Information Summary Documentation (LEIFA)](https://drive.google.com/open?id=0B5iJvaUI0tr6YWJhaDVPTjZ1QU0)
+- [Local Economic Information Summary Documentation (LEIFA) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B5iJvaUI0tr6YWJhaDVPTjZ1QU0)

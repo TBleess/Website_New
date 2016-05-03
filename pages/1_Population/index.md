@@ -30,11 +30,11 @@ datalink: "/population/data"
 
 ### Also Available:
 
-- [Estimates Methodology](https://drive.google.com/open?id=0B-vz6H4k4SESNm5hb1NmQWZWdlU&authuser=0)
-- [Forecasts Methodology](https://drive.google.com/open?id=0B2oqdPZKJqK7RU92Z1RSVnJERXc)
+- [Estimates Methodology ![doc](/images/page_white_word.png 'download doc file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESNm5hb1NmQWZWdlU)
+- [Forecasts Methodology ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7RU92Z1RSVnJERXc)
 - [Definitions of Sub-State Regions](/gis/colorado-regions/#understanding-colorado-regions)
 - [Planning Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
-- [Statistical Regions Map](https://drive.google.com/open?id=0B2oqdPZKJqK7VjNuRWdiYnRhbnM)
+- [Statistical Regions Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7VjNuRWdiYnRhbnM)
 - [Thematic Maps](/gis/thematic-maps#thematic-maps)
 - [GIS Data](/gis/gis-data#gis-data)
-- [Land Density](https://drive.google.com/open?id=0B6P5TF4k2v8qeTFXSmxJc1phNW8)
+- [Land Density ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B6P5TF4k2v8qeTFXSmxJc1phNW8)

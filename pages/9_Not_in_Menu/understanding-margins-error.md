@@ -4,6 +4,7 @@ layout: page
 title: "Understanding Margins of Error"
 permalink: "/demography/understanding-margins-error/"
 datalink: "/data"
+description: "Explanation of Margins of Error by the Colorado State Demography Office"
 
 ---
 

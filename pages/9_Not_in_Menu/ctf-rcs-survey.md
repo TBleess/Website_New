@@ -3,6 +3,7 @@
 layout: page
 title: "Residential Construction and Group Quarters Facility Survey"
 permalink: "/demography/ctf-rcs-survey/"
+description: "Colorado Conservation Trust Fund Residential Construction and Group Quarters Facility Survey Information Page."
 
 ---
 

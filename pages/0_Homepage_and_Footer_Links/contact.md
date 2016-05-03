@@ -2,6 +2,7 @@
 
 layout: page
 title: "Contact"
+description: "Need Help? Contact the Colorado State Demography Office."
 permalink: "/contact/"
 datalink: "/data"
     

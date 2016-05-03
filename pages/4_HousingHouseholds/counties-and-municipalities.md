@@ -4,6 +4,7 @@ layout: page
 title: "Counties and Municipalities"
 permalink: "/housing-and-households/counties-and-municipalities/"
 datalink: "/housing-and-households/data"
+description: "Housing and Household data by Colorado County or City."
 
 ---
 
@@ -20,7 +21,7 @@ datalink: "/housing-and-households/data"
 
 #### Estimates
 
-- [Housing Unit and Household Estimates](https://drive.google.com/open?id=0B-vz6H4k4SESckk0SlVZMEs3ekE&authuser=0) are prepared annually for Colorado, counties and municipalities by the State Demography Office.
+- [Housing Unit and Household Estimates ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESckk0SlVZMEs3ekE) are prepared annually for Colorado, counties and municipalities by the State Demography Office.
 
 - - -
 

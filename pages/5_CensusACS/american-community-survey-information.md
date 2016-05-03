@@ -4,6 +4,7 @@ layout: page
 title: "American Community Survey Information"
 permalink: "/census-acs/american-community-survey-information/"
 datalink: "/data/#census-data-tools"
+description: "Information about the American Community Survey"
     
 ---
 ## American Community Survey Information

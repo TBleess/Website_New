@@ -4,6 +4,7 @@ layout: page
 title: "Census Data American Fact Finder FAQ"
 permalink: "/census-acs/census-data-aff-faq/"
 datalink: "/data/#census-data-tools"
+description: "Frequently asked questions about the Census Bureau's American Fact Finder Tool"
     
 ---
 

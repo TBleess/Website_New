@@ -4,6 +4,7 @@ layout: page
 title: "Download Maps and Data"
 permalink: "/gis/flood-maps/"
 datalink: "/gis/gis-data#gis-data"
+description: "A collection of maps about the 2013 Colorado Floods"
 
 ---
 

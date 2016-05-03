@@ -4,6 +4,7 @@ layout: page
 title: "Population Totals Counties"
 permalink: "/population/population-totals-counties/"
 datalink: "/population/data"
+description: "Population data for Colorado Counties"
 
 ---
 
@@ -24,7 +25,7 @@ Historical Census data can also be obtained through the [University of Virginia]
 
 Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2014 and were finalized in October 2015.
 
-- [Estimates, Counties, 2000 - Current](https://drive.google.com/open?id=0B-vz6H4k4SESRXgwVnVRajkxbDg)
+- [Estimates, Counties, 2000 - Current ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESRXgwVnVRajkxbDg)
 
 [User Lookup:](https://dola.colorado.gov/demog_webapps/pe_parameters.jsf) *Change*
 This option allows the user to select any combination of state, counties or municipalities for the year(s) of 1980, 1990 to current.
@@ -43,7 +44,7 @@ Population forecasts are produced annually by the State Demography Office. Our m
 
 These tables illustrate the population for future years, based on plausible courses of future population change (see Forecasts Methodology for more information.) The forecasts are for Colorado counties and are available for the years 2000 to 2050.
 
-- [5 year increments, 2000 - 2050](https://drive.google.com/open?id=0B-vz6H4k4SESV1NLOHZCVXoyVm8&authuser=0)
-- [1 year increments, 2000 - 2050](https://drive.google.com/open?id=0B-vz6H4k4SESdkNHSng2VGlEc1k&authuser=0)
+- [5 year increments, 2000 - 2050 ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESV1NLOHZCVXoyVm8)
+- [1 year increments, 2000 - 2050 ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESdkNHSng2VGlEc1k)
 
 [Population Forecasts By Age & Gender](/population/data/county-sya#county-population-by-single-year-of-age)

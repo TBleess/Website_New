@@ -3,6 +3,7 @@
 layout: page
 title: "Population Data"
 permalink: "/population/data/"
+description: "Population data lookups for information produced by the Colorado State Demography Office"
 
 ---
 ## Population: Data and Lookups

@@ -3,6 +3,7 @@
 layout: page
 title: "Age Gender Population Data"
 permalink: "/population/age-gender-population-data/"
+description: "Age and Gender population data for the US, Colorado, Counties, Municipalities and Sub-State regions."
 datalink: "/population/data"
     
 ---
@@ -21,10 +22,10 @@ datalink: "/population/data"
 
 #### Colorado, Sub-state Regions and Counties
 
-Click [here](https://drive.google.com/file/d/0B2oqdPZKJqK7d3JwNDBqQkJ0V0U/edit) for map of Sub-state Regions and Counties
+Click [here ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7d3JwNDBqQkJ0V0U) for map of Sub-state Regions and Counties
 
 - [Population Estimates and Forecasts by age and gender](/population/data/county-sya#county-population-by-single-year-of-age) for Colorado, Sub-State Regions and Counties for the years 1990 through 2050. These data are prepared annually by the State Demography Office. Data from 1990 to 2014 are estimates, 2015 through 2050 are forecasts. For more information, please feel free to [contact staff ![email](/images/email_link.png 'send email')](mailto:dola.helpdesk@state.co.us). **Total Population** *numbers produced from this database will be slightly different from the total numbers produced on our forecast worksheets. This occurrence is due to the rounding effect of the age data.*
-- [Median Age](https://drive.google.com/open?id=0B-vz6H4k4SESazMzYndDT0NjczA&authuser=0). This excel table illustrates median age for Colorado counties 1990 to 2050.
+- [Median Age ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESazMzYndDT0NjczA). This excel table illustrates median age for Colorado counties 1990 to 2050.
 - [Population by County, Age, Race and Gender](/population/data/race-estimate#county-race-by-age-estimates). Population estimates are produced annually by the State Demography Office. These tables are estimates of the population's age, sex, race and ethnic distribution by county for the years beginning in 2000 through 2011. These data are based on distributions from the 2000 and 2010 Census of age, sex, race and ethnicity. However, the race categories released by the Census Bureau have been bridged to the following five race categories: White non-Hispanic, Hispanic, Black non-Hispanic, Asian/PI non-Hispanic and  AI/AN non-Hispanic. Please contact [Cindy DeGroen ![email](/images/email_link.png 'send email')](mailto:cindy.degroen@state.co.us) with any questions regarding the estimates or the bridging methods.
 - [Population Forecast by County, Age, Race and Gender](/population/data/race-forecast#county-race-by-age-forecast). Forecast 2010-2050. Please contact [Cindy DeGroen ![email](/images/email_link.png 'send email')](mailto:cindy.degroen@state.co.us) with any questions regarding the estimates or the bridging methods.
 

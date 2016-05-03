@@ -3,6 +3,7 @@
 layout: page
 title: "Population Totals Colorado Substate"
 permalink: "/population/population-totals-colorado-substate/"
+description: "Population data for Colorado and Sub-State Regions"
 datalink: "/population/data"
 
 ---
@@ -23,7 +24,7 @@ Historical Census data can also be obtained through the [University of Virginia]
 
 Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2014 and was finalized in October 2015.
 
-- [Final Estimates, State, Sub-state regions, and Counties 2000 to current](https://drive.google.com/open?id=0B-vz6H4k4SESejYzNlh2R2YxVk0&authuser=0)
+- [Final Estimates, State, Sub-state regions, and Counties 2000 to current ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESejYzNlh2R2YxVk0)
 
 [User Lookup:](https://dola.colorado.gov/demog_webapps/pe_parameters.jsf) *Change*
 
@@ -41,8 +42,8 @@ Population forecasts are produced annually by the State Demography Office. Our m
 
 These tables illustrate the population for future years, based on plausible courses of future population change (see Forecasts Methodology for more information.) The forecasts for the State of Colorado & Sub-state regions are available for the years 2000 to 2050. 
 
-- [5 year increments, 2000 - 2050 excel](https://drive.google.com/open?id=0B-vz6H4k4SESWkFIeW5VWHRzMFE&authuser=0)
-- [1 year increments, 2000 - 2050 excel](https://drive.google.com/open?id=0B-vz6H4k4SESaWs2UXJJSnBpYVE&authuser=0)
+- [5 year increments, 2000 - 2050 ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESWkFIeW5VWHRzMFE)
+- [1 year increments, 2000 - 2050 ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaWs2UXJJSnBpYVE)
 
 [Population Forecasts By Age & Gender](/population/data/county-sya#county-population-by-single-year-of-age)
 

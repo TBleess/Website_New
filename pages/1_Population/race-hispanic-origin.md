@@ -4,6 +4,7 @@ layout: page
 title: "Race and Hispanic Origin"
 permalink: "/population/race-hispanic-origin/"
 datalink: "/population/data"
+description: "Population data for Colorado race and ethnicity."
 
 ---
 
@@ -23,10 +24,10 @@ datalink: "/population/data"
 
 #### Colorado & Counties
 
-- [Historical Census](https://drive.google.com/file/d/0B2oqdPZKJqK7czdQTWVwemN6cm8/edit). This 1990 Census excel table illustrates race and Hispanic origin data for Colorado & Counties. Data from the 2000 Census is available via [American FactFinder (census.gov)](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml).
+- [Historical Census ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7czdQTWVwemN6cm8). This 1990 Census excel table illustrates race and Hispanic origin data for Colorado & Counties. Data from the 2000 Census is available via [American FactFinder (census.gov)](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml).
 - [Census](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml). In addition to the 2010 Census data available via American FactFinder, the State Demography Office has also posted tables featuring race and Hispanic origin data on our [2010 Census data page](/census-acs/).
 - [Estimates (census.gov)](http://www.census.gov/popest/counties/asrh/). The U.S. Census Bureau publishes county population estimates each year for total population with details on age, sex, race and Hispanic origin. The reference date for these estimates is July 1, 2000 to 2009.
-- [Forecasts](https://drive.google.com/open?id=0B5iJvaUI0tr6bTFuVENSTDlFTlE). Population forecasts by race and ethnicity are produced annually at the state level only by the State Demography Office. The most recent forecasts were produced in October 2011. The forecasts are based on data from the 2000 Census Modified Race Data and expected trends in fertility and survival based on race specific birth and death data released by the Colorado Department of Public Health and Environment. Also available in [Excel](https://drive.google.com/open?id=0B2oqdPZKJqK7QlFmRWdFTF9kSnc).
+- [Forecasts ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B5iJvaUI0tr6bTFuVENSTDlFTlE). Population forecasts by race and ethnicity are produced annually at the state level only by the State Demography Office. The most recent forecasts were produced in October 2011. The forecasts are based on data from the 2000 Census Modified Race Data and expected trends in fertility and survival based on race specific birth and death data released by the Colorado Department of Public Health and Environment. Also available in [Excel ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7QlFmRWdFTF9kSnc).
 - [Population by County, Age, Race and Gender](/population/data/race-estimate#county-race-by-age-estimates). Population estimates are produced annually by the State Demography Office. These tables are estimates of the population's age, sex, race and ethnic distribution by country for the years beginning in 2000 through 2010. These data are based on distributions from the 2000 and 2010 Census of age, sex, race and ethnicity. However, the race categories released by the Census Bureau have been bridged to the following five race categories: White non-Hispanic, Hispanic, Black non-Hispanic, Asian/PI non-Hispanic and AI/AN non-Hispanic. Please contact [Cindy Degroen ![email](/images/email_link.png 'send email')](mailto:cindy.degroen@state.co.us) with any questions regarding the estimates or the bridging methods.
 - [Population Forecast by County, Age, Race and Gender](/population/data/race-forecast#county-race-by-age-forecast). Forecast 2010-2050. Please contact [Cindy DeGroen ![email](/images/email_link.png 'send email')](mailto:cindy.degroen@state.co.us) with any questions regarding the estimates or the bridging methods.
 

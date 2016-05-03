@@ -4,6 +4,7 @@ layout: page
 title: "Infographics"
 permalink: "/demography/infographics/"
 datalink: "/data"
+description: "Colorado Infographics; Economic and Demographic.  Population Forecasts and Estimates."
 
 ---
 
@@ -25,7 +26,7 @@ The following infographics were developed by the State Demography Office.
 
 ## Colorado Population Change 1970-2040 (2014)
 
-[Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B2oqdPZKJqK7eFVnQmJmTUc4czA)
+[Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7eFVnQmJmTUc4czA)
 
 ![Colorado Population Change 1970-2040](/images/colorado-population-change-1970-2040.jpeg)
 
@@ -36,7 +37,7 @@ The following infographics were developed by the State Demography Office.
 
 ## Colorado Population Change 2000-2013 (2014)
 
-[Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B2oqdPZKJqK7aWx5LWJWM2FOQTQ)
+[Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7aWx5LWJWM2FOQTQ)
 
 ![Colorado Population Change 2000-2013](/images/colorado-population-change-2000-2013.jpeg)
 
@@ -47,7 +48,7 @@ The following infographics were developed by the State Demography Office.
 
 ## Colorado Labor Force 1970-2040 (2014)
 
-[Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B2oqdPZKJqK7WXFSSjViVXdsbkk)
+[Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7WXFSSjViVXdsbkk)
 
 ![Colorado Labor Force 1970-2040](/images/colorado-labor-force-1970-2040.jpeg)
 
@@ -58,6 +59,6 @@ The following infographics were developed by the State Demography Office.
 
 ## Colorado Households 1970-2040 (2015)
 
-[Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B2oqdPZKJqK7UThSYUxxeC1UMkk)
+[Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7UThSYUxxeC1UMkk)
 
 ![Colorado Households 1970-2040](/images/colorado-households-1970-2040.jpeg)

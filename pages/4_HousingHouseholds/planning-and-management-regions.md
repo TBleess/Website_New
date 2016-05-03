@@ -4,6 +4,7 @@ layout: page
 title: "Planning and Management Regions"
 permalink: "/housing-and-households/planning-and-management-regions/"
 datalink: "/housing-and-households/data"
+description: "Housing and Household data by Colorado Planning and Management Regions."
 
 ---
 

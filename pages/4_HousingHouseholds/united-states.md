@@ -4,6 +4,7 @@ layout: page
 title: "United States"
 permalink: "/housing-and-households/united-states/"
 datalink: "/housing-and-households/data"
+description: "Housing and Household data resources for the United States."
 
 ---
 

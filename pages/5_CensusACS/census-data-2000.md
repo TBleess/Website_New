@@ -4,6 +4,7 @@ layout: page
 title: "2000 Census Data"
 permalink: "/census-acs/2000-census-data/"
 datalink: "/data/#census-data-tools"
+description: "A collection of resources for 2000 Census Data."
 
 ---
 
@@ -13,7 +14,7 @@ datalink: "/data/#census-data-tools"
 
 [Glossary of Census Terms (census.gov)](http://factfinder.census.gov/help/en/index.htm#glossary.htm)
 
-[2000 to 2010 Race and Ethnic Comparisons by County](https://drive.google.com/open?id=0B5RRfcb8KXAsSXdLaEhmclRyelk). View population changes from 2000 to 2010 including absolute and percent changes for the total population and 18+. Please note this Excel file has multiple tabs.
+[2000 to 2010 Race and Ethnic Comparisons by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B5RRfcb8KXAsSXdLaEhmclRyelk). View population changes from 2000 to 2010 including absolute and percent changes for the total population and 18+. Please note this Excel file has multiple tabs.
 
 [Demographic Profiles](https://dola.colorado.gov/demog-cms/content/census-demographic-profiles). There are four pages of census data available through the Demographic Profiles, labeled (DP1-DP4). For Census 2000 data, the DP1 tables is available as part of the Summary File 1 (SF1) data set, and the other three pages are available as part of the Summary File 3 (SF3) data set. Includes information on employment, income, poverty, school enrollment and educational attainment. Data is available for the state, counties and municipalities.
 

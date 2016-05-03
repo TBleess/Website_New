@@ -4,6 +4,7 @@ layout: page
 title: "Download Maps and Data"
 permalink: "/gis/thematic-maps/"
 datalink: "/gis/gis-data#gis-data"
+description: "Collection of PDF and PNG thematic maps produced by the Colorado State Demography Office"
 
 ---
 

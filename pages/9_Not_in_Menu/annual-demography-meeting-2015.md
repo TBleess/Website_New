@@ -4,6 +4,7 @@ layout: page
 title: "2015 Annual Demography Conference Videos"
 permalink: "/demography/annual-demography-meeting-2015/"
 datalink: "/data"
+description: "Presentations at the 2015 Annual Demography Conference."
 
 ---
 

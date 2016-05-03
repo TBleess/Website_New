@@ -4,6 +4,7 @@ layout: page
 title: "American Community Survey Frequently Asked Questions"
 permalink: "/census-acs/american-community-survey-frequently-asked-questions/"
 datalink: "/data/#census-data-tools"
+description: "Common questions concerning the American Community Survey"
     
 ---
 

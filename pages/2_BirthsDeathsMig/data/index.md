@@ -3,6 +3,7 @@
 layout: page
 title: "Biths Deaths and Migration Data"
 permalink: "/births-deaths-migration/data/"
+description: "Lookups for Components of Change, Birth, Death, and Migration data produced by the Colorado State Demography Office"
 
 ---
 ## Births, Deaths and Migration: Data and Lookups

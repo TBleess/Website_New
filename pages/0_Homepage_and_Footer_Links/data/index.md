@@ -2,6 +2,7 @@
 
 layout: page
 title: "State Demography Office Data Page"
+description: "Download Colorado Demography Office Datasets, including Population Estimates and Forecasts, Housing and Household, Economic, and more."
 permalink: "/data/"
 
 ---

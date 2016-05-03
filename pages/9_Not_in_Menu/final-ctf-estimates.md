@@ -3,6 +3,7 @@
 layout: page
 title: "Final CTF Estimates"
 permalink: "/demography/final-ctf-estimates/"
+description: "Colorado Conservation Trust Fund Final Estimates Page"
 
 ---
 
@@ -21,7 +22,7 @@ Please send us any updates to contact information and if there are any questions
 
 Table 1 provides 2010 through 2014 estimates of county population.
 
-Table 1 [Excel](https://drive.google.com/open?id=0B-vz6H4k4SEScDNNRmZTclJNZjg&authuser=0) or [PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B-vz6H4k4SESaXZGaTUxVFM1ODA&authuser=0)
+Table 1 [Excel ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SEScDNNRmZTclJNZjg) or [PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaXZGaTUxVFM1ODA)
 
 ---- 
 
@@ -37,7 +38,7 @@ Table 2 contains the 2010 through 2014 time series of estimates for county and m
 
 In Table 3, the municipal estimates are broken down into household and group quarters populations, and calculation of the implied vacancy rate is shown.
 
-[Table 3](https://drive.google.com/open?id=0B-vz6H4k4SESS2lTaWpuMzJ2ZFE&authuser=0)
+[Table 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESS2lTaWpuMzJ2ZFE)
 
 ----
 
@@ -45,11 +46,11 @@ In Table 3, the municipal estimates are broken down into household and group qua
 
 Table 4 provides the July 1, 2014 estimates of population and households by CTF-receiving special district. The estimates are listed first for the entire county, and then for each special district. The special district total is listed first, and then its municipal and unincorporated components. Definitions for each column are given at the bottom of each page.
 
-[Table 4](https://drive.google.com/open?id=0B-vz6H4k4SESYjhXaGpvaDRsa00&authuser=0)
+[Table 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYjhXaGpvaDRsa00)
 
 ----
 
 #### Methodology
 
-The [methodology](https://drive.google.com/open?id=0B-vz6H4k4SESYy14bF9BS01IMlU&authuser=0) provides a description of the methods used for creation of the annual population estimates for counties, municipalities and CTF-receiving special districts.
+The [methodology ![doc](/images/page_white_word.png 'download doc file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYy14bF9BS01IMlU) provides a description of the methods used for creation of the annual population estimates for counties, municipalities and CTF-receiving special districts.
 

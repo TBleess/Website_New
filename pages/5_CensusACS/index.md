@@ -4,6 +4,7 @@ layout: page
 title: "Census and ACS Information"
 permalink: "/census-acs/"
 datalink: "/data/#census-data-tools"
+description: "A collection of resources dealing with Census and American Community Survey data."
 
 ---
 

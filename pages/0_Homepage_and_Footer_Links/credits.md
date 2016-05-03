@@ -2,6 +2,7 @@
 
 layout: page
 title: "Contact"
+description: "Incomplete list of resources used to build this website."
 permalink: "/credits/"
     
 ---

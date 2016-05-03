@@ -2,14 +2,14 @@
 layout: page
 title: Demography Office Information
 permalink: /information/
-published: true
+description: "Information about the Colorado State Demography Office, including services and resources."
 datalink: "/data"
 
 ---
 
 
 ## About the State Demography Office
-- [Download our informational pamphlet](https://drive.google.com/open?id=0B2oqdPZKJqK7NVBaNWFyZUd2V28&authuser=0)  
+- [Download our informational pamphlet ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7NVBaNWFyZUd2V28)  
 
 
 ----
