@@ -19,6 +19,6 @@
 - name: "Urban & Rural Definitions (census.gov)"
   url: "http://www.census.gov/geo/reference/ua/urban-rural-2010.html"
 - name: "Net Migration by Age Charts"
-  url: "https://dola.colorado.gov/demog_webapps/netMigrationByAgeComparison.jsfl"
+  url: "https://gis.dola.colorado.gov/apps/netmigration_dashboard/"
 - name: "Join the Demography Listserv"
   url: "https://dola.colorado.gov/list_server/demography_signup.jsf"
