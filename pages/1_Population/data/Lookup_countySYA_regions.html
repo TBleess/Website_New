@@ -1,15 +1,12 @@
 ---
 layout: page
-title: "Single Year of Age Data"
-permalink: "/population/data/sya-county/"
+title: "Region Single Year of Age Lookup"
+permalink: "/population/data/sya-regions/"
 custom_js:
 - /assets/js/FileSaver.min.js
-file: 
-- "https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/sya-county.csv"
-- "https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/sya-region.csv"
-description: "Search for information on total population and gender by single year of age."
+description: "Search for information on total population and gender by region, year, and age."
 years: "1990-2014 (Estimates) and 2015-2050 (Forecast)"
-tag: "popdata"
+tag: ""
 
 ---
 {% if page.custom_js %}
@@ -19,75 +16,36 @@ tag: "popdata"
 {% endif %}
 
 
-<h2 id="county-population-by-single-year-of-age">Population by Single Year of Age - County</h2>
+<h2>Population by Single Year of Age - Region</h2>
 
-<a href="/population/data/sya-regions/" >Need Region Data?</a><br /><br />
-<label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
+<a href="/population/data/sya-county/" >Need County Data?</a><br /><br />
+<a href="/gis/colorado-regions/" target="_blank">Regions WebMap <img src="/images/map.png" /></a><br /><br />
+<label for="countiesSelected" style="font-weight: bold;">Select 1 or more regions:</label><br />
 <select id="countiesSelected" class="formtable" name="countiesSelected" multiple="multiple" size="5">	
-	<option value="1">Adams</option>
-	<option value="3">Alamosa</option>
-	<option value="5">Arapahoe</option>
-	<option value="7">Archuleta</option>
-	<option value="9">Baca</option>
-	<option value="11">Bent</option>
-	<option value="13">Boulder</option>
-	<option value="14">Broomfield</option>
-	<option value="15">Chaffee</option>
-	<option value="17">Cheyenne</option>
-	<option value="19">Clear Creek</option>
-	<option value="21">Conejos</option>
-	<option value="23">Costilla</option>
-	<option value="25">Crowley</option>
-	<option value="27">Custer</option>
-	<option value="29">Delta</option>
-	<option value="31">Denver</option>
-	<option value="33">Dolores</option>
-	<option value="35">Douglas</option>
-	<option value="37">Eagle</option>
-	<option value="41">El Paso</option>
-	<option value="39">Elbert</option>
-	<option value="43">Fremont</option>
-	<option value="45">Garfield</option>
-	<option value="47">Gilpin</option>
-	<option value="49">Grand</option>
-	<option value="51">Gunnison</option>
-	<option value="53">Hinsdale</option>
-	<option value="55">Huerfano</option>
-	<option value="57">Jackson</option>
-	<option value="59">Jefferson</option>
-	<option value="61">Kiowa</option>
-	<option value="63">Kit Carson</option>
-	<option value="67">La Plata</option>
-	<option value="65">Lake</option>
-	<option value="69">Larimer</option>
-	<option value="71">Las Animas</option>
-	<option value="73">Lincoln</option>
-	<option value="75">Logan</option>
-	<option value="77">Mesa</option>
-	<option value="79">Mineral</option>
-	<option value="81">Moffat</option>
-	<option value="83">Montezuma</option>
-	<option value="85">Montrose</option>
-	<option value="87">Morgan</option>
-	<option value="89">Otero</option>
-	<option value="91">Ouray</option>
-	<option value="93">Park</option>
-	<option value="95">Phillips</option>
-	<option value="97">Pitkin</option>
-	<option value="99">Prowers</option>
-	<option value="101">Pueblo</option>
-	<option value="103">Rio Blanco</option>
-	<option value="105">Rio Grande</option>
-	<option value="107">Routt</option>
-	<option value="109">Saguache</option>
-	<option value="111">San Juan</option>
-	<option value="113">San Miguel</option>
-	<option value="115">Sedgwick</option>
-	<option value="117">Summit</option>
-	<option value="119">Teller</option>
-	<option value="121">Washington</option>
-	<option value="123">Weld</option>
-	<option value="125">Yuma</option>
+	<option value="20" selected>Denver PMSA</option>
+	<option value="21">Denver-Boulder Metro Area</option>
+	<option value="22">Denver-Boulder-Greeley CMSA</option>
+	<option value="23">10 County Denver Metro</option>
+	<option value="15">Central Mountains</option>
+	<option value="16">Eastern Plains</option>
+	<option value="17">Front Range</option>
+	<option value="18">San Luis Valley</option>
+	<option value="19">Western Slope</option>
+	<option value="1">Planning Region 1</option>
+	<option value="2">Planning Region 2</option>
+	<option value="3">Planning Region 3</option>
+	<option value="4">Planning Region 4</option>
+	<option value="5">Planning Region 5</option>
+	<option value="6">Planning Region 6</option>
+	<option value="7">Planning Region 7</option>
+	<option value="8">Planning Region 8</option>
+	<option value="9">Planning Region 9</option>
+	<option value="10">Planning Region 10</option>
+	<option value="11">Planning Region 11</option>
+	<option value="12">Planning Region 12</option>
+	<option value="13">Planning Region 13</option>
+	<option value="14">Planning Region 14</option>
+	<option value="0">Colorado</option> 
 </select>
 
 <br /><br />
@@ -255,7 +213,7 @@ tag: "popdata"
 <br /><br />
   <input type="radio" name="compressed" value="no" checked>No Grouping&nbsp;&nbsp;&nbsp;
   <input type="radio" name="compressed" value="opt1">Group by Year&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="opt2">Group by County and Year&nbsp;&nbsp;&nbsp;
+  <input type="radio" name="compressed" value="opt2">Group by Region and Year&nbsp;&nbsp;&nbsp;
   <input type="radio" name="compressed" value="opt3">Group by Age and Year<br />  
 <br />
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
@@ -305,7 +263,7 @@ tag: "popdata"
       
     var yearstring;
     var agestring;
-    var countystring;
+    var reg_numstring;
       
       /*VALIDATION*/
     if(selectedYears.length===0){
@@ -323,13 +281,13 @@ tag: "popdata"
     }        
     
     if(selectedCounties.length===0){
-      alert('no county selected');
+      alert('no region selected');
       return;
     }else{
-      countystring = selectedCounties.join(",");
+      reg_numstring = selectedCounties.join(",");
     }        
       
-      var querystring="age=" + agestring + "&county=" + countystring + "&year=" + yearstring + "&group=" + compressed;
+      var querystring="age=" + agestring + "&reg_num=" + reg_numstring + "&year=" + yearstring + "&group=" + compressed;
       
  
       /* make Download CSV button visible */
@@ -348,7 +306,7 @@ tag: "popdata"
           } /*fill in for error codes later*/
         };
       
-      xhttp.open("GET", "https://gis.dola.colorado.gov/lookups/sya?"+querystring, true);
+      xhttp.open("GET", "http://red-meteor-147235.nitrousapp.com:4567/sya_regions?"+querystring, true);
       xhttp.send();
     }
     
@@ -370,10 +328,10 @@ tag: "popdata"
           var hcell8 = hrow.insertCell(7);
  
         
-          hcell1.innerHTML = "CFIPS";
+          hcell1.innerHTML = "REGION_NMBR";
           hcell2.innerHTML = "YEAR";
           hcell3.innerHTML = "AGE";
-          hcell4.innerHTML = "COUNTY";
+          hcell4.innerHTML = "REGION";
           hcell5.innerHTML = "MALE";
           hcell6.innerHTML = "FEMALE";
           hcell7.innerHTML = "TOTAL";
@@ -390,11 +348,11 @@ tag: "popdata"
           var pass_age = results[i].age || "";
           if(results[i].age===0){pass_age="0";}
           
-          addrow(i,results[i].countyfips || "",results[i].year || "",pass_age,results[i].county || "",results[i].malepopulation,results[i].femalepopulation,results[i].totalpopulation,results[i].datatype || "")
+          addrow(i,results[i].reg_num || "",results[i].year || "",pass_age,results[i].region || "",results[i].malepopulation,results[i].femalepopulation,results[i].totalpopulation,results[i].datatype || "")
         }
         
         
-        function addrow(rownum, countyfips, year, age, county, malepopulation, femalepopulation, totalpopulation, datatype){
+        function addrow(rownum, reg_num, year, age, region, malepopulation, femalepopulation, totalpopulation, datatype){
           
           var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
           
@@ -413,10 +371,10 @@ tag: "popdata"
 
           
           /* Add some text to the new cells:*/
-          cell1.innerHTML = countyfips;
+          cell1.innerHTML = reg_num;
           cell2.innerHTML = year;
           cell3.innerHTML = age;
-          cell4.innerHTML = county;
+          cell4.innerHTML = region;
           cell5.innerHTML = Number(malepopulation).toLocaleString();
           cell6.innerHTML = Number(femalepopulation).toLocaleString();
           cell7.innerHTML = Number(totalpopulation).toLocaleString();
@@ -452,7 +410,7 @@ for (i = 0; i < rowLength; i++){
       
       
 var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "county_sya_data.csv");
+saveAs(blob, "region_sya_data.csv");
       
     }
   

@@ -47,19 +47,18 @@ description: "Download GIS data produced by the Colorado State Demography Office
 
 #### DOLA Grants (Since 2010)
 
-- Broadband Grants
-- All DOLA Grants
-  - Energy/Mineral Assistance Program
-  - Rural Economic Development Initiative
-  - Limited Gaming Impact Program
-  - Community Development Block Grants
-  - Community Services Block Grants
-  - Conservation Trust Fund
-  - Federal Mineral Lease
-  - Severance Direct Distribution
-  - Firefighter Cardiac Benefit Program
-  - Search and Rescue
-  - Volunteer Firefighter Pension Fund
+- [All DOLA Grants]()
+  - [Energy/Mineral Assistance Program]()
+  - [Rural Economic Development Initiative]()
+  - [Limited Gaming Impact Program]()
+  - [Community Development Block Grants]()
+  - [Community Services Block Grants]()
+  - [Conservation Trust Fund]()
+  - [Federal Mineral Lease]()
+  - [Severance Direct Distribution]()
+  - [Firefighter Cardiac Benefit Program]()
+  - [Search and Rescue]()
+  - [Volunteer Firefighter Pension Fund]()
   
 ----
 

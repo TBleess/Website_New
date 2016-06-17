@@ -1,15 +1,12 @@
 ---
 layout: page
-title: "Industry Base Analysis"
-permalink: "/economy-labor-force/data/base-analysis/"
+title: "Industry Base Analysis - Regions"
+permalink: "/economy-labor-force/data/base-analysis-regions/"
 custom_js:
 - /assets/js/FileSaver.min.js
-file: 
-- "https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/base-analysis-county.csv"
-- "https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/base-analysis-region.csv"
-description: "Search for information on base industries."
+description: "Search for information on base industries by region."
 years: "2014"
-tag: "econdata"
+tag: ""
 
 ---
 {% if page.custom_js %}
@@ -19,70 +16,29 @@ tag: "econdata"
 {% endif %}
 
 
-<h2 id="base-industries-analysis">Base Industries Analysis - County</h2>
+<h2>Base Industries Analysis - Regions</h2>
 
-<a href="/economy-labor-force/data/base-analysis-regions/" >Need Region Data?</a><br /><br />
-<label for="countiesSelected" style="font-weight: bold;">Select an Area:</label><br />
+<a href="/economy-labor-force/data/base-analysis/" >Need County Data?</a><br /><br />
+<a href="/gis/colorado-regions/" target="_blank">Regions WebMap <img src="/images/map.png" /></a><br /><br />
+<label for="countiesSelected" style="font-weight: bold;">Select a Region:</label><br />
 <select id="countiesSelected" name="countiesSelected">	
-	<option value="0">Statewide</option>
-	<option value="500">Denver-Boulder MSA</option>
-	<option value="3">Alamosa</option>
-	<option value="7">Archuleta</option>
-	<option value="9">Baca</option>
-	<option value="11">Bent</option>
-	<option value="15">Chaffee</option>
-	<option value="17">Cheyenne</option>
-	<option value="19">Clear Creek</option>
-	<option value="21">Conejos</option>
-	<option value="23">Costilla</option>
-	<option value="25">Crowley</option>
-	<option value="27">Custer</option>
-	<option value="29">Delta</option>
-	<option value="33">Dolores</option>
-	<option value="37">Eagle</option>
-	<option value="41">El Paso</option>
-	<option value="39">Elbert</option>
-	<option value="43">Fremont</option>
-	<option value="45">Garfield</option>
-	<option value="47">Gilpin</option>
-	<option value="49">Grand</option>
-	<option value="51">Gunnison</option>
-	<option value="53">Hinsdale</option>
-	<option value="55">Huerfano</option>
-	<option value="57">Jackson</option>
-	<option value="61">Kiowa</option>
-	<option value="63">Kit Carson</option>
-	<option value="67">La Plata</option>
-	<option value="65">Lake</option>
-	<option value="69">Larimer</option>
-	<option value="71">Las Animas</option>
-	<option value="73">Lincoln</option>
-	<option value="75">Logan</option>
-	<option value="77">Mesa</option>
-	<option value="79">Mineral</option>
-	<option value="81">Moffat</option>
-	<option value="83">Montezuma</option>
-	<option value="85">Montrose</option>
-	<option value="87">Morgan</option>
-	<option value="89">Otero</option>
-	<option value="91">Ouray</option>
-	<option value="93">Park</option>
-	<option value="95">Phillips</option>
-	<option value="97">Pitkin</option>
-	<option value="99">Prowers</option>
-	<option value="101">Pueblo</option>
-	<option value="103">Rio Blanco</option>
-	<option value="105">Rio Grande</option>
-	<option value="107">Routt</option>
-	<option value="109">Saguache</option>
-	<option value="111">San Juan</option>
-	<option value="113">San Miguel</option>
-	<option value="115">Sedgwick</option>
-	<option value="117">Summit</option>
-	<option value="119">Teller</option>
-	<option value="121">Washington</option>
-	<option value="123">Weld</option>
-	<option value="125">Yuma</option>
+  <option value="reg1">Planning Region 1</option>
+	<option value="reg2">Planning Region 2</option>
+	<option value="reg4">Planning Region 4</option>
+	<option value="reg5">Planning Region 5</option>
+	<option value="reg6">Planning Region 6</option>
+  <option value="reg7">Planning Region 7</option>
+	<option value="reg8">Planning Region 8</option>
+	<option value="reg9">Planning Region 9</option>
+	<option value="reg10">Planning Region 10</option>
+	<option value="reg11">Planning Region 11</option>  
+  <option value="reg12">Planning Region 12</option>
+	<option value="reg13">Planning Region 13</option>
+	<option value="reg14">Planning Region 14</option>
+	<option value="reg15">Central Mountains</option>
+	<option value="reg16">Eastern Plains</option>
+  <option value="reg18">San Luis Valley</option>
+	<option value="reg19">Western Slope</option>
 </select><br /><br />
 
   <input type="submit" id="callapi" value="View Results" class="form-submit" />
