@@ -45,20 +45,20 @@ description: "Download GIS data produced by the Colorado State Demography Office
 
 ----
 
-#### DOLA Grants (Since 2010)
+#### DOLA Grants (Since 2010) - CSV
 
-- [All DOLA Grants]()
-  - [Energy/Mineral Assistance Program]()
-  - [Rural Economic Development Initiative]()
-  - [Limited Gaming Impact Program]()
-  - [Community Development Block Grants]()
-  - [Community Services Block Grants]()
-  - [Conservation Trust Fund]()
-  - [Federal Mineral Lease]()
-  - [Severance Direct Distribution]()
-  - [Firefighter Cardiac Benefit Program]()
-  - [Search and Rescue]()
-  - [Volunteer Firefighter Pension Fund]()
+- [All DOLA Grants](https://storage.googleapis.com/co-publicdata/ALL_grants.csv)
+  - [Energy/Mineral Assistance Program](https://storage.googleapis.com/co-publicdata/EIAF_grants.csv)
+  - [Rural Economic Development Initiative](https://storage.googleapis.com/co-publicdata/REDI_grants.csv)
+  - [Limited Gaming Impact Program](https://storage.googleapis.com/co-publicdata/GAME_grants.csv)
+  - [Community Development Block Grants](https://storage.googleapis.com/co-publicdata/CDBG_grants.csv)
+  - [Community Services Block Grants](https://storage.googleapis.com/co-publicdata/CSBG_grants.csv)
+  - [Conservation Trust Fund](https://storage.googleapis.com/co-publicdata/CTF_grants.csv)
+  - [Federal Mineral Lease](https://storage.googleapis.com/co-publicdata/FML_grants.csv)
+  - [Severance Direct Distribution](https://storage.googleapis.com/co-publicdata/SEV_DIST_grants.csv)
+  - [Firefighter Cardiac Benefit Program](https://storage.googleapis.com/co-publicdata/FFB_grants.csv)
+  - [Search and Rescue](https://storage.googleapis.com/co-publicdata/SAR_grants.csv)
+  - [Volunteer Firefighter Pension Fund](https://storage.googleapis.com/co-publicdata/VFP_grants.csv)
   
 ----
 
