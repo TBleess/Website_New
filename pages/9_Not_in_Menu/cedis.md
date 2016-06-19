@@ -26,8 +26,6 @@ description: "Colorado Economic Demographic Information System links"
 #### Housing Unit and Household Data
 
 - [Colorado County Profile System](/population/data/county-profile#county-demographic-profiles)
-- [Housing Unit and Household Estimates](https://dola.colorado.gov/demog-cms/content/housing-and-households) *Move*
-- [Households by Region, Type, Age, Tenure, and Income](https://dola.colorado.gov/households/income_parameters.jsf) *WTF*
 - [Division of Housing Vacancy and Rent Surveys](https://www.colorado.gov/pacific/dola/vacancy-rent-surveys)
 
 - - -
@@ -44,11 +42,9 @@ description: "Colorado Economic Demographic Information System links"
 - [Local Government Finances](https://dola.colorado.gov/lgis/lg_finances.jsf)
 - [County and Municipal Financial Compendium](https://www.colorado.gov/pacific/dola/county-municipal-financial-compendium)
 - [Property Taxes (DPT Annual Report)](https://www.colorado.gov/pacific/dola/annual-reports)
-- [Local Government Sales Tax Rates (Dept. of Revenue)](http://www.taxview.state.co.us/QueryTaxrates.aspx?selected=1) *Broken*
 
 - - -
 
 #### Income and Earnings Tax
 
-- [Households by Region, Type, Age, Tenure, and Income](https://dola.colorado.gov/households/income_parameters.jsf) *WTF*
 - [Bureau of Economic Analysis Personal Income by Source (bea.gov)](http://www.bea.gov/regional/index.htm)

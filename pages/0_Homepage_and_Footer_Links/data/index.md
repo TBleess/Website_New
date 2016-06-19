@@ -50,5 +50,15 @@ permalink: "/data/"
 <br />
 
 ---
+<br />
+
+## Region Reports
+
+- [Planning Region Reports - 2014](/demography/region-reports-2014#colorado-planning-region-reports)  Detailed Demographic and Economic Reports by Colorado Planning Region!
+
+<br />
+
+---
+
 
 

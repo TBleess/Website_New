@@ -14,24 +14,22 @@ description: "Population data for Colorado Counties"
 
 #### Historical Census - years (1870 to 2010)
 
-Population totals for Colorado, counties & places, 1870 to 2010 are available [here](https://dola.colorado.gov/demog_webapps/hcp_parameters.jsf). *Change*
+Population totals for Colorado, counties & places, 1870 to 2010 are available [here](https://dola.colorado.gov/demog_webapps/hcp_parameters.jsf).
 
 Historical Census data can also be obtained through the [University of Virginia](http://mapserver.lib.virginia.edu/).  This site presents data for the people and the economy of the U.S. for each state and county from 1790 to 1960. 
 
 
 - - -
 
-#### Population Estimates - years (1985 to Current)
+#### Current Population Estimates
 
 Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2014 and were finalized in October 2015.
 
 - [Estimates, Counties, 2000 - Current ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESRXgwVnVRajkxbDg)
 
-[User Lookup:](https://dola.colorado.gov/demog_webapps/pe_parameters.jsf) *Change*
-This option allows the user to select any combination of state, counties or municipalities for the year(s) of 1980, 1990 to current.
 
-[Municipalities Within Counties:](https://dola.colorado.gov/demog_webapps/mpe_parameters.jsf) *Change*
-This option allows the user to select a county and list the population estimates for all of the municipalities within that particular county. Years available 1980, 1990 to current.
+[User Lookup:](/population/data/muni-pop-housing/) 
+This option allows the user to select any combination of counties or municipalities for the year 2014.
 
 [County Profile:](/population/data/county-profile#county-demographic-profiles)
 The County Profile database allows the user to select population estimates along with other variables, for years 1985 to current.

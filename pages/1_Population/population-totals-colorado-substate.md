@@ -14,7 +14,7 @@ datalink: "/population/data"
 
 #### Historical Census - years (1790 to 2010) 
 
-Population totals for Colorado, counties & places, 1870 to 2010 are available [here](https://dola.colorado.gov/demog_webapps/hcp_parameters.jsf). *Change*
+Population totals for Colorado, counties & places, 1870 to 2010 are available [here](https://dola.colorado.gov/demog_webapps/hcp_parameters.jsf).
 
 Historical Census data can also be obtained through the [University of Virginia](http://mapserver.lib.virginia.edu/). This site presents data for the people and the economy of the U.S. for each state and county from 1790 to 1960.
 
@@ -26,7 +26,7 @@ Population estimates are produced annually by the State Demography Office. The m
 
 - [Final Estimates, State, Sub-state regions, and Counties 2000 to current ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESejYzNlh2R2YxVk0)
 
-[User Lookup:](https://dola.colorado.gov/demog_webapps/pe_parameters.jsf) *Change*
+[User Lookup:](/population/data/muni-pop-housing/) 
 
 This option allows the user to select any combination of state, counties or municipalities for the year(s) of 1980, 1990 to current.
 
