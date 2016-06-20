@@ -8,12 +8,12 @@ description: "The Colorado State Demography Office provides demographic and econ
 
 {% include _homepageHeader.html %}
 
-<br>
+<!--<br>
 <h3 class="center"> Get Data for Your Area</h3>
 
 To Be Made
 <br>
-<br>
+<br>-->
 
 <!--<h3 class="center"> Popular Items</h3>-->
 
