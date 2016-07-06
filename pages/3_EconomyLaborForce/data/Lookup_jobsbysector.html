@@ -4,6 +4,7 @@ title: "Jobs by Sector"
 permalink: "/economy-labor-force/data/jobs-by-sector/"
 custom_js:
 - /assets/js/FileSaver.min.js
+- /assets/js/common/dola_custom_functions.js
 file:
 - "https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/jobs-county.csv"
 description: "Search for information on total jobs by job sector (NAICS)."
@@ -20,97 +21,21 @@ tag: "econdata"
 
 <h2 id="jobs-by-sector-naics">Jobs by Sector (NAICS)</h2>
 
-<a href="/economy-labor-force/data/jobs-by-sector-regions/" >Need Region Data?</a><br /><br />
+<a href="/economy-labor-force/data/jobs-by-sector-regions/">Need Region Data?</a><br /><br />
 <label for="countiesSelected" style="font-weight: bold;">Select a county:</label><br />
 <select id="countiesSelected" class="formtable" name="countiesSelected" size="5">	
 	<option value="0">Colorado</option>
-	<option value="1">Adams</option>
-	<option value="3">Alamosa</option>
-	<option value="5">Arapahoe</option>
-	<option value="7">Archuleta</option>
-	<option value="9">Baca</option>
-	<option value="11">Bent</option>
-	<option value="13">Boulder</option>
-	<option value="14">Broomfield</option>
-	<option value="15">Chaffee</option>
-	<option value="17">Cheyenne</option>
-	<option value="19">Clear Creek</option>
-	<option value="21">Conejos</option>
-	<option value="23">Costilla</option>
-	<option value="25">Crowley</option>
-	<option value="27">Custer</option>
-	<option value="29">Delta</option>
-	<option value="31">Denver</option>
-	<option value="33">Dolores</option>
-	<option value="35">Douglas</option>
-	<option value="37">Eagle</option>
-	<option value="41">El Paso</option>
-	<option value="39">Elbert</option>
-	<option value="43">Fremont</option>
-	<option value="45">Garfield</option>
-	<option value="47">Gilpin</option>
-	<option value="49">Grand</option>
-	<option value="51">Gunnison</option>
-	<option value="53">Hinsdale</option>
-	<option value="55">Huerfano</option>
-	<option value="57">Jackson</option>
-	<option value="59">Jefferson</option>
-	<option value="61">Kiowa</option>
-	<option value="63">Kit Carson</option>
-	<option value="67">La Plata</option>
-	<option value="65">Lake</option>
-	<option value="69">Larimer</option>
-	<option value="71">Las Animas</option>
-	<option value="73">Lincoln</option>
-	<option value="75">Logan</option>
-	<option value="77">Mesa</option>
-	<option value="79">Mineral</option>
-	<option value="81">Moffat</option>
-	<option value="83">Montezuma</option>
-	<option value="85">Montrose</option>
-	<option value="87">Morgan</option>
-	<option value="89">Otero</option>
-	<option value="91">Ouray</option>
-	<option value="93">Park</option>
-	<option value="95">Phillips</option>
-	<option value="97">Pitkin</option>
-	<option value="99">Prowers</option>
-	<option value="101">Pueblo</option>
-	<option value="103">Rio Blanco</option>
-	<option value="105">Rio Grande</option>
-	<option value="107">Routt</option>
-	<option value="109">Saguache</option>
-	<option value="111">San Juan</option>
-	<option value="113">San Miguel</option>
-	<option value="115">Sedgwick</option>
-	<option value="117">Summit</option>
-	<option value="119">Teller</option>
-	<option value="121">Washington</option>
-	<option value="123">Weld</option>
-	<option value="125">Yuma</option>
+{% include _optionValuesCounty.html %}
 </select>
 
 <br /><br />
 <label for="yearsSelected" style="font-weight: bold;">Select a year:</label><br />
 <select id="yearsSelected" class="formtable" name="yearsSelected" size="5">
-	<option value="2001">2001</option>
-	<option value="2002">2002</option>
-	<option value="2003">2003</option>
-	<option value="2004">2004</option>
-  <option value="2005">2005</option>
-	<option value="2006">2006</option>
-	<option value="2007">2007</option>
-	<option value="2008">2008</option>
-	<option value="2009">2009</option>
-  <option value="2010">2010</option>
-	<option value="2011">2011</option>
-	<option value="2012">2012</option>
-	<option value="2013">2013</option>
-	<option value="2014">2014</option>
+<!-- populated from database -->
 </select>
 
 <br /><br />
-  <input type="submit" id="callapi" value="View Results" class="form-submit" />
+<input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br /><br />
 <table id="resultstable"></table>
@@ -118,331 +43,385 @@ tag: "econdata"
 
 
 <script>
-  
-  var viewresults=document.getElementById('callapi');
-  
-    viewresults.onclick=function(){
-      
-    var selectedCounties = getSelectValues(countiesSelected);
-    var selectedYears = getSelectValues(yearsSelected);  
-      
-          /*counties*/
-    if(selectedCounties.length===0){
-      alert('please choose a county selection');
-      return;
-    }
-          /*years*/
-    if(selectedYears.length===0){
-      alert('please choose a year selection');
-      return;
-    }      
-      
-   document.getElementById("dlcsv").style.display='inline-block';
-      
-    /* Return an array of the selected option values*/
-    function getSelectValues(select) {
-  var result = [];
-  var options = select && select.options;
-  var opt;
+    fetchJSONFile('https://gis.dola.colorado.gov/lookups/jobsYRS', function(yrs) {
+        var queriedYears = "";
+        for (let i = 0; i < yrs.length; i++) {
+            queriedYears += "<option value='" + yrs[i].population_year + "'>" + yrs[i].population_year + "</option>";
+        }
+        document.getElementById('yearsSelected').innerHTML = queriedYears;
+    });
 
-  for (var i=0, iLen=options.length; i<iLen; i++) {
-    opt = options[i];
+    document.getElementById('callapi').addEventListener('click', function() {
 
-    if (opt.selected) {
-      result.push(opt.value || opt.text);
-    }
-  }
-  return result;
-}
+        var selectedCounties = getSelectValues(countiesSelected);
+        var selectedYears = getSelectValues(yearsSelected);
 
-      
-      function clookup(county){
-        if(county===0){return "Colorado";}
-        if(county===1){return "Adams County";}
-        if(county===3){return "Alamosa County";}
-        if(county===5){return "Arapahoe County";}
-        if(county===7){return "Archuleta County";}
-        if(county===9){return "Baca County";}
-        if(county===11){return "Bent County";}
-        if(county===13){return "Boulder County";}
-        if(county===14){return "Broomfield County";}
-        if(county===15){return "Chaffee County";}
-        if(county===17){return "Cheyenne County";}
-        if(county===19){return "Clear Creek County";}
-        if(county===21){return "Conejos County";}
-        if(county===23){return "Costilla County";}
-        if(county===25){return "Crowley County";}
-        if(county===27){return "Custer County";}
-        if(county===29){return "Delta County";}
-        if(county===31){return "Denver County";}
-        if(county===33){return "Dolores County";}
-        if(county===35){return "Douglas County";}
-        if(county===37){return "Eagle County";}
-        if(county===39){return "Elbert County";}
-        if(county===41){return "El Paso County";}
-        if(county===43){return "Fremont County";}
-        if(county===45){return "Garfield County";}        
-        if(county===47){return "Gilpin County";}
-        if(county===49){return "Grand County";}
-        if(county===51){return "Gunnison County";}
-        if(county===53){return "Hinsdale County";}
-        if(county===55){return "Huerfano County";}
-        if(county===57){return "Jackson County";}
-        if(county===59){return "Jefferson County";}
-        if(county===61){return "Kiowa County";}
-        if(county===63){return "Kit Carson County";}
-        if(county===65){return "Lake County";}
-        if(county===67){return "La Plata County";}
-        if(county===69){return "Larimer County";}        
-        if(county===71){return "Las Animas County";}
-        if(county===73){return "Lincoln County";}
-        if(county===75){return "Logan County";}
-        if(county===77){return "Mesa County";}
-        if(county===79){return "Mineral County";}
-        if(county===81){return "Moffat County";}
-        if(county===83){return "Montezuma County";}
-        if(county===85){return "Montrose County";}
-        if(county===87){return "Morgan County";}
-        if(county===89){return "Otero County";}
-        if(county===91){return "Ouray County";}
-        if(county===93){return "Park County";}        
-        if(county===95){return "Phillips County";}
-        if(county===97){return "Pitkin County";}
-        if(county===99){return "Prowers County";}
-        if(county===101){return "Pueblo County";}
-        if(county===103){return "Rio Blanco County";}
-        if(county===105){return "Rio Grande County";}
-        if(county===107){return "Routt County";}
-        if(county===109){return "Saguache County";}
-        if(county===111){return "San Juan County";}
-        if(county===113){return "San Miguel County";}
-        if(county===115){return "Sedgwick County";}
-        if(county===117){return "Summit County";}    
-        if(county===119){return "Teller County";}
-        if(county===121){return "Washington County";}
-        if(county===123){return "Weld County";}
-        if(county===125){return "Yuma County";}
-        
-        return undefined; /*fallback (replaces otherwise undefined)*/
-      }
-            
-       
-      function slookup(sector){
-        if(sector==="00000"){return "Total Jobs";}
-        if(sector==="01000"){return "Agriculture";}
-        if(sector==="01010"){return "&nbsp;&nbsp;Crops and livestock production";}
-        if(sector==="01020"){return "&nbsp;&nbsp;Farm services";}
-        if(sector==="02000"){return "Mining";}
-        if(sector==="02010"){return "&nbsp;&nbsp;Oil and gas extraction";}
-        if(sector==="02020"){return "&nbsp;&nbsp;Mining (except oil and gas)";}
-        if(sector==="02030"){return "&nbsp;&nbsp;Support Activities for mining";}
-        if(sector==="03000"){return "Utilities";}
-        if(sector==="03030"){return "&nbsp;&nbsp;Utilities";}
-        if(sector==="04000"){return "Construction";}
-        if(sector==="04010"){return "&nbsp;&nbsp;Construction of buildings";}
-        if(sector==="04020"){return "&nbsp;&nbsp;Heavy and cilvil engineering construct";}
-        if(sector==="04030"){return "&nbsp;&nbsp;Special trade contractors";}
-        if(sector==="05000"){return "Manufacturing";}
-        if(sector==="05010"){return "&nbsp;&nbsp;Wood product and furniture manufacturi";}
-        if(sector==="05020"){return "&nbsp;&nbsp;Nonmetallic mineral product manufactur";}
-        if(sector==="05030"){return "&nbsp;&nbsp;Primary and fabricated metal manufactu";}
-        if(sector==="05040"){return "&nbsp;&nbsp;Machinery manufacturing";}
-        if(sector==="05050"){return "&nbsp;&nbsp;Computer and electrical equipment manu";}
-        if(sector==="05060"){return "&nbsp;&nbsp;Motor vehicle and transportation manuf";}
-        if(sector==="05070"){return "&nbsp;&nbsp;Miscellaneous manufacturing";}
-        if(sector==="05080"){return "&nbsp;&nbsp;Food and beverage product manufacturin";}
-        if(sector==="05090"){return "&nbsp;&nbsp;Textile mills and product, apparel, an";}
-        if(sector==="05100"){return "&nbsp;&nbsp;Paper and printing manufacturing";}
-        if(sector==="05110"){return "&nbsp;&nbsp;Chemical manufacturing";}
-        if(sector==="05120"){return "&nbsp;&nbsp;Plastics and rubber products manufactu";}
-        if(sector==="06000"){return "Wholesale trade";}
-        if(sector==="06010"){return "&nbsp;&nbsp;Wholesale";}
-        if(sector==="07000"){return "Retail Trade";}
-        if(sector==="07010"){return "&nbsp;&nbsp;Motor vehicle and parts dealers";}
-        if(sector==="07020"){return "&nbsp;&nbsp;Furniture, electronics, appliances, an";}
-        if(sector==="07030"){return "&nbsp;&nbsp;Food and beverage stores";}
-        if(sector==="07040"){return "&nbsp;&nbsp;Health and personal care stores";}
-        if(sector==="07050"){return "&nbsp;&nbsp;Gasoline stations";}
-        if(sector==="07060"){return "&nbsp;&nbsp;Clothing and clothing accessories stor";}
-        if(sector==="07070"){return "&nbsp;&nbsp;Sporting goods, hobby, book and music";}
-        if(sector==="07080"){return "&nbsp;&nbsp;General merchandise stores";}
-        if(sector==="07090"){return "&nbsp;&nbsp;Miscellaneous store retailers";}
-        if(sector==="07100"){return "&nbsp;&nbsp;Nonstore retailers";}
-        if(sector==="08000"){return "Transportation and warehousing";}
-        if(sector==="08010"){return "&nbsp;&nbsp;Air transportation";}
-        if(sector==="08020"){return "&nbsp;&nbsp;Rail transportation";}
-        if(sector==="08030"){return "&nbsp;&nbsp;Truck transportation";}
-        if(sector==="08040"){return "&nbsp;&nbsp;Support for transportation";}
-        if(sector==="08050"){return "&nbsp;&nbsp;Transit and ground passenger transport";}
-        if(sector==="08060"){return "&nbsp;&nbsp;Pipeline transportation";}
-        if(sector==="08070"){return "&nbsp;&nbsp;Scenic, sightseeing, and water transpo";}
-        if(sector==="08080"){return "&nbsp;&nbsp;Couriers and messengers and postal ser";}
-        if(sector==="08090"){return "&nbsp;&nbsp;Warehousing and storage";}
-        if(sector==="09000"){return "Information";}
-        if(sector==="09010"){return "&nbsp;&nbsp;Publishing industries";}
-        if(sector==="09030"){return "&nbsp;&nbsp;Motion picture and broadcasting, excep";}
-        if(sector==="09040"){return "&nbsp;&nbsp;Telecommunications";}
-        if(sector==="09050"){return "&nbsp;&nbsp;ISPs, search portals, and data process";}        
-        if(sector==="10000"){return "Finance activities";}
-        if(sector==="10010"){return "&nbsp;&nbsp;Monetary authorities and credit interm";}
-        if(sector==="10020"){return "&nbsp;&nbsp;Securities, commodity contracts and in";}
-        if(sector==="10100"){return "&nbsp;&nbsp;Insurance carriers, funds, trusts, and";}
-        if(sector==="10150"){return "Real estate";}
-        if(sector==="10200"){return "&nbsp;&nbsp;Real estate";}
-        if(sector==="11000"){return "Professional and business services";}
-        if(sector==="11020"){return "&nbsp;&nbsp;Professional and technical services";}
-        if(sector==="11025"){return "Management of companies and enterprise";}
-        if(sector==="11030"){return "&nbsp;&nbsp;Management of companies and enterprise";}
-        if(sector==="11050"){return "Admin and waste";}
-        if(sector==="11090"){return "&nbsp;&nbsp;Administrative and support services";}
-        if(sector==="11100"){return "&nbsp;&nbsp;Waste management and remediation servi";}
-        if(sector==="12000"){return "Education";}
-        if(sector==="12010"){return "&nbsp;&nbsp;Private Educational services";}
-        if(sector==="12015"){return "Health Services";}
-        if(sector==="12020"){return "&nbsp;&nbsp;Ambulatory health care services";}
-        if(sector==="12030"){return "&nbsp;&nbsp;Hospitals";}
-        if(sector==="12040"){return "&nbsp;&nbsp;Nursing and residential care facilitie";}
-        if(sector==="12050"){return "&nbsp;&nbsp;Social assistance";}
-        if(sector==="13000"){return "Arts";}
-        if(sector==="13010"){return "&nbsp;&nbsp;Arts, entertainment, and recreation";}
-        if(sector==="13015"){return "Accommodation and food";}
-        if(sector==="13020"){return "&nbsp;&nbsp;Accommodation";}
-        if(sector==="13030"){return "&nbsp;&nbsp;Food services and drinking places";}
-        if(sector==="14000"){return "Other services, except public administration";}
-        if(sector==="14010"){return "&nbsp;&nbsp;Automotive and other repair and mainte";}
-        if(sector==="14020"){return "&nbsp;&nbsp;Personal and laundry services";}
-        if(sector==="14030"){return "&nbsp;&nbsp;Membership associations and organizati";}
-        if(sector==="14040"){return "&nbsp;&nbsp;Private households";}
-        if(sector==="15000"){return "Government";}
-        if(sector==="15010"){return "&nbsp;&nbsp;Federal government, civilian";}
-        if(sector==="15014"){return "&nbsp;&nbsp;Military";}
-        if(sector==="15020"){return "&nbsp;&nbsp;State government";}
-        if(sector==="15030"){return "&nbsp;&nbsp;Local government";}
-
-        
-        return undefined; /*fallback (replaces otherwise undefined)*/
-      }
-      
-      var querystring = "county=" + selectedCounties.join(",") + "&year=" + selectedYears.join(",");
-      
-      console.log(querystring);
-      
-   requestdata(querystring);
-      
-      
-    /*ajax request function*/
-    function requestdata(querystring){
-      
-      var xhttp = new XMLHttpRequest();
-      
-      xhttp.onreadystatechange = function() {
-        if (xhttp.readyState == 4 && xhttp.status == 200) {
-            createtable(JSON.parse(xhttp.responseText));
-          } 
-        };
-      
-      xhttp.open("GET", "https://gis.dola.colorado.gov/lookups/jobs?"+querystring, true);
-      xhttp.send();
-    }
-    
-         
-      
-      function createtable(results){
-
-          var table = document.getElementById("resultstable");
-          table.innerHTML = ""; /*clear all previous content*/
-        
-          var header = table.createTHead();
-          var hrow = header.insertRow(0);     
-          var hcell1 = hrow.insertCell(0);
-          var hcell2 = hrow.insertCell(1);
-          var hcell3 = hrow.insertCell(2);
-          var hcell4 = hrow.insertCell(3);
-          var hcell5 = hrow.insertCell(4);
-        
-          hcell1.innerHTML = "Year";
-          hcell2.innerHTML = "Area";
-          hcell3.innerHTML = "NAICS Code";
-          hcell4.innerHTML = "Sector";
-          hcell5.innerHTML = "Jobs";
-        
-          hcell5.style.textAlign = 'right';
-          
-          var body = table.appendChild(document.createElement('tbody'));
-        
-        
-          for(var i=0;i<results.length;i++){
-            var total_jobs=results[i].total_jobs;
-            if (Number(results[i].total_jobs)>0){
-              total_jobs=Math.round(Number(total_jobs)); 
-            }else if( results[i].total_jobs === "0"){
-              total_jobs='0';
-            }else{
-              total_jobs='suppressed';
-            }
-            
-            addrow(i,results[i].population_year, clookup(results[i].area_code), results[i].sector_id, slookup(results[i].sector_id), total_jobs );
-          }
-
-
-        function addrow(rownum, year, county, naics, sector, ttl){
-          
-          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
-          
-          /* Create an empty <tr> element and add it to the 1st position of the table:*/
-          var row = tableRef.insertRow(rownum);
-
-          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
-          var cell1 = row.insertCell(0);
-          var cell2 = row.insertCell(1);
-          var cell3 = row.insertCell(2);
-          var cell4 = row.insertCell(3);
-          var cell5 = row.insertCell(4);
-          
-          /* Add some text to the new cells:*/
-          cell1.innerHTML = year;
-          cell2.innerHTML = county;
-          cell3.innerHTML = naics;
-          cell4.innerHTML = sector;
-          cell5.innerHTML = ttl.toLocaleString();
-
-          cell5.style.textAlign = 'right';
-              
+        /*counties*/
+        if (selectedCounties.length === 0) {
+            alert('please choose a county selection');
+            return;
+        }
+        /*years*/
+        if (selectedYears.length === 0) {
+            alert('please choose a year selection');
+            return;
         }
 
-      }
+        var querystring = "county=" + selectedCounties.join(",") + "&year=" + selectedYears.join(",");
 
-    
-  };
-  
-  
-    var dlcsv=document.getElementById('dlcsv');
+        fetchJSONFile("https://gis.dola.colorado.gov/lookups/jobs?" + querystring, function(text) {
+            createtable(text);
+        });
 
-    dlcsv.onclick=function(){
-      
-      var csvstring="";
-      
-      var oTable = document.getElementById('resultstable');
-var rowLength = oTable.rows.length;
-for (i = 0; i < rowLength; i++){
-   var oCells = oTable.rows.item(i).cells;
-   var cellLength = oCells.length;
-   for(var j = 0; j < cellLength; j++){
-      /* get your cell info here */
-      if(j===0 && i>0){csvstring=csvstring+"\n";}
-     var cellval=oCells.item(j).innerHTML;
-      var addCell="\"" + cellval.replace(/\&nbsp;/g," ") + "\"";
-      /*addCell = addCell.replace(/,/g , "\",\"");*/
-      csvstring = csvstring + addCell;
-     if(j< cellLength ){csvstring=csvstring+",";}
-     }
-}
-      
-      
-var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "jobsBySector_data.csv");
-      
+    }, false);
+
+
+    function slookup(sector) {
+        if (sector === "00000") {
+            return "Total Jobs";
+        }
+        if (sector === "01000") {
+            return "Agriculture";
+        }
+        if (sector === "01010") {
+            return "&nbsp;&nbsp;Crops and livestock production";
+        }
+        if (sector === "01020") {
+            return "&nbsp;&nbsp;Farm services";
+        }
+        if (sector === "02000") {
+            return "Mining";
+        }
+        if (sector === "02010") {
+            return "&nbsp;&nbsp;Oil and gas extraction";
+        }
+        if (sector === "02020") {
+            return "&nbsp;&nbsp;Mining (except oil and gas)";
+        }
+        if (sector === "02030") {
+            return "&nbsp;&nbsp;Support Activities for mining";
+        }
+        if (sector === "03000") {
+            return "Utilities";
+        }
+        if (sector === "03030") {
+            return "&nbsp;&nbsp;Utilities";
+        }
+        if (sector === "04000") {
+            return "Construction";
+        }
+        if (sector === "04010") {
+            return "&nbsp;&nbsp;Construction of buildings";
+        }
+        if (sector === "04020") {
+            return "&nbsp;&nbsp;Heavy and cilvil engineering construct";
+        }
+        if (sector === "04030") {
+            return "&nbsp;&nbsp;Special trade contractors";
+        }
+        if (sector === "05000") {
+            return "Manufacturing";
+        }
+        if (sector === "05010") {
+            return "&nbsp;&nbsp;Wood product and furniture manufacturi";
+        }
+        if (sector === "05020") {
+            return "&nbsp;&nbsp;Nonmetallic mineral product manufactur";
+        }
+        if (sector === "05030") {
+            return "&nbsp;&nbsp;Primary and fabricated metal manufactu";
+        }
+        if (sector === "05040") {
+            return "&nbsp;&nbsp;Machinery manufacturing";
+        }
+        if (sector === "05050") {
+            return "&nbsp;&nbsp;Computer and electrical equipment manu";
+        }
+        if (sector === "05060") {
+            return "&nbsp;&nbsp;Motor vehicle and transportation manuf";
+        }
+        if (sector === "05070") {
+            return "&nbsp;&nbsp;Miscellaneous manufacturing";
+        }
+        if (sector === "05080") {
+            return "&nbsp;&nbsp;Food and beverage product manufacturin";
+        }
+        if (sector === "05090") {
+            return "&nbsp;&nbsp;Textile mills and product, apparel, an";
+        }
+        if (sector === "05100") {
+            return "&nbsp;&nbsp;Paper and printing manufacturing";
+        }
+        if (sector === "05110") {
+            return "&nbsp;&nbsp;Chemical manufacturing";
+        }
+        if (sector === "05120") {
+            return "&nbsp;&nbsp;Plastics and rubber products manufactu";
+        }
+        if (sector === "06000") {
+            return "Wholesale trade";
+        }
+        if (sector === "06010") {
+            return "&nbsp;&nbsp;Wholesale";
+        }
+        if (sector === "07000") {
+            return "Retail Trade";
+        }
+        if (sector === "07010") {
+            return "&nbsp;&nbsp;Motor vehicle and parts dealers";
+        }
+        if (sector === "07020") {
+            return "&nbsp;&nbsp;Furniture, electronics, appliances, an";
+        }
+        if (sector === "07030") {
+            return "&nbsp;&nbsp;Food and beverage stores";
+        }
+        if (sector === "07040") {
+            return "&nbsp;&nbsp;Health and personal care stores";
+        }
+        if (sector === "07050") {
+            return "&nbsp;&nbsp;Gasoline stations";
+        }
+        if (sector === "07060") {
+            return "&nbsp;&nbsp;Clothing and clothing accessories stor";
+        }
+        if (sector === "07070") {
+            return "&nbsp;&nbsp;Sporting goods, hobby, book and music";
+        }
+        if (sector === "07080") {
+            return "&nbsp;&nbsp;General merchandise stores";
+        }
+        if (sector === "07090") {
+            return "&nbsp;&nbsp;Miscellaneous store retailers";
+        }
+        if (sector === "07100") {
+            return "&nbsp;&nbsp;Nonstore retailers";
+        }
+        if (sector === "08000") {
+            return "Transportation and warehousing";
+        }
+        if (sector === "08010") {
+            return "&nbsp;&nbsp;Air transportation";
+        }
+        if (sector === "08020") {
+            return "&nbsp;&nbsp;Rail transportation";
+        }
+        if (sector === "08030") {
+            return "&nbsp;&nbsp;Truck transportation";
+        }
+        if (sector === "08040") {
+            return "&nbsp;&nbsp;Support for transportation";
+        }
+        if (sector === "08050") {
+            return "&nbsp;&nbsp;Transit and ground passenger transport";
+        }
+        if (sector === "08060") {
+            return "&nbsp;&nbsp;Pipeline transportation";
+        }
+        if (sector === "08070") {
+            return "&nbsp;&nbsp;Scenic, sightseeing, and water transpo";
+        }
+        if (sector === "08080") {
+            return "&nbsp;&nbsp;Couriers and messengers and postal ser";
+        }
+        if (sector === "08090") {
+            return "&nbsp;&nbsp;Warehousing and storage";
+        }
+        if (sector === "09000") {
+            return "Information";
+        }
+        if (sector === "09010") {
+            return "&nbsp;&nbsp;Publishing industries";
+        }
+        if (sector === "09030") {
+            return "&nbsp;&nbsp;Motion picture and broadcasting, excep";
+        }
+        if (sector === "09040") {
+            return "&nbsp;&nbsp;Telecommunications";
+        }
+        if (sector === "09050") {
+            return "&nbsp;&nbsp;ISPs, search portals, and data process";
+        }
+        if (sector === "10000") {
+            return "Finance activities";
+        }
+        if (sector === "10010") {
+            return "&nbsp;&nbsp;Monetary authorities and credit interm";
+        }
+        if (sector === "10020") {
+            return "&nbsp;&nbsp;Securities, commodity contracts and in";
+        }
+        if (sector === "10100") {
+            return "&nbsp;&nbsp;Insurance carriers, funds, trusts, and";
+        }
+        if (sector === "10150") {
+            return "Real estate";
+        }
+        if (sector === "10200") {
+            return "&nbsp;&nbsp;Real estate";
+        }
+        if (sector === "11000") {
+            return "Professional and business services";
+        }
+        if (sector === "11020") {
+            return "&nbsp;&nbsp;Professional and technical services";
+        }
+        if (sector === "11025") {
+            return "Management of companies and enterprise";
+        }
+        if (sector === "11030") {
+            return "&nbsp;&nbsp;Management of companies and enterprise";
+        }
+        if (sector === "11050") {
+            return "Admin and waste";
+        }
+        if (sector === "11090") {
+            return "&nbsp;&nbsp;Administrative and support services";
+        }
+        if (sector === "11100") {
+            return "&nbsp;&nbsp;Waste management and remediation servi";
+        }
+        if (sector === "12000") {
+            return "Education";
+        }
+        if (sector === "12010") {
+            return "&nbsp;&nbsp;Private Educational services";
+        }
+        if (sector === "12015") {
+            return "Health Services";
+        }
+        if (sector === "12020") {
+            return "&nbsp;&nbsp;Ambulatory health care services";
+        }
+        if (sector === "12030") {
+            return "&nbsp;&nbsp;Hospitals";
+        }
+        if (sector === "12040") {
+            return "&nbsp;&nbsp;Nursing and residential care facilitie";
+        }
+        if (sector === "12050") {
+            return "&nbsp;&nbsp;Social assistance";
+        }
+        if (sector === "13000") {
+            return "Arts";
+        }
+        if (sector === "13010") {
+            return "&nbsp;&nbsp;Arts, entertainment, and recreation";
+        }
+        if (sector === "13015") {
+            return "Accommodation and food";
+        }
+        if (sector === "13020") {
+            return "&nbsp;&nbsp;Accommodation";
+        }
+        if (sector === "13030") {
+            return "&nbsp;&nbsp;Food services and drinking places";
+        }
+        if (sector === "14000") {
+            return "Other services, except public administration";
+        }
+        if (sector === "14010") {
+            return "&nbsp;&nbsp;Automotive and other repair and mainte";
+        }
+        if (sector === "14020") {
+            return "&nbsp;&nbsp;Personal and laundry services";
+        }
+        if (sector === "14030") {
+            return "&nbsp;&nbsp;Membership associations and organizati";
+        }
+        if (sector === "14040") {
+            return "&nbsp;&nbsp;Private households";
+        }
+        if (sector === "15000") {
+            return "Government";
+        }
+        if (sector === "15010") {
+            return "&nbsp;&nbsp;Federal government, civilian";
+        }
+        if (sector === "15014") {
+            return "&nbsp;&nbsp;Military";
+        }
+        if (sector === "15020") {
+            return "&nbsp;&nbsp;State government";
+        }
+        if (sector === "15030") {
+            return "&nbsp;&nbsp;Local government";
+        }
+
+
+        return undefined; /*fallback (replaces otherwise undefined)*/
     }
-  
-  
-</script>  
+
+
+    function createtable(results) {
+
+        var table = document.getElementById("resultstable");
+        table.innerHTML = ""; /*clear all previous content*/
+
+        var header = table.createTHead();
+        var hrow = header.insertRow(0);
+        var hcell1 = hrow.insertCell(0);
+        var hcell2 = hrow.insertCell(1);
+        var hcell3 = hrow.insertCell(2);
+        var hcell4 = hrow.insertCell(3);
+        var hcell5 = hrow.insertCell(4);
+
+        hcell1.innerHTML = "Year";
+        hcell2.innerHTML = "Area";
+        hcell3.innerHTML = "NAICS Code";
+        hcell4.innerHTML = "Sector";
+        hcell5.innerHTML = "Jobs";
+
+        hcell5.style.textAlign = 'right';
+
+        var body = table.appendChild(document.createElement('tbody'));
+
+
+        for (var i = 0; i < results.length; i++) {
+            var total_jobs = results[i].total_jobs;
+            if (Number(results[i].total_jobs) > 0) {
+                total_jobs = Math.round(Number(total_jobs));
+            } else if (results[i].total_jobs === "0") {
+                total_jobs = '0';
+            } else {
+                total_jobs = 'suppressed';
+            }
+
+            addrow(i, results[i].population_year, clookup(results[i].area_code), results[i].sector_id, slookup(results[i].sector_id), total_jobs);
+        }
+
+    }
+
+
+    function addrow(rownum, year, county, naics, sector, ttl) {
+
+        var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+
+        /* Create an empty <tr> element and add it to the 1st position of the table:*/
+        var row = tableRef.insertRow(rownum);
+
+        /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        var cell3 = row.insertCell(2);
+        var cell4 = row.insertCell(3);
+        var cell5 = row.insertCell(4);
+
+        /* Add some text to the new cells:*/
+        cell1.innerHTML = year;
+        cell2.innerHTML = county;
+        cell3.innerHTML = naics;
+        cell4.innerHTML = sector;
+        cell5.innerHTML = ttl.toLocaleString();
+
+        cell5.style.textAlign = 'right';
+
+    }
+
+
+    document.getElementById("dlcsv").style.display = 'inline-block';
+
+    document.getElementById('dlcsv').addEventListener('click', function() {
+        dlcsv("resultstable", "jobsBySector_data.csv");
+    }, false);
+</script>

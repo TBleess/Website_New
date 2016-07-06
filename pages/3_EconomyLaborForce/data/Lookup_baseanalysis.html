@@ -4,6 +4,7 @@ title: "Industry Base Analysis"
 permalink: "/economy-labor-force/data/base-analysis/"
 custom_js:
 - /assets/js/FileSaver.min.js
+- /assets/js/common/dola_custom_functions.js
 file: 
 - "https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/base-analysis-county.csv"
 - "https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/base-analysis-region.csv"
@@ -94,64 +95,25 @@ tag: "econdata"
 
 <script>
   
-  var viewresults=document.getElementById('callapi');
-  
-    viewresults.onclick=function(){
-      
-    var selectedCounties = getSelectValues(countiesSelected);
-  
-      
+  document.getElementById('callapi').addEventListener('click', function(){
+    
+        var selectedCounties = getSelectValues(countiesSelected);
           /*counties*/
     if(selectedCounties.length===0){
       alert('please choose a county selection');
       return;
     }
-      
-   document.getElementById("dlcsv").style.display='inline-block';
-      
-    /* Return an array of the selected option values*/
-    function getSelectValues(select) {
-  var result = [];
-  var options = select && select.options;
-  var opt;
 
-  for (var i=0, iLen=options.length; i<iLen; i++) {
-    opt = options[i];
-
-    if (opt.selected) {
-      result.push(opt.value || opt.text);
-    }
-  }
-  return result;
-}
-
-      
-      
       var querystring = "county=" + selectedCounties.join(",");
       
-      /*console.log(querystring);*/
+        fetchJSONFile("https://gis.dola.colorado.gov/lookups/base-analysis?"+querystring, function(text) {
+            createtable(text);
+        });      
       
-   requestdata(querystring);
+  }, false);
+  
       
-      
-    /*ajax request function*/
-    function requestdata(querystring){
-      
-      var xhttp = new XMLHttpRequest();
-      
-      xhttp.onreadystatechange = function() {
-        if (xhttp.readyState == 4 && xhttp.status == 200) {
-            createtable(JSON.parse(xhttp.responseText));
-          } 
-        };
-      
-      xhttp.open("GET", "https://gis.dola.colorado.gov/lookups/base-analysis?"+querystring, true);
-      xhttp.send();
-    }
-    
-         
-      
-      function createtable(results){
+   function createtable(results){
 
           var table = document.getElementById("resultstable");
           table.innerHTML = ""; /*clear all previous content*/
@@ -219,8 +181,11 @@ tag: "econdata"
           addrow(20,results[0].cname || results[0].region, "Total All Industries", (Math.round(parseFloat(results[0].employment))).toLocaleString(),  "" );       
 
           addrow(21,results[0].cname || results[0].region, "Ratio: Total / Direct Basic", (((Math.round((parseFloat(results[0].employment)/parseFloat(results[0].direct_basic_emp))*100))/100)).toLocaleString(),  "" );           
-        
-        function addrow(rownum, cname, desc, stat, pct){
+
+      }
+
+  
+   function addrow(rownum, cname, desc, stat, pct){
           
           var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
           
@@ -244,39 +209,13 @@ tag: "econdata"
           cell4.style.textAlign = 'right';
               
         }
-
-      }
-
-    
-  };
+        
   
+   document.getElementById("dlcsv").style.display='inline-block';
   
-    var dlcsv=document.getElementById('dlcsv');
-
-    dlcsv.onclick=function(){
-      
-      var csvstring="";
-      
-      var oTable = document.getElementById('resultstable');
-var rowLength = oTable.rows.length;
-for (i = 0; i < rowLength; i++){
-   var oCells = oTable.rows.item(i).cells;
-   var cellLength = oCells.length;
-   for(var j = 0; j < cellLength; j++){
-      /* get your cell info here */
-      if(j===0 && i>0){csvstring=csvstring+"\n";}
-      var addCell="\"" + oCells.item(j).innerHTML + "\"";
-      /*addCell = addCell.replace(/,/g , "\",\"");*/
-      csvstring = csvstring + addCell;
-     if(j< cellLength ){csvstring=csvstring+",";}
-     }
-}
-      
-      
-var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "baseAnalysis_data.csv");
-      
-    }
+   document.getElementById('dlcsv').addEventListener('click', function() {
+        dlcsv("resultstable", "baseAnalysis_data.csv");
+   }, false);
   
   
 </script>  
