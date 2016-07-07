@@ -4,6 +4,7 @@ title: "Industry Base Analysis - Regions"
 permalink: "/economy-labor-force/data/base-analysis-regions/"
 custom_js:
 - /assets/js/FileSaver.min.js
+- /assets/js/common/dola_custom_functions.js
 description: "Search for information on base industries by region."
 years: "2014"
 tag: ""
@@ -18,7 +19,7 @@ tag: ""
 
 <h2>Base Industries Analysis - Regions</h2>
 
-<a href="/economy-labor-force/data/base-analysis/" >Need County Data?</a><br /><br />
+<a href="/economy-labor-force/data/base-analysis/">Need County Data?</a><br /><br />
 <a href="/gis/colorado-regions/" target="_blank">Regions WebMap <img src="/images/map.png" /></a><br /><br />
 <label for="countiesSelected" style="font-weight: bold;">Select a Region:</label><br />
 <select id="countiesSelected" name="countiesSelected">	
@@ -41,198 +42,130 @@ tag: ""
 	<option value="reg19">Western Slope</option>
 </select><br /><br />
 
-  <input type="submit" id="callapi" value="View Results" class="form-submit" />
+<input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br /><br />
 <table id="resultstable"></table>
 
-
-
 <script>
   
-  var viewresults=document.getElementById('callapi');
-  
-    viewresults.onclick=function(){
-      
-    var selectedCounties = getSelectValues(countiesSelected);
-  
-      
-          /*counties*/
-    if(selectedCounties.length===0){
-      alert('please choose a county selection');
-      return;
-    }
-      
-   document.getElementById("dlcsv").style.display='inline-block';
-      
-    /* Return an array of the selected option values*/
-    function getSelectValues(select) {
-  var result = [];
-  var options = select && select.options;
-  var opt;
+    document.getElementById('callapi').addEventListener('click', function() {
 
-  for (var i=0, iLen=options.length; i<iLen; i++) {
-    opt = options[i];
+        var selectedCounties = getSelectValues(countiesSelected);
 
-    if (opt.selected) {
-      result.push(opt.value || opt.text);
-    }
-  }
-  return result;
-}
-
-      
-      
-      var querystring = "county=" + selectedCounties.join(",");
-      
-      /*console.log(querystring);*/
-      
-   requestdata(querystring);
-      
-      
-    /*ajax request function*/
-    function requestdata(querystring){
-      
-      var xhttp = new XMLHttpRequest();
-      
-      xhttp.onreadystatechange = function() {
-        if (xhttp.readyState == 4 && xhttp.status == 200) {
-            createtable(JSON.parse(xhttp.responseText));
-          } 
-        };
-      
-      xhttp.open("GET", "https://gis.dola.colorado.gov/lookups/base-analysis?"+querystring, true);
-      xhttp.send();
-    }
-    
-         
-      
-      function createtable(results){
-
-          var table = document.getElementById("resultstable");
-          table.innerHTML = ""; /*clear all previous content*/
-        
-          var header = table.createTHead();
-          var hrow = header.insertRow(0);     
-          var hcell1 = hrow.insertCell(0);
-          var hcell2 = hrow.insertCell(1);
-          var hcell3 = hrow.insertCell(2);
-          var hcell4 = hrow.insertCell(3);
-
-        
-          hcell1.innerHTML = "Area";
-          hcell2.innerHTML = "Industry Group";
-          hcell3.innerHTML = "Employment";
-          hcell4.innerHTML = "Employment % of Basic";
-        
-          hcell3.style.textAlign = 'right';
-          hcell4.style.textAlign = 'right';
-          
-          var body = table.appendChild(document.createElement('tbody'));
-        
-        
-
-          addrow(0,results[0].cname || results[0].region, "Traditional - All Totals", (Math.round(parseFloat(results[0].agri_emp) + parseFloat(results[0].mining_emp) + parseFloat(results[0].manuf_emp) +parseFloat(results[0].govt_emp))).toLocaleString(),  (Math.round(((parseFloat(results[0].agri_emp) + parseFloat(results[0].mining_emp) + parseFloat(results[0].manuf_emp) +parseFloat(results[0].govt_emp))/  (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );
-
-          addrow(1,results[0].cname || results[0].region, "Traditional - Agribusiness", (Math.round(parseFloat(results[0].agri_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].agri_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );  
-
-          addrow(2,results[0].cname || results[0].region, "Traditional - Mining", (Math.round(parseFloat(results[0].mining_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].mining_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );         
-
-          addrow(3,results[0].cname || results[0].region, "Traditional - Manufacturing", (Math.round(parseFloat(results[0].manuf_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].manuf_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );                 
-
-          addrow(4,results[0].cname || results[0].region, "Traditional - Government", (Math.round(parseFloat(results[0].govt_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].govt_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );                 
-
-          addrow(5,results[0].cname || results[0].region, "Regional Center / National Services - All Totals", (Math.round(parseFloat(results[0].regl_serv_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].regl_serv_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );        
-
-          addrow(6,results[0].cname || results[0].region, "Regional Center / National Services - Construction", (Math.round(parseFloat(results[0].natl_const_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_const_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );                
-
-          addrow(7,results[0].cname || results[0].region, "Regional Center / National Services - Communications", (Math.round(parseFloat(results[0].natl_comm_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_comm_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );               
-
-          addrow(8,results[0].cname || results[0].region, "Regional Center / National Services - Trade and Transportation", (Math.round(parseFloat(results[0].natl_trade_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_trade_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );              
-
-          addrow(9,results[0].cname || results[0].region, "Regional Center / National Services - Professional and Business Services", (Math.round(parseFloat(results[0].natl_bus_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_bus_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );    
-
-          addrow(10,results[0].cname || results[0].region, "Regional Center / National Services - Finance, Insurance and Real Estate", (Math.round(parseFloat(results[0].natl_fire_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_fire_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );           
-
-          addrow(11,results[0].cname || results[0].region, "Regional Center / National Services - Education and Health Services", (Math.round(parseFloat(results[0].natl_ed_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].natl_ed_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );           
-
-          addrow(12,results[0].cname || results[0].region, "Tourism", (Math.round(parseFloat(results[0].tourism_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].tourism_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );                    
-
-          addrow(13,results[0].cname || results[0].region, "Households - Commuters", (Math.round(parseFloat(results[0].commuter_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].commuter_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );               
-
-          addrow(14,results[0].cname || results[0].region, "Households - Retirees", (Math.round(parseFloat(results[0].retiree_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].retiree_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );        
-
-          addrow(15,results[0].cname || results[0].region, "Households - with Public Assistance Income (excluding retirees)", (Math.round(parseFloat(results[0].other_hhd_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].other_hhd_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );             
-
-          addrow(16,results[0].cname || results[0].region, "Households - with Dividends, Interest, and Rental Income (excluding retirees)", (Math.round(parseFloat(results[0].other_inc_emp))).toLocaleString(),  (Math.round((parseFloat(results[0].other_inc_emp) / (parseFloat(results[0].total_basic_emp)))*10000)/100).toLocaleString() );             
-
-          addrow(17,results[0].cname || results[0].region, "Total Direct Basic", (Math.round(parseFloat(results[0].direct_basic_emp))).toLocaleString(),  "" );                     
-
-          addrow(18,results[0].cname || results[0].region, "Worker Local Res. Services (Non Basic)", (Math.round(parseFloat(results[0].wrkr_lrs_emp))).toLocaleString(),  "" );            
-
-          addrow(19,results[0].cname || results[0].region, "Indirect Basic", (Math.round(parseFloat(results[0].ib_emp))).toLocaleString(),  "" );            
-
-          addrow(20,results[0].cname || results[0].region, "Total All Industries", (Math.round(parseFloat(results[0].employment))).toLocaleString(),  "" );       
-
-          addrow(21,results[0].cname || results[0].region, "Ratio: Total / Direct Basic", (((Math.round((parseFloat(results[0].employment)/parseFloat(results[0].direct_basic_emp))*100))/100)).toLocaleString(),  "" );           
-        
-        function addrow(rownum, cname, desc, stat, pct){
-          
-          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
-          
-          /* Create an empty <tr> element and add it to the 1st position of the table:*/
-          var row = tableRef.insertRow(rownum);
-
-          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
-          var cell1 = row.insertCell(0);
-          var cell2 = row.insertCell(1);
-          var cell3 = row.insertCell(2);
-          var cell4 = row.insertCell(3);
-
-          
-          /* Add some text to the new cells:*/
-          cell1.innerHTML = cname;
-          cell2.innerHTML = desc;
-          cell3.innerHTML = stat;
-          cell4.innerHTML = pct;
-                  
-          cell3.style.textAlign = 'right';
-          cell4.style.textAlign = 'right';
-              
+        if (selectedCounties.length === 0) {
+            alert('please choose a county selection');
+            return;
         }
 
-      }
+        var querystring = "county=" + selectedCounties.join(",");
 
-    
-  };
-  
-  
-    var dlcsv=document.getElementById('dlcsv');
+        fetchJSONFile("https://gis.dola.colorado.gov/lookups/base-analysis?" + querystring, function(text) {
+            createtable(text);
+        });
 
-    dlcsv.onclick=function(){
-      
-      var csvstring="";
-      
-      var oTable = document.getElementById('resultstable');
-var rowLength = oTable.rows.length;
-for (i = 0; i < rowLength; i++){
-   var oCells = oTable.rows.item(i).cells;
-   var cellLength = oCells.length;
-   for(var j = 0; j < cellLength; j++){
-      /* get your cell info here */
-      if(j===0 && i>0){csvstring=csvstring+"\n";}
-      var addCell="\"" + oCells.item(j).innerHTML + "\"";
-      /*addCell = addCell.replace(/,/g , "\",\"");*/
-      csvstring = csvstring + addCell;
-     if(j< cellLength ){csvstring=csvstring+",";}
-     }
-}
-      
-      
-var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "baseAnalysis_data.csv");
-      
+    }, false);
+
+
+    function createtable(results) {
+
+        var table = document.getElementById("resultstable");
+        table.innerHTML = ""; /*clear all previous content*/
+
+        var header = table.createTHead();
+        var hrow = header.insertRow(0);
+        var hcell1 = hrow.insertCell(0);
+        var hcell2 = hrow.insertCell(1);
+        var hcell3 = hrow.insertCell(2);
+        var hcell4 = hrow.insertCell(3);
+
+        hcell1.innerHTML = "Area";
+        hcell2.innerHTML = "Industry Group";
+        hcell3.innerHTML = "Employment";
+        hcell4.innerHTML = "Employment % of Basic";
+
+        hcell3.style.textAlign = 'right';
+        hcell4.style.textAlign = 'right';
+
+        var body = table.appendChild(document.createElement('tbody'));
+
+        addrow(0, results[0].cname || results[0].region, "Traditional - All Totals", (Math.round(parseFloat(results[0].agri_emp) + parseFloat(results[0].mining_emp) + parseFloat(results[0].manuf_emp) + parseFloat(results[0].govt_emp))).toLocaleString(), (Math.round(((parseFloat(results[0].agri_emp) + parseFloat(results[0].mining_emp) + parseFloat(results[0].manuf_emp) + parseFloat(results[0].govt_emp)) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(1, results[0].cname || results[0].region, "Traditional - Agribusiness", (Math.round(parseFloat(results[0].agri_emp))).toLocaleString(), (Math.round((parseFloat(results[0].agri_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(2, results[0].cname || results[0].region, "Traditional - Mining", (Math.round(parseFloat(results[0].mining_emp))).toLocaleString(), (Math.round((parseFloat(results[0].mining_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(3, results[0].cname || results[0].region, "Traditional - Manufacturing", (Math.round(parseFloat(results[0].manuf_emp))).toLocaleString(), (Math.round((parseFloat(results[0].manuf_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(4, results[0].cname || results[0].region, "Traditional - Government", (Math.round(parseFloat(results[0].govt_emp))).toLocaleString(), (Math.round((parseFloat(results[0].govt_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(5, results[0].cname || results[0].region, "Regional Center / National Services - All Totals", (Math.round(parseFloat(results[0].regl_serv_emp))).toLocaleString(), (Math.round((parseFloat(results[0].regl_serv_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(6, results[0].cname || results[0].region, "Regional Center / National Services - Construction", (Math.round(parseFloat(results[0].natl_const_emp))).toLocaleString(), (Math.round((parseFloat(results[0].natl_const_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(7, results[0].cname || results[0].region, "Regional Center / National Services - Communications", (Math.round(parseFloat(results[0].natl_comm_emp))).toLocaleString(), (Math.round((parseFloat(results[0].natl_comm_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(8, results[0].cname || results[0].region, "Regional Center / National Services - Trade and Transportation", (Math.round(parseFloat(results[0].natl_trade_emp))).toLocaleString(), (Math.round((parseFloat(results[0].natl_trade_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(9, results[0].cname || results[0].region, "Regional Center / National Services - Professional and Business Services", (Math.round(parseFloat(results[0].natl_bus_emp))).toLocaleString(), (Math.round((parseFloat(results[0].natl_bus_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(10, results[0].cname || results[0].region, "Regional Center / National Services - Finance, Insurance and Real Estate", (Math.round(parseFloat(results[0].natl_fire_emp))).toLocaleString(), (Math.round((parseFloat(results[0].natl_fire_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(11, results[0].cname || results[0].region, "Regional Center / National Services - Education and Health Services", (Math.round(parseFloat(results[0].natl_ed_emp))).toLocaleString(), (Math.round((parseFloat(results[0].natl_ed_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(12, results[0].cname || results[0].region, "Tourism", (Math.round(parseFloat(results[0].tourism_emp))).toLocaleString(), (Math.round((parseFloat(results[0].tourism_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(13, results[0].cname || results[0].region, "Households - Commuters", (Math.round(parseFloat(results[0].commuter_emp))).toLocaleString(), (Math.round((parseFloat(results[0].commuter_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(14, results[0].cname || results[0].region, "Households - Retirees", (Math.round(parseFloat(results[0].retiree_emp))).toLocaleString(), (Math.round((parseFloat(results[0].retiree_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(15, results[0].cname || results[0].region, "Households - with Public Assistance Income (excluding retirees)", (Math.round(parseFloat(results[0].other_hhd_emp))).toLocaleString(), (Math.round((parseFloat(results[0].other_hhd_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(16, results[0].cname || results[0].region, "Households - with Dividends, Interest, and Rental Income (excluding retirees)", (Math.round(parseFloat(results[0].other_inc_emp))).toLocaleString(), (Math.round((parseFloat(results[0].other_inc_emp) / (parseFloat(results[0].total_basic_emp))) * 10000) / 100).toLocaleString());
+
+        addrow(17, results[0].cname || results[0].region, "Total Direct Basic", (Math.round(parseFloat(results[0].direct_basic_emp))).toLocaleString(), "");
+
+        addrow(18, results[0].cname || results[0].region, "Worker Local Res. Services (Non Basic)", (Math.round(parseFloat(results[0].wrkr_lrs_emp))).toLocaleString(), "");
+
+        addrow(19, results[0].cname || results[0].region, "Indirect Basic", (Math.round(parseFloat(results[0].ib_emp))).toLocaleString(), "");
+
+        addrow(20, results[0].cname || results[0].region, "Total All Industries", (Math.round(parseFloat(results[0].employment))).toLocaleString(), "");
+
+        addrow(21, results[0].cname || results[0].region, "Ratio: Total / Direct Basic", (((Math.round((parseFloat(results[0].employment) / parseFloat(results[0].direct_basic_emp)) * 100)) / 100)).toLocaleString(), "");
+
     }
+
+
+    function addrow(rownum, cname, desc, stat, pct) {
+
+        var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+
+        /* Create an empty <tr> element and add it to the 1st position of the table:*/
+        var row = tableRef.insertRow(rownum);
+
+        /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        var cell3 = row.insertCell(2);
+        var cell4 = row.insertCell(3);
+
+
+        /* Add some text to the new cells:*/
+        cell1.innerHTML = cname;
+        cell2.innerHTML = desc;
+        cell3.innerHTML = stat;
+        cell4.innerHTML = pct;
+
+        cell3.style.textAlign = 'right';
+        cell4.style.textAlign = 'right';
+
+    }
+
+
+    document.getElementById("dlcsv").style.display = 'inline-block';
+
+    document.getElementById('dlcsv').addEventListener('click', function() {
+        dlcsv("resultstable", "region_baseAnalysis_data.csv");
+    }, false);
   
-  
-</script>  
+</script>

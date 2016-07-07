@@ -4,6 +4,7 @@ title: "Jobs by Sector - Regions"
 permalink: "/economy-labor-force/data/jobs-by-sector-regions/"
 custom_js:
 - /assets/js/FileSaver.min.js
+- /assets/js/common/dola_custom_functions.js
 description: "Search for information on total jobs by job sector (NAICS)."
 years: "2001-2014"
 tag: ""
@@ -18,57 +19,21 @@ tag: ""
 
 <h2 id="jobs-by-sector-naics">Jobs by Sector (NAICS) - Regions</h2>
 
-<a href="/economy-labor-force/data/jobs-by-sector/" >Need County Data?</a><br /><br />
+<a href="/economy-labor-force/data/jobs-by-sector/">Need County Data?</a><br /><br />
 <a href="/gis/colorado-regions/" target="_blank">Regions WebMap <img src="/images/map.png" /></a><br /><br />
 <label for="countiesSelected" style="font-weight: bold;">Select a Region:</label><br />
 <select id="countiesSelected" class="formtable" name="countiesSelected" size="5">	
-	<option value="20" selected>Denver PMSA</option>
-	<option value="21">Denver-Boulder Metro Area</option>
-	<option value="22">Denver-Boulder-Greeley CMSA</option>
-	<option value="23">10 County Denver Metro</option>
-	<option value="15">Central Mountains</option>
-	<option value="16">Eastern Plains</option>
-	<option value="17">Front Range</option>
-	<option value="18">San Luis Valley</option>
-	<option value="19">Western Slope</option>
-	<option value="1">Planning Region 1</option>
-	<option value="2">Planning Region 2</option>
-	<option value="3">Planning Region 3</option>
-	<option value="4">Planning Region 4</option>
-	<option value="5">Planning Region 5</option>
-	<option value="6">Planning Region 6</option>
-	<option value="7">Planning Region 7</option>
-	<option value="8">Planning Region 8</option>
-	<option value="9">Planning Region 9</option>
-	<option value="10">Planning Region 10</option>
-	<option value="11">Planning Region 11</option>
-	<option value="12">Planning Region 12</option>
-	<option value="13">Planning Region 13</option>
-	<option value="14">Planning Region 14</option>
-	<option value="0">Colorado</option>  
+{% include _optionValuesRegion.html %}
 </select>
 
 <br /><br />
 <label for="yearsSelected" style="font-weight: bold;">Select a year:</label><br />
 <select id="yearsSelected" class="formtable" name="yearsSelected" size="5">
-	<option value="2001">2001</option>
-	<option value="2002">2002</option>
-	<option value="2003">2003</option>
-	<option value="2004">2004</option>
-  <option value="2005">2005</option>
-	<option value="2006">2006</option>
-	<option value="2007">2007</option>
-	<option value="2008">2008</option>
-	<option value="2009">2009</option>
-  <option value="2010">2010</option>
-	<option value="2011">2011</option>
-	<option value="2012">2012</option>
-	<option value="2013">2013</option>
-	<option value="2014">2014</option>
+<!-- populated from database -->
 </select>
 
 <br /><br />
-  <input type="submit" id="callapi" value="View Results" class="form-submit" />
+<input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br /><br />
 <table id="resultstable"></table>
@@ -77,289 +42,383 @@ tag: ""
 
 <script>
   
-  var viewresults=document.getElementById('callapi');
-  
-    viewresults.onclick=function(){
-      
-    var selectedCounties = getSelectValues(countiesSelected);
-    var selectedYears = getSelectValues(yearsSelected);  
-      
-          /*counties*/
-    if(selectedCounties.length===0){
-      alert('please choose a region selection');
-      return;
-    }
-          /*years*/
-    if(selectedYears.length===0){
-      alert('please choose a year selection');
-      return;
-    }      
-      
-   document.getElementById("dlcsv").style.display='inline-block';
-      
-    /* Return an array of the selected option values*/
-    function getSelectValues(select) {
-  var result = [];
-  var options = select && select.options;
-  var opt;
-
-  for (var i=0, iLen=options.length; i<iLen; i++) {
-    opt = options[i];
-
-    if (opt.selected) {
-      result.push(opt.value || opt.text);
-    }
-  }
-  return result;
-}
-
-      
-        function clookup(reg_num){
-        if(reg_num===0){return "Colorado";}
-        if(reg_num===1){return "Planning Region 1";}
-        if(reg_num===2){return "Planning Region 2";}
-        if(reg_num===3){return "Planning Region 3";}
-        if(reg_num===4){return "Planning Region 4";}
-        if(reg_num===5){return "Planning Region 5";}
-        if(reg_num===6){return "Planning Region 6";}
-        if(reg_num===7){return "Planning Region 7";}
-        if(reg_num===8){return "Planning Region 8";}
-        if(reg_num===9){return "Planning Region 9";}
-        if(reg_num===10){return "Planning Region 10";}
-        if(reg_num===11){return "Planning Region 11";}
-        if(reg_num===12){return "Planning Region 12";}
-        if(reg_num===13){return "Planning Region 13";}
-        if(reg_num===14){return "Planning Region 14";}
-        if(reg_num===15){return "Central Mountains";}
-        if(reg_num===16){return "Eastern Plains";}
-        if(reg_num===17){return "Front Range";}
-        if(reg_num===18){return "San Luis Valley";}
-        if(reg_num===19){return "Western Slope";}
-        if(reg_num===20){return "Denver PMSA";}
-        if(reg_num===21){return "Denver-Boulder Metro Area";}
-        if(reg_num===22){return "Denver-Boulder-Greeley CMSA";}
-        if(reg_num===23){return "10 County Denver Metro";}
-            
-        return undefined; /*fallback (replaces otherwise undefined)*/
-      }
-            
-       
-      function slookup(sector){
-        if(sector==="00000"){return "Total Jobs";}
-        if(sector==="01000"){return "Agriculture";}
-        if(sector==="01010"){return "&nbsp;&nbsp;Crops and livestock production";}
-        if(sector==="01020"){return "&nbsp;&nbsp;Farm services";}
-        if(sector==="02000"){return "Mining";}
-        if(sector==="02010"){return "&nbsp;&nbsp;Oil and gas extraction";}
-        if(sector==="02020"){return "&nbsp;&nbsp;Mining (except oil and gas)";}
-        if(sector==="02030"){return "&nbsp;&nbsp;Support Activities for mining";}
-        if(sector==="03000"){return "Utilities";}
-        if(sector==="03030"){return "&nbsp;&nbsp;Utilities";}
-        if(sector==="04000"){return "Construction";}
-        if(sector==="04010"){return "&nbsp;&nbsp;Construction of buildings";}
-        if(sector==="04020"){return "&nbsp;&nbsp;Heavy and cilvil engineering construct";}
-        if(sector==="04030"){return "&nbsp;&nbsp;Special trade contractors";}
-        if(sector==="05000"){return "Manufacturing";}
-        if(sector==="05010"){return "&nbsp;&nbsp;Wood product and furniture manufacturi";}
-        if(sector==="05020"){return "&nbsp;&nbsp;Nonmetallic mineral product manufactur";}
-        if(sector==="05030"){return "&nbsp;&nbsp;Primary and fabricated metal manufactu";}
-        if(sector==="05040"){return "&nbsp;&nbsp;Machinery manufacturing";}
-        if(sector==="05050"){return "&nbsp;&nbsp;Computer and electrical equipment manu";}
-        if(sector==="05060"){return "&nbsp;&nbsp;Motor vehicle and transportation manuf";}
-        if(sector==="05070"){return "&nbsp;&nbsp;Miscellaneous manufacturing";}
-        if(sector==="05080"){return "&nbsp;&nbsp;Food and beverage product manufacturin";}
-        if(sector==="05090"){return "&nbsp;&nbsp;Textile mills and product, apparel, an";}
-        if(sector==="05100"){return "&nbsp;&nbsp;Paper and printing manufacturing";}
-        if(sector==="05110"){return "&nbsp;&nbsp;Chemical manufacturing";}
-        if(sector==="05120"){return "&nbsp;&nbsp;Plastics and rubber products manufactu";}
-        if(sector==="06000"){return "Wholesale trade";}
-        if(sector==="06010"){return "&nbsp;&nbsp;Wholesale";}
-        if(sector==="07000"){return "Retail Trade";}
-        if(sector==="07010"){return "&nbsp;&nbsp;Motor vehicle and parts dealers";}
-        if(sector==="07020"){return "&nbsp;&nbsp;Furniture, electronics, appliances, an";}
-        if(sector==="07030"){return "&nbsp;&nbsp;Food and beverage stores";}
-        if(sector==="07040"){return "&nbsp;&nbsp;Health and personal care stores";}
-        if(sector==="07050"){return "&nbsp;&nbsp;Gasoline stations";}
-        if(sector==="07060"){return "&nbsp;&nbsp;Clothing and clothing accessories stor";}
-        if(sector==="07070"){return "&nbsp;&nbsp;Sporting goods, hobby, book and music";}
-        if(sector==="07080"){return "&nbsp;&nbsp;General merchandise stores";}
-        if(sector==="07090"){return "&nbsp;&nbsp;Miscellaneous store retailers";}
-        if(sector==="07100"){return "&nbsp;&nbsp;Nonstore retailers";}
-        if(sector==="08000"){return "Transportation and warehousing";}
-        if(sector==="08010"){return "&nbsp;&nbsp;Air transportation";}
-        if(sector==="08020"){return "&nbsp;&nbsp;Rail transportation";}
-        if(sector==="08030"){return "&nbsp;&nbsp;Truck transportation";}
-        if(sector==="08040"){return "&nbsp;&nbsp;Support for transportation";}
-        if(sector==="08050"){return "&nbsp;&nbsp;Transit and ground passenger transport";}
-        if(sector==="08060"){return "&nbsp;&nbsp;Pipeline transportation";}
-        if(sector==="08070"){return "&nbsp;&nbsp;Scenic, sightseeing, and water transpo";}
-        if(sector==="08080"){return "&nbsp;&nbsp;Couriers and messengers and postal ser";}
-        if(sector==="08090"){return "&nbsp;&nbsp;Warehousing and storage";}
-        if(sector==="09000"){return "Information";}
-        if(sector==="09010"){return "&nbsp;&nbsp;Publishing industries";}
-        if(sector==="09030"){return "&nbsp;&nbsp;Motion picture and broadcasting, excep";}
-        if(sector==="09040"){return "&nbsp;&nbsp;Telecommunications";}
-        if(sector==="09050"){return "&nbsp;&nbsp;ISPs, search portals, and data process";}        
-        if(sector==="10000"){return "Finance activities";}
-        if(sector==="10010"){return "&nbsp;&nbsp;Monetary authorities and credit interm";}
-        if(sector==="10020"){return "&nbsp;&nbsp;Securities, commodity contracts and in";}
-        if(sector==="10100"){return "&nbsp;&nbsp;Insurance carriers, funds, trusts, and";}
-        if(sector==="10150"){return "Real estate";}
-        if(sector==="10200"){return "&nbsp;&nbsp;Real estate";}
-        if(sector==="11000"){return "Professional and business services";}
-        if(sector==="11020"){return "&nbsp;&nbsp;Professional and technical services";}
-        if(sector==="11025"){return "Management of companies and enterprise";}
-        if(sector==="11030"){return "&nbsp;&nbsp;Management of companies and enterprise";}
-        if(sector==="11050"){return "Admin and waste";}
-        if(sector==="11090"){return "&nbsp;&nbsp;Administrative and support services";}
-        if(sector==="11100"){return "&nbsp;&nbsp;Waste management and remediation servi";}
-        if(sector==="12000"){return "Education";}
-        if(sector==="12010"){return "&nbsp;&nbsp;Private Educational services";}
-        if(sector==="12015"){return "Health Services";}
-        if(sector==="12020"){return "&nbsp;&nbsp;Ambulatory health care services";}
-        if(sector==="12030"){return "&nbsp;&nbsp;Hospitals";}
-        if(sector==="12040"){return "&nbsp;&nbsp;Nursing and residential care facilitie";}
-        if(sector==="12050"){return "&nbsp;&nbsp;Social assistance";}
-        if(sector==="13000"){return "Arts";}
-        if(sector==="13010"){return "&nbsp;&nbsp;Arts, entertainment, and recreation";}
-        if(sector==="13015"){return "Accommodation and food";}
-        if(sector==="13020"){return "&nbsp;&nbsp;Accommodation";}
-        if(sector==="13030"){return "&nbsp;&nbsp;Food services and drinking places";}
-        if(sector==="14000"){return "Other services, except public administration";}
-        if(sector==="14010"){return "&nbsp;&nbsp;Automotive and other repair and mainte";}
-        if(sector==="14020"){return "&nbsp;&nbsp;Personal and laundry services";}
-        if(sector==="14030"){return "&nbsp;&nbsp;Membership associations and organizati";}
-        if(sector==="14040"){return "&nbsp;&nbsp;Private households";}
-        if(sector==="15000"){return "Government";}
-        if(sector==="15010"){return "&nbsp;&nbsp;Federal government, civilian";}
-        if(sector==="15014"){return "&nbsp;&nbsp;Military";}
-        if(sector==="15020"){return "&nbsp;&nbsp;State government";}
-        if(sector==="15030"){return "&nbsp;&nbsp;Local government";}
-
-        
-        return undefined; /*fallback (replaces otherwise undefined)*/
-      }
-      
-      var querystring = "reg_num=" + selectedCounties.join(",") + "&year=" + selectedYears.join(",");
-      
-      console.log(querystring);
-      
-   requestdata(querystring);
-      
-      
-    /*ajax request function*/
-    function requestdata(querystring){
-      
-      var xhttp = new XMLHttpRequest();
-      
-      xhttp.onreadystatechange = function() {
-        if (xhttp.readyState == 4 && xhttp.status == 200) {
-            createtable(JSON.parse(xhttp.responseText));
-          } 
-        };
-      
-      xhttp.open("GET", "https://gis.dola.colorado.gov/lookups/jobs_region?"+querystring, true);
-      xhttp.send();
-    }
-    
-         
-      
-      function createtable(results){
-
-          var table = document.getElementById("resultstable");
-          table.innerHTML = ""; /*clear all previous content*/
-        
-          var header = table.createTHead();
-          var hrow = header.insertRow(0);     
-          var hcell1 = hrow.insertCell(0);
-          var hcell2 = hrow.insertCell(1);
-          var hcell3 = hrow.insertCell(2);
-          var hcell4 = hrow.insertCell(3);
-          var hcell5 = hrow.insertCell(4);
-        
-          hcell1.innerHTML = "Year";
-          hcell2.innerHTML = "Area";
-          hcell3.innerHTML = "NAICS Code";
-          hcell4.innerHTML = "Sector";
-          hcell5.innerHTML = "Jobs";
-        
-          hcell5.style.textAlign = 'right';
-          
-          var body = table.appendChild(document.createElement('tbody'));
-        
-        
-          for(var i=0;i<results.length;i++){
-            var total_jobs=results[i].total_jobs;
-            if (Number(results[i].total_jobs)>0){
-              total_jobs=Math.round(Number(total_jobs)); 
-            }else if( results[i].total_jobs === "0"){
-              total_jobs='0';
-            }else{
-              total_jobs='suppressed';
-            }
-            
-            addrow(i,results[i].population_year, clookup(results[i].area_code), results[i].sector_id, slookup(results[i].sector_id), total_jobs );
-          }
+    fetchJSONFile('https://gis.dola.colorado.gov/lookups/jobsYRS', function(yrs) {
+        var queriedYears = "";
+        for (let i = 0; i < yrs.length; i++) {
+            queriedYears += "<option value='" + yrs[i].population_year + "'>" + yrs[i].population_year + "</option>";
+        }
+        document.getElementById('yearsSelected').innerHTML = queriedYears;
+    });
 
 
-        function addrow(rownum, year, region, naics, sector, ttl){
-          
-          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
-          
-          /* Create an empty <tr> element and add it to the 1st position of the table:*/
-          var row = tableRef.insertRow(rownum);
+    document.getElementById('callapi').addEventListener('click', function() {
 
-          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
-          var cell1 = row.insertCell(0);
-          var cell2 = row.insertCell(1);
-          var cell3 = row.insertCell(2);
-          var cell4 = row.insertCell(3);
-          var cell5 = row.insertCell(4);
-          
-          /* Add some text to the new cells:*/
-          cell1.innerHTML = year;
-          cell2.innerHTML = region;
-          cell3.innerHTML = naics;
-          cell4.innerHTML = sector;
-          cell5.innerHTML = ttl.toLocaleString();
+        var selectedCounties = getSelectValues(countiesSelected);
+        var selectedYears = getSelectValues(yearsSelected);
 
-          cell5.style.textAlign = 'right';
-              
+        if (selectedCounties.length === 0) {
+            alert('please choose a region selection');
+            return;
+        }
+        if (selectedYears.length === 0) {
+            alert('please choose a year selection');
+            return;
         }
 
-      }
+        var querystring = "reg_num=" + selectedCounties.join(",") + "&year=" + selectedYears.join(",");
 
-    
-  };
-  
-  
-    var dlcsv=document.getElementById('dlcsv');
+        fetchJSONFile("https://gis.dola.colorado.gov/lookups/jobs_region?" + querystring, function(text) {
+            createtable(text);
+        });
 
-    dlcsv.onclick=function(){
-      
-      var csvstring="";
-      
-      var oTable = document.getElementById('resultstable');
-var rowLength = oTable.rows.length;
-for (i = 0; i < rowLength; i++){
-   var oCells = oTable.rows.item(i).cells;
-   var cellLength = oCells.length;
-   for(var j = 0; j < cellLength; j++){
-      /* get your cell info here */
-      if(j===0 && i>0){csvstring=csvstring+"\n";}
-     var cellval=oCells.item(j).innerHTML;
-      var addCell="\"" + cellval.replace(/\&nbsp;/g," ") + "\"";
-      /*addCell = addCell.replace(/,/g , "\",\"");*/
-      csvstring = csvstring + addCell;
-     if(j< cellLength ){csvstring=csvstring+",";}
-     }
-}
-      
-      
-var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "jobsBySector_data.csv");
-      
+    }, false);
+
+
+    function slookup(sector) {
+        if (sector === "00000") {
+            return "Total Jobs";
+        }
+        if (sector === "01000") {
+            return "Agriculture";
+        }
+        if (sector === "01010") {
+            return "&nbsp;&nbsp;Crops and livestock production";
+        }
+        if (sector === "01020") {
+            return "&nbsp;&nbsp;Farm services";
+        }
+        if (sector === "02000") {
+            return "Mining";
+        }
+        if (sector === "02010") {
+            return "&nbsp;&nbsp;Oil and gas extraction";
+        }
+        if (sector === "02020") {
+            return "&nbsp;&nbsp;Mining (except oil and gas)";
+        }
+        if (sector === "02030") {
+            return "&nbsp;&nbsp;Support Activities for mining";
+        }
+        if (sector === "03000") {
+            return "Utilities";
+        }
+        if (sector === "03030") {
+            return "&nbsp;&nbsp;Utilities";
+        }
+        if (sector === "04000") {
+            return "Construction";
+        }
+        if (sector === "04010") {
+            return "&nbsp;&nbsp;Construction of buildings";
+        }
+        if (sector === "04020") {
+            return "&nbsp;&nbsp;Heavy and cilvil engineering construct";
+        }
+        if (sector === "04030") {
+            return "&nbsp;&nbsp;Special trade contractors";
+        }
+        if (sector === "05000") {
+            return "Manufacturing";
+        }
+        if (sector === "05010") {
+            return "&nbsp;&nbsp;Wood product and furniture manufacturi";
+        }
+        if (sector === "05020") {
+            return "&nbsp;&nbsp;Nonmetallic mineral product manufactur";
+        }
+        if (sector === "05030") {
+            return "&nbsp;&nbsp;Primary and fabricated metal manufactu";
+        }
+        if (sector === "05040") {
+            return "&nbsp;&nbsp;Machinery manufacturing";
+        }
+        if (sector === "05050") {
+            return "&nbsp;&nbsp;Computer and electrical equipment manu";
+        }
+        if (sector === "05060") {
+            return "&nbsp;&nbsp;Motor vehicle and transportation manuf";
+        }
+        if (sector === "05070") {
+            return "&nbsp;&nbsp;Miscellaneous manufacturing";
+        }
+        if (sector === "05080") {
+            return "&nbsp;&nbsp;Food and beverage product manufacturin";
+        }
+        if (sector === "05090") {
+            return "&nbsp;&nbsp;Textile mills and product, apparel, an";
+        }
+        if (sector === "05100") {
+            return "&nbsp;&nbsp;Paper and printing manufacturing";
+        }
+        if (sector === "05110") {
+            return "&nbsp;&nbsp;Chemical manufacturing";
+        }
+        if (sector === "05120") {
+            return "&nbsp;&nbsp;Plastics and rubber products manufactu";
+        }
+        if (sector === "06000") {
+            return "Wholesale trade";
+        }
+        if (sector === "06010") {
+            return "&nbsp;&nbsp;Wholesale";
+        }
+        if (sector === "07000") {
+            return "Retail Trade";
+        }
+        if (sector === "07010") {
+            return "&nbsp;&nbsp;Motor vehicle and parts dealers";
+        }
+        if (sector === "07020") {
+            return "&nbsp;&nbsp;Furniture, electronics, appliances, an";
+        }
+        if (sector === "07030") {
+            return "&nbsp;&nbsp;Food and beverage stores";
+        }
+        if (sector === "07040") {
+            return "&nbsp;&nbsp;Health and personal care stores";
+        }
+        if (sector === "07050") {
+            return "&nbsp;&nbsp;Gasoline stations";
+        }
+        if (sector === "07060") {
+            return "&nbsp;&nbsp;Clothing and clothing accessories stor";
+        }
+        if (sector === "07070") {
+            return "&nbsp;&nbsp;Sporting goods, hobby, book and music";
+        }
+        if (sector === "07080") {
+            return "&nbsp;&nbsp;General merchandise stores";
+        }
+        if (sector === "07090") {
+            return "&nbsp;&nbsp;Miscellaneous store retailers";
+        }
+        if (sector === "07100") {
+            return "&nbsp;&nbsp;Nonstore retailers";
+        }
+        if (sector === "08000") {
+            return "Transportation and warehousing";
+        }
+        if (sector === "08010") {
+            return "&nbsp;&nbsp;Air transportation";
+        }
+        if (sector === "08020") {
+            return "&nbsp;&nbsp;Rail transportation";
+        }
+        if (sector === "08030") {
+            return "&nbsp;&nbsp;Truck transportation";
+        }
+        if (sector === "08040") {
+            return "&nbsp;&nbsp;Support for transportation";
+        }
+        if (sector === "08050") {
+            return "&nbsp;&nbsp;Transit and ground passenger transport";
+        }
+        if (sector === "08060") {
+            return "&nbsp;&nbsp;Pipeline transportation";
+        }
+        if (sector === "08070") {
+            return "&nbsp;&nbsp;Scenic, sightseeing, and water transpo";
+        }
+        if (sector === "08080") {
+            return "&nbsp;&nbsp;Couriers and messengers and postal ser";
+        }
+        if (sector === "08090") {
+            return "&nbsp;&nbsp;Warehousing and storage";
+        }
+        if (sector === "09000") {
+            return "Information";
+        }
+        if (sector === "09010") {
+            return "&nbsp;&nbsp;Publishing industries";
+        }
+        if (sector === "09030") {
+            return "&nbsp;&nbsp;Motion picture and broadcasting, excep";
+        }
+        if (sector === "09040") {
+            return "&nbsp;&nbsp;Telecommunications";
+        }
+        if (sector === "09050") {
+            return "&nbsp;&nbsp;ISPs, search portals, and data process";
+        }
+        if (sector === "10000") {
+            return "Finance activities";
+        }
+        if (sector === "10010") {
+            return "&nbsp;&nbsp;Monetary authorities and credit interm";
+        }
+        if (sector === "10020") {
+            return "&nbsp;&nbsp;Securities, commodity contracts and in";
+        }
+        if (sector === "10100") {
+            return "&nbsp;&nbsp;Insurance carriers, funds, trusts, and";
+        }
+        if (sector === "10150") {
+            return "Real estate";
+        }
+        if (sector === "10200") {
+            return "&nbsp;&nbsp;Real estate";
+        }
+        if (sector === "11000") {
+            return "Professional and business services";
+        }
+        if (sector === "11020") {
+            return "&nbsp;&nbsp;Professional and technical services";
+        }
+        if (sector === "11025") {
+            return "Management of companies and enterprise";
+        }
+        if (sector === "11030") {
+            return "&nbsp;&nbsp;Management of companies and enterprise";
+        }
+        if (sector === "11050") {
+            return "Admin and waste";
+        }
+        if (sector === "11090") {
+            return "&nbsp;&nbsp;Administrative and support services";
+        }
+        if (sector === "11100") {
+            return "&nbsp;&nbsp;Waste management and remediation servi";
+        }
+        if (sector === "12000") {
+            return "Education";
+        }
+        if (sector === "12010") {
+            return "&nbsp;&nbsp;Private Educational services";
+        }
+        if (sector === "12015") {
+            return "Health Services";
+        }
+        if (sector === "12020") {
+            return "&nbsp;&nbsp;Ambulatory health care services";
+        }
+        if (sector === "12030") {
+            return "&nbsp;&nbsp;Hospitals";
+        }
+        if (sector === "12040") {
+            return "&nbsp;&nbsp;Nursing and residential care facilitie";
+        }
+        if (sector === "12050") {
+            return "&nbsp;&nbsp;Social assistance";
+        }
+        if (sector === "13000") {
+            return "Arts";
+        }
+        if (sector === "13010") {
+            return "&nbsp;&nbsp;Arts, entertainment, and recreation";
+        }
+        if (sector === "13015") {
+            return "Accommodation and food";
+        }
+        if (sector === "13020") {
+            return "&nbsp;&nbsp;Accommodation";
+        }
+        if (sector === "13030") {
+            return "&nbsp;&nbsp;Food services and drinking places";
+        }
+        if (sector === "14000") {
+            return "Other services, except public administration";
+        }
+        if (sector === "14010") {
+            return "&nbsp;&nbsp;Automotive and other repair and mainte";
+        }
+        if (sector === "14020") {
+            return "&nbsp;&nbsp;Personal and laundry services";
+        }
+        if (sector === "14030") {
+            return "&nbsp;&nbsp;Membership associations and organizati";
+        }
+        if (sector === "14040") {
+            return "&nbsp;&nbsp;Private households";
+        }
+        if (sector === "15000") {
+            return "Government";
+        }
+        if (sector === "15010") {
+            return "&nbsp;&nbsp;Federal government, civilian";
+        }
+        if (sector === "15014") {
+            return "&nbsp;&nbsp;Military";
+        }
+        if (sector === "15020") {
+            return "&nbsp;&nbsp;State government";
+        }
+        if (sector === "15030") {
+            return "&nbsp;&nbsp;Local government";
+        }
+
+        return undefined; /*fallback (replaces otherwise undefined)*/
     }
+
+
+    function createtable(results) {
+
+        var table = document.getElementById("resultstable");
+        table.innerHTML = ""; /*clear all previous content*/
+
+        var header = table.createTHead();
+        var hrow = header.insertRow(0);
+        var hcell1 = hrow.insertCell(0);
+        var hcell2 = hrow.insertCell(1);
+        var hcell3 = hrow.insertCell(2);
+        var hcell4 = hrow.insertCell(3);
+        var hcell5 = hrow.insertCell(4);
+
+        hcell1.innerHTML = "Year";
+        hcell2.innerHTML = "Area";
+        hcell3.innerHTML = "NAICS Code";
+        hcell4.innerHTML = "Sector";
+        hcell5.innerHTML = "Jobs";
+
+        hcell5.style.textAlign = 'right';
+
+        var body = table.appendChild(document.createElement('tbody'));
+
+
+        for (var i = 0; i < results.length; i++) {
+            var total_jobs = results[i].total_jobs;
+            if (Number(results[i].total_jobs) > 0) {
+                total_jobs = Math.round(Number(total_jobs));
+            } else if (results[i].total_jobs === "0") {
+                total_jobs = '0';
+            } else {
+                total_jobs = 'suppressed';
+            }
+
+            addrow(i, results[i].population_year, rlookup(results[i].area_code), results[i].sector_id, slookup(results[i].sector_id), total_jobs);
+        }
+    }
+
+
+    function addrow(rownum, year, region, naics, sector, ttl) {
+
+        var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+
+        /* Create an empty <tr> element and add it to the 1st position of the table:*/
+        var row = tableRef.insertRow(rownum);
+
+        /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        var cell3 = row.insertCell(2);
+        var cell4 = row.insertCell(3);
+        var cell5 = row.insertCell(4);
+
+        /* Add some text to the new cells:*/
+        cell1.innerHTML = year;
+        cell2.innerHTML = region;
+        cell3.innerHTML = naics;
+        cell4.innerHTML = sector;
+        cell5.innerHTML = ttl.toLocaleString();
+
+        cell5.style.textAlign = 'right';
+
+    }
+
+
+    document.getElementById("dlcsv").style.display = 'inline-block';
+
+    document.getElementById('dlcsv').addEventListener('click', function() {
+        dlcsv("resultstable", "region_jobsBySector_data.csv");
+    }, false);
   
-  
-</script>  
+</script>
