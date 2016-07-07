@@ -80,9 +80,11 @@ tag: "bdmdata"
         document.getElementById("dlcsv").style.display = 'inline-block';
         var compressed = document.querySelector('input[name="compressed"]:checked').value;
         var querystring = "https://gis.dola.colorado.gov/lookups/components?year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + compressed;
+      
         fetchJSONFile(querystring, function(text) {
             createtable(text);
         });
+      
     };
 
     function createtable(results) {

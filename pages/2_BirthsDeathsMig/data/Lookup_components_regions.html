@@ -4,11 +4,13 @@ title: "Components of Change - Regions"
 permalink: "/births-deaths-migration/data/components-change-regions/"
 custom_js:
 - /assets/js/FileSaver.min.js
+- /assets/js/common/dola_custom_functions.js
 description: "Search for information on births, deaths and net migration by region and year."
 years: "1970-2014 (Estimates) and 2015-2050 (Forecast)"
 tag: ""
 
 ---
+
 {% if page.custom_js %}
   {% for js_file in page.custom_js %}
   <script src='{{ js_file }}' type="text/javascript"></script>
@@ -18,125 +20,22 @@ tag: ""
 
 <h2>Components of Change - Regions</h2>
 
-<a href="/births-deaths-migration/data/components-change/" >Need County Data?</a><br /><br />
+<a href="/births-deaths-migration/data/components-change/">Need County Data?</a><br /><br />
 <a href="/gis/colorado-regions/" target="_blank">Regions WebMap <img src="/images/map.png" /></a><br /><br />
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more regions:</label><br />
 <select id="countiesSelected" name="countiesSelected" multiple="multiple" size="5">	
-	<option value="20" selected>Denver PMSA</option>
-	<option value="21">Denver-Boulder Metro Area</option>
-	<option value="22">Denver-Boulder-Greeley CMSA</option>
-	<option value="23">10 County Denver Metro</option>
-	<option value="15">Central Mountains</option>
-	<option value="16">Eastern Plains</option>
-	<option value="17">Front Range</option>
-	<option value="18">San Luis Valley</option>
-	<option value="19">Western Slope</option>
-	<option value="1">Planning Region 1</option>
-	<option value="2">Planning Region 2</option>
-	<option value="3">Planning Region 3</option>
-	<option value="4">Planning Region 4</option>
-	<option value="5">Planning Region 5</option>
-	<option value="6">Planning Region 6</option>
-	<option value="7">Planning Region 7</option>
-	<option value="8">Planning Region 8</option>
-	<option value="9">Planning Region 9</option>
-	<option value="10">Planning Region 10</option>
-	<option value="11">Planning Region 11</option>
-	<option value="12">Planning Region 12</option>
-	<option value="13">Planning Region 13</option>
-	<option value="14">Planning Region 14</option>
-	<option value="0">Colorado</option>  
+{% include _optionValuesRegion.html %}
 </select><br /><br />
 <label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
 <select id="yearsSelected" name="yearsSelected" multiple="multiple" size="4">
-	<option value="1970">1970</option>
-	<option value="1971">1971</option>
-	<option value="1972">1972</option>
-	<option value="1973">1973</option>
-	<option value="1974">1974</option>
-	<option value="1975">1975</option>
-	<option value="1976">1976</option>
-	<option value="1977">1977</option>
-	<option value="1978">1978</option>
-	<option value="1979">1979</option>
-	<option value="1980">1980</option>
-	<option value="1981">1981</option>
-	<option value="1982">1982</option>
-	<option value="1983">1983</option>
-	<option value="1984">1984</option>
-	<option value="1985">1985</option>
-	<option value="1986">1986</option>
-	<option value="1987">1987</option>
-	<option value="1988">1988</option>
-	<option value="1989">1989</option>
-	<option value="1990">1990</option>
-	<option value="1991">1991</option>
-	<option value="1992">1992</option>
-	<option value="1993">1993</option>
-	<option value="1994">1994</option>
-	<option value="1995">1995</option>
-	<option value="1996">1996</option>
-	<option value="1997">1997</option>
-	<option value="1998">1998</option>
-	<option value="1999">1999</option>  
-	<option value="2000">2000</option>
-	<option value="2001">2001</option>
-	<option value="2002">2002</option>
-	<option value="2003">2003</option>
-	<option value="2004">2004</option>
-	<option value="2005">2005</option>
-	<option value="2006">2006</option>
-	<option value="2007">2007</option>
-	<option value="2008">2008</option>
-	<option value="2009">2009</option>    
-	<option value="2010">2010</option>
-	<option value="2011">2011</option>
-	<option value="2012">2012</option>
-	<option value="2013">2013</option>
-	<option value="2014">2014</option>
-	<option value="2015">2015</option>
-	<option value="2016">2016</option>
-	<option value="2017">2017</option>
-	<option value="2018">2018</option>
-	<option value="2019">2019</option>      
-	<option value="2020">2020</option>
-	<option value="2021">2021</option>
-	<option value="2022">2022</option>
-	<option value="2023">2023</option>
-	<option value="2024">2024</option>
-	<option value="2025">2025</option>
-	<option value="2026">2026</option>
-	<option value="2027">2027</option>
-	<option value="2028">2028</option>
-	<option value="2029">2029</option>   
-	<option value="2030">2030</option>
-	<option value="2031">2031</option>
-	<option value="2032">2032</option>
-	<option value="2033">2033</option>
-	<option value="2034">2034</option>
-	<option value="2035">2035</option>
-	<option value="2036">2036</option>
-	<option value="2037">2037</option>
-	<option value="2038">2038</option>
-	<option value="2039">2039</option>     
-	<option value="2040">2040</option>
-	<option value="2041">2041</option>
-	<option value="2042">2042</option>
-	<option value="2043">2043</option>
-	<option value="2044">2044</option>
-	<option value="2045">2045</option>
-	<option value="2046">2046</option>
-	<option value="2047">2047</option>
-	<option value="2048">2048</option>
-	<option value="2049">2049</option>     
-	<option value="2050">2050</option>    
+<!-- populated from database -->
 </select><br /><br />
 
-    <input type="radio" name="compressed" value="" checked>No Grouping&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&group=opt1">Group by Year&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&group=opt2">Group by Region&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="" checked>No Grouping&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&group=opt1">Group by Year&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&group=opt2">Group by Region&nbsp;&nbsp;&nbsp;
 <br /><br />
-  <input type="submit" id="callapi" value="View Results" class="form-submit" />
+<input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
 <table id="resultstable"></table>
@@ -144,196 +43,111 @@ tag: ""
 
 
 <script>
-  
-  var viewresults=document.getElementById('callapi');
-  
-    viewresults.onclick=function(){
-      
-    var selectedCounties = getSelectValues(countiesSelected);
-    var selectedYears = getSelectValues(yearsSelected);
-    
-      
-          /*counties*/
-    if(selectedCounties.length===0){
-      alert('please choose a county selection');
-      return;
-    }
-           /*years*/
-    if(selectedYears.length===0){
-      alert('please choose one or more years');
-      return;
-    }
-
-   document.getElementById("dlcsv").style.display='inline-block';
-      
-    /* Return an array of the selected option values*/
-    function getSelectValues(select) {
-  var result = [];
-  var options = select && select.options;
-  var opt;
-
-  for (var i=0, iLen=options.length; i<iLen; i++) {
-    opt = options[i];
-
-    if (opt.selected) {
-      result.push(opt.value || opt.text);
-    }
-  }
-  return result;
-}
-
-      var compressed = document.querySelector('input[name="compressed"]:checked').value;
-     
-      var querystring = "year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") +  compressed;
-      
-      console.log(querystring);
-      
-   requestdata(querystring);
-      
-      
-    /*ajax request function*/
-    function requestdata(querystring){
-      
-      var xhttp = new XMLHttpRequest();
-      
-      xhttp.onreadystatechange = function() {
-        if (xhttp.readyState == 4 && xhttp.status == 200) {
-            createtable(JSON.parse(xhttp.responseText));
-          } 
-        };
-      
-      xhttp.open("GET", "https://gis.dola.colorado.gov/lookups/components_region?"+querystring, true);
-      xhttp.send();
-    }
-    
-      
-      function clookup(reg_num){
-        if(reg_num===0){return "Colorado";}
-        if(reg_num===1){return "Planning Region 1";}
-        if(reg_num===2){return "Planning Region 2";}
-        if(reg_num===3){return "Planning Region 3";}
-        if(reg_num===4){return "Planning Region 4";}
-        if(reg_num===5){return "Planning Region 5";}
-        if(reg_num===6){return "Planning Region 6";}
-        if(reg_num===7){return "Planning Region 7";}
-        if(reg_num===8){return "Planning Region 8";}
-        if(reg_num===9){return "Planning Region 9";}
-        if(reg_num===10){return "Planning Region 10";}
-        if(reg_num===11){return "Planning Region 11";}
-        if(reg_num===12){return "Planning Region 12";}
-        if(reg_num===13){return "Planning Region 13";}
-        if(reg_num===14){return "Planning Region 14";}
-        if(reg_num===15){return "Central Mountains";}
-        if(reg_num===16){return "Eastern Plains";}
-        if(reg_num===17){return "Front Range";}
-        if(reg_num===18){return "San Luis Valley";}
-        if(reg_num===19){return "Western Slope";}
-        if(reg_num===20){return "Denver PMSA";}
-        if(reg_num===21){return "Denver-Boulder Metro Area";}
-        if(reg_num===22){return "Denver-Boulder-Greeley CMSA";}
-        if(reg_num===23){return "10 County Denver Metro";}
-            
-        return undefined; /*fallback (replaces otherwise undefined)*/
-      }
-      
-      function createtable(results){
-
-          var table = document.getElementById("resultstable");
-          table.innerHTML = ""; /*clear all previous content*/
-        
-          var header = table.createTHead();
-          var hrow = header.insertRow(0);     
-          var hcell1 = hrow.insertCell(0);
-          var hcell2 = hrow.insertCell(1);
-          var hcell3 = hrow.insertCell(2);
-          var hcell4 = hrow.insertCell(3);
-          var hcell5 = hrow.insertCell(4);
-          var hcell6 = hrow.insertCell(5);        
-          var hcell7 = hrow.insertCell(6);    
-          var hcell8 = hrow.insertCell(7);        
-          var hcell9 = hrow.insertCell(8);   
-        
-          hcell1.innerHTML = "Region";
-          hcell2.innerHTML = "Region Number";
-          hcell3.innerHTML = "Year";
-          hcell4.innerHTML = "Population";
-          hcell5.innerHTML = "Change";
-          hcell6.innerHTML = "Births";
-          hcell7.innerHTML = "Deaths";
-          hcell8.innerHTML = "NetMigration";
-          hcell9.innerHTML = "Datatype";      
-        
-          var body = table.appendChild(document.createElement('tbody'));
-        
-        
-        
-        for(var i=0;i<results.length;i++){
-          
-          addrow(i,clookup(results[i].reg_num) || "", results[i].reg_num || "", results[i].year || "", results[i].estimate || "", results[i].change || "", results[i].births || "", results[i].deaths || "",results[i].netmig || "",results[i].datatype || "")
+    fetchJSONFile('https://gis.dola.colorado.gov/lookups/componentYRS', function(yrs) {
+        var queriedYears = "";
+        for (let i = 0; i < yrs.length; i++) {
+            queriedYears += "<option style='color:" + ((yrs[i].datatype === "Estimate") ? "black" : "red") + "' value='" + yrs[i].year + "'>" + yrs[i].year + "</option>";
         }
-        
-        
-        function addrow(rownum, region, reg_num, year, population, change, births, deaths, netmig, datatype){
-          
-          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
-          
-          /* Create an empty <tr> element and add it to the 1st position of the table:*/
-          var row = tableRef.insertRow(rownum);
+        document.getElementById('yearsSelected').innerHTML = queriedYears;
+    });
 
-          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
-          var cell1 = row.insertCell(0);
-          var cell2 = row.insertCell(1);
-          var cell3 = row.insertCell(2);
-          var cell4 = row.insertCell(3);
-          var cell5 = row.insertCell(4);
-          var cell6 = row.insertCell(5);
-          var cell7 = row.insertCell(6);
-          var cell8 = row.insertCell(7);
-          var cell9 = row.insertCell(8);
-            
-          /* Add some text to the new cells:*/
-          cell1.innerHTML = region;
-          cell2.innerHTML = reg_num;
-          cell3.innerHTML = year;
-          cell4.innerHTML = Number(population).toLocaleString();
-          cell5.innerHTML = Number(change).toLocaleString();
-          cell6.innerHTML = Number(births).toLocaleString();
-          cell7.innerHTML = Number(deaths).toLocaleString(); 
-          cell8.innerHTML = Number(netmig).toLocaleString();
-          cell9.innerHTML = datatype;             
-          
+
+    document.getElementById('callapi').addEventListener('click', function() {
+
+        var selectedCounties = getSelectValues(countiesSelected);
+        var selectedYears = getSelectValues(yearsSelected);
+
+        if (selectedCounties.length === 0) {
+            alert('please choose a county selection');
+            return;
+        }
+        if (selectedYears.length === 0) {
+            alert('please choose one or more years');
+            return;
         }
 
-      }
+        var compressed = document.querySelector('input[name="compressed"]:checked').value;
+        var querystring = "year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") + compressed;
 
-    
-  };
-  
-  
-    var dlcsv=document.getElementById('dlcsv');
+        fetchJSONFile("https://gis.dola.colorado.gov/lookups/components_region?" + querystring, function(text) {
+            createtable(text);
+        });
 
-    dlcsv.onclick=function(){
-      
-      var csvstring="";
-      
-      var oTable = document.getElementById('resultstable');
-var rowLength = oTable.rows.length;
-for (i = 0; i < rowLength; i++){
-   var oCells = oTable.rows.item(i).cells;
-   var cellLength = oCells.length;
-   for(var j = 0; j < cellLength; j++){
-      /* get your cell info here */
-      if(j===0 && i>0){csvstring=csvstring+"\n";}
-      csvstring = csvstring + '"' + oCells.item(j).innerHTML + '"';
-     if(j< cellLength ){csvstring=csvstring+",";}
-     }
-}
-      
-      
-var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "region-componentsChange_data.csv");
-      
+    }, false);
+
+
+    function createtable(results) {
+
+        var table = document.getElementById("resultstable");
+        table.innerHTML = ""; /*clear all previous content*/
+
+        var header = table.createTHead();
+        var hrow = header.insertRow(0);
+        var hcell1 = hrow.insertCell(0);
+        var hcell2 = hrow.insertCell(1);
+        var hcell3 = hrow.insertCell(2);
+        var hcell4 = hrow.insertCell(3);
+        var hcell5 = hrow.insertCell(4);
+        var hcell6 = hrow.insertCell(5);
+        var hcell7 = hrow.insertCell(6);
+        var hcell8 = hrow.insertCell(7);
+        var hcell9 = hrow.insertCell(8);
+
+        hcell1.innerHTML = "Region";
+        hcell2.innerHTML = "Region Number";
+        hcell3.innerHTML = "Year";
+        hcell4.innerHTML = "Population";
+        hcell5.innerHTML = "Change";
+        hcell6.innerHTML = "Births";
+        hcell7.innerHTML = "Deaths";
+        hcell8.innerHTML = "NetMigration";
+        hcell9.innerHTML = "Datatype";
+
+        var body = table.appendChild(document.createElement('tbody'));
+
+        for (var i = 0; i < results.length; i++) {
+            addrow(i, rlookup(results[i].reg_num) || "", results[i].reg_num || "", results[i].year || "", results[i].estimate || "", results[i].change || "", results[i].births || "", results[i].deaths || "", results[i].netmig || "", results[i].datatype || "");
+        }
+
     }
+
+
+    function addrow(rownum, region, reg_num, year, population, change, births, deaths, netmig, datatype) {
+
+        var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+
+        /* Create an empty <tr> element and add it to the 1st position of the table:*/
+        var row = tableRef.insertRow(rownum);
+
+        /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        var cell3 = row.insertCell(2);
+        var cell4 = row.insertCell(3);
+        var cell5 = row.insertCell(4);
+        var cell6 = row.insertCell(5);
+        var cell7 = row.insertCell(6);
+        var cell8 = row.insertCell(7);
+        var cell9 = row.insertCell(8);
+
+        /* Add some text to the new cells:*/
+        cell1.innerHTML = region;
+        cell2.innerHTML = reg_num;
+        cell3.innerHTML = year;
+        cell4.innerHTML = Number(population).toLocaleString();
+        cell5.innerHTML = Number(change).toLocaleString();
+        cell6.innerHTML = Number(births).toLocaleString();
+        cell7.innerHTML = Number(deaths).toLocaleString();
+        cell8.innerHTML = Number(netmig).toLocaleString();
+        cell9.innerHTML = datatype;
+
+    }
+
+
+    document.getElementById("dlcsv").style.display = 'inline-block';
+
+    document.getElementById('dlcsv').addEventListener('click', function() {
+        dlcsv("resultstable", "region-componentsChange_data.csv");
+    }, false);
   
-  
-</script>  
+</script>

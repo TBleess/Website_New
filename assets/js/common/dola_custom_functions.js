@@ -265,3 +265,33 @@ function clookup(county) {
 
     return undefined;
 }
+
+    function rlookup(reg_num){
+        if(reg_num===0){return "Colorado";}
+        if(reg_num===1){return "Planning Region 1";}
+        if(reg_num===2){return "Planning Region 2";}
+        if(reg_num===3){return "Planning Region 3";}
+        if(reg_num===4){return "Planning Region 4";}
+        if(reg_num===5){return "Planning Region 5";}
+        if(reg_num===6){return "Planning Region 6";}
+        if(reg_num===7){return "Planning Region 7";}
+        if(reg_num===8){return "Planning Region 8";}
+        if(reg_num===9){return "Planning Region 9";}
+        if(reg_num===10){return "Planning Region 10";}
+        if(reg_num===11){return "Planning Region 11";}
+        if(reg_num===12){return "Planning Region 12";}
+        if(reg_num===13){return "Planning Region 13";}
+        if(reg_num===14){return "Planning Region 14";}
+        if(reg_num===15){return "Central Mountains";}
+        if(reg_num===16){return "Eastern Plains";}
+        if(reg_num===17){return "Front Range";}
+        if(reg_num===18){return "San Luis Valley";}
+        if(reg_num===19){return "Western Slope";}
+        if(reg_num===20){return "Denver PMSA";}
+        if(reg_num===21){return "Denver-Boulder Metro Area";}
+        if(reg_num===22){return "Denver-Boulder-Greeley CMSA";}
+        if(reg_num===23){return "10 County Denver Metro";}
+            
+        return undefined; /*fallback (replaces otherwise undefined)*/
+      }
+      

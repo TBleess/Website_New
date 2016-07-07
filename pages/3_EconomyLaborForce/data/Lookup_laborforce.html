@@ -22,7 +22,7 @@ tag: "econdata"
 
 <h2 id="labor-force-participation">Labor Force Participation - County</h2>
 
-<a href="/economy-labor-force/data/labor-force-regions/" >Need Region Data?</a><br /><br />
+<a href="/economy-labor-force/data/labor-force-regions/">Need Region Data?</a><br /><br />
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
 <select id="countiesSelected" name="countiesSelected" multiple="multiple" size="5">	
   	<option value="0">Colorado</option>
@@ -48,12 +48,12 @@ tag: "econdata"
 	<option value="b">County</option>
 	<option value="c">Age Group</option>
 </select><br /><br />
-    <input type="radio" name="compressed" value="" checked>Sum Male and Female&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&gender=m">Male Only&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&gender=f">Female Only&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&gender=b">List Male and Female<br />  
+<input type="radio" name="compressed" value="" checked>Sum Male and Female&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&gender=m">Male Only&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&gender=f">Female Only&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&gender=b">List Male and Female<br />
 <br />
-  <input type="submit" id="callapi" value="View Results" class="form-submit" />
+<input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br /><br />
 <table id="resultstable"></table>
@@ -61,125 +61,137 @@ tag: "econdata"
 
 
 <script>
-  
-      fetchJSONFile('https://gis.dola.colorado.gov/lookups/labor-forceYRS', function(yrs) {
+    fetchJSONFile('https://gis.dola.colorado.gov/lookups/labor-forceYRS', function(yrs) {
         var queriedYears = "";
         for (let i = 0; i < yrs.length; i++) {
             queriedYears += "<option value='" + yrs[i].population_year + "'>" + yrs[i].population_year + "</option>";
         }
         document.getElementById('yearsSelected').innerHTML = queriedYears;
     });
-    
-  
-  document.getElementById('callapi').addEventListener('click', function(){
-    
+
+
+    document.getElementById('callapi').addEventListener('click', function() {
+
         var selectedCounties = getSelectValues(countiesSelected);
-    var selectedYears = getSelectValues(yearsSelected);
-    var selectedAges = getSelectValues(ageGroups);
-    var selectedGroupBy = getSelectValues(groupBy);        
-      
-    if(selectedCounties.length===0){
-      alert('please choose a county selection');
-      return;
-    }
-    if(selectedYears.length===0){
-      alert('please choose one or more years');
-      return;
-    }
-    if(selectedAges.length===0){
-      alert('please choose an age group selection');
-      return;
-    }      
+        var selectedYears = getSelectValues(yearsSelected);
+        var selectedAges = getSelectValues(ageGroups);
+        var selectedGroupBy = getSelectValues(groupBy);
 
-      var compressed = document.querySelector('input[name="compressed"]:checked').value;
+        if (selectedCounties.length === 0) {
+            alert('please choose a county selection');
+            return;
+        }
+        if (selectedYears.length === 0) {
+            alert('please choose one or more years');
+            return;
+        }
+        if (selectedAges.length === 0) {
+            alert('please choose an age group selection');
+            return;
+        }
 
-      var groupstring = selectedGroupBy.join(",");
-     var group="";
-      
-      if(groupstring==="a"){group='opt1';}
-      if(groupstring==="b"){group='opt2';}
-      if(groupstring==="c"){group='opt3';}
-      if(groupstring==="a,b"){group='opt4';}
-      if(groupstring==="a,c"){group='opt5';}
-      if(groupstring==="b,c"){group='opt6';}
-      if(groupstring==="a,b,c"){group='opt7';}
-      
-      var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + compressed + "&group=" + group;
+        var compressed = document.querySelector('input[name="compressed"]:checked').value;
+
+        var groupstring = selectedGroupBy.join(",");
+        var group = "";
+
+        if (groupstring === "a") {
+            group = 'opt1';
+        }
+        if (groupstring === "b") {
+            group = 'opt2';
+        }
+        if (groupstring === "c") {
+            group = 'opt3';
+        }
+        if (groupstring === "a,b") {
+            group = 'opt4';
+        }
+        if (groupstring === "a,c") {
+            group = 'opt5';
+        }
+        if (groupstring === "b,c") {
+            group = 'opt6';
+        }
+        if (groupstring === "a,b,c") {
+            group = 'opt7';
+        }
+
+        var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + compressed + "&group=" + group;
 
         fetchJSONFile("https://gis.dola.colorado.gov/lookups/labor-force?" + querystring, function(text) {
             createtable(text);
         });
-    
-  }, false);
-    
-        
-      function createtable(results){
 
-          var table = document.getElementById("resultstable");
-          table.innerHTML = ""; /*clear all previous content*/
-        
-          var header = table.createTHead();
-          var hrow = header.insertRow(0);     
-          var hcell1 = hrow.insertCell(0);
-          var hcell2 = hrow.insertCell(1);
-          var hcell3 = hrow.insertCell(2);
-          var hcell4 = hrow.insertCell(3);
-          var hcell5 = hrow.insertCell(4);
-          var hcell6 = hrow.insertCell(5);        
-          var hcell7 = hrow.insertCell(6);    
-          var hcell8 = hrow.insertCell(7);   
-        
-          hcell1.innerHTML = "COUNTY";
-          hcell2.innerHTML = "CFIPS";
-          hcell3.innerHTML = "YEAR";
-          hcell4.innerHTML = "AGE";
-          hcell5.innerHTML = "GENDER";
-          hcell6.innerHTML = "Labor Force";
-          hcell7.innerHTML = "Universe";
-          hcell8.innerHTML = "Participation Rate";      
-        
-          var body = table.appendChild(document.createElement('tbody'));
-        
-          for(var i=0;i<results.length;i++){
-            addrow(i,clookup(results[i].area_code) || "", results[i].area_code || "", results[i].population_year || "", results[i].age_group || "", results[i].gender || "", results[i].laborforce || "", results[i].cni_pop_16pl || "", results[i].participationrate || "");
-          }
-        
-      } 
+    }, false);
 
-            
-        function addrow(rownum, county, county_fips, year, age, gender, laborforce, cni_pop_16pl, participationrate){
-          
-          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
-          
-          /* Create an empty <tr> element and add it to the 1st position of the table:*/
-          var row = tableRef.insertRow(rownum);
 
-          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
-          var cell1 = row.insertCell(0);
-          var cell2 = row.insertCell(1);
-          var cell3 = row.insertCell(2);
-          var cell4 = row.insertCell(3);
-          var cell5 = row.insertCell(4);
-          var cell6 = row.insertCell(5);
-          var cell7 = row.insertCell(6);
-          var cell8 = row.insertCell(7);
-          
-          /* Add some text to the new cells:*/
-          cell1.innerHTML = county;
-          cell2.innerHTML = county_fips;
-          cell3.innerHTML = year;
-          cell4.innerHTML = age;
-          cell5.innerHTML = gender;
-          cell6.innerHTML = Number(laborforce).toLocaleString();
-          cell7.innerHTML = Number(cni_pop_16pl).toLocaleString();          
-          cell8.innerHTML = (Number(participationrate*100).toFixed(2)).toLocaleString();                    
+    function createtable(results) {
+
+        var table = document.getElementById("resultstable");
+        table.innerHTML = ""; /*clear all previous content*/
+
+        var header = table.createTHead();
+        var hrow = header.insertRow(0);
+        var hcell1 = hrow.insertCell(0);
+        var hcell2 = hrow.insertCell(1);
+        var hcell3 = hrow.insertCell(2);
+        var hcell4 = hrow.insertCell(3);
+        var hcell5 = hrow.insertCell(4);
+        var hcell6 = hrow.insertCell(5);
+        var hcell7 = hrow.insertCell(6);
+        var hcell8 = hrow.insertCell(7);
+
+        hcell1.innerHTML = "COUNTY";
+        hcell2.innerHTML = "CFIPS";
+        hcell3.innerHTML = "YEAR";
+        hcell4.innerHTML = "AGE";
+        hcell5.innerHTML = "GENDER";
+        hcell6.innerHTML = "Labor Force";
+        hcell7.innerHTML = "Universe";
+        hcell8.innerHTML = "Participation Rate";
+
+        var body = table.appendChild(document.createElement('tbody'));
+
+        for (var i = 0; i < results.length; i++) {
+            addrow(i, clookup(results[i].area_code) || "", results[i].area_code || "", results[i].population_year || "", results[i].age_group || "", results[i].gender || "", results[i].laborforce || "", results[i].cni_pop_16pl || "", results[i].participationrate || "");
         }
 
-  
-     document.getElementById("dlcsv").style.display='inline-block';
-  
+    }
+
+
+    function addrow(rownum, county, county_fips, year, age, gender, laborforce, cni_pop_16pl, participationrate) {
+
+        var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+
+        /* Create an empty <tr> element and add it to the 1st position of the table:*/
+        var row = tableRef.insertRow(rownum);
+
+        /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        var cell3 = row.insertCell(2);
+        var cell4 = row.insertCell(3);
+        var cell5 = row.insertCell(4);
+        var cell6 = row.insertCell(5);
+        var cell7 = row.insertCell(6);
+        var cell8 = row.insertCell(7);
+
+        /* Add some text to the new cells:*/
+        cell1.innerHTML = county;
+        cell2.innerHTML = county_fips;
+        cell3.innerHTML = year;
+        cell4.innerHTML = age;
+        cell5.innerHTML = gender;
+        cell6.innerHTML = Number(laborforce).toLocaleString();
+        cell7.innerHTML = Number(cni_pop_16pl).toLocaleString();
+        cell8.innerHTML = (Number(participationrate * 100).toFixed(2)).toLocaleString();
+    }
+
+
+    document.getElementById("dlcsv").style.display = 'inline-block';
+
     document.getElementById('dlcsv').addEventListener('click', function() {
         dlcsv("resultstable", "county-laborForce_data.csv");
     }, false);
-  
-</script>  
+</script>
