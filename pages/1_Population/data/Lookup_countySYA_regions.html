@@ -4,6 +4,7 @@ title: "Region Single Year of Age Lookup"
 permalink: "/population/data/sya-regions/"
 custom_js:
 - /assets/js/FileSaver.min.js
+- /assets/js/common/dola_custom_functions.js
 description: "Search for information on total population and gender by region, year, and age."
 years: "1990-2014 (Estimates) and 2015-2050 (Forecast)"
 tag: ""
@@ -18,100 +19,17 @@ tag: ""
 
 <h2>Population by Single Year of Age - Region</h2>
 
-<a href="/population/data/sya-county/" >Need County Data?</a><br /><br />
+<a href="/population/data/sya-county/">Need County Data?</a><br /><br />
 <a href="/gis/colorado-regions/" target="_blank">Regions WebMap <img src="/images/map.png" /></a><br /><br />
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more regions:</label><br />
 <select id="countiesSelected" class="formtable" name="countiesSelected" multiple="multiple" size="5">	
-	<option value="20" selected>Denver PMSA</option>
-	<option value="21">Denver-Boulder Metro Area</option>
-	<option value="22">Denver-Boulder-Greeley CMSA</option>
-	<option value="23">10 County Denver Metro</option>
-	<option value="15">Central Mountains</option>
-	<option value="16">Eastern Plains</option>
-	<option value="17">Front Range</option>
-	<option value="18">San Luis Valley</option>
-	<option value="19">Western Slope</option>
-	<option value="1">Planning Region 1</option>
-	<option value="2">Planning Region 2</option>
-	<option value="3">Planning Region 3</option>
-	<option value="4">Planning Region 4</option>
-	<option value="5">Planning Region 5</option>
-	<option value="6">Planning Region 6</option>
-	<option value="7">Planning Region 7</option>
-	<option value="8">Planning Region 8</option>
-	<option value="9">Planning Region 9</option>
-	<option value="10">Planning Region 10</option>
-	<option value="11">Planning Region 11</option>
-	<option value="12">Planning Region 12</option>
-	<option value="13">Planning Region 13</option>
-	<option value="14">Planning Region 14</option>
-	<option value="0">Colorado</option> 
+{% include _optionValuesRegion.html %}
 </select>
 
 <br /><br />
 <label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
 <select id="yearsSelected" class="formtable" name="yearsSelected" multiple="multiple" size="5">
-  <option value="1990">1990</option>
-	<option value="1991">1991</option>
-	<option value="1992">1992</option>
-	<option value="1993">1993</option>
-	<option value="1994">1994</option>
-  <option value="1995">1995</option>
-	<option value="1996">1996</option>
-	<option value="1997">1997</option>
-	<option value="1998">1998</option>
-	<option value="1999">1999</option>
-  <option value="2000">2000</option>
-	<option value="2001">2001</option>
-	<option value="2002">2002</option>
-	<option value="2003">2003</option>
-	<option value="2004">2004</option>
-  <option value="2005">2005</option>
-	<option value="2006">2006</option>
-	<option value="2007">2007</option>
-	<option value="2008">2008</option>
-	<option value="2009">2009</option>
-  <option value="2010">2010</option>
-	<option value="2011">2011</option>
-	<option value="2012">2012</option>
-	<option value="2013">2013</option>
-	<option value="2014">2014</option>
-  <option value="2015">2015</option>
-	<option value="2016">2016</option>
-	<option value="2017">2017</option>
-	<option value="2018">2018</option>
-	<option value="2019">2019</option>
-  <option value="2020">2020</option>
-	<option value="2021">2021</option>
-	<option value="2022">2022</option>
-	<option value="2023">2023</option>
-	<option value="2024">2024</option>
-  <option value="2025">2025</option>
-	<option value="2026">2026</option>
-	<option value="2027">2027</option>
-	<option value="2028">2028</option>
-	<option value="2029">2029</option>  
-  <option value="2030">2030</option>
-	<option value="2031">2031</option>
-	<option value="2032">2032</option>
-	<option value="2033">2033</option>
-	<option value="2034">2034</option>
-  <option value="2035">2035</option>
-	<option value="2036">2036</option>
-	<option value="2037">2037</option>
-	<option value="2038">2038</option>
-	<option value="2039">2039</option>  
-  <option value="2040">2040</option>
-	<option value="2041">2041</option>
-	<option value="2042">2042</option>
-	<option value="2043">2043</option>
-	<option value="2044">2044</option>
-  <option value="2045">2045</option>
-	<option value="2046">2046</option>
-	<option value="2047">2047</option>
-	<option value="2048">2048</option>
-	<option value="2049">2049</option>  
-	<option value="2050">2050</option>    
+<!-- populated from database --> 
 </select>
 
 <br /><br />
@@ -211,208 +129,144 @@ tag: ""
 </select>
 
 <br /><br />
-  <input type="radio" name="compressed" value="no" checked>No Grouping&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="opt1">Group by Year&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="opt2">Group by Region and Year&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="opt3">Group by Age and Year<br />  
+<input type="radio" name="compressed" value="no" checked>No Grouping&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="opt1">Group by Year&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="opt2">Group by Region and Year&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="opt3">Group by Age and Year<br />
 <br />
-  <input type="submit" id="callapi" value="View Results" class="form-submit" />
+<input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" />
 <br />
 <table id="resultstable"></table>
 
-
-
-
-
-
-
-
-
-
 <script>
   
-  var viewresults=document.getElementById('callapi');
-  
-  /* click VIEW RESULTS BUTTON */
-    viewresults.onclick=function(){
-
-      
-    /* Return an array of the selected option values*/
-    function getSelectValues(select) {
-  var result = [];
-  var options = select && select.options;
-  var opt;
-
-  for (var i=0, iLen=options.length; i<iLen; i++) {
-    opt = options[i];
-
-    if (opt.selected) {
-      result.push(opt.value || opt.text);
-    }
-  }
-  return result;
-}
-    
-    var selectedCounties = getSelectValues(countiesSelected);
-    var selectedAges = getSelectValues(agesSelected);
-    var selectedYears = getSelectValues(yearsSelected);
-
-    var compressed = document.querySelector('input[name="compressed"]:checked').value;
-      
-    var yearstring;
-    var agestring;
-    var reg_numstring;
-      
-      /*VALIDATION*/
-    if(selectedYears.length===0){
-      alert('no year selected');
-      return;
-    }else{
-      yearstring = selectedYears.join(",");
-    }
-    
-    if(selectedAges.length===0){
-      alert('no age selected');
-      return;
-    }else{
-      agestring = selectedAges.join(",");
-    }        
-    
-    if(selectedCounties.length===0){
-      alert('no region selected');
-      return;
-    }else{
-      reg_numstring = selectedCounties.join(",");
-    }        
-      
-      var querystring="age=" + agestring + "&reg_num=" + reg_numstring + "&year=" + yearstring + "&group=" + compressed;
-      
- 
-      /* make Download CSV button visible */
-   document.getElementById("dlcsv").style.display='inline-block';      
-      
-    requestdata(querystring);
-      
-    /*ajax request function*/
-    function requestdata(querystring){
-      
-      var xhttp = new XMLHttpRequest();
-      
-      xhttp.onreadystatechange = function() {
-        if (xhttp.readyState == 4 && xhttp.status == 200) {
-            createtable(JSON.parse(xhttp.responseText));
-          } /*fill in for error codes later*/
-        };
-      
-      xhttp.open("GET", "https://gis.dola.colorado.gov/lookups/sya_regions?"+querystring, true);
-      xhttp.send();
-    }
-    
-      
-      function createtable(results){
-
-          var table = document.getElementById("resultstable");
-          table.innerHTML = ""; /*clear all previous content*/
-        
-          var header = table.createTHead();
-          var hrow = header.insertRow(0);     
-          var hcell1 = hrow.insertCell(0);
-          var hcell2 = hrow.insertCell(1);
-          var hcell3 = hrow.insertCell(2);
-          var hcell4 = hrow.insertCell(3);
-          var hcell5 = hrow.insertCell(4);
-          var hcell6 = hrow.insertCell(5);        
-          var hcell7 = hrow.insertCell(6);
-          var hcell8 = hrow.insertCell(7);
- 
-        
-          hcell1.innerHTML = "REGION_NMBR";
-          hcell2.innerHTML = "YEAR";
-          hcell3.innerHTML = "AGE";
-          hcell4.innerHTML = "REGION";
-          hcell5.innerHTML = "MALE";
-          hcell6.innerHTML = "FEMALE";
-          hcell7.innerHTML = "TOTAL";
-          hcell8.innerHTML = "TYPE";
-      
-        
-          var body = table.appendChild(document.createElement('tbody'));
-        
-        
-        
-        for(var i=0;i<results.length;i++){
-          
-          /*age is falsy if 0, need custom fix*/
-          var pass_age = results[i].age || "";
-          if(results[i].age===0){pass_age="0";}
-          
-          addrow(i,results[i].reg_num || "",results[i].year || "",pass_age,results[i].region || "",results[i].malepopulation,results[i].femalepopulation,results[i].totalpopulation,results[i].datatype || "")
+    fetchJSONFile('https://gis.dola.colorado.gov/lookups/syaYRS', function(yrs) {
+        var queriedYears = "";
+        for (let i = 0; i < yrs.length; i++) {
+            queriedYears += "<option value='" + yrs[i].year + "'>" + yrs[i].year + "</option>";
         }
-        
-        
-        function addrow(rownum, reg_num, year, age, region, malepopulation, femalepopulation, totalpopulation, datatype){
-          
-          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
-          
-          /* Create an empty <tr> element and add it to the 1st position of the table:*/
-          var row = tableRef.insertRow(rownum);
+        document.getElementById('yearsSelected').innerHTML = queriedYears;
+    });
 
-          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
-          var cell1 = row.insertCell(0);
-          var cell2 = row.insertCell(1);
-          var cell3 = row.insertCell(2);
-          var cell4 = row.insertCell(3);
-          var cell5 = row.insertCell(4);
-          var cell6 = row.insertCell(5);
-          var cell7 = row.insertCell(6);
-          var cell8 = row.insertCell(7);
 
-          
-          /* Add some text to the new cells:*/
-          cell1.innerHTML = reg_num;
-          cell2.innerHTML = year;
-          cell3.innerHTML = age;
-          cell4.innerHTML = region;
-          cell5.innerHTML = Number(malepopulation).toLocaleString();
-          cell6.innerHTML = Number(femalepopulation).toLocaleString();
-          cell7.innerHTML = Number(totalpopulation).toLocaleString();
-          cell8.innerHTML = datatype;
+    document.getElementById('callapi').addEventListener('click', function() {
 
-          
+        var selectedCounties = getSelectValues(countiesSelected);
+        var selectedAges = getSelectValues(agesSelected);
+        var selectedYears = getSelectValues(yearsSelected);
+
+        var compressed = document.querySelector('input[name="compressed"]:checked').value;
+
+        var yearstring;
+        var agestring;
+        var reg_numstring;
+
+        /*VALIDATION*/
+        if (selectedYears.length === 0) {
+            alert('no year selected');
+            return;
+        } else {
+            yearstring = selectedYears.join(",");
         }
 
-      }
+        if (selectedAges.length === 0) {
+            alert('no age selected');
+            return;
+        } else {
+            agestring = selectedAges.join(",");
+        }
 
-    
-  };
-  
-  
-    var dlcsv=document.getElementById('dlcsv');
-  
-    dlcsv.onclick=function(){
-      
-      var csvstring="";
-      
-      var oTable = document.getElementById('resultstable');
-var rowLength = oTable.rows.length;
-for (i = 0; i < rowLength; i++){
-   var oCells = oTable.rows.item(i).cells;
-   var cellLength = oCells.length;
-   for(var j = 0; j < cellLength; j++){
-      /* get your cell info here */
-      if(j===0 && i>0){csvstring=csvstring+"\n";}
-      csvstring = csvstring + '"' + oCells.item(j).innerHTML + '"';
-     if(j< cellLength ){csvstring=csvstring+",";}
-     }
-}
-      
-      
-var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "region_sya_data.csv");
-      
+        if (selectedCounties.length === 0) {
+            alert('no region selected');
+            return;
+        } else {
+            reg_numstring = selectedCounties.join(",");
+        }
+
+        var querystring = "age=" + agestring + "&reg_num=" + reg_numstring + "&year=" + yearstring + "&group=" + compressed;
+
+        fetchJSONFile("https://gis.dola.colorado.gov/lookups/sya_regions?" + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
+            createtable(text);
+        });
+
+    }, false);
+
+
+    function createtable(results) {
+
+        var table = document.getElementById("resultstable");
+        table.innerHTML = ""; /*clear all previous content*/
+
+        var header = table.createTHead();
+        var hrow = header.insertRow(0);
+        var hcell1 = hrow.insertCell(0);
+        var hcell2 = hrow.insertCell(1);
+        var hcell3 = hrow.insertCell(2);
+        var hcell4 = hrow.insertCell(3);
+        var hcell5 = hrow.insertCell(4);
+        var hcell6 = hrow.insertCell(5);
+        var hcell7 = hrow.insertCell(6);
+        var hcell8 = hrow.insertCell(7);
+
+        hcell1.innerHTML = "REGION_NMBR";
+        hcell2.innerHTML = "YEAR";
+        hcell3.innerHTML = "AGE";
+        hcell4.innerHTML = "REGION";
+        hcell5.innerHTML = "MALE";
+        hcell6.innerHTML = "FEMALE";
+        hcell7.innerHTML = "TOTAL";
+        hcell8.innerHTML = "TYPE";
+
+        var body = table.appendChild(document.createElement('tbody'));
+
+        for (var i = 0; i < results.length; i++) {
+            /*age is falsy if 0, need custom fix*/
+            var pass_age = results[i].age || "";
+            if (results[i].age === 0) {
+                pass_age = "0";
+            }
+            addrow(i, results[i].reg_num || "", results[i].year || "", pass_age, results[i].region || "", results[i].malepopulation, results[i].femalepopulation, results[i].totalpopulation, results[i].datatype || "");
+        }
+
     }
+
+
+    function addrow(rownum, reg_num, year, age, region, malepopulation, femalepopulation, totalpopulation, datatype) {
+
+        var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+
+        /* Create an empty <tr> element and add it to the 1st position of the table:*/
+        var row = tableRef.insertRow(rownum);
+
+        /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        var cell3 = row.insertCell(2);
+        var cell4 = row.insertCell(3);
+        var cell5 = row.insertCell(4);
+        var cell6 = row.insertCell(5);
+        var cell7 = row.insertCell(6);
+        var cell8 = row.insertCell(7);
+
+        /* Add some text to the new cells:*/
+        cell1.innerHTML = reg_num;
+        cell2.innerHTML = year;
+        cell3.innerHTML = age;
+        cell4.innerHTML = region;
+        cell5.innerHTML = Number(malepopulation).toLocaleString();
+        cell6.innerHTML = Number(femalepopulation).toLocaleString();
+        cell7.innerHTML = Number(totalpopulation).toLocaleString();
+        cell8.innerHTML = datatype;
+
+    }
+
+
+    document.getElementById('dlcsv').addEventListener('click', function() {
+        dlcsv("resultstable", "region_sya_data.csv");
+    }, false);
   
-  
-</script>  
+</script>

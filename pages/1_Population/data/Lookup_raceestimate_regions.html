@@ -4,6 +4,7 @@ title: "Race Estimates - Regions"
 permalink: "/population/data/race-estimate-regions/"
 custom_js:
 - /assets/js/FileSaver.min.js
+- /assets/js/common/dola_custom_functions.js
 description: "Search for information on population by region, year, sex, age and race."
 years: "2011-2014"
 tag: ""
@@ -18,41 +19,15 @@ tag: ""
 
 <h2>Race by Age Estimates - Regions</h2>
 
-<a href="/population/data/race-estimate/" >Need County Data?</a><br /><br />
+<a href="/population/data/race-estimate/">Need County Data?</a><br /><br />
 <a href="/gis/colorado-regions/" target="_blank">Regions WebMap <img src="/images/map.png" /></a><br /><br />
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more regions:</label><br />
 <select id="countiesSelected" name="countiesSelected" multiple="multiple" size="5">	
-	<option value="20" selected>Denver PMSA</option>
-	<option value="21">Denver-Boulder Metro Area</option>
-	<option value="22">Denver-Boulder-Greeley CMSA</option>
-	<option value="23">10 County Denver Metro</option>
-	<option value="15">Central Mountains</option>
-	<option value="16">Eastern Plains</option>
-	<option value="17">Front Range</option>
-	<option value="18">San Luis Valley</option>
-	<option value="19">Western Slope</option>
-	<option value="1">Planning Region 1</option>
-	<option value="2">Planning Region 2</option>
-	<option value="3">Planning Region 3</option>
-	<option value="4">Planning Region 4</option>
-	<option value="5">Planning Region 5</option>
-	<option value="6">Planning Region 6</option>
-	<option value="7">Planning Region 7</option>
-	<option value="8">Planning Region 8</option>
-	<option value="9">Planning Region 9</option>
-	<option value="10">Planning Region 10</option>
-	<option value="11">Planning Region 11</option>
-	<option value="12">Planning Region 12</option>
-	<option value="13">Planning Region 13</option>
-	<option value="14">Planning Region 14</option>
-	<option value="0">Colorado</option> 
+{% include _optionValuesRegion.html %}
 </select><br /><br />
 <label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
 <select id="yearsSelected" name="yearsSelected" multiple="multiple" size="4">
-	<option value="2011">2011</option>
-	<option value="2012">2012</option>
-	<option value="2013">2013</option>
-	<option value="2014">2014</option>
+<!-- populated from database -->
 </select><br /><br />
 <label for="ageGroups" style="font-weight: bold;">Select 1 or more age groups:</label><br />
 <select id="ageGroups" name="ageGroups" multiple="multiple" size="5">
@@ -164,238 +139,177 @@ tag: ""
 	<option value="c">Age Group</option>
 	<option value="d">Race</option>
 </select><br /><br />
-    <input type="radio" name="compressed" value="" checked>Sum Male and Female&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&sex=m">Male Only&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&sex=f">Female Only&nbsp;&nbsp;&nbsp;
-  <input type="radio" name="compressed" value="&sex=b">List Male and Female<br />  
+<input type="radio" name="compressed" value="" checked>Sum Male and Female&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&sex=m">Male Only&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&sex=f">Female Only&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&sex=b">List Male and Female<br />
 <br />
-  <input type="submit" id="callapi" value="View Results" class="form-submit" />
+<input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
 <table id="resultstable"></table>
 
-
-
 <script>
   
-  var viewresults=document.getElementById('callapi');
-  
-    viewresults.onclick=function(){
-      
-    var selectedCounties = getSelectValues(countiesSelected);
-    var selectedYears = getSelectValues(yearsSelected);
-    var selectedAges = getSelectValues(ageGroups);
-    var selectedRaces = getSelectValues(raceGroups);      
-    var selectedGroupBy = getSelectValues(groupBy);        
-      
-          /*counties*/
-    if(selectedCounties.length===0){
-      alert('please choose a region selection');
-      return;
-    }
-           /*years*/
-    if(selectedYears.length===0){
-      alert('please choose one or more years');
-      return;
-    }
-          /*age*/
-    if(selectedAges.length===0){
-      alert('please choose an age group selection');
-      return;
-    }      
-          /*race*/
-    if(selectedRaces.length===0){
-      alert('please choose a race selection');
-      return;
-    }
-      
-   document.getElementById("dlcsv").style.display='inline-block';
-      
-    /* Return an array of the selected option values*/
-    function getSelectValues(select) {
-  var result = [];
-  var options = select && select.options;
-  var opt;
-
-  for (var i=0, iLen=options.length; i<iLen; i++) {
-    opt = options[i];
-
-    if (opt.selected) {
-      result.push(opt.value || opt.text);
-    }
-  }
-  return result;
-}
-
-      var compressed = document.querySelector('input[name="compressed"]:checked').value;
-
-      var groupstring = selectedGroupBy.join(",");
-     var group="";
-      
-      if(groupstring==="a"){group='opt1';}
-      if(groupstring==="b"){group='opt2';}
-      if(groupstring==="c"){group='opt3';}
-      if(groupstring==="d"){group='opt4';}
-      if(groupstring==="a,b"){group='opt5';}
-      if(groupstring==="a,c"){group='opt6';}
-      if(groupstring==="a,d"){group='opt7';}
-      if(groupstring==="b,c"){group='opt8';}
-      if(groupstring==="b,d"){group='opt9';}
-      if(groupstring==="c,d"){group='opt10';}
-      if(groupstring==="a,b,c"){group='opt11';}
-      if(groupstring==="a,b,d"){group='opt12';}      
-      if(groupstring==="a,c,d"){group='opt13';}
-      if(groupstring==="b,c,d"){group='opt14';}   
-      
-      
-      
-      var querystring = "year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&race=" + selectedRaces.join(",") + compressed + "&group=" + group;
-      
-      console.log(querystring);
-      
-   requestdata(querystring);
-      
-      
-    /*ajax request function*/
-    function requestdata(querystring){
-      
-      var xhttp = new XMLHttpRequest();
-      
-      xhttp.onreadystatechange = function() {
-        if (xhttp.readyState == 4 && xhttp.status == 200) {
-            createtable(JSON.parse(xhttp.responseText));
-          } 
-        };
-      
-      xhttp.open("GET", "https://gis.dola.colorado.gov/lookups/sya-race-estimates_regions?"+querystring, true);
-      xhttp.send();
-    }
-    
-      
-      function clookup(reg_num){
-        if(reg_num===0){return "Colorado";}
-        if(reg_num===1){return "Planning Region 1";}
-        if(reg_num===2){return "Planning Region 2";}
-        if(reg_num===3){return "Planning Region 3";}
-        if(reg_num===4){return "Planning Region 4";}
-        if(reg_num===5){return "Planning Region 5";}
-        if(reg_num===6){return "Planning Region 6";}
-        if(reg_num===7){return "Planning Region 7";}
-        if(reg_num===8){return "Planning Region 8";}
-        if(reg_num===9){return "Planning Region 9";}
-        if(reg_num===10){return "Planning Region 10";}
-        if(reg_num===11){return "Planning Region 11";}
-        if(reg_num===12){return "Planning Region 12";}
-        if(reg_num===13){return "Planning Region 13";}
-        if(reg_num===14){return "Planning Region 14";}
-        if(reg_num===15){return "Central Mountains";}
-        if(reg_num===16){return "Eastern Plains";}
-        if(reg_num===17){return "Front Range";}
-        if(reg_num===18){return "San Luis Valley";}
-        if(reg_num===19){return "Western Slope";}
-        if(reg_num===20){return "Denver PMSA";}
-        if(reg_num===21){return "Denver-Boulder Metro Area";}
-        if(reg_num===22){return "Denver-Boulder-Greeley CMSA";}
-        if(reg_num===23){return "10 County Denver Metro";}
-            
-        return undefined; /*fallback (replaces otherwise undefined)*/
-      }
-      
-      function createtable(results){
-
-          var table = document.getElementById("resultstable");
-          table.innerHTML = ""; /*clear all previous content*/
-        
-          var header = table.createTHead();
-          var hrow = header.insertRow(0);     
-          var hcell1 = hrow.insertCell(0);
-          var hcell2 = hrow.insertCell(1);
-          var hcell3 = hrow.insertCell(2);
-          var hcell4 = hrow.insertCell(3);
-          var hcell5 = hrow.insertCell(4);
-          var hcell6 = hrow.insertCell(5);        
-          var hcell7 = hrow.insertCell(6);    
-        
-          hcell1.innerHTML = "REGION";
-          hcell2.innerHTML = "REG_NUM";
-          hcell3.innerHTML = "YEAR";
-          hcell4.innerHTML = "AGE";
-          hcell5.innerHTML = "SEX";
-          hcell6.innerHTML = "RACE";
-          hcell7.innerHTML = "COUNT";
-      
-        
-          var body = table.appendChild(document.createElement('tbody'));
-        
-        
-        
-        for(var i=0;i<results.length;i++){
-          
-          var pass_age = results[i].age || "";
-          if(results[i].age===0){pass_age="0";}
-
-          
-          addrow(i,clookup(results[i].reg_num) || "", results[i].reg_num || "", results[i].year || "", pass_age, results[i].sex || "", results[i].race || "", results[i].count)
+    fetchJSONFile('https://gis.dola.colorado.gov/lookups/sya-race-estimatesYRS', function(yrs) {
+        var queriedYears = "";
+        for (let i = 0; i < yrs.length; i++) {
+            queriedYears += "<option value='" + yrs[i].year + "'>" + yrs[i].year + "</option>";
         }
-        
-        
-        function addrow(rownum, region, reg_num, year, age, sex, race, count){
-          
-          var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
-          
-          /* Create an empty <tr> element and add it to the 1st position of the table:*/
-          var row = tableRef.insertRow(rownum);
+        document.getElementById('yearsSelected').innerHTML = queriedYears;
+    });
 
-          /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
-          var cell1 = row.insertCell(0);
-          var cell2 = row.insertCell(1);
-          var cell3 = row.insertCell(2);
-          var cell4 = row.insertCell(3);
-          var cell5 = row.insertCell(4);
-          var cell6 = row.insertCell(5);
-          var cell7 = row.insertCell(6);
-          
-          /* Add some text to the new cells:*/
-          cell1.innerHTML = region;
-          cell2.innerHTML = reg_num;
-          cell3.innerHTML = year;
-          cell4.innerHTML = age;
-          cell5.innerHTML = sex;
-          cell6.innerHTML = race;
-          cell7.innerHTML = Number(count).toLocaleString();          
-          
+
+    document.getElementById('callapi').addEventListener('click', function() {
+
+        var selectedCounties = getSelectValues(countiesSelected);
+        var selectedYears = getSelectValues(yearsSelected);
+        var selectedAges = getSelectValues(ageGroups);
+        var selectedRaces = getSelectValues(raceGroups);
+        var selectedGroupBy = getSelectValues(groupBy);
+
+        if (selectedCounties.length === 0) {
+            alert('please choose a region selection');
+            return;
+        }
+        if (selectedYears.length === 0) {
+            alert('please choose one or more years');
+            return;
+        }
+        if (selectedAges.length === 0) {
+            alert('please choose an age group selection');
+            return;
+        }
+        if (selectedRaces.length === 0) {
+            alert('please choose a race selection');
+            return;
         }
 
-      }
+        var compressed = document.querySelector('input[name="compressed"]:checked').value;
 
-    
-  };
-  
-  
-    var dlcsv=document.getElementById('dlcsv');
+        var groupstring = selectedGroupBy.join(",");
+        var group = "";
 
-    dlcsv.onclick=function(){
-      
-      var csvstring="";
-      
-      var oTable = document.getElementById('resultstable');
-var rowLength = oTable.rows.length;
-for (i = 0; i < rowLength; i++){
-   var oCells = oTable.rows.item(i).cells;
-   var cellLength = oCells.length;
-   for(var j = 0; j < cellLength; j++){
-      /* get your cell info here */
-      if(j===0 && i>0){csvstring=csvstring+"\n";}
-      csvstring = csvstring + '"' + oCells.item(j).innerHTML + '"';
-     if(j< cellLength ){csvstring=csvstring+",";}
-     }
-}
-      
-      
-var blob = new Blob([csvstring], {type: "text/csv;charset=utf-8"});
-saveAs(blob, "region-raceEstimate_data.csv");
-      
+        if (groupstring === "a") {
+            group = 'opt1';
+        }
+        if (groupstring === "b") {
+            group = 'opt2';
+        }
+        if (groupstring === "c") {
+            group = 'opt3';
+        }
+        if (groupstring === "d") {
+            group = 'opt4';
+        }
+        if (groupstring === "a,b") {
+            group = 'opt5';
+        }
+        if (groupstring === "a,c") {
+            group = 'opt6';
+        }
+        if (groupstring === "a,d") {
+            group = 'opt7';
+        }
+        if (groupstring === "b,c") {
+            group = 'opt8';
+        }
+        if (groupstring === "b,d") {
+            group = 'opt9';
+        }
+        if (groupstring === "c,d") {
+            group = 'opt10';
+        }
+        if (groupstring === "a,b,c") {
+            group = 'opt11';
+        }
+        if (groupstring === "a,b,d") {
+            group = 'opt12';
+        }
+        if (groupstring === "a,c,d") {
+            group = 'opt13';
+        }
+        if (groupstring === "b,c,d") {
+            group = 'opt14';
+        }
+
+        var querystring = "year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&race=" + selectedRaces.join(",") + compressed + "&group=" + group;
+
+        fetchJSONFile("https://gis.dola.colorado.gov/lookups/sya-race-estimates_regions?" + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
+            createtable(text);
+        });
+
+    }, false);
+
+
+    function createtable(results) {
+
+        var table = document.getElementById("resultstable");
+        table.innerHTML = ""; /*clear all previous content*/
+
+        var header = table.createTHead();
+        var hrow = header.insertRow(0);
+        var hcell1 = hrow.insertCell(0);
+        var hcell2 = hrow.insertCell(1);
+        var hcell3 = hrow.insertCell(2);
+        var hcell4 = hrow.insertCell(3);
+        var hcell5 = hrow.insertCell(4);
+        var hcell6 = hrow.insertCell(5);
+        var hcell7 = hrow.insertCell(6);
+
+        hcell1.innerHTML = "REGION";
+        hcell2.innerHTML = "REG_NUM";
+        hcell3.innerHTML = "YEAR";
+        hcell4.innerHTML = "AGE";
+        hcell5.innerHTML = "SEX";
+        hcell6.innerHTML = "RACE";
+        hcell7.innerHTML = "COUNT";
+
+        var body = table.appendChild(document.createElement('tbody'));
+
+        for (var i = 0; i < results.length; i++) {
+            var pass_age = results[i].age || "";
+            if (results[i].age === 0) {
+                pass_age = "0";
+            }
+            addrow(i, rlookup(results[i].reg_num) || "", results[i].reg_num || "", results[i].year || "", pass_age, results[i].sex || "", results[i].race || "", results[i].count);
+        }
+
     }
+
+
+    function addrow(rownum, region, reg_num, year, age, sex, race, count) {
+
+        var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+
+        /* Create an empty <tr> element and add it to the 1st position of the table:*/
+        var row = tableRef.insertRow(rownum);
+
+        /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        var cell3 = row.insertCell(2);
+        var cell4 = row.insertCell(3);
+        var cell5 = row.insertCell(4);
+        var cell6 = row.insertCell(5);
+        var cell7 = row.insertCell(6);
+
+        /* Add some text to the new cells:*/
+        cell1.innerHTML = region;
+        cell2.innerHTML = reg_num;
+        cell3.innerHTML = year;
+        cell4.innerHTML = age;
+        cell5.innerHTML = sex;
+        cell6.innerHTML = race;
+        cell7.innerHTML = Number(count).toLocaleString();
+
+    }
+
+
+    document.getElementById('dlcsv').addEventListener('click', function() {
+        dlcsv("resultstable", "region-raceEstimate_data.csv");
+    }, false);
   
-  
-</script>  
+</script>

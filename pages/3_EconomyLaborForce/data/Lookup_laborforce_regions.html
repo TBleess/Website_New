@@ -116,6 +116,8 @@ tag: ""
         var querystring = "year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + compressed + "&group=" + group;
 
         fetchJSONFile("https://gis.dola.colorado.gov/lookups/labor-force_region?" + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
         });
 
@@ -184,8 +186,6 @@ tag: ""
         cell8.innerHTML = (Number(participationrate * 100).toFixed(2)).toLocaleString();
     }
 
-
-    document.getElementById("dlcsv").style.display = 'inline-block';
 
     document.getElementById('dlcsv').addEventListener('click', function() {
         dlcsv("resultstable", "region-laborForce_data.csv");

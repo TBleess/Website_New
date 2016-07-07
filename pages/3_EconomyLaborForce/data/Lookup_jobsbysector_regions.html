@@ -68,6 +68,8 @@ tag: ""
         var querystring = "reg_num=" + selectedCounties.join(",") + "&year=" + selectedYears.join(",");
 
         fetchJSONFile("https://gis.dola.colorado.gov/lookups/jobs_region?" + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
         });
 
@@ -414,8 +416,6 @@ tag: ""
 
     }
 
-
-    document.getElementById("dlcsv").style.display = 'inline-block';
 
     document.getElementById('dlcsv').addEventListener('click', function() {
         dlcsv("resultstable", "region_jobsBySector_data.csv");

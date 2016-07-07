@@ -61,6 +61,7 @@ tag: "hhdata"
 
 
 <script>
+  
     fetchJSONFile('https://gis.dola.colorado.gov/lookups/householdYRS', function(yrs) {
         var queriedYears = "";
         for (let i = 0; i < yrs.length; i++) {
@@ -158,6 +159,8 @@ tag: "hhdata"
         var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&household=" + selectedHouseholdType.join(",") + "&group=" + group;
 
         fetchJSONFile('https://gis.dola.colorado.gov/lookups/household?' + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
         });
 

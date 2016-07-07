@@ -120,6 +120,8 @@ tag: "econdata"
         var querystring = "year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + compressed + "&group=" + group;
 
         fetchJSONFile("https://gis.dola.colorado.gov/lookups/labor-force?" + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
         });
 
@@ -189,9 +191,8 @@ tag: "econdata"
     }
 
 
-    document.getElementById("dlcsv").style.display = 'inline-block';
-
     document.getElementById('dlcsv').addEventListener('click', function() {
         dlcsv("resultstable", "county-laborForce_data.csv");
     }, false);
+  
 </script>

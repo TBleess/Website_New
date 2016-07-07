@@ -46,10 +46,7 @@ tag: "bdmdata"
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
 <table id="resultstable"></table>
 
-
-
 <script>
-  
   
     fetchJSONFile('https://gis.dola.colorado.gov/lookups/componentYRS', function(yrs) {
         var queriedYears = "";
@@ -76,22 +73,25 @@ tag: "bdmdata"
             alert('please choose one or more years');
             return;
         }
-      
+
         document.getElementById("dlcsv").style.display = 'inline-block';
         var compressed = document.querySelector('input[name="compressed"]:checked').value;
         var querystring = "https://gis.dola.colorado.gov/lookups/components?year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + compressed;
-      
+
         fetchJSONFile(querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
         });
-      
+
     };
 
+
     function createtable(results) {
-      
+
         var table = document.getElementById("resultstable");
         table.innerHTML = ""; /*clear all previous content*/
-      
+
         var header = table.createTHead();
         var hrow = header.insertRow(0);
         var hcell1 = hrow.insertCell(0);
@@ -121,7 +121,6 @@ tag: "bdmdata"
         }
 
     }
-
 
 
     function addrow(rownum, county, countyfips, year, population, change, births, deaths, netmig, datatype) {

@@ -61,6 +61,8 @@ tag: ""
         var querystring = "county=" + selectedCounties.join(",");
 
         fetchJSONFile("https://gis.dola.colorado.gov/lookups/base-analysis?" + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
         });
 
@@ -161,8 +163,6 @@ tag: ""
 
     }
 
-
-    document.getElementById("dlcsv").style.display = 'inline-block';
 
     document.getElementById('dlcsv').addEventListener('click', function() {
         dlcsv("resultstable", "region_baseAnalysis_data.csv");

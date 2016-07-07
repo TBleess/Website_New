@@ -70,6 +70,8 @@ tag: "econdata"
         var querystring = "county=" + selectedCounties.join(",") + "&year=" + selectedYears.join(",");
 
         fetchJSONFile("https://gis.dola.colorado.gov/lookups/jobs?" + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
         });
 
@@ -419,9 +421,8 @@ tag: "econdata"
     }
 
 
-    document.getElementById("dlcsv").style.display = 'inline-block';
-
     document.getElementById('dlcsv').addEventListener('click', function() {
         dlcsv("resultstable", "jobsBySector_data.csv");
     }, false);
+  
 </script>

@@ -43,6 +43,7 @@ tag: ""
 
 
 <script>
+  
     fetchJSONFile('https://gis.dola.colorado.gov/lookups/componentYRS', function(yrs) {
         var queriedYears = "";
         for (let i = 0; i < yrs.length; i++) {
@@ -70,6 +71,8 @@ tag: ""
         var querystring = "year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") + compressed;
 
         fetchJSONFile("https://gis.dola.colorado.gov/lookups/components_region?" + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
         });
 
@@ -143,8 +146,6 @@ tag: ""
 
     }
 
-
-    document.getElementById("dlcsv").style.display = 'inline-block';
 
     document.getElementById('dlcsv').addEventListener('click', function() {
         dlcsv("resultstable", "region-componentsChange_data.csv");
