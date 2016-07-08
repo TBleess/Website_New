@@ -20,7 +20,7 @@ In the spreadsheets the region total is listed first followed by the counties wi
 
 #### Jobs and Labor Force
 
-[Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://console.cloud.google.com/m/cloudstorage/b/maps-static/o/PlanningManagement8x11.pdf)   
+[Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)   
 
 - [State](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESWnJrREZ2ank3QWc)
 - [Regions 1 through 8](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESR3k2TW1ZN0J5bTQ)

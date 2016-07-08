@@ -25,23 +25,23 @@ description: "Download GIS data produced by the Colorado State Demography Office
 
 #### Boundaries
 
-- [Municipal Boundaries](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/MuniBounds.zip)
-- [Annexations](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Annexations.zip)
-- [DeAnnexations](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/DeAnnexations.zip)
-- [Boundary-Annexation Hybrid](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Web_Annexations.zip)
+- [Municipal Boundaries](https://storage.googleapis.com/co-publicdata/MuniBounds.zip)
+- [Annexations](https://storage.googleapis.com/co-publicdata/Annexations.zip)
+- [DeAnnexations](https://storage.googleapis.com/co-publicdata/DeAnnexations.zip)
+- [Boundary-Annexation Hybrid](https://storage.googleapis.com/co-publicdata/Web_Annexations.zip)
 - Region Boundaries
-  - [DOLA Field Regions](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Field_Regions.zip)
-  - [Planning and Management Regions](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Planning_Regions.zip)
-- [Special Districts (all)](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlall.zip)
-  - [Metropolitan Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlmetro.zip)
-  - [Park and Recreation Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlpark.zip)
-  - [Fire Protection Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlfire.zip)
-  - [Hospital Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlhospital.zip)
-  - [Water and Sanitation Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlwatersan.zip)
-  - [Library Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dllibrary.zip)
-  - [School Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlschool.zip)
-  - [Soil Conservation Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlsoil.zip)
-  - [Cemetary Districts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/dlcemetary.zip)
+  - [DOLA Field Regions](https://storage.googleapis.com/co-publicdata/Field_Regions.zip)
+  - [Planning and Management Regions](https://storage.googleapis.com/co-publicdata/Planning_Regions.zip)
+- [Special Districts (all)](https://storage.googleapis.com/co-publicdata/dlall.zip)
+  - [Metropolitan Districts](https://storage.googleapis.com/co-publicdata/dlmetro.zip)
+  - [Park and Recreation Districts](https://storage.googleapis.com/co-publicdata/dlpark.zip)
+  - [Fire Protection Districts](https://storage.googleapis.com/co-publicdata/dlfire.zip)
+  - [Hospital Districts](https://storage.googleapis.com/co-publicdata/dlhospital.zip)
+  - [Water and Sanitation Districts](https://storage.googleapis.com/co-publicdata/dlwatersan.zip)
+  - [Library Districts](https://storage.googleapis.com/co-publicdata/dllibrary.zip)
+  - [School Districts](https://storage.googleapis.com/co-publicdata/dlschool.zip)
+  - [Soil Conservation Districts](https://storage.googleapis.com/co-publicdata/dlsoil.zip)
+  - [Cemetary Districts](https://storage.googleapis.com/co-publicdata/dlcemetary.zip)
 
 ----
 
@@ -65,30 +65,30 @@ description: "Download GIS data produced by the Colorado State Demography Office
 #### Census and ACS
 
 - 2010-2014 American Community Survey (with demographic characteristics)
-  - [Block Groups](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/ACS1014_bg.zip)
-  - [Tracts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/ACS1014_tract.zip)
-  - [Counties](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/ACS1014_county.zip)
-  - [Places](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/ACS1014_place.zip)
-  - [ZIP](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/ACS1014_zcta.zip)
+  - [Block Groups](https://storage.googleapis.com/co-publicdata/ACS1014_bg.zip)
+  - [Tracts](https://storage.googleapis.com/co-publicdata/ACS1014_tract.zip)
+  - [Counties](https://storage.googleapis.com/co-publicdata/ACS1014_county.zip)
+  - [Places](https://storage.googleapis.com/co-publicdata/ACS1014_place.zip)
+  - [ZIP](https://storage.googleapis.com/co-publicdata/ACS1014_zcta.zip)
 
 - 2010 US Census (with demographic characteristics)
-  - [Blocks](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Blocks%202010.zip)
-  - [Block Groups](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Block%20Groups%202010.zip)
-  - [Tracts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Tracts%202010.zip)
-  - [Counties](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Counties%202010.zip)
-  - [Places](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Places%202010.zip)
-  - [ZIP](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/Census%20Zipcodes%202010.zip)
+  - [Blocks](https://storage.googleapis.com/co-publicdata/Census%20Blocks%202010.zip)
+  - [Block Groups](https://storage.googleapis.com/co-publicdata/Census%20Block%20Groups%202010.zip)
+  - [Tracts](https://storage.googleapis.com/co-publicdata/Census%20Tracts%202010.zip)
+  - [Counties](https://storage.googleapis.com/co-publicdata/Census%20Counties%202010.zip)
+  - [Places](https://storage.googleapis.com/co-publicdata/Census%20Places%202010.zip)
+  - [ZIP](https://storage.googleapis.com/co-publicdata/Census%20Zipcodes%202010.zip)
 
 ----
 
 #### Other
 
-- [Colorado Main Street Communities](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/CO_Main_Street.zip)
+- [Colorado Main Street Communities](https://storage.googleapis.com/co-publicdata/CO_Main_Street.zip)
 - HUD Low and Moderate Income Data
-  - [Block Groups](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/lm_bg.zip)
-  - [Tracts](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/lm_tr.zip)
-  - [Counties](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/lm_cnty.zip)
-  - [Places](https://console.cloud.google.com/m/cloudstorage/b/co-publicdata/o/lm_pl.zip)
+  - [Block Groups](https://storage.googleapis.com/co-publicdata/lm_bg.zip)
+  - [Tracts](https://storage.googleapis.com/co-publicdata/lm_tr.zip)
+  - [Counties](https://storage.googleapis.com/co-publicdata/lm_cnty.zip)
+  - [Places](https://storage.googleapis.com/co-publicdata/lm_pl.zip)
 
 ----
 
