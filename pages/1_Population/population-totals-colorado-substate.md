@@ -30,7 +30,7 @@ Population estimates are produced annually by the State Demography Office. The m
 
 This option allows the user to select any combination of state, counties or municipalities for the year(s) of 1980, 1990 to current.
 
-[County Profile:](/population/data/county-profile#county-demographic-profiles)
+[County Profile:](/population/data/profile-county/)
 
 The County Profile database allows the user to select population estimates along with other variables, for years 1985 to present.
 
