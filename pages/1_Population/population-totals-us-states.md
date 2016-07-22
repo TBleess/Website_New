@@ -29,4 +29,4 @@ These data are produced by the [U.S. Census Bureau](http://www.census.gov/popest
 
 #### Population Forecasts - years
 
-Population projections are produced by the [U.S. Census Bureau](http://www.census.gov/popest/estimates.html) for the U.S. and States from 1999 to 2100.
+Population projections are produced by the [U.S. Census Bureau](http://www.census.gov/population/projections/) for the U.S. and States from 1999 to 2100.
