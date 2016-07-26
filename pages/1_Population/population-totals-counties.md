@@ -45,4 +45,4 @@ These tables illustrate the population for future years, based on plausible cour
 - [5 year increments, 2000 - 2050 ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESV1NLOHZCVXoyVm8)
 - [1 year increments, 2000 - 2050 ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESdkNHSng2VGlEc1k)
 
-[Population Forecasts By Age & Gender](/population/data/county-sya#county-population-by-single-year-of-age)
+[Population Forecasts By Age & Gender](/population/data/sya-county/#county-population-by-single-year-of-age)
