@@ -1,7 +1,7 @@
 ---
 title: Colorado Demography Homepage
 layout: homepage
-permalink: /tempindex.html
+permalink: /index.html
 description: "The Colorado State Demography Office provides demographic and economic information for Regions, Counties, and Communities in Colorado."
 
 --- 
