@@ -1,11 +1,10 @@
 ---
-
 layout: page
-title: "Publications and Presentations"
-permalink: "/demography/publications-and-presentations/"
-datalink: "/data"
-description: "Recent Publications and Presentations by the Colorado State Demography Office"
-
+title: Publications and Presentations
+permalink: /demography/publications-and-presentations/
+datalink: /data
+description: Recent Publications and Presentations by the Colorado State Demography Office
+published: true
 ---
 
 ## Publications and Presentations
@@ -47,6 +46,7 @@ description: "Recent Publications and Presentations by the Colorado State Demogr
 #### Community Profiles
 
 - [Baca county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESczA5eEd6MVpCWFk)
+- [Berthoud town (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B-vz6H4k4SESN29PZnRTdG9mdlE)
 - [Bent county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQk5vb2xkRDFKblU)
 - [Brighton city (2/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7UG1iQW10Y3hnQm8)
 - [Buena Vista town (6/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaFRTanpiYnBJalU)
