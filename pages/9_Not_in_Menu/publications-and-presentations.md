@@ -48,7 +48,7 @@ published: true
 - [Baca county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESczA5eEd6MVpCWFk)
 - [Berthoud town (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESN29PZnRTdG9mdlE)
 - [Bent county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQk5vb2xkRDFKblU)
-- [Boulder county (9/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/0B-yjImPUKASTTaFFjRnlSRGNXUEk/view?usp=sharing)
+- [Boulder county (9/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
 - [Brighton city (2/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7UG1iQW10Y3hnQm8)
 - [Buena Vista town (6/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaFRTanpiYnBJalU)
 - [Burlington town (6/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaFRTanpiYnBJalU)
