@@ -15,7 +15,7 @@ description: "Download GIS data produced by the Colorado State Demography Office
 
 <div style="text-align: center;" markdown="1">
 
-**GIS Data**:  [Boundaries](#boundaries) \| [DOLA Grants](#dola-grants-since-2010) \| [Census and ACS](#census-and-acs) \| [Other](#other)
+**GIS Data**:  [Boundaries](#boundaries) \| [DOLA Grants](#dola-grants-since-2010---csv) \| [Census and ACS](#census-and-acs) \| [Other](#other)
 
 </div>
 
