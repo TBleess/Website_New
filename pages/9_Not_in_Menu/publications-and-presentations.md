@@ -62,6 +62,8 @@ published: true
 - [De Beque town (5/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7N2ZYUjU5emozWVE)
 - [Delta city (3/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7RVFWU2R3ckItWTQ)
 - [Delta county (3/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7bERzclp4NW8yVGc)
+- [Durango city (4/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0Bvz6H4k4SESZXJjZXdmUzVxbDQ)
+- [Eagle county (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
 - [El Paso county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESX2FLdU52OERleG8)
 - [Elbert county (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESOG9SVEtaNkE0S0k)
 - [Elizabeth county (12/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
