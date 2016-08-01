@@ -45,7 +45,7 @@ published: true
  
 #### Community Profiles
 
-- [Baca county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESczA5eEd6MVpCWFk)
+- A[Baca county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESczA5eEd6MVpCWFk)
 - [Berthoud town (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B-vz6H4k4SESN29PZnRTdG9mdlE)
 - [Bent county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQk5vb2xkRDFKblU)
 - [Boulder county (9/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
@@ -72,6 +72,7 @@ published: true
 - [Olathe town (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSncxaG0zaVBaVnM)
 - [Otero county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQUZSQkhJcDNhM1U)
 - [Prowers county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUG1jbFNKSFJTSXc)
+- [Red Cliff town (5/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
 - [Ridgway town (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SEST1VXTEE5VU5nXzQ)
 - [Trinidad city (3/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7dHV4S2xBb1NLWGs)
 - [Snowmass town (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYUNlZjRSYkNyWFU)
