@@ -54,6 +54,8 @@ published: true
 - [Burlington town (6/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaFRTanpiYnBJalU)
 - [Central City city (4/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
 - [Cheyenne county (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaWpUWFNKTDM2czg)
+- [Cheyenne Wells town (6/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
+- [Clear Creek county (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
 - [Creede city (3/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7b1JPNDBWdExmSUE)
 - [Crowley county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESRXhnWVFKQ3R1Qmc)
 - [De Beque town (5/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7N2ZYUjU5emozWVE)
