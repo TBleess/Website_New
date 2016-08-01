@@ -68,6 +68,7 @@ published: true
 - [Elbert county (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESOG9SVEtaNkE0S0k)
 - [Elizabeth town (12/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
 - [Estes Park town (4/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
+- [Flagler town (7/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
 - [Jamestown town (4/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7WWRBM3JFYTN1dG8)
 - [Kiowa county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSjFWZ0Q0VHAzOUk)
 - [Kit Carson county (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYlFJemcycnNXem8)
