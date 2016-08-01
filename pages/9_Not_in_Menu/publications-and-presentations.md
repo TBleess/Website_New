@@ -45,7 +45,7 @@ published: true
  
 #### Community Profiles
 
-- A[Baca county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESczA5eEd6MVpCWFk)
+- [Baca county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESczA5eEd6MVpCWFk)
 - [Berthoud town (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B-vz6H4k4SESN29PZnRTdG9mdlE)
 - [Bent county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQk5vb2xkRDFKblU)
 - [Boulder county (9/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
