@@ -107,8 +107,10 @@ published: true
 - [Weld county (6/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZXJjZXdmUzVxbDQ)
 - [Wellington town (6/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESWUFCclhoaGZ1aWs)
 - [Westcliffe town (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESd2NTbUxFUGxxMlU)
+- [Woodland Park city (4/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESVkcyVG9yTkJUYms)
 - [Wray town (5/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7T19QZUY3WEpqeTA)
 - [Victor town (3/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESX0J6QVZoVWRtQUU)
+- [Yuma county (6/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc)
 
 
 
