@@ -1,11 +1,10 @@
 ---
-
 layout: page
-title: "Training"
-permalink: "/demography/training/"
-datalink: "/data"
-description: "Training resources provided by the Colorado State Demography Office."
-
+title: Training
+permalink: /demography/training/
+datalink: /data
+description: Training resources provided by the Colorado State Demography Office.
+published: true
 ---
 
 ## Training
@@ -18,10 +17,9 @@ The State Demography Office periodically offers training sessions on a variety o
 
 #### Upcoming Trainings
 
-To register, please email [barbara.musick@state.co.us ![email](/images/email_link.png 'send email')](mailto:barbara.musick@state.co.us) and specify which training you\'re interested in.
+To register, click on the link below. If you'd like to request a training, please email [barbara.musick@state.co.us ![email](/images/email_link.png 'send email')](mailto:barbara.musick@state.co.us) and specify which training you're interested in.
 
-- American FactFinder Overview (Webinar, 45 minutes) Coming soon!
-- State Demography Office Overview (Webinar, 60 minutes) Coming soon!
+- [Website 101](https://www.eventbrite.com/e/demography-website-101-tickets-26887410970), Tuesday August 9 from 2:00 to 3:00 pm 
 
 - - -
 
@@ -48,4 +46,3 @@ The following webinar-based trainings are available for view with commentary. Wh
 
 - [American FactFinder Quick FAQ](/census-acs/census-data-aff-faq#american-fact-finder---frequently-asked-questions)
 - [American FactFinder FAQs (census.gov)](https://ask.census.gov/faq.php?dept=769&id=5000)
-
