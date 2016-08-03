@@ -1,11 +1,10 @@
 ---
-
 layout: page
-title: "Population Totals Counties"
-permalink: "/population/population-totals-counties/"
-datalink: "/population/data"
-description: "Population data for Colorado Counties"
-
+title: Population Totals Counties
+permalink: /population/population-totals-counties/
+datalink: /population/data
+description: Population data for Colorado Counties
+published: true
 ---
 
 ## Population Totals for Colorado Counties
@@ -31,7 +30,7 @@ Population estimates are produced annually by the State Demography Office. The m
 [User Lookup:](/population/data/muni-pop-housing/) 
 This option allows the user to select any combination of counties or municipalities for the year 2014.
 
-[County Profile:](/population/data/county-profile#county-demographic-profiles)
+[County Profile:](/population/data/profile-county/)
 The County Profile database allows the user to select population estimates along with other variables, for years 1985 to current.
 
 - - -
