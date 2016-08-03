@@ -7,7 +7,7 @@
 - name: "Infographics"
   url: "/demography/infographics#infographics"
 - name: "Demographic Profiles"
-  url: "/demography/demographic-profiles#demographic-profiles"  
+  url: "population/data/profile-county/"  
 - name: "Training"
   url: "/demography/training#training"
 - name: "CTF Population Info"
