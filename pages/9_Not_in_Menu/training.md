@@ -17,9 +17,9 @@ The State Demography Office periodically offers training sessions on a variety o
 
 #### Upcoming Trainings
 
-To register, click on the link below. If you'd like to request a training, please email [barbara.musick@state.co.us ![email](/images/email_link.png 'send email')](mailto:barbara.musick@state.co.us) and specify which training you're interested in.
+To register, click on the link below. 
 
-- [Website 101](https://www.eventbrite.com/e/demography-website-101-tickets-26887410970), Tuesday August 9 from 2:00 to 3:00 pm 
+- [Website 101](https://www.eventbrite.com/e/demography-website-101-tickets-26887410970) Webinar, Tuesday August 9 from 2:00 to 3:00 pm 
 
 - - -
 
