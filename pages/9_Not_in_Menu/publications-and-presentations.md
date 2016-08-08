@@ -61,7 +61,7 @@ published: true
 - [Crowley county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESRXhnWVFKQ3R1Qmc)
 - [De Beque town (5/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7N2ZYUjU5emozWVE)
 - [Delta city (3/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7RVFWU2R3ckItWTQ)
-- [Delta county (8/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7bERzclp4NW8yVGc)
+- [Delta county (8/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZmpoMWpVOFRMZDA)
 - [Durango city (4/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESV1p1eFl5TmVEMGs)
 - [Eagle county (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESMDN0M3hqMmV5eWM)
 - [El Paso county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESX2FLdU52OERleG8)
