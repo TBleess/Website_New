@@ -98,6 +98,7 @@ published: true
 - [Red Cliff town (5/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTMm56SzJWanV4ZFk)
 - [Ridgway town (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SEST1VXTEE5VU5nXzQ)
 - [Rifle city (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQXRIWDJET3cydzA)
+- [Rio Blanco county (8/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZEgyeWVWdEUxUFE)
 - [Snowmass town (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYUNlZjRSYkNyWFU)
 - [Steamboat Springs city (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESVFFsNXExWTNhZjQ)
 - [Sterling city (6/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SEST3dyam5fLW9ZZ28)
