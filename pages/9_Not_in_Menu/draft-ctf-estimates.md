@@ -1,10 +1,9 @@
 ---
-
 layout: page
-title: "Draft CTF Estimates"
-permalink: "/demography/draft-ctf-estimates/"
-description: "Colorado Conservation Trust Fund Estimates Page"
-
+title: Draft CTF Estimates
+permalink: /demography/draft-ctf-estimates/
+description: Colorado Conservation Trust Fund Estimates Page
+published: true
 ---
 
 # Draft 2014 CTF Population Estimates
@@ -41,6 +40,10 @@ Thank you for your assistance and cooperation.
 ---
 
 **TABLE 3:** In [Table 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/ctf_draft/table3.pdf), the municipal estimates are broken down into household and group quarters populations, and calculation of the implied vacancy rate is shown. Definitions for each column are given at the bottom of each page.
+
+---
+
+**TABLE 4:** [Table 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')]() contains population estimates for each Conservation Trust Fund receiving district and the various parts of each district. The estimates are broken down into household and group quarters populations, and calculation of the implied vacancy rate is shown. Definitions for each column are given at the bottom of each page.
 
 ---
 
