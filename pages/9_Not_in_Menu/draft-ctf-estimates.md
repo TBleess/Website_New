@@ -27,7 +27,7 @@ Thank you for your assistance and cooperation.
 
 ---
 
-**TABLE 1:** Table 1 provides April 2010 Census, Adjusted April 1, 2010 Census through July 1, 2014 estimates of county population. It also includes components of change from July 1, 2012-2014 along with symptomatic data.
+**TABLE 1:** Table 1 provides April 2010 Census, Adjusted April 1, 2010 Census through July 1, 2015 estimates of county population. It also includes components of change from July 1, 2012-2015 along with symptomatic data.
 
 {% include _draftCTF_tbl1.html %}
 
