@@ -43,7 +43,7 @@ Thank you for your assistance and cooperation.
 
 ---
 
-**TABLE 4:** [Table 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')]() contains population estimates for each Conservation Trust Fund receiving district and the various parts of each district. The estimates are broken down into household and group quarters populations, and calculation of the implied vacancy rate is shown. Definitions for each column are given at the bottom of each page.
+**TABLE 4:** [Table 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B_M7zgfu2piFWkZ6YWFmaHV4MVU) contains population estimates for each Conservation Trust Fund receiving district and the various parts of each district. The estimates are broken down into household and group quarters populations, and calculation of the implied vacancy rate is shown. Definitions for each column are given at the bottom of each page.
 
 ---
 
