@@ -16,7 +16,7 @@ The July 1, 2014 estimates are based on the April 1st, 2010 census plus annual d
 
 Counties and municipalities should review Table 2 in particular (Municipalities in Multiple Counties should look at the “Multi-County” file to see their total estimates).
 
-Local governments are provided thirty (30) days in which they can review and challenge the population estimate for their entity. In order to file a challenge, you must send a letter to **Tamra Norton, Conservation Trust Fund Administrator, 1313 Sherman St., Room 521, Denver, CO 80203** or [tamra.hooper@state.co.us ![email](/images/email_link.png 'send email')](mailto:tamra.hooper@state.co.us), no later than July 1, 2015. The letter should indicate your concern about the estimate, describe the basis of your concern with supporting data, if possible, and the name of a contact person that staff can work with to resolve any differences.
+Local governments are provided thirty (30) days in which they can review and challenge the population estimate for their entity. In order to file a challenge, you must send a letter to **Bret Hillberry, Conservation Trust Fund Administrator, 1313 Sherman St., Room 521, Denver, CO 80203** or [bret.hillberry@state.co.us  ![email](/images/email_link.png 'send email')](mailto:bret.hillberry@state.co.us ), no later than July 1, 2015. The letter should indicate your concern about the estimate, describe the basis of your concern with supporting data, if possible, and the name of a contact person that staff can work with to resolve any differences.
 
 Please send questions to Rob Kemp at 303-864-7755, [robert.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:robert.kemp@state.co.us).  
 
