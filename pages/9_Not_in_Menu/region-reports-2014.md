@@ -1,11 +1,10 @@
 ---
-
 layout: page
-title: "Region Reports 2014"
-permalink: "/demography/region-reports-2014/"
-datalink: "/data"
-description: "Colorado Planning Region Reports - 2014"
-
+title: Region Reports 2015
+permalink: /demography/region-reports-2014/
+datalink: /data
+description: Colorado Planning Region Reports - 2014
+published: true
 ---
 
 <br />
@@ -14,7 +13,7 @@ description: "Colorado Planning Region Reports - 2014"
 
 <br />
 
-<p><strong>2014 Region Reports </strong>: In conjunction with regional organizations, the State Demography Office produces Region Reports each year, which are designed to give the reader a broad understanding of the issues facing that region, their recent accomplishments and upcoming goals.</p>
+<p><strong>2015 Region Reports </strong>: In conjunction with regional organizations, the State Demography Office produces Region Reports each year, which are designed to give the reader a broad understanding of the issues facing that region, their recent accomplishments, and upcoming goals.</p>
 
 <select id="regrpt" size="1">
 <option value="" selected="selected">Select A Region</option>
