@@ -17,7 +17,7 @@ published: true
 
 <select id="regrpt" size="1">
 <option value="" selected="selected">Select A Region</option>
-<option value="https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/presentations_publications/reports/region1.pdf">Region 1</option>
+<option value="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTLVFRTDBzN3h6MW8">Region 1</option>
 <option value="https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/presentations_publications/reports/region2.pdf">Region 2</option>
 <option value="https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/presentations_publications/reports/region3.pdf">Region 3</option>
 <option value="https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/presentations_publications/reports/region4.pdf">Region 4</option>
