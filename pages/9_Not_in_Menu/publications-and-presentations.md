@@ -28,6 +28,7 @@ published: true
 
 #### Publications and Reports
 
+- [Region Reports (2015)](/demography/region-reports-2014/)
 - [What Paradox? Educational Attainment by Place of Birth ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7RDloZG45V2JmNmc)
 - [Colorado Migration ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7TVRiYlI5RnR0Tms)
 - [Infographics](/demography/infographics#infographics)
@@ -36,7 +37,6 @@ published: true
 - [\"Social Generations\" (2014) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7dU9uVzdzaE84c0k)
 - [Colorado Economic Update (2014) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7X2ttZkplOTRRczQ)
 - [2012 Jobs Estimates Summary  (2013) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7MEVncWlCVmNEVE0)
-- [Region Profiles & Reports](/demography/region-reports-2014/)
 - [Aging in Colorado (July 2012) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7NnhnQnVhWHdJV1E)
 - [Cost of Living Differentials in Colorado (2007) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7NE1XNDVrN2tBelE)
 
