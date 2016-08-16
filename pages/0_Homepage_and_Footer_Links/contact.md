@@ -1,11 +1,10 @@
 ---
-
 layout: page
-title: "Contact"
-description: "Need Help? Contact the Colorado State Demography Office."
-permalink: "/contact/"
-datalink: "/data"
-    
+title: Contact
+description: Need Help? Contact the Colorado State Demography Office.
+permalink: /contact/
+datalink: /data
+published: true
 ---
 ## Contact Us
 - - -
@@ -44,7 +43,7 @@ Economic Data & Analysis, Economic & Demographic Relationships
 
 **Position Open**  
 GIS DEVELOPER  
-Phone: 303-864-7754  
+<!--Phone: 303-864-7754  
 <!--[daniel.trone@state.co.us ![email](/images/email_link.png 'send email')](mailto:daniel.trone@state.co.us)  -->
 Geographic Information Systems Design, Analysis, Development, Mapping support, GIS Technical Support  
 
@@ -52,4 +51,4 @@ Geographic Information Systems Design, Analysis, Development, Mapping support, G
 MARKETING & DATA MANAGEMENT  
 Phone: 303-864-7753  
 [barbara.musick@state.co.us ![email](/images/email_link.png 'send email')](mailto:barbara.musick@state.co.us)  
-Census & ACS Data, Data Requests, User Training, Product Development, Demography Webmaster  
+Census & ACS Data, Data Requests, User Training, Product Development, Demography Webmaster
