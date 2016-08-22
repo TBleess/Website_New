@@ -16,17 +16,18 @@ description: "A collection of resources for 2000 Census Data."
 
 [2000 to 2010 Race and Ethnic Comparisons by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B5RRfcb8KXAsSXdLaEhmclRyelk). View population changes from 2000 to 2010 including absolute and percent changes for the total population and 18+. Please note this Excel file has multiple tabs.
 
-[Demographic Profiles](https://dola.colorado.gov/demog-cms/content/census-demographic-profiles). There are four pages of census data available through the Demographic Profiles, labeled (DP1-DP4). For Census 2000 data, the DP1 tables is available as part of the Summary File 1 (SF1) data set, and the other three pages are available as part of the Summary File 3 (SF3) data set. Includes information on employment, income, poverty, school enrollment and educational attainment. Data is available for the state, counties and municipalities.
+**Demographic Profiles** There are four different profiles available.  You can change or add geographies using the "Add/Remove Geographies" button to change to anywhere in the US.
 
-[Topics by Geography](https://dola.colorado.gov/demog_webapps/ctParameters.jsf). If you're looking for a table that highlights a particular census topic (i.e. income, poverty or education) by counties or municipalities then you might want to try this site. Tables are available in excel or pdf format.
+* [DP1](http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/0400000US08) - General Demographic Characteristics 2000
+* [DP2](http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF3/DP2/0400000US08) - Selected Social Characteristics 2000
+* [DP3](http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF3/DP3/0400000US08) - Selected Economic Characteristics 2000
+* [DP4](http://factfinder.census.gov/bkmk/table/1.0/en/DEC/00_SF3/DP2/0400000US08) - Selected Housing Characteristics 2000
 
-[Quick Tables](https://dola.colorado.gov/demog-cms/content/census-quick-tables). These pdf documents break Census 2000 data down to specific subject modules. These modules outline specific socio-economic characteristics of the population at a county level only. Modules vary in size and subject detail.
+**Census for Colorado School Districts** Census data for school districts can be found at the [National Center for Education Statistics (NCES)](http://nces.ed.gov/surveys/sdds/index.aspx). Also, the [Colorado Department of Education](http://www.cde.state.co.us/) provides data on Colorado School Districts.
 
-[Create Your Own Table](https://dola.colorado.gov/demog_webapps/ccTopic.jsf). This option is available for those users who would like to create their own tables using selected variables. This data is available for all counties and municipalities.
+**Don't see what you want?** [American Fact Finder](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) Contains all Census and American Community Survey data from 2000 forward.  
+We've provided an instructional material and training [here](https://demography.dola.colorado.gov/demography/training/).
 
-[1990 & 2000 Demographic Trends](https://dola.colorado.gov/demog-cms/content/demographic-trends). This one page outlines basic data from the 1990 and 2000 Census for Colorado counties and municipalities.
-
-[Census for Colorado School Districts](http://nces.ed.gov/surveys/sdds/index.aspx). Census data for school districts can be found at the National Center for Education Statistics (NCES). Also, the [Colorado Department of Education](http://www.cde.state.co.us/) provides data on Colorado School Districts.
 
 As with all census data you can find this information and much more on the [US Census Bureau's website](http://www.census.gov/).
 
