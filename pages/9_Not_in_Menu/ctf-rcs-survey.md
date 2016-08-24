@@ -1,10 +1,11 @@
 ---
-
 layout: page
-title: "Residential Construction and Group Quarters Facility Survey"
-permalink: "/demography/ctf-rcs-survey/"
-description: "Colorado Conservation Trust Fund Residential Construction and Group Quarters Facility Survey Information Page."
-
+title: Residential Construction and Group Quarters Facility Survey
+permalink: /demography/ctf-rcs-survey/
+description: >-
+  Colorado Conservation Trust Fund Residential Construction and Group Quarters
+  Facility Survey Information Page.
+published: true
 ---
 
 ## 2014 Residential Construction and Group Quarters Facility Survey
@@ -15,7 +16,7 @@ The Colorado Department of Local Affairs is beginning its process for calculatin
 
 This year we will continue to use the online system to submit residence construction survey via the Local Government E-Filing Portal.  You will get your unique User ID via an email from our office.  If you have not received an email, please contact us (see below).
 
-**Special Districts should use the spreadsheet under Table 3 (below) and send to spreadsheet to [robert.kemp@colorado.edu ![email](/images/email_link.png 'send email')](mailto:robert.kemp@colorado.edu) rather than using the online tool.**
+**Special Districts should use the spreadsheet under Table 3 (below) and send to spreadsheet to [robert.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:robert.kemp@state.co.us) rather than using the online tool.**
 
 Please go to the [DLG E-Filing Portal](https://dola.colorado.gov/dlg_efiling/). After you agree to the term of use, then you will get to the login page. Users will get a password by clicking the "First time user or forgot your password?" link and enter the user ID you have received on the password reset screen.  The password will be sent to your email.  Then you will be able to login to the system using your new password.
 
@@ -73,4 +74,3 @@ Please use this table to evaluate the group quarters facilities and population t
 At this time you will not be able to use the online system to submit Group Quarters data. *Please use this spreadsheet to submit any updates to group quarters or new group quarter facilities to [robert.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:robert.kemp@colorado.edu).*
 
 [Spreadsheet ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/demog-cms/sites/dola.colorado.gov.demog-cms/files/demog-docs/rcs/GroupQuartersData2.xls)
-
