@@ -19,13 +19,6 @@ tag: "popdata"
 {% endif %}
 
 <h2 id="population-and-housing-timeseries">County and Municipal Population Timeseries</h2>
-<br>
-<div>
-** We are aware that this site is malfunctioning.  We're working to fix it, but if you need data directly contact one of us <a href="https://demography.dola.colorado.gov/contact/">here.</a>
-<br>
-** You may also download the entire dataset as a CSV file readable in Excel <a href="https://storage.googleapis.com/co-publicdata/county-muni-timeseries.csv">here.</a>
-<br>
-</div>
 <br />
 <label for="countiesSelected" style="font-weight: bold;">Select 0 or more counties:</label><br />
 <select id="countiesSelected" name="countiesSelected" multiple="multiple" size="5">	
@@ -516,7 +509,7 @@ tag: "popdata"
                 if (countyresults && muniresults && unincorporatedresults) {
                     results = countyresults[0].concat(muniresults[0], unincorporatedresults[0]);
                 }
-                //console.log(results);
+                /*console.log(results);*/
                 createtable(results);
             }
         }
