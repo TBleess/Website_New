@@ -5,8 +5,8 @@ permalink: "/population/data/profile-regions/"
 custom_js:
 - /assets/js/FileSaver.min.js
 - /assets/js/common/dola_custom_functions.js
-description: "Search for information on births, deaths, natural increase, net migration, building permits, group quarters population, households, household population, household size, total housing units, vacant housing units and vacancy rate by region and year."
-years: "1985-2014"
+description: "Search for information on total population, births, deaths, natural increase, net migration, building permits, group quarters population, households, household population, household size, total housing units, vacant housing units and vacancy rate by region and year."
+years: "1985-2015"
 tag: ""
 
 ---
@@ -33,6 +33,7 @@ tag: ""
 <br /><br />
 <label for="demographics" style="font-weight: bold;">Select 1 or more statistics:</label><br />
 <select id="demographics" class="formtable" name="demographics" multiple="multiple" size="5">
+  <option value="totalpopulation">Total Population</option>
   <option value="births">Births</option>
 	<option value="deaths">Deaths</option>
 	<option value="netmigration">Net Migration</option>
@@ -136,45 +137,49 @@ tag: ""
         var hcell13 = hrow.insertCell(12);
         var hcell14 = hrow.insertCell(13);
         var hcell15 = hrow.insertCell(14);
+        var hcell16 = hrow.insertCell(15);
 
         hcell1.innerHTML = "Region Number";
         hcell2.innerHTML = "Year";
         hcell3.innerHTML = "Region";
+        if (selectedStats.indexOf('totalpopulation') > -1) {
+            hcell4.innerHTML = "Total Population";
+        }
         if (selectedStats.indexOf('births') > -1) {
-            hcell4.innerHTML = "Births";
+            hcell5.innerHTML = "Births";
         }
         if (selectedStats.indexOf('deaths') > -1) {
-            hcell5.innerHTML = "Deaths";
+            hcell6.innerHTML = "Deaths";
         }
         if (selectedStats.indexOf('netmigration') > -1) {
-            hcell6.innerHTML = "Net Migration";
+            hcell7.innerHTML = "Net Migration";
         }
         if (selectedStats.indexOf('naturalincrease') > -1) {
-            hcell7.innerHTML = "Natural Increase";
+            hcell8.innerHTML = "Natural Increase";
         }
         if (selectedStats.indexOf('censusbuildingpermits') > -1) {
-            hcell8.innerHTML = "Census Building Permits";
+            hcell9.innerHTML = "Census Building Permits";
         }
         if (selectedStats.indexOf('groupquarterspopulation') > -1) {
-            hcell9.innerHTML = "Group Quarters Population";
+            hcell10.innerHTML = "Group Quarters Population";
         }
         if (selectedStats.indexOf('householdpopulation') > -1) {
-            hcell10.innerHTML = "Household Population";
+            hcell11.innerHTML = "Household Population";
         }
         if (selectedStats.indexOf('households') > -1) {
-            hcell11.innerHTML = "Households";
+            hcell12.innerHTML = "Households";
         }
         if (selectedStats.indexOf('householdsize') > -1) {
-            hcell12.innerHTML = "Household Size";
+            hcell13.innerHTML = "Household Size";
         }
         if (selectedStats.indexOf('totalhousingunits') > -1) {
-            hcell13.innerHTML = "Total Housing Units";
+            hcell14.innerHTML = "Total Housing Units";
         }
         if (selectedStats.indexOf('vacancyrate') > -1) {
-            hcell14.innerHTML = "Vacancy Rate";
+            hcell15.innerHTML = "Vacancy Rate";
         }
         if (selectedStats.indexOf('vacanthousingunits') > -1) {
-            hcell15.innerHTML = "Vacant Housing Units";
+            hcell16.innerHTML = "Vacant Housing Units";
         }
 
         var body = table.appendChild(document.createElement('tbody'));
@@ -209,46 +214,50 @@ tag: ""
         var cell13 = row.insertCell(12);
         var cell14 = row.insertCell(13);
         var cell15 = row.insertCell(14);
+        var cell16 = row.insertCell(15);
 
         /* Add some text to the new cells:*/
         cell1.innerHTML = reg_num;
         cell2.innerHTML = year;
         cell3.innerHTML = region;
-        if (births !== "") {
+        if (totalpopulation !== "") {
             cell4.innerHTML = births.toLocaleString()
         };
+        if (births !== "") {
+            cell5.innerHTML = births.toLocaleString()
+        };
         if (deaths !== "") {
-            cell5.innerHTML = deaths.toLocaleString()
+            cell6.innerHTML = deaths.toLocaleString()
         };
         if (netmigration !== "") {
-            cell6.innerHTML = Number(netmigration).toLocaleString()
+            cell7.innerHTML = Number(netmigration).toLocaleString()
         };
         if (naturalincrease !== "") {
-            cell7.innerHTML = Number(naturalincrease).toLocaleString()
+            cell8.innerHTML = Number(naturalincrease).toLocaleString()
         };
         if (censusbuildingpermits !== "") {
-            cell8.innerHTML = Number(censusbuildingpermits).toLocaleString()
+            cell9.innerHTML = Number(censusbuildingpermits).toLocaleString()
         };
         if (groupquarterspopulation !== "") {
-            cell9.innerHTML = Number(groupquarterspopulation).toLocaleString()
+            cell10.innerHTML = Number(groupquarterspopulation).toLocaleString()
         };
         if (householdpopulation !== "") {
-            cell10.innerHTML = Number(householdpopulation).toLocaleString()
+            cell11.innerHTML = Number(householdpopulation).toLocaleString()
         };
         if (households !== "") {
-            cell11.innerHTML = Number(households).toLocaleString()
+            cell12.innerHTML = Number(households).toLocaleString()
         };
         if (householdsize !== "") {
-            cell12.innerHTML = Number((Number(householdsize)).toFixed(2)).toLocaleString()
+            cell13.innerHTML = Number((Number(householdsize)).toFixed(2)).toLocaleString()
         };
         if (totalhousingunits !== "") {
-            cell13.innerHTML = Number(totalhousingunits).toLocaleString()
+            cell14.innerHTML = Number(totalhousingunits).toLocaleString()
         };
         if (vacancyrate !== "") {
-            cell14.innerHTML = Number(vacancyrate).toLocaleString()
+            cell15.innerHTML = Number(vacancyrate).toLocaleString()
         };
         if (vacanthousingunits !== "") {
-            cell15.innerHTML = Number(vacanthousingunits).toLocaleString()
+            cell16.innerHTML = Number(vacanthousingunits).toLocaleString()
         };
 
     }

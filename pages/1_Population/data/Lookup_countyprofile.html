@@ -9,7 +9,7 @@ file:
 - "https://storage.googleapis.com/co-publicdata/profiles-county.csv"
 - "https://storage.googleapis.com/co-publicdata/profiles-region.csv"
 description: "Search for information on births, deaths, natural increase, net migration, building permits, group quarters population, households, household population, household size, total housing units, vacant housing units and vacancy rate by year."
-years: "1985-2014"
+years: "1985-2015"
 tag: "popdata"
 
 ---
@@ -139,6 +139,7 @@ tag: "popdata"
         var hcell13 = hrow.insertCell(12);
         var hcell14 = hrow.insertCell(13);
         var hcell15 = hrow.insertCell(14);
+        var hcell16 = hrow.insertCell(15);
 
         hcell1.innerHTML = "CFIPS";
         hcell2.innerHTML = "YEAR";
@@ -215,7 +216,7 @@ tag: "popdata"
         var cell13 = row.insertCell(12);
         var cell14 = row.insertCell(13);
         var cell15 = row.insertCell(14);
-        var cell15 = row.insertCell(15);
+        var cell16 = row.insertCell(15);
 
         /* Add some text to the new cells:*/
         cell1.innerHTML = countyfips;

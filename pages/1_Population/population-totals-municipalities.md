@@ -20,14 +20,14 @@ Population totals for Colorado, counties & places, 1870 to 2010 are available [h
 
 #### Population Estimates - years (1990 to Current)
 
-Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2014 and was finalized in October 2015.
+Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2015 and was finalized in August 2016.
 
-- [Municipalities within Counties, 2010 - Current ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZmhzVlhaLXMwXzQ)
-- [Municipalities ranked by population ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZVhKQXR2QmtQN1E)
+- [Municipalities within Counties, 2010 - Current ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B_M7zgfu2piFZ2Q3ZTE4NFUzWFk)
+- [Municipalities ranked by population ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B_M7zgfu2piFeFR6TEw4UkNCOVk)
 
 
 [User Lookup:](/population/data/muni-pop-housing/) 
-This option allows the user to select any combination of counties or municipalities for the year 2014.
+This option allows the user to select any combination of counties or municipalities for the years 2010 to 2015.
 
 - - -
 
