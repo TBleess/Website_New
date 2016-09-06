@@ -8,7 +8,7 @@ custom_js:
 file: 
 - "https://storage.googleapis.com/co-publicdata/profiles-county.csv"
 - "https://storage.googleapis.com/co-publicdata/profiles-region.csv"
-description: "Search for information on births, deaths, natural increase, net migration, building permits, group quarters population, households, household population, household size, total housing units, vacant housing units and vacancy rate by year."
+description: "Search for information on  total population, births, deaths, natural increase, net migration, building permits, group quarters population, households, household population, household size, total housing units, vacant housing units and vacancy rate by year."
 years: "1985-2015"
 tag: "popdata"
 
@@ -187,7 +187,7 @@ tag: "popdata"
         var body = table.appendChild(document.createElement('tbody'));
 
         for (var i = 0; i < results.length; i++) {
-            addrow(i, results[i].countyfips || "", results[i].year || "", clookup(results[i].countyfips) || "", results[i].totalpopualtion || "", results[i].births || "", results[i].deaths || "", results[i].netmigration || "", results[i].naturalincrease || "", results[i].censusbuildingpermits || "", results[i].groupquarterspopulation || "", results[i].householdpopulation || "", results[i].households || "", results[i].householdsize || "", results[i].totalhousingunits || "", results[i].vacancyrate || "", results[i].vacanthousingunits || "");
+            addrow(i, results[i].countyfips || "", results[i].year || "", clookup(results[i].countyfips) || "", results[i].totalpopulation || "", results[i].births || "", results[i].deaths || "", results[i].netmigration || "", results[i].naturalincrease || "", results[i].censusbuildingpermits || "", results[i].groupquarterspopulation || "", results[i].householdpopulation || "", results[i].households || "", results[i].householdsize || "", results[i].totalhousingunits || "", results[i].vacancyrate || "", results[i].vacanthousingunits || "");
         }
 
     }
