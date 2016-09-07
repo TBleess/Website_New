@@ -1,11 +1,10 @@
 ---
-
 layout: page
-title: "CEDIS"
-permalink: "/demography/cedis/"
-datalink: "/data"
-description: "Colorado Economic Demographic Information System links"
-    
+title: CEDIS
+permalink: /demography/cedis/
+datalink: /data
+description: Colorado Economic Demographic Information System links
+published: true
 ---
 
 ## Colorado Economic Demographic Information System
@@ -15,7 +14,7 @@ description: "Colorado Economic Demographic Information System links"
 #### Population Data
 
 - [Colorado Census Data](/census-acs/2010-census-information#census-information-2010)
-- [Colorado County Profile System](/population/data/county-profile#county-demographic-profiles)
+- [Colorado County Profile System](/population/data/profile-county/)
 - [Population Forecasts](/population/population-totals-colorado-substate#population-totals-for-colorado-and-sub-state-regions)
 - [Population Forecasts by Age](/population/age-gender-population-data#age-and-gender-population-data)
 - [Population by Race & Hispanic Origin](/population/race-hispanic-origin#race-and-hispanic-origin)
