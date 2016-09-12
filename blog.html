@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<body>
+  {% include _top-bar.html %}
+  <div id="page-wrapper">
+    <div id="page-wrapper-inner">
+      {% include _header.html %}
+      {% include _breadcrumb.html %}
+      {% include _datalink.html %}
+    <header>
+        <h1><strong>Population Talk</strong></h1>
+    </header>
+    <style>
+    .blog-titles{
+        color: #666666; 
+        text-decoration: none;
+}
+ h2:hover, a:hover{
+    color: #b2b2b2;
+}
+
+
+    </style>
+
+          {% for post in site.posts %}
+          
+            <li style="list-style: none">
+              <h2><a href="{{ post.url }}" class="blog-titles",>{{ post.title }}</a></h2>
+                {{ post.excerpt }}
+                <section>
+                    <ul style= "list-style: none">
+                        <li><a href="{{ post.url }}">Read more</a></li>
+                    </ul></section>
+            </li>
+          {% endfor %}
+</div>
+</div>
+  {% include _footer.html %}
+</body>

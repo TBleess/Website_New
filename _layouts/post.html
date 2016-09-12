@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<body>
+  {% include _top-bar.html %}
+  <div id="page-wrapper">
+    <div id="page-wrapper-inner">
+      {% include _header.html %}
+      {% include _breadcrumb.html %}
+      {% include _datalink.html %}
+      
+    <article id="page-wrapper">
+  <header class="page-wrapper-inner">
+    <h2>{{ page.title }}</h2>
+    <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <section class="page-wrapper-inner">
+    {{ content }}
+  </section>
+    
+    <footer>
+        {% if page.previous %}
+        <a href="{{ page.previous.url }}">&larr; Previous post - {{ page.previous.title }}</a> {% endif %}
+        {% if page.next %}
+        <a href="{{ page.next.url }}">Next post - {{ page.next.title }}&rarr;</a> {% endif %}
+    </footer>
+
+</div>
+</div>
+  {% include _footer.html %}
+</article>
