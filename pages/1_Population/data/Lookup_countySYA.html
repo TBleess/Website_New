@@ -1,17 +1,17 @@
 ---
 layout: page
-title: "Single Year of Age Data"
-permalink: "/population/data/sya-county/"
+title: Single Year of Age Data
+permalink: /population/data/sya-county/
 custom_js:
-- /assets/js/FileSaver.min.js
-- /assets/js/common/dola_custom_functions.js
-file: 
-- "https://storage.googleapis.com/co-publicdata/sya-county.csv"
-- "https://storage.googleapis.com/co-publicdata/sya-region.csv"
-description: "Search for information on total population and gender by single year of age."
-years: "1990-2014 (Estimates) and 2015-2050 (Forecast)"
-tag: "popdata"
-
+  - /assets/js/FileSaver.min.js
+  - /assets/js/common/dola_custom_functions.js
+file:
+  - 'https://storage.googleapis.com/co-publicdata/sya-county.csv'
+  - 'https://storage.googleapis.com/co-publicdata/sya-region.csv'
+description: Search for information on total population and gender by single year of age.
+years: 1990-2014 (Estimates) and 2015-2050 (Forecast)
+tag: popdata
+published: true
 ---
 {% if page.custom_js %}
   {% for js_file in page.custom_js %}
@@ -22,7 +22,7 @@ tag: "popdata"
 
 <h2 id="county-population-by-single-year-of-age">Population by Single Year of Age - County</h2>
 
-<a href="/population/data/sya-regions/">Need Region Data?</a><br /><br />
+<a href="/population/data/sya-regions/">Need Region or State Data?</a><br /><br />
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
 <select id="countiesSelected" class="formtable" name="countiesSelected" multiple="multiple" size="5">	
 {% include _optionValuesCounty.html %}
