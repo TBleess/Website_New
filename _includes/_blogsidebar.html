@@ -1,0 +1,31 @@
+
+<!--- <h2 style="padding-bottom:0">Post Timeline</h2>
+{% assign posts_by_year = site.posts | group_by:"year" %} 
+
+{% for year in posts_by_year %} 
+  <h3 style="padding-top:0">{{year.name}}</h3> 
+  {% assign posts_by_month = year.items | group_by:"month" %} 
+  {% for month in posts_by_month %}
+    <h3 style="padding-top:0">{{month.items.first.date | date:"%B"}}</h3>
+    <ul> 
+    {% for post in month.items %} 
+      <li><a href="{{post.url}}">{{post.title}}</a></li> 
+    {% endfor %} 
+    </ul> 
+  {% endfor %} 
+{% endfor %} -->
+
+<!--- <h2 style="padding-bottom:0">Post Timeline</h2>
+<h3 style="padding-top:0">September 2016</h3> 
+
+<ul>
+  <li><a href="/blog/aging-part-1/"> Aging in Colorado Part 1: Why is Colorado Aging So Quickly?</a></li>
+</ul> -->
+
+<h2 style="padding-bottom:0">Post Timeline</h2>
+{% for post in site.posts %}
+          
+            <li style="list-style: none" class="post-styles">
+              <a href="{{ post.url }}" class="blog-titles",>{{ post.title }}</a>
+                </li>
+          {% endfor %}
