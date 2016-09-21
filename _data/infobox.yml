@@ -2,6 +2,8 @@
   # url: "/data/"
 # - name: "Webmap Gallery"
 #   url: "/gis/map-gallery/"
+- name: "Demography Blog"
+  url: "/blog/"
 - name: "Publications and Presentations"
   url: "/demography/publications-and-presentations#publications-and-presentations"
 - name: "Infographics"
