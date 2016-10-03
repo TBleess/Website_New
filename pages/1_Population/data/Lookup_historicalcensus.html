@@ -1,0 +1,266 @@
+---
+layout: page
+title: "Historical Census Lookup"
+permalink: "/population/data/historical_census/"
+custom_js:
+- /assets/js/FileSaver.min.js
+- /assets/js/common/dola_custom_functions.js
+file: 
+- "https://storage.googleapis.com/co-publicdata/profiles-county.csv"
+- "https://storage.googleapis.com/co-publicdata/profiles-region.csv"
+description: "Historical Census Data for Colorado Counties and Municipalities"
+years: "1870-2010"
+tag: "popdata"
+
+---
+
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
+
+<h2 id="county-demographic-profiles">Historical Census Data - Counties and Municipalities</h2>
+
+<label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
+<select id="countiesSelected" class="formtable" name="countiesSelected" multiple="multiple" size="5">	
+<!-- populated from database -->
+</select>
+
+<label for="munisSelected" style="font-weight: bold;">Select 1 or more municipalities:</label><br />
+<select id="munisSelected" class="formtable" name="munisSelected" multiple="multiple" size="5">	
+<!-- populated from database -->
+</select>
+
+<br /><br />
+<label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
+<select id="yearsSelected" class="formtable" name="yearsSelected" multiple="multiple" size="5">
+<!-- populated from database -->
+</select>
+<br /><br />
+
+<!--<input type="radio" name="compressed" value="no" checked>No Grouping&nbsp;&nbsp;&nbsp;-->
+<!--<input type="radio" name="compressed" value="opt1">Group by Year&nbsp;&nbsp;&nbsp;-->
+<!--<input type="radio" name="compressed" value="opt2">Group by County-->
+<br /><br />
+<input type="submit" id="callapi" value="View Results" class="form-submit" />
+<br /><br /><br />
+<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" />
+<br />
+<table id="resultstable"></table>
+
+<script>
+  
+    fetchJSONFile('https://gis.dola.colorado.gov/lookups/historicalYRS', function(yrs) {
+        var queriedYears = "";
+        for (let i = 0; i < yrs.length; i++) {
+            queriedYears += "<option value='" + yrs[i].population_year + "'>" + yrs[i].population_year + "</option>";
+        }
+        document.getElementById('yearsSelected').innerHTML = queriedYears;
+    });
+    
+    fetchJSONFile('https://gis.dola.colorado.gov/lookups/historicalcounty', function(cnty) {
+        var queriedCounties = "";
+        for (let i = 0; i < cnty.length; i++) {
+            queriedCounties += "<option value='" + cnty[i].area_name + "'>" + cnty[i].area_name + "</option>";
+        }
+        document.getElementById('countiesSelected').innerHTML = queriedCounties;
+    });
+
+
+    document.getElementById('callapi').addEventListener('click', function() {
+
+        var selectedCounties = getSelectValues(countiesSelected);
+        var selectedYears = getSelectValues(yearsSelected);
+        var selectedStats = getSelectValues(demographics);
+
+        var compressed = document.querySelector('input[name="compressed"]:checked').value;
+
+        var yearstring;
+        var statstring;
+        var countystring;
+
+        if (selectedYears.length === 0) {
+            alert('no year selected');
+            return;
+        } else {
+            yearstring = selectedYears.join(",");
+        }
+        if (selectedStats.length === 0) {
+            alert('no demographics selected');
+            return;
+        } else {
+            statstring = selectedStats.join(",");
+        }
+        if (selectedCounties.length === 0) {
+            alert('no county selected');
+            return;
+        } else {
+            countystring = selectedCounties.join(",");
+        }
+
+
+        var querystring = "vars=" + statstring + "&county=" + countystring + "&year=" + yearstring + "&group=" + compressed;
+
+        fetchJSONFile("https://gis.dola.colorado.gov/lookups/profile?" + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
+            createtable(text, selectedStats);
+        });
+
+    }, false);
+
+
+    function createtable(results, selectedStats) {
+
+        var table = document.getElementById("resultstable");
+        table.innerHTML = ""; /*clear all previous content*/
+
+        var header = table.createTHead();
+        var hrow = header.insertRow(0);
+        var hcell1 = hrow.insertCell(0);
+        var hcell2 = hrow.insertCell(1);
+        var hcell3 = hrow.insertCell(2);
+        var hcell4 = hrow.insertCell(3);
+        var hcell5 = hrow.insertCell(4);
+        var hcell6 = hrow.insertCell(5);
+        var hcell7 = hrow.insertCell(6);
+        var hcell8 = hrow.insertCell(7);
+        var hcell9 = hrow.insertCell(8);
+        var hcell10 = hrow.insertCell(9);
+        var hcell11 = hrow.insertCell(10);
+        var hcell12 = hrow.insertCell(11);
+        var hcell13 = hrow.insertCell(12);
+        var hcell14 = hrow.insertCell(13);
+        var hcell15 = hrow.insertCell(14);
+        var hcell16 = hrow.insertCell(15);
+
+        hcell1.innerHTML = "CFIPS";
+        hcell2.innerHTML = "YEAR";
+        hcell3.innerHTML = "COUNTY";
+        if (selectedStats.indexOf('totalpopulation') > -1) {
+            hcell4.innerHTML = "Total Population";
+        }
+        if (selectedStats.indexOf('births') > -1) {
+            hcell5.innerHTML = "Births";
+        }
+        if (selectedStats.indexOf('deaths') > -1) {
+            hcell6.innerHTML = "Deaths";
+        }
+        if (selectedStats.indexOf('netmigration') > -1) {
+            hcell7.innerHTML = "Net Migration";
+        }
+        if (selectedStats.indexOf('naturalincrease') > -1) {
+            hcell8.innerHTML = "Natural Increase";
+        }
+        if (selectedStats.indexOf('censusbuildingpermits') > -1) {
+            hcell9.innerHTML = "Census Building Permits";
+        }
+        if (selectedStats.indexOf('groupquarterspopulation') > -1) {
+            hcell10.innerHTML = "Group Quarters Population";
+        }
+        if (selectedStats.indexOf('householdpopulation') > -1) {
+            hcell11.innerHTML = "Household Population";
+        }
+        if (selectedStats.indexOf('households') > -1) {
+            hcell12.innerHTML = "Households";
+        }
+        if (selectedStats.indexOf('householdsize') > -1) {
+            hcell13.innerHTML = "Household Size";
+        }
+        if (selectedStats.indexOf('totalhousingunits') > -1) {
+            hcell14.innerHTML = "Total Housing Units";
+        }
+        if (selectedStats.indexOf('vacancyrate') > -1) {
+            hcell15.innerHTML = "Vacancy Rate";
+        }
+        if (selectedStats.indexOf('vacanthousingunits') > -1) {
+            hcell16.innerHTML = "Vacant Housing Units";
+        }
+
+        var body = table.appendChild(document.createElement('tbody'));
+
+        for (var i = 0; i < results.length; i++) {
+            addrow(i, results[i].countyfips || "", results[i].year || "", clookup(results[i].countyfips) || "", results[i].totalpopulation || "", results[i].births || "", results[i].deaths || "", results[i].netmigration || "", results[i].naturalincrease || "", results[i].censusbuildingpermits || "", results[i].groupquarterspopulation || "", results[i].householdpopulation || "", results[i].households || "", results[i].householdsize || "", results[i].totalhousingunits || "", results[i].vacancyrate || "", results[i].vacanthousingunits || "");
+        }
+
+    }
+
+
+    function addrow(rownum, countyfips, year, county, totalpopulation, births, deaths, netmigration, naturalincrease, censusbuildingpermits, groupquarterspopulation, householdpopulation, households, householdsize, totalhousingunits, vacancyrate, vacanthousingunits) {
+
+        var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+
+        /* Create an empty <tr> element and add it to the 1st position of the table:*/
+        var row = tableRef.insertRow(rownum);
+
+        /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        var cell3 = row.insertCell(2);
+        var cell4 = row.insertCell(3);
+        var cell5 = row.insertCell(4);
+        var cell6 = row.insertCell(5);
+        var cell7 = row.insertCell(6);
+        var cell8 = row.insertCell(7);
+        var cell9 = row.insertCell(8);
+        var cell10 = row.insertCell(9);
+        var cell11 = row.insertCell(10);
+        var cell12 = row.insertCell(11);
+        var cell13 = row.insertCell(12);
+        var cell14 = row.insertCell(13);
+        var cell15 = row.insertCell(14);
+        var cell16 = row.insertCell(15);
+
+        /* Add some text to the new cells:*/
+        cell1.innerHTML = countyfips;
+        cell2.innerHTML = year;
+        cell3.innerHTML = county;
+        if (totalpopulation !== "") {
+            cell4.innerHTML = totalpopulation.toLocaleString()
+        };
+        if (births !== "") {
+            cell5.innerHTML = births.toLocaleString()
+        };
+        if (deaths !== "") {
+            cell6.innerHTML = deaths.toLocaleString()
+        };
+        if (netmigration !== "") {
+            cell7.innerHTML = Number(netmigration).toLocaleString()
+        };
+        if (naturalincrease !== "") {
+            cell8.innerHTML = Number(naturalincrease).toLocaleString()
+        };
+        if (censusbuildingpermits !== "") {
+            cell9.innerHTML = Number(censusbuildingpermits).toLocaleString()
+        };
+        if (groupquarterspopulation !== "") {
+            cell10.innerHTML = Number(groupquarterspopulation).toLocaleString()
+        };
+        if (householdpopulation !== "") {
+            cell11.innerHTML = Number(householdpopulation).toLocaleString()
+        };
+        if (households !== "") {
+            cell12.innerHTML = Number(households).toLocaleString()
+        };
+        if (householdsize !== "") {
+            cell13.innerHTML = Number((Number(householdsize)).toFixed(2)).toLocaleString()
+        };
+        if (totalhousingunits !== "") {
+            cell14.innerHTML = Number(totalhousingunits).toLocaleString()
+        };
+        if (vacancyrate !== "") {
+            cell15.innerHTML = Number(vacancyrate).toLocaleString()
+        };
+        if (vacanthousingunits !== "") {
+            cell16.innerHTML = Number(vacanthousingunits).toLocaleString()
+        };
+
+    }
+
+
+    document.getElementById('dlcsv').addEventListener('click', function() {
+        dlcsv("resultstable", "profile-county.csv");
+    }, false);
+  
+</script>
