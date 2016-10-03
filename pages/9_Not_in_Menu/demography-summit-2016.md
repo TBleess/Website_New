@@ -2,7 +2,7 @@
 
 layout: page
 title: "Annual Demography Summit"
-permalink: "/demography/demography-summit"
+permalink: "/demography/demography-summit/"
 datalink: "/data"
 description: "Details and information on the 2016 Demography Summit."
 
