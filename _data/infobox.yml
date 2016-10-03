@@ -2,6 +2,8 @@
   # url: "/data/"
 # - name: "Webmap Gallery"
 #   url: "/gis/map-gallery/"
+- name: "2016 Annual Demography Summit"
+  url: "/demography/demography-summit/"
 - name: "Publications and Presentations"
   url: "/demography/publications-and-presentations#publications-and-presentations"
 - name: "Infographics"
