@@ -281,6 +281,7 @@ button {
     background-color:#373f51;
     clear: both!important;
     overflow: auto;
+    height: 53px;
 }
 
 #top-bar-left {
@@ -550,6 +551,7 @@ button {
 
 #banner {
     max-width: 100%;
+  height: 148px;
 }
 
 #main-content a {
