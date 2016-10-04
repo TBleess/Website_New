@@ -26,7 +26,7 @@ tag: "popdata"
 <select id="countiesSelected" class="formtable" name="countiesSelected" multiple="multiple" size="5">	
 <!-- populated from database -->
 </select>
-
+<br /><br />
 <label for="munisSelected" style="font-weight: bold;">Select 1 or more municipalities:</label><br />
 <select id="munisSelected" class="formtable" name="munisSelected" multiple="multiple" size="5">	
 <!-- populated from database -->
@@ -67,7 +67,15 @@ tag: "popdata"
         document.getElementById('countiesSelected').innerHTML = queriedCounties;
     });
 
-
+    fetchJSONFile('https://gis.dola.colorado.gov/lookups/historicalmuni', function(muni) {
+        var queriedMunis = "";
+        for (let i = 0; i < muni.length; i++) {
+            queriedMunis += "<option value='" + muni[i].area_name + "'>" + muni[i].area_name + "</option>";
+        }
+        document.getElementById('munisSelected').innerHTML = queriedMunis;
+    });
+    
+    
     document.getElementById('callapi').addEventListener('click', function() {
 
         var selectedCounties = getSelectValues(countiesSelected);
