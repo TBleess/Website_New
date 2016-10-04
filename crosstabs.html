@@ -1,0 +1,69 @@
+---
+layout: default
+permalink: "/crosstabs/"
+---
+<body>
+  {% include _top-bar.html %}
+  <div id="page-wrapper">
+    <div id="page-wrapper-inner">
+      {% include _header.html %}
+      {% include _breadcrumb.html %}
+      {% include _datalink.html %}
+
+        <h1>Crosstabs - A Closer Look at the Economics & Demographics of Colorado </h1>
+
+    <br>
+    <style>
+    .blog-titles{
+        color: #666666; 
+        text-decoration: none;
+}
+ h2:hover, a:hover{
+    color: #b2b2b2;
+}
+
+.post-styles{
+  padding-bottom: 45px;
+}
+
+#wrapper {
+    width: 100%;
+    overflow: hidden; /* will contain if #first is longer than #second */
+}
+#first {
+    width: 73%;
+    float:left; /* add this */
+}
+#second {
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+    padding-left: 25px;
+}
+    </style>
+    
+<div id="wrapper">
+<section id="first">
+          {% for post in site.posts %}
+          
+            <li style="list-style: none" class="post-styles">
+              <h2><a href="{{ post.url }}" class="blog-titles",>{{ post.title }}</a></h2>
+              {{ post.date | date: "%B %-d, %Y" }}
+                {{ post.excerpt }}
+                <section>
+                  
+                <a href="{{ post.url }}">Read more</a>
+                <br>
+                </section>
+            </li>
+          {% endfor %}
+          </section>
+          <div id="second">
+            {% include _blogsidebar.html %} 
+          </div>
+          </div>
+</div>
+  
+
+</div>
+
+  {% include _footer.html %}
+</body>
