@@ -79,14 +79,15 @@ tag: "popdata"
     document.getElementById('callapi').addEventListener('click', function() {
 
         var selectedCounties = getSelectValues(countiesSelected);
+        var selectedMunis = getSelectValues(munisSelected);
         var selectedYears = getSelectValues(yearsSelected);
-        var selectedStats = getSelectValues(demographics);
 
         var compressed = document.querySelector('input[name="compressed"]:checked').value;
 
         var yearstring;
         var statstring;
         var countystring;
+        var munistring;
 
         if (selectedYears.length === 0) {
             alert('no year selected');
@@ -94,13 +95,13 @@ tag: "popdata"
         } else {
             yearstring = selectedYears.join(",");
         }
-        if (selectedStats.length === 0) {
-            alert('no demographics selected');
+        if (selectedCounties.length === 0) {
+            alert('no county selected');
             return;
         } else {
-            statstring = selectedStats.join(",");
+            countystring = selectedCounties.join(",");
         }
-        if (selectedCounties.length === 0) {
+        if (selectedMunis.length === 0) {
             alert('no county selected');
             return;
         } else {
@@ -272,3 +273,4 @@ tag: "popdata"
     }, false);
   
 </script>
+{% include _footer_scripts.html %}
