@@ -550,10 +550,21 @@ button {
     }
 }
 
-#banner {
-    max-width: 100%;
-  height: 148px;
+
+.banner-image-container {
+  position: relative;
+  padding-bottom: 15.72794899%; /* ratio of image height to width */
+  height: 0;
+  overflow: hidden;
 }
+ 
+.banner-image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
 
 #main-content a {
     color:#0062A0;
