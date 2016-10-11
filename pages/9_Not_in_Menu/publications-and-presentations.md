@@ -45,6 +45,8 @@ published: true
  
 #### Community Profiles
 
+- [Archuleta county (10/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c)
+- [Aspen city (10/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTd3NYTUg2bXg1WVU)
 - [Baca county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESczA5eEd6MVpCWFk)
 - [Berthoud town (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESN29PZnRTdG9mdlE)
 - [Bent county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQk5vb2xkRDFKblU)
@@ -95,10 +97,11 @@ published: true
 - [Montrose city (2/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7azZMdmRtMzM2VjQ)
 - [Olathe town (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSncxaG0zaVBaVnM)
 - [Otero county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQUZSQkhJcDNhM1U)
+- [Pitkin county (10/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTWEtzUGctaW02QVE)
 - [Prowers county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUG1jbFNKSFJTSXc)
 - [Pueblo county (7/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTOUtWeGlCTXlwSEk)
 - [Red Cliff town (5/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTMm56SzJWanV4ZFk)
-- [Ridgway town (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SEST1VXTEE5VU5nXzQ)
+- [Ridgway town (10/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTQmVZdnE4a2xFUHM)
 - [Rifle city (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQXRIWDJET3cydzA)
 - [Rio Blanco county (8/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZEgyeWVWdEUxUFE)
 - [Snowmass town (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYUNlZjRSYkNyWFU)
