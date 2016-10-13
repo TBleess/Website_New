@@ -25,7 +25,7 @@ Please join us for this exciting and informational event to learn about the issu
 * Updates from our partner Southeast Colorado Enterprise Development.
 * And more!
 
-[Download the draft agenda!](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTS01TemlEZDk5RG8) 
+[Download the draft agenda!](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTamlhMmZhSzNDRlk) 
 
 We have three options for registering and "attending" our meeting this year: 
 
