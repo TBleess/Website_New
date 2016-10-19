@@ -27,7 +27,7 @@ Please join us for this exciting and informational event to learn about the issu
 
 [Download the draft agenda!](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTaDNKb3cxTWtOcEk) 
 
-We have three options for registering and "attending" our meeting this year: 
+We have three options for registering and "attending" our meeting this year:  
 
 
 1.  Register by October 21st and the registration fee will be $65, plus fees.
