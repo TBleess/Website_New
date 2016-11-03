@@ -145,19 +145,21 @@ published: true
   - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTX3FXZlEtOHA5aDg)
   - [List of Attendees ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTWkp1SVp2RE11OHc)
   - [Attendee Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSEtuNFlRTzByWkk)
-  - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
-  - [Region Reports ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTekFoOGN1akttYm8)
-  - [Cost Of Living ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESajdRcHRjcThka3c)
-  - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSmRKVkpuTGszY0E)
-  - [Table1: Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESLUMyNFFCTE5URGc)
-  - [Table2: Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESM2hxWVZDZGZGajA)
-  - [List of Updated Demography Office Products ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESdHJnMkJYXzFyZVk)
-  - [Sprinting or Plodding? An Economic Outlook ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESLTd1Y2ZIeDNzN2M) presented by Chris Akers, State Demography Office
-  - [Transitions in Age and Increasing Diversity: The 2015 Population Forecast ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESRENtSXlCd25NazA) presented by Cindy DeGroen, State Demography Office
-  - [Colorado\'s Population Landscape: Migration and the Great Recession ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaEdlS0FpcnQ0eDg) presented by Rob Kemp, PhD, State Demography Office
-  - [Financing Colorado\'s Future - A Look at Interaction of School Finance and the Funding of State Government ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESWW9xeXlkcFg4SXc) presented by Phyllis Resnick, PhD, Colorado Futures Center at Colorado State University
-  - [It Costs What to Live Here!? Cost of Living Differentials Across the State ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUDJoS1ZCQmFyM0U) presented by Elizabeth Garner, State Demography Office
-  - [Housing Matters Panel: Costs, Challenges, and Opportunities ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSnpPWGFDQWoxSVU) presented by Jason Schrock, Chief Economist, Office of State Planning and Budgeting; Alison George, Director, Division of Housing, Department of Local Affairs; and Cris White, Executive Director and CEO, Colorado Housing and Finance Authority
+  - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTU1c3ejVCei1tRTQ)
+  - [Region Reports ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTMEhZeXNZNjZacmM)
+  - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSTZOeU1VcTNCQlk)
+  - [Table1: Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbl9nVFdqSEpzMDg)
+  - [Table2: Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSzRZT2tqWHFqNHM)
+  - [Economic Outlook: Growing but Slowing ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSlc3bFpNTzJ0bjg) presented by Chris Akers, State Demography Office
+  - [The Five Big Trends Transforming Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTeEp5cm9XcllGYnc) presented by Cindy DeGroen, State Demography Office
+  - [Colorado's Population Landscape: Migration in Perspective ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTNDJtUWlmRkh4WDA) presented by Rob Kemp, PhD, State Demography Office
+  - [2020 Census Update ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTWDBXX19hT0ZUSmc) presented by Cathy Lacy and Jim Castagneri, US Census Bureau
+  - [Rural Colorado Economic Resiliency ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTY3QyV0VaLVR6STQ) presented by Laura Blomquist Rodriguez and Meridith Marshall, OEDIT; Brian Lewandowski, Leeds School of Business
+   - [Overview of Legalized Marijuana in Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZ3VqT0hRU05YcFk) presented by Barbara Brohl, Department of Revenue 
+    - [Marijuana Industry's Impact on Commercial Real Estate ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTUjBRSVRuc0NaZ28) presented by Jessica Ostermick, CBRE  
+   - [Impacts of Marijuana Legalization in Colorado: Lessons Learned ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbUxtdDhmdUM1VEE) presented by Andrew Freedman, State of Colorado 
+  
+
 
 ---
 
