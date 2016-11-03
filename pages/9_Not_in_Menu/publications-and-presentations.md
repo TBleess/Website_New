@@ -140,7 +140,7 @@ published: true
 
 #### Annual Demography Summit 2016
 
-Handouts and Presentations
+- Handouts and Presentations
   - [Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTajBIaDNkZkVaQ1k)
   - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTX3FXZlEtOHA5aDg)
   - [List of Attendees ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTWkp1SVp2RE11OHc)
