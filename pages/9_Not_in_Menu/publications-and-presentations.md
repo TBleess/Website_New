@@ -157,6 +157,7 @@ published: true
   - [Rural Colorado Economic Resiliency ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTY3QyV0VaLVR6STQ) presented by Laura Blomquist Rodriguez and Meridith Marshall, OEDIT; Brian Lewandowski, Leeds School of Business
    - [Overview of Legalized Marijuana in Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZ3VqT0hRU05YcFk) presented by Barbara Brohl, Department of Revenue 
     - [Marijuana Industry's Impact on Commercial Real Estate ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTUjBRSVRuc0NaZ28) presented by Jessica Ostermick, CBRE  
+    - [Colorado 3 Years In ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTNGMwOGRnVEExV2c) presented by Adam Orens, BBC Research  
    - [Impacts of Marijuana Legalization in Colorado: Lessons Learned ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbUxtdDhmdUM1VEE) presented by Andrew Freedman, State of Colorado 
   
 
