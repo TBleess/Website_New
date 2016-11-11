@@ -2,4 +2,4 @@
 
 #### Website Repo
 
-Created with [Jekyll](https://jekyllrb.com/), Hosted by [Github](https://github.com/)
+Created with [Jekyll](https://jekyllrb.com/)
