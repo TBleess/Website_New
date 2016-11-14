@@ -185,13 +185,13 @@ tag: ""
         var body = table.appendChild(document.createElement('tbody'));
 
         for (var i = 0; i < results.length; i++) {
-            addrow(i, results[i].reg_num || "", results[i].year || "", rlookup(results[i].reg_num) || "", results[i].births || "", results[i].deaths || "", results[i].netmigration || "", results[i].naturalincrease || "", results[i].censusbuildingpermits || "", results[i].groupquarterspopulation || "", results[i].householdpopulation || "", results[i].households || "", results[i].householdsize || "", results[i].totalhousingunits || "", results[i].vacancyrate || "", results[i].vacanthousingunits || "");
+            addrow(i, results[i].reg_num || "", results[i].year || "", rlookup(results[i].reg_num) || "", results[i].totalpopulation || "", results[i].births || "", results[i].deaths || "", results[i].netmigration || "", results[i].naturalincrease || "", results[i].censusbuildingpermits || "", results[i].groupquarterspopulation || "", results[i].householdpopulation || "", results[i].households || "", results[i].householdsize || "", results[i].totalhousingunits || "", results[i].vacancyrate || "", results[i].vacanthousingunits || "");
         }
 
     }
 
 
-    function addrow(rownum, reg_num, year, region, births, deaths, netmigration, naturalincrease, censusbuildingpermits, groupquarterspopulation, householdpopulation, households, householdsize, totalhousingunits, vacancyrate, vacanthousingunits) {
+    function addrow(rownum, reg_num, year, region, totalpopulation, births, deaths, netmigration, naturalincrease, censusbuildingpermits, groupquarterspopulation, householdpopulation, households, householdsize, totalhousingunits, vacancyrate, vacanthousingunits) {
 
         var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
 
@@ -221,7 +221,7 @@ tag: ""
         cell2.innerHTML = year;
         cell3.innerHTML = region;
         if (totalpopulation !== "") {
-            cell4.innerHTML = births.toLocaleString()
+            cell4.innerHTML = totalpopulation.toLocaleString()
         };
         if (births !== "") {
             cell5.innerHTML = births.toLocaleString()
