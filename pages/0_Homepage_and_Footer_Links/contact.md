@@ -30,10 +30,10 @@ Phone: 303-864-7752
 Population Forecasts, Household and Labor Force Forecasts  
 
 **Rob Kemp**  
-ESTIMATES DEMOGRAPHER  
+DATA SCIENTIST AND DEMOGRAPHER  
 Phone: 303-864-7755  
 [rob.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:rob.kemp@state.co.us)  
-Population Estimates, Demographic Methods  
+Population Estimates, Demographic Methods, Database and Applications  
 
 **Chris Akers**  
 ECONOMIST  
@@ -41,10 +41,10 @@ Phone: 303-864-7751
 [chris.akers@state.co.us ![email](/images/email_link.png 'send email')](mailto:chris.akers@state.co.us)  
 Economic Data & Analysis, Economic & Demographic Relationships  
 
-**Position Open**  
+**Todd Bleess**  
 GIS DEVELOPER  
-<!--Phone: 303-864-7754  
-<!--[daniel.trone@state.co.us ![email](/images/email_link.png 'send email')](mailto:daniel.trone@state.co.us)  -->
+Phone: 303-864-7754  
+[todd.bleess@state.co.us ![email](/images/email_link.png 'send email')](mailto:todd.bleess@state.co.us)  -->
 Geographic Information Systems Design, Analysis, Development, Mapping support, GIS Technical Support  
 
 **Barbara Musick**  
