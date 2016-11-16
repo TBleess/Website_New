@@ -22,9 +22,10 @@ datalink: "/population/data"
 
 **Note:** The State Demography Office has produced an update to its population estimates and forecasts to incorporate the recently released 2010 Census count population totals. The files are available with the 2010 Census data.
 
-### Additional Population data:
+### Additional Population information:
 
 - [Age and Gender](/population/age-gender-population-data#age-and-gender-population-data)
+- [Map of Births, Deaths, and Migration](/ComponentsOfChange/)
 - [Race and Hispanic Origin](/population/race-hispanic-origin#race-and-hispanic-origin)
 - [US Census Bureau (census.gov)](http://www.census.gov/)
 
