@@ -53,7 +53,7 @@ published: true
 - [Boulder county (9/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTaFFjRnlSRGNXUEk)
 - [Brighton city (2/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7UG1iQW10Y3hnQm8)
 - [Buena Vista town (6/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaFRTanpiYnBJalU)
-- [Burlington town (6/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaFRTanpiYnBJalU)
+- [Burlington town (6/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUldQUmFtNE5aTEk)
 - [Central City city (4/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESeU85X3J2ckN5TlU)
 - [Cheyenne county (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaWpUWFNKTDM2czg)
 - [Cheyenne Wells town (6/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQlJ1N2phVGxnN0E)
