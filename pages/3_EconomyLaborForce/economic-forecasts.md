@@ -16,7 +16,7 @@ datalink: "/economy-labor-force/data"
 
 One-page worksheets which summarize the jobs, labor force and population forecasts for each planning and management region, county and Colorado as a whole. They include information on basic jobs, indirect and induced jobs, total jobs, multiple job holding rates, commuting, unemployment, labor force participation, and population.
 
-In the spreadsheets the region total is listed first followed by the counties within the region. However, for the counties in Region 3 only Gilpin and Clear Creek are listed separately. The rest are combined for a Metro Denver total. For questions please contact Chris Akers at 303-866-7751 or [chris.akers@state.co.us ![email](/images/email_link.png 'send email')](mailto:chris.akers@state.co.us).
+In the spreadsheets the region total is listed first followed by the counties within the region. However, for the counties in Region 3 only Gilpin and Clear Creek are listed separately. The rest are combined for a Metro Denver total. For questions please contact Chris Akers at 303-864-7751 or [chris.akers@state.co.us ![email](/images/email_link.png 'send email')](mailto:chris.akers@state.co.us).
 
 #### Jobs and Labor Force
 
