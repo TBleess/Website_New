@@ -17,7 +17,7 @@ In 2016 we live-streamed our Annual Demography Meeting allowing data users from 
 <ul>
 <li>Chris Akers, State Demography Office</li>
 </ul>
-{% include _youtubePlayer.html id="6nbq-sUkjGo" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JYgg8OaJiBA" frameborder="0" allowfullscreen></iframe>
  <br />
 
 <h3>The Five Big Trends Transforming Colorado</h3>
