@@ -14,7 +14,7 @@ Each fall for the past 34 years, the State Demography Office has gathered data e
 
 
 Every year we release our population estimates, projections and economic forecasts at the Summit. Our team presents their data, methodology, and insights in a user-friendly, easy to understand manner. __You don’t need to be a demographer or an economist to get a lot out of this event - you just need to be interested in data!__
-
+<!--more-->
 
 The rest of the day is then spent exploring a variety of issues that are important to our data users around the state. This year, for example, we had speakers sharing expertise on:
 
