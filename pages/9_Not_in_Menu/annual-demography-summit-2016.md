@@ -24,14 +24,14 @@ In 2016 we live-streamed our Annual Demography Summit allowing data users from a
 <ul>
 <li>Cindy DeGroen, State Demography Office</li>
 </ul>
-{% include _youtubePlayer.html id="kdd4r9eXkCg" %}
+{% include _youtubePlayer.html id="7OZ9r8J-s-U" %}
 <br />
 
 <h3>Colorado's Population Landscape: Migration in Perspective</h3>
 <ul>
 <li>Rob Kemp, PhD, State Demography Office</li>
 </ul>
-{% include _youtubePlayer.html id="AfDLfd5j4-A" %}
+{% include _youtubePlayer.html id="XGBcEAVSYUc" %}
 <br />
 
 <h3>2020 Census Update</h3>
@@ -39,52 +39,51 @@ In 2016 we live-streamed our Annual Demography Summit allowing data users from a
 <li>Cathy Lacy, US Census Bureau</li>
 <li>Jim Castagneri, US Census Bureau</li>
 </ul>
-{% include _youtubePlayer.html id="68OBJlWQkQY" %}
+{% include _youtubePlayer.html id="TRNZ4opCsUY" %}
 <br />
 
 <h3>Southeastern Colorado Region Update</h3>
 <ul>
 <li>Stephanie Gonzales, SECED</li>
 </ul>
-{% include _youtubePlayer.html id="IpBxkY3pNe4" %}
+{% include _youtubePlayer.html id="FeqMR-M5bes" %}
 <br />
 
 <h3>Rural Colorado Economic Resiliency: Study of Factors Impacting Rural Economic Growth</h3>
 <ul>
-<li>Laura Blomquist Rodriguez, Colorado Office of Economic & International Trade</li>
+<li>Laura Blomquist Rodriguez, Colorado Office of Economic and International Trade</li>
 <li>Brian Lewandowski, Leeds School of Business</li>
-<li>Meridith Marshall, Colorado Office of Economic & International Trade</li>
+<li>Meridith Marshall, Colorado Office of Economic and International Trade</li>
 </ul>
-{% include _youtubePlayer.html id="4jDsqu5VFLc" %}
+{% include _youtubePlayer.html id="Ikrzg6WH_xY" %}
 <br />
 
 <h3>Overview of Legalized Marijuana in Colorado</h3>
 <ul>
 <li>Barbara Brohl, Colorado Department of Revenue</li>
 </ul>
-{% include _youtubePlayer.html id="IpBxkY3pNe4" %}
+{% include _youtubePlayer.html id="LRqD61yW8sY" %}
 <br />
 
 <h3>Marijuana Industry's Impact on Commercial Real Estate in Colorado</h3>
 <ul>
 <li>Jessica Ostermick, CBRE</li>
 </ul>
-{% include _youtubePlayer.html id="upJaIBFwKKg" %}
+{% include _youtubePlayer.html id="6BqsRmJMIbU" %}
 <br />
 
-<h3>It Costs What to Live Here?! Cost of Living Differentials Across the State</h3>
+<h3>Colorado 3 Years In: A Picture of a Mature Marijuana Market</h3>
 <ul>
-<li>Elizabeth Garner, State Demographer</li>
+<li>Adam Orens, BBC Research and Consulting/Marijuana Policy Group</li>
 </ul>
-{% include _youtubePlayer.html id="mXrCMlLrn3s" %}
+{% include _youtubePlayer.html id="H3biSmT0mBc" %}
 <br />
 
-<h3>Housing Matters Panel - Costs, Challenges, and Opportunities</h3>
+<h3>Impacts of Marijuana Legalization in Colorado: Lessons Learned</h3>
 <ul>
-<li>Jason Schrock, Chief Economist, Office of State Planning &amp; Budgeting</li>
-<li>Alison George, Director, Division of Housing, Department of Local Affairs</li>
-<li>Cris White, Executive Director and CEO, Colorado Housing and Finance Authority</li>
+<li>Andrew Freedman, State of Colorado</li>
+
 </ul>
-{% include _youtubePlayer.html id="pp8Bqcxko7U" %}
+{% include _youtubePlayer.html id="uU5Dy2KwspI" %}
 <br />
  
