@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 Each fall for the past 34 years, the State Demography Office has gathered data enthusiasts from across the state together for our Annual Demography Summit. While the name of the event has changed over time, the quality of the agenda and enthusiasm of the attendees has always been high!
 
 
-Every year we release our population estimates, projections and economic forecasts at the Summit. Our team presents their data, methodology, and insights in a user-friendly, easy to understand manner. _You don’t need to be a demographer or an economist to get a lot out of this event - you just need to be interested in data!_
+Every year we release our population estimates, projections and economic forecasts at the Summit. Our team presents their data, methodology, and insights in a user-friendly, easy to understand manner. __You don’t need to be a demographer or an economist to get a lot out of this event - you just need to be interested in data!__
 
 
 The rest of the day is then spent exploring a variety of issues that are important to our data users around the state. This year, for example, we had speakers sharing expertise on:
@@ -36,7 +36,7 @@ Since recreational cannabis became legal in Colorado, questions about it have be
 The afternoon flew by as our speakers covered issues ranging from regulating a brand new industry, to changes in the commercial real estate market brought on by massive cannabis growing operations, to the overall social, demographic and economic impacts of legalized recreational cannabis.
 
 
-_Sound interesting? Sorry you missed it? Well good news!_ Because the Summit was livestreamed and we have all the presentations [online available for viewing](https://demography.dola.colorado.gov/demography/annual-demography-summit-2016/) along with copies of their [slides and all the handouts](https://demography.dola.colorado.gov/demography/publications-and-presentations/#publications-and-presentations) attendees received.
+__Sound interesting? Sorry you missed it? Well good news!__ Because the Summit was livestreamed and we have all the presentations [online available for viewing](https://demography.dola.colorado.gov/demography/annual-demography-summit-2016/) along with copies of their [slides and all the handouts](https://demography.dola.colorado.gov/demography/publications-and-presentations/#publications-and-presentations) attendees received.
 
 
 If you think you might want to attend in 2017, sign up for the [Demography Listserv](http://colorado.us13.list-manage.com/subscribe?u=542afe896a1951030a7772c33&id=89fa6d3fd5) to receive updates, and then sign up here to receive notifications of new Crosstabs posts! 
