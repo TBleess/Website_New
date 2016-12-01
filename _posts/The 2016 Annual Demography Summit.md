@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Aging in Colorado Part 2: What Does it Mean for Our State?"
-date:   2016-12-02
+title:  "The 2016 Annual Demography Summit: A Recap"
+date:   2016-12-01
 author: Colorado State Demography Office
-permalink: /crosstabs/aging-part-2/
+permalink: /crosstabs/2016-annual-demography-summit/
 excerpt_separator: <!--more-->
 ---
 
@@ -37,3 +37,9 @@ _Sound interesting? Sorry you missed it? Well good news!_ Because the Summit was
 
 
 If you think you might want to attend in 2017, sign up for the [Demography Listserv](http://colorado.us13.list-manage.com/subscribe?u=542afe896a1951030a7772c33&id=89fa6d3fd5) to receive updates, and then sign up here to receive notifications of new Crosstabs posts! 
+
+
+**Want to know more?** Visit our website at [demography.dola.colorado.gov](http://demography.dola.colorado.gov) or send questions to [dola_dlg_helpdesk@state.co.us](mailto:dola_dlg_helpdesk@state.co.us)
+
+
+**[Sign up](http://colorado.us13.list-manage.com/subscribe?u=542afe896a1951030a7772c33&id=e6ff0b17bc) to receive notifications of new blog posts.**
