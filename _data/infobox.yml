@@ -2,8 +2,6 @@
   # url: "/data/"
 # - name: "Webmap Gallery"
 #   url: "/gis/map-gallery/"
-- name: "2016 Annual Demography Summit"
-  url: "/demography/demography-summit/"
 - name: "Crosstabs - A Closer Look at the Economics & Demographics of Colorado"
   url: "/crosstabs/"
 - name: "Publications and Presentations"
