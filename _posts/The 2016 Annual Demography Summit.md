@@ -7,6 +7,9 @@ permalink: /crosstabs/2016-annual-demography-summit/
 excerpt_separator: <!--more-->
 ---
 
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=0ByjImPUKASTTd1dMUkRSTy1Ecnc" width="100%"/></div>
+
+
 Each fall for the past 34 years, the State Demography Office has gathered data enthusiasts from across the state together for our Annual Demography Summit. While the name of the event has changed over time, the quality of the agenda and enthusiasm of the attendees has always been high!
 
 
