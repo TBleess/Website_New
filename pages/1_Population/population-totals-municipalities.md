@@ -14,7 +14,7 @@ description: "Population data for Colorado cities and towns."
 
 #### Historical Census - years (1870 to 2010)
 
-Population totals for Colorado, counties & places, 1870 to 2010 are available [here](https://dola.colorado.gov/demog_webapps/hcp_parameters.jsf).
+Population totals for Colorado, counties & places, 1870 to 2010 are available [here](/population/data/historical_census/).
 
 - - -
 
