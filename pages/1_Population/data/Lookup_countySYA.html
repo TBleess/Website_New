@@ -33,19 +33,37 @@ published: true
 <select id="yearsSelected" class="formtable" name="yearsSelected" multiple="multiple" size="5">
 <!-- populated from database --> 
 </select>
+<br/><br/>
+<input type="radio" name="choiceCategory" value="5yr" checked>Five Year Intevals (0-4,5-9,10-14,etc.)<br>
+<input type="radio" name="choiceCategory" value="census">Census Age Intervals<br>
+<input type="radio" name="choiceCategory" value="custom">Custom Age Range Intervals<br>
+<span id="customIntervals" >
+<label style="font-weight: bold;margin-left:15px;">Designate up to 4 intervals:</label><br />
 
-<br /><br />
-<label for="agesSelected" style="font-weight: bold;">Select 1 or more ages:</label><br />
-<select id="agesSelected" class="formtable" name="agesSelected" multiple="multiple" size="5">
+<span style="margin-left:20px;">from&nbsp;&nbsp;<input type="text" name="1a" id="1a" maxlength=3 size=5 onkeypress="return isNumberKey(event)"> to <input type="text" name="1b" id="1b" maxlength=3 size=5 onkeypress="return isNumberKey(event)"></span><span id="warning1" style="padding-left:5px;font-size:80%;color:#FF0000;"></span><br>
+<span style="margin-left:20px;">from&nbsp;&nbsp;<input type="text" name="2a" id="2a"maxlength=3 size=5 onkeypress="return isNumberKey(event)"> to <input type="text" name="2b" id="2b" maxlength=3 size=5 onkeypress="return isNumberKey(event)"></span><span id="warning2" style="padding-left:5px;font-size:80%;color:#FF0000;"></span><br>
+<span style="margin-left:20px;">from&nbsp;&nbsp;<input type="text" name="3a" id="3a"maxlength=3 size=5 onkeypress="return isNumberKey(event)"> to <input type="text" name="3b" id="3b" maxlength=3 size=5 onkeypress="return isNumberKey(event)"></span><span id="warning3" style="padding-left:5px;font-size:80%;color:#FF0000;"></span><br>
+<span style="margin-left:20px;">from&nbsp;&nbsp;<input type="text" name="4a" id="4a"maxlength=3 size=5 onkeypress="return isNumberKey(event)"> to <input type="text" name="4b" id="4b" maxlength=3 size=5 onkeypress="return isNumberKey(event)"></span><span id="warning4" style="padding-left:5px;font-size:80%;color:#FF0000;"></span><br>
+
+<br>
+</span>
+<input type="radio" name="choiceCategory" value="single">Custom Single Year Selections <br>
+<span id="singleYear">
+<label for="agesSelected" style="font-weight: bold;margin-left:15px;">Select 1 or more ages:</label><br />
+<select id="agesSelected" class="formtable" name="agesSelected" multiple="multiple" size="5" style="margin-left:15px;">
 <!-- populated from database --> 
 </select>
 
-<br /><br />
+<br />
+<span style="margin-left:17px;">
 <input type="radio" name="compressed" value="no" checked>No Grouping&nbsp;&nbsp;&nbsp;
 <input type="radio" name="compressed" value="opt1">Group by Year&nbsp;&nbsp;&nbsp;
 <input type="radio" name="compressed" value="opt2">Group by County and Year&nbsp;&nbsp;&nbsp;
 <input type="radio" name="compressed" value="opt3">Group by Age and Year<br />
+</span>
 <br />
+</span>
+<br><br>
 <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" />
@@ -53,6 +71,47 @@ published: true
 <table id="resultstable"></table>
 
 <script>
+
+/* --------------begin of top functions added by contractor ----------- */
+
+$( document ).ready(function() {
+	$('span#singleYear').hide();
+	$('span#customIntervals').hide();
+});
+
+	$('input:radio[name="choiceCategory"]').change(function(){
+
+    /* checks that the clicked radio button is the one of value 'Yes' */
+        if ($(this).val() == 'single') {
+
+            $('span#singleYear').show();
+            $('span#customIntervals').hide();
+        
+        } else if ($(this).val() == 'custom') {
+            $('span#singleYear').hide();
+            $('span#customIntervals').show();        	
+        } else {
+
+            /* if it's the 'No' button removes the 'appended' element. */
+            $('span#singleYear').hide();
+            $('span#customIntervals').hide();
+        }
+        
+        /* clear resultstable */
+        $("#resultstable tbody tr").remove();
+    });
+    
+      /* limit text box input to numbers */
+    function isNumberKey(evt)  {
+          var charCode = (evt.which) ? evt.which : evt.keyCode;
+          if (charCode != 46 && charCode > 31 
+            && (charCode < 48 || charCode > 57))
+             return false;
+
+          return true;
+       }
+  
+  /* --------------end of top functions added by contractor ----------- */
   
     fetchJSONFile('https://gis.dola.colorado.gov/lookups/syaYRS', function(yrs) {
         var queriedYears = "";
@@ -82,6 +141,12 @@ published: true
         var yearstring;
         var agestring;
         var countystring;
+        
+        /* contractor add */
+        var categorySelected = document.querySelector('input[name="choiceCategory"]:checked').value;
+        var intervals = document.getElementById('1a').value + ',' + document.getElementById('1b').value + ',' + document.getElementById('2a').value + ',' + document.getElementById('2b').value + ",";
+        	intervals = intervals + document.getElementById('3a').value + ',' + document.getElementById('3b').value + ',' + document.getElementById('4a').value + ',' + document.getElementById('4b').value ;
+        /* end this contractor add */
 
         /*VALIDATION*/
         if (selectedYears.length === 0) {
@@ -91,7 +156,8 @@ published: true
             yearstring = selectedYears.join(",");
         }
 
-        if (selectedAges.length === 0) {
+        /* added categorySelected criteria so only checks for single age queries */
+        if (selectedAges.length === 0 && categorySelected=='single') {
             alert('no age selected');
             return;
         } else {
@@ -105,9 +171,63 @@ published: true
             countystring = selectedCounties.join(",");
         }
 
-        var querystring = "age=" + agestring + "&county=" + countystring + "&year=" + yearstring + "&group=" + compressed;
+        /* begin custom age range validation added by contractor */
+        var IsInt1;
+        var IsInt2;
+        if (categorySelected==="custom") {
+            isInt1 = /^\+?\d+$/.test($("#1a").val());
+            isInt2 = /^\+?\d+$/.test($("#1b").val());
+            $("#warning1").text("");
+            if (isInt1 && isInt2) { /* check that both boxes have numbers */
+                   
 
-        fetchJSONFile("https://gis.dola.colorado.gov/lookups/sya?" + querystring, function(text) {
+                    if(parseInt( $("#1b").val()) <= parseInt($("#1a").val()) ) {
+                        $("#warning1").text("second number needs to be greater than first");
+                        return;
+                    }
+                   
+                } else {
+                $("#warning1").text("both boxes need numbers"); /* one or both boxes are blank */
+                return;
+            }
+            
+            $("#warning2").text("");
+            $("#warning3").text("");
+            $("#warning4").text("");
+            
+            isInt1 = /^\+?\d+$/.test($("#2a").val());
+            isInt2 = /^\+?\d+$/.test($("#2b").val());
+            if ((isInt1 && !(isInt2)) || (!(isInt1) && (isInt2)) ) {
+                $("#warning2").text("either both boxes need numbers or both are blank");
+                return;
+            }
+            
+            isInt1 = /^\+?\d+$/.test($("#3a").val());
+            isInt2 = /^\+?\d+$/.test($("#3b").val());
+            if ((isInt1 && !(isInt2)) || (!(isInt1) && (isInt2)) ) {
+                $("#warning3").text("either both boxes need numbers or both are blank");
+                return;
+            }
+            
+            isInt1 = /^\+?\d+$/.test($("#4a").val());
+            isInt2 = /^\+?\d+$/.test($("#4b").val());
+            if ((isInt1 && !(isInt2)) || (!(isInt1) && (isInt2)) ) {
+                $("#warning4").text("either both boxes need numbers or both are blank");
+                return;
+            }            
+        }
+        /* end custom age range validation added by contractor */
+
+
+        /* old query:  var querystring = "age=" + agestring + "&county=" + countystring + "&year=" + yearstring + "&group=" + compressed; */
+
+        var querystring = "age=" + agestring + "&county=" + countystring + "&year=" + yearstring + "&group=" + compressed + "&choice=" + categorySelected + "&intervals=" + intervals;
+
+
+/* ***********CHANGE THIS BACK ****************$$$$$$$$$$$$$$$$$$$  */
+        /* fetchJSONFile("https://apis-tim-timoneyb.c9users.io/sya?" + querystring, function(text) { */
+/* ***********CHANGE THIS BACK ****************$$$$$$$$$$$$$$$$$$$ */
+         fetchJSONFile("https://gis.dola.colorado.gov/lookups/sya?" + querystring, function(text) { 
             /* make Download CSV button visible */
             document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
@@ -189,4 +309,7 @@ published: true
         dlcsv("resultstable", "county_sya_data.csv");
     }, false);
   
+
+   
+
 </script>
