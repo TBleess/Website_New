@@ -32,7 +32,7 @@ Population Forecasts, Household and Labor Force Forecasts
 **Rob Kemp**  
 DATA SCIENTIST AND DEMOGRAPHER  
 Phone: 303-864-7755  
-[rob.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:rob.kemp@state.co.us)  
+[robert.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:robert.kemp@state.co.us)  
 Population Estimates, Demographic Methods, Database and Applications  
 
 **Chris Akers**  
