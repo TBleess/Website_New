@@ -23,3 +23,13 @@ While the US as a whole increased by 2.2 million, or .7%, **Colorado increased b
 The Census estimates are in line with the forecasts of the State Demography Office which indicate that Colorado is continuing to grow, but at a slightly slower pace than we’ve been seeing. 
 
 [Check out our full press release](https://demography.dola.colorado.gov/demography/publications-and-presentations/#press-releases) for more takeaways from the Census population estimates! 
+
+**Want to know more?** Visit our website at [demography.dola.colorado.gov](http://demography.dola.colorado.gov) or send questions to [dola_dlg_helpdesk@state.co.us](mailto:dola_dlg_helpdesk@state.co.us)
+
+
+
+**[Sign up](http://colorado.us13.list-manage.com/subscribe?u=542afe896a1951030a7772c33&id=e6ff0b17bc) to receive notifications of new blog posts.**
+
+
+
+Data sources: US Census Bureau
