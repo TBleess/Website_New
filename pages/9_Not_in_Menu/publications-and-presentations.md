@@ -175,6 +175,7 @@ published: true
 #### Press Releases
 
    - [Census Bureau Releases July 2016 Population Estimates ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTRlBkT3NlVDZ1ZUE)  
+   
 - - -
 
 Archived publications and presentations are available [here](/demography/archived-publications-and-presentations#archived-publications-and-presentations).
