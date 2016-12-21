@@ -36,4 +36,4 @@ The Census estimates are in line with the forecasts of the State Demography Offi
 
 
 
-Data sources: US Census Bureau
+Data source: US Census Bureau
