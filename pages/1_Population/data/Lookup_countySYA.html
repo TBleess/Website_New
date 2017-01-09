@@ -38,12 +38,13 @@ published: true
 <input type="radio" name="choiceCategory" value="census">Census Age Intervals<br>
 <input type="radio" name="choiceCategory" value="custom">Custom Age Range Intervals<br>
 <span id="customIntervals" >
-<label style="font-weight: bold;margin-left:15px;">Designate up to 4 intervals:</label><br />
+<label style="font-weight: bold;margin-left:15px;">Designate up to 5 intervals:</label><br />
 
 <span style="margin-left:20px;">from&nbsp;&nbsp;<input type="text" name="1a" id="1a" maxlength=3 size=5 onkeypress="return isNumberKey(event)"> to <input type="text" name="1b" id="1b" maxlength=3 size=5 onkeypress="return isNumberKey(event)"></span><span id="warning1" style="padding-left:5px;font-size:80%;color:#FF0000;"></span><br>
 <span style="margin-left:20px;">from&nbsp;&nbsp;<input type="text" name="2a" id="2a"maxlength=3 size=5 onkeypress="return isNumberKey(event)"> to <input type="text" name="2b" id="2b" maxlength=3 size=5 onkeypress="return isNumberKey(event)"></span><span id="warning2" style="padding-left:5px;font-size:80%;color:#FF0000;"></span><br>
 <span style="margin-left:20px;">from&nbsp;&nbsp;<input type="text" name="3a" id="3a"maxlength=3 size=5 onkeypress="return isNumberKey(event)"> to <input type="text" name="3b" id="3b" maxlength=3 size=5 onkeypress="return isNumberKey(event)"></span><span id="warning3" style="padding-left:5px;font-size:80%;color:#FF0000;"></span><br>
 <span style="margin-left:20px;">from&nbsp;&nbsp;<input type="text" name="4a" id="4a"maxlength=3 size=5 onkeypress="return isNumberKey(event)"> to <input type="text" name="4b" id="4b" maxlength=3 size=5 onkeypress="return isNumberKey(event)"></span><span id="warning4" style="padding-left:5px;font-size:80%;color:#FF0000;"></span><br>
+<span style="margin-left:20px;">from&nbsp;&nbsp;<input type="text" name="5a" id="5a"maxlength=3 size=5 onkeypress="return isNumberKey(event)"> to <input type="text" name="5b" id="5b" maxlength=3 size=5 onkeypress="return isNumberKey(event)"></span><span id="warning5" style="padding-left:5px;font-size:80%;color:#FF0000;"></span><br>
 
 <br>
 </span>
@@ -145,8 +146,8 @@ $( document ).ready(function() {
         /* contractor add */
         var categorySelected = document.querySelector('input[name="choiceCategory"]:checked').value;
         var intervals = document.getElementById('1a').value + ',' + document.getElementById('1b').value + ',' + document.getElementById('2a').value + ',' + document.getElementById('2b').value + ",";
-        	intervals = intervals + document.getElementById('3a').value + ',' + document.getElementById('3b').value + ',' + document.getElementById('4a').value + ',' + document.getElementById('4b').value ;
-        /* end this contractor add */
+        	intervals = intervals + document.getElementById('3a').value + ',' + document.getElementById('3b').value + ',' + document.getElementById('4a').value + ',' + document.getElementById('4b').value  + ',' + document.getElementById('5a').value + ',' + document.getElementById('5b').value ;
+       /* end this contractor add */
 
         /*VALIDATION*/
         if (selectedYears.length === 0) {
@@ -194,19 +195,32 @@ $( document ).ready(function() {
             $("#warning2").text("");
             $("#warning3").text("");
             $("#warning4").text("");
+	    $("#warning5").text("");
             
             isInt1 = /^\+?\d+$/.test($("#2a").val());
             isInt2 = /^\+?\d+$/.test($("#2b").val());
             if ((isInt1 && !(isInt2)) || (!(isInt1) && (isInt2)) ) {
                 $("#warning2").text("either both boxes need numbers or both are blank");
                 return;
+            } else if (isInt1 && isInt2) {
+                if(parseInt( $("#2b").val()) <= parseInt($("#2a").val()) ) {
+                    $("#warning2").text("second number needs to be greater than first");
+                    return;
+                }                
             }
+            
+
             
             isInt1 = /^\+?\d+$/.test($("#3a").val());
             isInt2 = /^\+?\d+$/.test($("#3b").val());
             if ((isInt1 && !(isInt2)) || (!(isInt1) && (isInt2)) ) {
                 $("#warning3").text("either both boxes need numbers or both are blank");
                 return;
+            } else if (isInt1 && isInt2) {
+                if(parseInt( $("#3b").val()) <= parseInt($("#3a").val()) ) {
+                    $("#warning3").text("second number needs to be greater than first");
+                    return;
+                }                
             }
             
             isInt1 = /^\+?\d+$/.test($("#4a").val());
@@ -214,7 +228,25 @@ $( document ).ready(function() {
             if ((isInt1 && !(isInt2)) || (!(isInt1) && (isInt2)) ) {
                 $("#warning4").text("either both boxes need numbers or both are blank");
                 return;
-            }            
+            } else if (isInt1 && isInt2) {
+                if(parseInt( $("#4b").val()) <= parseInt($("#4a").val()) ) {
+                    $("#warning4").text("second number needs to be greater than first");
+                    return;
+                }                
+            }
+           
+            isInt1 = /^\+?\d+$/.test($("#5a").val());
+            isInt2 = /^\+?\d+$/.test($("#5b").val());
+            if ((isInt1 && !(isInt2)) || (!(isInt1) && (isInt2)) ) {
+                $("#warning5").text("either both boxes need numbers or both are blank");
+                return;
+            } else if (isInt1 && isInt2) {
+                if(parseInt( $("#5b").val()) <= parseInt($("#5a").val()) ) {
+                    $("#warning5").text("second number needs to be greater than first");
+                    return;
+                }                
+            }        
+            
         }
         /* end custom age range validation added by contractor */
 
