@@ -9,7 +9,7 @@ published: true
 
 # CPTEST
 
-| Counties       	|                   	|                    	|                 	|
+|Counties       	|                   	|                    	|                 	|
 |----------------	|-------------------	|--------------------	|-----------------	|
 | Chaffee County 	| Cheyenne County   	| Clear Creek County 	| Crowley County  	|
 | Delta County   	| Eagle County      	| El Paso County     	| Elbert County   	|
