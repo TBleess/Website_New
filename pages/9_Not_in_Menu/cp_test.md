@@ -9,6 +9,8 @@ published: true
 
 # CPTEST
 
+| Counties 	
+|------------------	|-------------------	|--------------------	|-----------------	|
 | Archuleta County 	| Baca County       	| Bent County        	| Boulder County  	|
 | Chaffee County   	| Cheyenne County   	| Clear Creek County 	| Crowley County  	|
 | Delta County     	| Eagle County      	| El Paso County     	| Elbert County   	|
