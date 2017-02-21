@@ -8,3 +8,10 @@ published: true
 ---
 
 # CPTEST
+
+| Archuleta County 	| Baca County       	| Bent County        	| Boulder County  	|
+|------------------	|-------------------	|--------------------	|-----------------	|
+| Chaffee County   	| Cheyenne County   	| Clear Creek County 	| Crowley County  	|
+| Delta County     	| Eagle County      	| El Paso County     	| Elbert County   	|
+| Fremont County   	| Garfield County   	| Grand County       	| Gunnison County 	|
+| Kiowa County     	| Kit Carson County 	| La Plata County    	| Larimer County  	|
