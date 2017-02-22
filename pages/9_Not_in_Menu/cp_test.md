@@ -7,7 +7,7 @@ description: >-
 published: true
 ---
 
-# CPTEST
+# County Community Profiles
 
 <div class="newspaper">
 Adams county<br />
@@ -23,4 +23,20 @@ Patrick county<br />
 Barb county<br />
 Denise county<br />
 William county<br />
+</div>
+
+
+# City & Town Community Profiles
+
+<div class="newspaper">
+Aspen city<br />
+Berthoud town<br />
+Brighton city<br />
+Central City city<br />
+Creede city<br />
+Estes Park town<br />
+Granby town<br />
+Rifle city<br />
+Wellington town<br />
+Aurora city<br />
 </div>
