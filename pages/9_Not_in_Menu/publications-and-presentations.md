@@ -78,6 +78,7 @@ published: true
 - [Grand county (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESS3hra2lKaVRjRE0)
 - [Grand Junction city (8/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTYTlHMExQVXo5YVk)
 - [Gunnison county (7/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZHFRcVZmYTlmOGs)
+- [Hayden town (2/2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTV25ER0hGWkJpYVU)
 - [Hugo town (7/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESdVFmQk95RGpKSjA)
 - [Jamestown town (4/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7WWRBM3JFYTN1dG8)
 - [Kiowa county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSjFWZ0Q0VHAzOUk)
