@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Community Profilkes
+title: Community Profiles
 permalink: /community-profiles/
 description: >-
   Community demographic profiles for municipalities and counties.
@@ -9,19 +9,12 @@ published: true
 
 # CPTEST
 
-| Counties       	|                   	|                    	|                 	|                 	|
-|----------------	|-------------------	|--------------------	|-----------------	|-----------------	|
-| Chaffee County 	| Cheyenne County   	| Clear Creek County 	| Crowley County  	| Other County    	|
-| Delta County   	| Eagle County      	| El Paso County     	| Elbert County   	| Gunnison County 	|
-| Fremont County 	| Garfield County   	| Grand County       	| Gunnison County 	| Larimer County  	|
-| Kiowa County   	| Kit Carson County 	| La Plata County    	| Larimer County  	| Denver County   	|
-
-
-
-
-
-
 <div class="newspaper">
+Adams county<br />
+Arapahoe county<br />
+Boulder county<br />
+Denver county<br />
+Lincoln county<br />
 Gunnison county <br />
 Denver county<br />
 El Paso county<br />
