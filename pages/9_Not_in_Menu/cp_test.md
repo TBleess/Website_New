@@ -30,5 +30,4 @@ Patrick county<br />
 Barb county<br />
 Denise county<br />
 William county<br />
-Booty county<br />
 </div>
