@@ -10,7 +10,7 @@ published: true
 ## County Community Profiles
 
 <div class="newspaper">
-[Archuleta 2016 ![pdf] (/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c)<br />
+[Archuleta 2016 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c)<br />
 Arapahoe county<br />
 Boulder county<br />
 Denver county<br />
