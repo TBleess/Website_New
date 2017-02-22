@@ -7,7 +7,7 @@ description: >-
 published: true
 ---
 
-# County Community Profiles
+## County Community Profiles
 
 <div class="newspaper">
 Adams county<br />
@@ -26,7 +26,7 @@ William county<br />
 </div>
 
 
-# City & Town Community Profiles
+## City & Town Community Profiles
 
 <div class="newspaper">
 Aspen city<br />
