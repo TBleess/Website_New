@@ -59,6 +59,7 @@ description: "Download GIS data produced by the Colorado State Demography Office
   - [Firefighter Cardiac Benefit Program](https://storage.googleapis.com/co-publicdata/FFB_grants.csv)
   - [Search and Rescue](https://storage.googleapis.com/co-publicdata/SAR_grants.csv)
   - [Volunteer Firefighter Pension Fund](https://storage.googleapis.com/co-publicdata/VFP_grants.csv)
+  - [Marijuana Impact Grants](https://storage.googleapis.com/co-publicdata/MJ_grants.csv)
   
 ----
 
