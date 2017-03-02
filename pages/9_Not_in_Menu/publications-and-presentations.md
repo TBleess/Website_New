@@ -67,6 +67,7 @@ published: true
 - [Delta county (8/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZmpoMWpVOFRMZDA)
 - [Durango city (4/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESV1p1eFl5TmVEMGs)
 - [Eagle county (3/2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESMDN0M3hqMmV5eWM)
+- [Edgewater city (3/2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTeng5amhVNmZCSkU)
 - [El Paso county (8/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESX2FLdU52OERleG8)
 - [Elbert county (11/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESOG9SVEtaNkE0S0k)
 - [Elizabeth town (12/2015) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESbEl0ZjZTa2Q3R00)
