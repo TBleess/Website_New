@@ -23,10 +23,12 @@ description: "Download Common American Community Survey Tables and Data."
 - [Percent of total population in poverty ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbEFfUU10NmpMa2s)
 - [Total Population in Poverty by Place ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbFNudkFBLVVZLW8)
 - [Poverty ratio by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTcG1CMWFlaUg3SGs)
-- [Poverty ratio by Place ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=https://drive.google.com/open?id=0ByjImPUKASTTampUaFBONDVWNWM)
-- [Educational Attainment by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=https://drive.google.com/open?id=0ByjImPUKASTTQ1dyU29jTHZycW8)
-- [Health Insurance Coverage by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=https://drive.google.com/open?id=0ByjImPUKASTTTUJVN3ppME9GeHc)
-- [Travel Time to Work by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=https://drive.google.com/open?id=0ByjImPUKASTTdFQ5VkU1OGpfMEU)
+- [Poverty ratio by Place ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTampUaFBONDVWNWM)
+- [Educational Attainment by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTQ1dyU29jTHZycW8)
+- [Health Insurance Coverage by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTTUJVN3ppME9GeHc)
+- [Travel Time to Work by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTdFQ5VkU1OGpfMEU)
+
+
 
 - - -
 
