@@ -21,7 +21,7 @@ Quarterly Workforce Indicators (QWI) data from the Census Bureau tells us there 
 In 2015, Millennials (shown here as workers under the age of 35) made up 35% of Colorado’s workforce. The chart below shows the industries in which Millennials are overrepresented (>35%) and those in which they are underrepresented (<35%). Let’s take a closer look at the industries employing the most Millennials. As you can see, they comprise 58% of workers (148,100) in accommodations and food services, an industry with an average weekly wage of less than $400 in 2015. Of course, this industry has benefits which likely appeal to younger Millennials. Low barriers to entry and flexible hours could be a good fit for those still in school who are looking to earn extra money and gain employment experience. 
 
 *Chart 1: Colorado 2015 QWI Industry Employment by Age*
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=0ByjImPUKASTTenZDdnRLLXF2U2s" width="100%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=0ByjImPUKASTTenZDdnRLLXF2U2s" width="80%"/></div>
 
 Arts, entertainment & recreation is the next highest ranking industry with Millennials filling nearly 50% (27,500) of its jobs, and this is another industry that tends to pay minimum wage or slightly more.  Why do Millennials make up such a large percentage of this industry? In part, it’s due to the number of Millennials migrating to Colorado to fill jobs at ski resorts and other seasonal employment, while many younger Millennials will land their first summer job at an amusement park, bowling alley, or country club. Retail has the 3rd highest share of Millennials at 45%, and the average worker in this industry earned just $578 per week in 2015. 
 
@@ -33,3 +33,9 @@ Although Millennials currently earn less than older generations, their incomes w
 
 The takeaway here is that Millennials aren’t all that different from earlier generations. Although they currently earn less than older generations, their incomes will rise considerably over the  course of their careers as was the case for Baby Boomers and Gen Xers.  Over the next two decades, the education, experience and professional career paths of Millennials will boost their earnings greatly.  Millennials born in 1980 and 1981 are now in the 35-44 age group; this cohort earned 39% more than the 25-34 Millennials earned.  As the Baby Boom generation leaves the labor force over the next decade, this will also open up higher paying positions for younger generations to fill. 
 
+
+**Want to know more?** Visit our website at [demography.dola.colorado.gov](http://demography.dola.colorado.gov) or send questions to [dola_dlg_helpdesk@state.co.us](mailto:dola_dlg_helpdesk@state.co.us)
+
+
+
+**[Sign up](http://colorado.us13.list-manage.com/subscribe?u=542afe896a1951030a7772c33&id=e6ff0b17bc) to receive notifications of new blog posts.**
