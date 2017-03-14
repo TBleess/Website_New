@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=0ByjImPUKASTTTDhpc2pxcE5LVmc" width="100%"/></div>
 
-There is a lot of conversation around Millennials and the workplace, and how they differ from older generations. A quick Google search will return studies on generational gaps in everything from communication styles to technology preferences. But when it comes to earnings, how are Millennials faring compared to their older counterparts?
+There is a lot of conversation around Millennials and the workplace, and how they differ from older generations. A quick Google search will return studies on generational gaps in everything from communication styles to technology preferences. **But when it comes to earnings, how are Millennials faring compared to their older counterparts?**
 
 <!--more-->
 
