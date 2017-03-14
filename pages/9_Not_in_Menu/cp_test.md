@@ -17,8 +17,8 @@ published: true
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESczA5eEd6MVpCWFk">Baca (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQk5vb2xkRDFKblU">Bent (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTaFFjRnlSRGNXUEk">Boulder (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTTnE3ZXV0ZXB5SGs">Chaffee (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaWpUWFNKTDM2czg">Cheyenne (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
