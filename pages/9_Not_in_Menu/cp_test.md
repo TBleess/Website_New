@@ -10,7 +10,7 @@ published: true
 ##  Community Profiles
 
 
-#Counties
+# Counties
 <div class="newspaper">
 
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
