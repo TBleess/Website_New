@@ -25,13 +25,13 @@ published: true
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESX2FLdU52OERleG8">El Paso (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESOG9SVEtaNkE0S0k">Elbert (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbDNWSVZab0d3VDQ">Fremont (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTYVdMRzMxbXcwaE0">Garfield (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESS3hra2lKaVRjRE0">Grand (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZHFRcVZmYTlmOGs">Gunnison (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSjFWZ0Q0VHAzOUk">Kiowa (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYlFJemcycnNXem8">Kit Carson (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESM016Zi1qZHNPZlk">La Plata (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESMllESU1WVUhvQmc">Larimer (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 
 </div>
 
