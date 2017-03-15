@@ -32,6 +32,21 @@ published: true
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYlFJemcycnNXem8">Kit Carson (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESM016Zi1qZHNPZlk">La Plata (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESMllESU1WVUhvQmc">Larimer (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUnlGN0ZaXzVPV1U">Lincoln (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESMm1ncTZZYkd5RGc">Logan (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTTkwxMmJfQk1iVlk">Mesa (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESOTJab1k1Ujk5Ykk">Moffat (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SEScmg3eXljWUNvb1E">Montezuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESbk9uQ0JDQk9md2s">Morgan (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESOTJab1k1Ujk5Ykk">Moffat (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQUZSQkhJcDNhM1U">Otero (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTWEtzUGctaW02QVE">Pitkin (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUG1jbFNKSFJTSXc">Prowers (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTRDk3MEUyUzVEQUU">Pueblo (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZEgyeWVWdEUxUFE">Rio Blanco (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESWjFmcWVWY0hSSGc">Summit (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUk5LSkVOT3YtQjg">Weld (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 
 </div>
 
