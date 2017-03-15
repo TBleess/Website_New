@@ -51,17 +51,25 @@ published: true
 </div>
 
 
-## City & Town Community Profiles
+### Cities & Towns
 
 <div class="newspaper">
-Aspen city<br />
-Berthoud town<br />
-Brighton city<br />
-Central City city<br />
-Creede city<br />
-Estes Park town<br />
-Granby town<br />
-Rifle city<br />
-Wellington town<br />
-Aurora city<br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTd3NYTUg2bXg1WVU">Aspen (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESN29PZnRTdG9mdlE">Berthoud (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTajJ6S1ZIemIwdXc">Brighton (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaFRTanpiYnBJalU">Buena Vista (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUldQUmFtNE5aTEk">Burlington (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESeU85X3J2ckN5TlU">Central City (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQlJ1N2phVGxnN0E">Cheyenne Wells (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESbGNxcG5iaV96T1E">Craig (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTaUxQVFU3N0lkd1U">Creede (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTRGNxeUNRODVaeDQ">De Beque (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTNWlIRzVPNUxtQnc">Delta (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 </div>
