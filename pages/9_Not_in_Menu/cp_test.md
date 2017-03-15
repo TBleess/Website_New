@@ -22,6 +22,7 @@ published: true
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZW5TSVVvNTc2dG8">Clear Creek (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESRXhnWVFKQ3R1Qmc">Crowley (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZmpoMWpVOFRMZDA">Delta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESMDN0M3hqMmV5eWM">Eagle (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESX2FLdU52OERleG8">El Paso (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESOG9SVEtaNkE0S0k">Elbert (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbDNWSVZab0d3VDQ">Fremont (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
@@ -65,11 +66,11 @@ published: true
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTaUxQVFU3N0lkd1U">Creede (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTRGNxeUNRODVaeDQ">De Beque (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTNWlIRzVPNUxtQnc">Delta (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESV1p1eFl5TmVEMGs">Durango (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTeng5amhVNmZCSkU">Edgewater (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESbEl0ZjZTa2Q3R00">Elizabeth (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUHB5VEU5UlMxcDA">Estes Park (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaUxMQTUzdjRUV0U">Flagler (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQjkzMTJsTDFUdG8">Granby (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTYTlHMExQVXo5YVk">Grand Junction (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 </div>
