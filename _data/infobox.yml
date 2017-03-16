@@ -2,7 +2,7 @@
   # url: "/data/"
 # - name: "Webmap Gallery"
 #   url: "/gis/map-gallery/"
-- name: "Crosstabs Blog - A Closer Look at the Economics & Demographics of Colorado"
+- name: "Crosstabs - The Blog Taking a Closer Look at the Economics & Demographics of Colorado"
   url: "/crosstabs/"
 - name: "Community Profiles"
   url: "/community-profiles/"
