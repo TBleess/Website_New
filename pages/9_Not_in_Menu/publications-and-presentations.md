@@ -28,6 +28,7 @@ published: true
 
 #### Publications and Reports
 
+- [Earnings: Millennials v. Older Generations](https://demography.dola.colorado.gov/crosstabs/millennial-earnings/)
 - [Colorado Population and Economic Update (2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTQm5LSG5SMm16UFU)
 - [Region Reports (2015)](/demography/region-reports-2014/)
 - [What Paradox? Educational Attainment by Place of Birth ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7RDloZG45V2JmNmc)
