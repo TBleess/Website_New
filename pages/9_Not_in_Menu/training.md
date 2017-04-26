@@ -19,7 +19,6 @@ The State Demography Office periodically offers training sessions on a variety o
 
 To register, click on the link below. 
 
-- [Website 101](https://www.eventbrite.com/e/demography-website-101-tickets-26887410970) Webinar, Tuesday August 9 from 2:00 to 3:00 pm 
 
 - - -
 
