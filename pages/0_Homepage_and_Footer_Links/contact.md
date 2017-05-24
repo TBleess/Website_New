@@ -47,8 +47,6 @@ Phone: 303-864-7754
 [todd.bleess@state.co.us ![email](/images/email_link.png 'send email')](mailto:todd.bleess@state.co.us)  -->
 Geographic Information Systems Design, Analysis, Development, Mapping support, GIS Technical Support  
 
-**Barbara Musick**  
+**VACANT**  
 MARKETING & DATA MANAGEMENT  
-Phone: 303-864-7753  
-[barbara.musick@state.co.us ![email](/images/email_link.png 'send email')](mailto:barbara.musick@state.co.us)  
 Census & ACS Data, Data Requests, User Training, Product Development, Demography Webmaster
