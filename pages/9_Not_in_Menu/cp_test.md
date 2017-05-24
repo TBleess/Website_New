@@ -9,7 +9,7 @@ published: true
 
 ##  Community Profiles
 
-If the county or municipality you're looking for isn't listed, you can email [barbara.musick@state.co.us](mailto:barbara.musick@state.co.us) and request to have one created. 
+If the county or municipality you're looking for isn't listed, you can email [elizabeth.garner@state.co.us](mailto:elizabeth.garner@state.co.us) and request to have one created. 
 
 ### Counties
 <div class="newspaper">
