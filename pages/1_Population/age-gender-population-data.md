@@ -23,7 +23,7 @@ published: true
 
 #### Colorado, Sub-state Regions and Counties
 
-Click [here ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7d3JwNDBqQkJ0V0U) for map of Sub-state Regions and Counties
+Click [here ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7d3JwNDBqQkJ0V0U) for map of Sub-state Regions and Counties.
 
 - [Population Estimates and Forecasts by age and gender](/population/data/sya-county/) for Colorado, Sub-State Regions and Counties for the years 1990 through 2050. These data are prepared annually by the State Demography Office. Data from 1990 to 2014 are estimates, 2015 through 2050 are forecasts. For more information, please feel free to [contact staff ![email](/images/email_link.png 'send email')](mailto:dola.helpdesk@state.co.us). **Total Population** *numbers produced from this database will be slightly different from the total numbers produced on our forecast worksheets. This occurrence is due to the rounding effect of the age data.*
 - [Median Age ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESazMzYndDT0NjczA). This excel table illustrates median age for Colorado counties 1990 to 2050.
