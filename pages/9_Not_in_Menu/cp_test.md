@@ -58,6 +58,7 @@ If the county or municipality you're looking for isn't listed, you can email [el
 
 <div class="newspaper">
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTd3NYTUg2bXg1WVU">Aspen (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCVVgya1pmOG5LWU0">Bayfield (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESN29PZnRTdG9mdlE">Berthoud (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTajJ6S1ZIemIwdXc">Brighton (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaFRTanpiYnBJalU">Buena Vista (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
