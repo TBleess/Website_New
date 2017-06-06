@@ -22,6 +22,7 @@ If the county or municipality you're looking for isn't listed, you can email [el
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaWpUWFNKTDM2czg">Cheyenne (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZW5TSVVvNTc2dG8">Clear Creek (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESRXhnWVFKQ3R1Qmc">Crowley (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B_M7zgfu2piFcVBPSWlMdjBrcUE">Custer (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZmpoMWpVOFRMZDA">Delta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESMDN0M3hqMmV5eWM">Eagle (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESX2FLdU52OERleG8">El Paso (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
