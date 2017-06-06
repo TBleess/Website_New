@@ -29,10 +29,8 @@ Phone: 303-864-7752
 [cindy.degroen@state.co.us ![email](/images/email_link.png 'send email')](mailto:cindy.degroen@state.co.us)  
 Population Forecasts, Household and Labor Force Forecasts  
 
-**Rob Kemp**  
+**VACANT**  
 DATA SCIENTIST AND DEMOGRAPHER  
-Phone: 303-864-7755  
-[robert.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:robert.kemp@state.co.us)  
 Population Estimates, Demographic Methods, Database and Applications  
 
 **Chris Akers**  
