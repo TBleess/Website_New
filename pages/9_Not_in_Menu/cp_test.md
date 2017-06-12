@@ -33,6 +33,7 @@ If the county or municipality you're looking for isn't listed, you can email [el
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZHFRcVZmYTlmOGs">Gunnison (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSjFWZ0Q0VHAzOUk">Kiowa (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYlFJemcycnNXem8">Kit Carson (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B1Ct3oJpH5Ugb0kxZ05YZFBrZEk">Lake (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESM016Zi1qZHNPZlk">La Plata (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESMllESU1WVUhvQmc">Larimer (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUnlGN0ZaXzVPV1U">Lincoln (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
