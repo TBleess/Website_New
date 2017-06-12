@@ -15,7 +15,7 @@
 - name: "Training"
   url: "/demography/training#training"
 - name: "CTF Population Info"
-  url: "/demography/final-ctf-estimates#final-ctf-estimates"
+  url: "https://gis.dola.colorado.gov/apps/ctf_estimates_final/"
 - name: "Local Government Data Links"
   url: "/demography/cedis#colorado-economic-demographic-information-system"
 - name: "What are Metropolitan & Micropolitan Statistical Areas? (census.gov)"
