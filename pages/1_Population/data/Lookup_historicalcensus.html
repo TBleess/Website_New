@@ -85,6 +85,7 @@ tag: "popdata"
 
         var yearstring;
         var geostring;
+        var typeID;
 
         if (selectedYears.length === 0) {
             alert('no year selected');
@@ -97,15 +98,18 @@ tag: "popdata"
             return;
         } else if (selectedCounties.length >= 1 & selectedMunis.length >= 1) {
             geostring = selectedCounties.join("_C,")+","+selectedMunis.join("_M,");
+            typeID = "_M";
         } else if (selectedCounties.length >= 1 & selectedMunis.length === 0 ){
             geostring = selectedCounties.join("_C,");
+            typeID = "_C";
         } else {
             geostring = selectedMunis.join("_M,");
+            typeID = "_M";
         }
 
 
 
-        var querystring = "geo=" + geostring + "&year=" + yearstring;
+        var querystring = "geo=" + geostring + typeID + "&year=" + yearstring;
 
 console.log(querystring);
 
