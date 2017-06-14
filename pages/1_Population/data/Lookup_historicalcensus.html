@@ -96,11 +96,11 @@ tag: "popdata"
             alert('no geography selected');
             return;
         } else if (selectedCounties.length >= 1 & selectedMunis.length >= 1) {
-            geostring = selectedCounties.join(",")+","+selectedMunis.join(",");
+            geostring = selectedCounties.join("_C,")+","+selectedMunis.join("_M,");
         } else if (selectedCounties.length >= 1 & selectedMunis.length === 0 ){
-            geostring = selectedCounties.join(",");
+            geostring = selectedCounties.join("_C,");
         } else {
-            geostring = selectedMunis.join(",");
+            geostring = selectedMunis.join("_M,");
         }
 
 
