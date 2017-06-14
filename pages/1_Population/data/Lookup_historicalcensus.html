@@ -97,19 +97,16 @@ tag: "popdata"
             alert('no geography selected');
             return;
         } else if (selectedCounties.length >= 1 & selectedMunis.length >= 1) {
-            geostring = selectedCounties.join("_C,")+","+selectedMunis.join("_M,");
-            typeID = "_M";
+            geostring = selectedCounties.join("_C,") + "_C," + selectedMunis.join("_M,") + "_M";
         } else if (selectedCounties.length >= 1 & selectedMunis.length === 0 ){
-            geostring = selectedCounties.join("_C,");
-            typeID = "_C";
+            geostring = selectedCounties.join("_C,") + "_C";
         } else {
-            geostring = selectedMunis.join("_M,");
-            typeID = "_M";
+            geostring = selectedMunis.join("_M,") + "_M";
         }
 
 
 
-        var querystring = "geo=" + geostring + typeID + "&year=" + yearstring;
+        var querystring = "geo=" + geostring + "&year=" + yearstring;
 
 console.log(querystring);
 
