@@ -76,6 +76,7 @@ If the county or municipality you're looking for isn't listed, you can email [el
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUHB5VEU5UlMxcDA">Estes Park (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaUxMQTUzdjRUV0U">Flagler (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQjkzMTJsTDFUdG8">Granby (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTYTlHMExQVXo5YVk">Grand Junction (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTN3kzUVVaVXVUMnM">Hayden (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESdVFmQk95RGpKSjA">Hugo (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTUUM3eUNKRUtQb28">Jamestown (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
