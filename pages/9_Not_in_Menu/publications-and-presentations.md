@@ -28,6 +28,7 @@ published: true
 
 #### Publications and Reports
 
+- [Colorado Fertility: Recent Trends and Expectations of Change (2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCRUxUQjg0R0NKSkU)
 - [Earnings: Millennials v. Older Generations](https://demography.dola.colorado.gov/crosstabs/millennial-earnings/)
 - [Colorado Population and Economic Update (2016) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTQm5LSG5SMm16UFU)
 - [Region Reports (2015)](/demography/region-reports-2014/)
