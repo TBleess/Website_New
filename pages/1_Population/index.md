@@ -39,4 +39,4 @@ datalink: "/population/data"
 - [Statistical Regions Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7VjNuRWdiYnRhbnM)
 - [Thematic Maps](/gis/thematic-maps#thematic-maps)
 - [GIS Data](/gis/gis-data#gis-data)
-- [Land Density ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B6P5TF4k2v8qeTFXSmxJc1phNW8)
+- [Land Density ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/open?id=0B9kZxy54UDqMV3o3R2loY18yT28)
