@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view?id=0ByjImPUKASTTaGNCa1l0Mm5yWFE" width="100%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=0ByjImPUKASTTaGNCa1l0Mm5yWFE" width="100%"/></div>
 
 Between 2000 and 2007, Colorado and the US experienced a steep decline in fertility, both during and following the recession. But although the fertility rate is still declining, it’s declining at a slower rate. In part 1 of this series we looked at recent changes in fertility rates across our state by race and ethnicity, by age, and by region. Now let’s take a closer look at what we expect the future to bring, and what it means for Colorado.
 
