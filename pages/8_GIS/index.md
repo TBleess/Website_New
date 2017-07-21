@@ -17,7 +17,7 @@ description: "GIS resources page."
 
 **Download Maps and Data**
 
-- [PDF Thematic Maps](/gis/thematic-maps#thematic-maps)
+- [Thematic Maps](/gis/thematic-maps#thematic-maps)
 - [GIS Data](/gis/gis-data#gis-data)
 
 
