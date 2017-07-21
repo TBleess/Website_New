@@ -20,7 +20,7 @@ As mentioned in the first part of our series, Colorado reached a peak in the num
 
 Looking ahead, the State Demography Office forecasts the number of births in Colorado will continue to climb slowly and will exceed the 2007 level of births just before the year 2023. At the same time, as younger women complete their transition to much lower fertility rates, total fertility will continue to decline through 2025. After 2025 total fertility is expected to increase slightly due to the increased share of population within older childbearing years and an increase in diversity within females of childbearing age. 
 
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=0B2FMBVetYCVCZ19ncEtPaGx6M1U" width="100%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=0B2FMBVetYCVCd0VCcVNXX1hzOWM" width="100%"/></div>
 
 Northeastern Colorado currently has, and is expected to continue to have, the highest TFR, followed by the Southeastern Plains and the San Luis Valley. Boulder, Denver, and the Rural Resort Region are expected to continue to have the lowest within the state. The most significant change over the forecast period, 2015-2050 is a continued expected decline in the City and County of Denver from a TFR of 1.9 in 2010 to 1.5 by the year 2050. By 2040, only the North and Central Eastern Plains and Northwestern Colorado are expected to have total fertility rates remaining above replacement.
 
