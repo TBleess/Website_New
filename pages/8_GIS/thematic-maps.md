@@ -93,13 +93,11 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 #### Employment
 
-- [Colorado Employment Diversity Index 2012 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/CEDI_2012.png)
-- [Percent Change in Total Jobs, 2001 to 2012 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/JobGrowth2001_2012.png)
-- [Percent Change in Total Jobs, 2011 to 2012 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/JobGrowth2011_2012.png)
-- [2011 Employment as a Percentage of 2008 Employment (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/JobLoss.png)
-- [2012 Employment as a Percentage of Pre-Recession Peak (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/OffPeakEmployment.png)
-- [2012 Proprietor Job Share (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/PJobShare2012.png)
-- [Change in Unemployment Rate, 2000 to 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/UnemploymentChange.png)
+- [Percent Change in Total Jobs, 2010 to 2016 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/JobChange2010-16.png)
+- [Percent Change in Total Jobs, 2015 to 2016 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/JobChange2015-16.png)
+- [2016 Employment as a Percentage of Pre-Recession Peak (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/PreRecessionPeakJobs2016.png)
+- [2016 Proprietor Job Share (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/ProprietorShare2016.png)
+- [Change in Unemployment Rate, 2010 to 2016 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/Unemployment2010-16.png)
 
 - - -
 
