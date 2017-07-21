@@ -38,7 +38,7 @@ In addition to the impact it has on Colorado’s population, fertility will also
 
 The share of children relative to the working age population is also expected to decline, which in turn means a smaller share aging into traditional working age groups. This will slow the growth of the labor force relative to the total population.
 
-**Final Thoughts*
+**Final Thoughts**
 
 This series was meant to be a high level look at why fertility measures are an important aspect of understanding changes in population growth. In fact, forecasts of fertility, the dependency ratio, and labor force growth rates are important variables for public finance planning, workforce planning, school and park planning, as well as planning for supports for young families.
 
@@ -47,6 +47,7 @@ We used excerpts from Colorado Fertility: Recent Trends and Expectations of Chan
 
 
 **Want to know more?** Visit our website at [demography.dola.colorado.gov](http://demography.dola.colorado.gov) or send questions to [dola_dlg_helpdesk@state.co.us](mailto:dola_dlg_helpdesk@state.co.us)
+
 ***Data sources: US Census Bureau and State Demography Office***
 
 
