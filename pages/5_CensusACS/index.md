@@ -25,7 +25,7 @@ If you\'re new to using American FactFinder, check out our [FAQ](/census-acs/cen
 
 **Decennial Census**
 
-- [2010 Census Information](/census-acs/2010-census-information#census-information-2010)
+- [2020 Census Information](/census-acs/2020-census-information#census-information-2020)
 - [2010 Census Data](/census-acs/2010-census-data#census-data-for-colorado-2010)
 - [2000 Census Data](/census-acs/2000-census-data#census-data-2000)
 - [Historical Census Data](https://nhgis.org) 
