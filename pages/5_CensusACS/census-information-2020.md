@@ -18,7 +18,7 @@ We will maintain this website throughout the entire Census 2020 cycle (ending ab
 
 #### Participation Rates
 
-Colorado had a 72% participation rate in the 2010 Census. Curious to see how your community did? [Download a complete list of participation rates by county, city and town! ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/0B0m67XbcqVYRY05QTEF5LV9hRmM/view?usp=sharing)
+Colorado had a 72% participation rate in the 2010 Census. Curious to see how your community did? [Download a complete list of participation rates by county, city and town! ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/0B0m67XbcqVYRY05QTEF5LV9hRmM/view?usp=sharing)- [Or see it on a map ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/2010_Census_Participation.png)
 
 - - -
 
