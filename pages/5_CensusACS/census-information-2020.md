@@ -12,7 +12,19 @@ description: "Information about 2020 US Census"
 
 The administration of the decennial Census is a federal activity mandated by the constitution. In order for our communities to ensure they are completely and accurately counted in April 2020, it must also be a partnership between the US Census Bureau and local governments.
 
-We will maintain this website throughout the entire Census 2020 cycle (ending about 2023) **and will provide current, timely and accurate information relevant to the communities and residents of Colorado** as follow-up on the 2020 Census proceeds and we will also inform Colorado stakeholders about Census 2020 endeavors throughout the state.
+We will maintain this website throughout the entire Census 2020 cycle (ending about 2023) and will provide current, timely and accurate information relevant to the communities and residents of Colorado as follow-up on the 2020 Census proceedings and we will also inform Colorado stakeholders about Census 2020 endeavors throughout the state.
+
+- - -
+
+#### Census Programs
+
+[Local Update of Census Addresses (LUCA)](https://www.census.gov/geo/partnerships/luca.html)
+
+- - -
+
+#### Census Events
+
+DRCOG is hosting a Local Update of Census Addresses (LUCA) Technical Workshop Wednesday, October 11, 2017. [For more information and to register](https://drcog.org/node/386411)
 
 - - -
 
