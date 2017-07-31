@@ -21,7 +21,7 @@
 - name: "Local Government Data Links"
   url: "/demography/cedis#colorado-economic-demographic-information-system"
 - name: "What are Metropolitan & Micropolitan Statistical Areas? (census.gov)"
-  url: "http://www.census.gov/population/metro/"
+  url: "https://www.census.gov/programs-surveys/metro-micro.html"
 - name: "Urban & Rural Definitions (census.gov)"
   url: "http://www.census.gov/geo/reference/ua/urban-rural-2010.html"
 - name: "Net Migration by Age Charts"
