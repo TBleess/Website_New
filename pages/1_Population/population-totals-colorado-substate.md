@@ -14,7 +14,7 @@ datalink: "/population/data"
 
 #### Historical Census - years (1790 to 2010) 
 
-Population totals for Colorado, counties & places, 1870 to 2010 are available [here](https://demography.dola.colorado.gov/population/).
+Population totals for Colorado, counties & places, 1870 to 2010 are available [here](https://demography.dola.colorado.gov/population/data/historical_census/).
 
 Historical Census data can also be obtained through the [National Historical Geographic Information System](https://www.nhgis.org). This site presents data for the people and the economy of the U.S. for each state and county from 1790 to 1960.
 
