@@ -23,7 +23,7 @@ description: "Labor force participation, journey to work, and other economic dat
 
 #### 2006-2010 American Community Survey (ACS) Data
 
-- [ACS Commuting Data](https://www.census.gov/hhes/commuting/data/)
+- [ACS Commuting Data](https://www.census.gov/topics/employment/commuting.html)
 - [Where People Work ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7MHVfSjhvY2s1c0E)
 - [Where People Live ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7elBFQk5LNjE3Wk0)
 
