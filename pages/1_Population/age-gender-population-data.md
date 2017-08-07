@@ -16,8 +16,8 @@ published: true
 #### United States
 
 - 2010 Census data are available through [American Factfinder (census.gov)](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml)
-- Estimates of age are available from the [U.S. Census Bureau](http://www.census.gov/popest/data/cities/totals/2011/index.html) for 2011
-- Forecasts of age are available from the [U.S. Census Bureau](http://www.census.gov/population/projections/) by 5 year and selected age groups 2000 to 2030
+- Estimates of age are available from the [U.S. Census Bureau](https://www.census.gov/topics/population/age-and-sex/data/tables.html)
+- Forecasts of age are available from the [U.S. Census Bureau](https://www.census.gov/programs-surveys/popproj.html) by 5 year and selected age groups 2000 to 2030
 
 - - -
 
