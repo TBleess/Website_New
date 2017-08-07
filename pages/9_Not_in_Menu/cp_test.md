@@ -87,6 +87,7 @@ If the county or municipality you're looking for isn't listed, you can email [el
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTRmZNTnpJSzBfNTg">Mancos (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTVVFhOGduelRRNlk">Mead (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTakxFM3pFcjliVjQ">Montrose (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCRjNuV1l3Y1ctdnc">Morrison (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />  
 <a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCM3p2My1TeUR0VE0">New Castle (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSncxaG0zaVBaVnM">Olathe (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTMm56SzJWanV4ZFk">Red Cliff (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
