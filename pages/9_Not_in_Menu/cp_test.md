@@ -16,12 +16,14 @@ If the county or municipality you're looking for isn't listed, you can email [el
 
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESczA5eEd6MVpCWFk">Baca (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQk5vb2xkRDFKblU">Bent (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQk5vb2xkRDFKblU">Bent (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTaFFjRnlSRGNXUEk">Boulder (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTTnE3ZXV0ZXB5SGs">Chaffee (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaWpUWFNKTDM2czg">Cheyenne (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESZW5TSVVvNTc2dG8">Clear Creek (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESRXhnWVFKQ3R1Qmc">Crowley (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCZ2w1Y0xHWjF3aDg">Conejos (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCVWNJZE8tRFNSZzg">Costilla (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESRXhnWVFKQ3R1Qmc">Crowley (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B_M7zgfu2piFcVBPSWlMdjBrcUE">Custer (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZmpoMWpVOFRMZDA">Delta (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESMDN0M3hqMmV5eWM">Eagle (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
@@ -41,13 +43,15 @@ If the county or municipality you're looking for isn't listed, you can email [el
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTTkwxMmJfQk1iVlk">Mesa (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESOTJab1k1Ujk5Ykk">Moffat (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SEScmg3eXljWUNvb1E">Montezuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCTm5vckJCWFZwZWc">Montrose (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESbk9uQ0JDQk9md2s">Morgan (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESOTJab1k1Ujk5Ykk">Moffat (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQUZSQkhJcDNhM1U">Otero (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQUZSQkhJcDNhM1U">Otero (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTWEtzUGctaW02QVE">Pitkin (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUG1jbFNKSFJTSXc">Prowers (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUG1jbFNKSFJTSXc">Prowers (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTRDk3MEUyUzVEQUU">Pueblo (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZEgyeWVWdEUxUFE">Rio Blanco (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCVkdRaVN6ekJDN28">Saguache (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESWjFmcWVWY0hSSGc">Summit (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUk5LSkVOT3YtQjg">Weld (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESODNSbmx0RGQtTXc">Yuma (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
@@ -64,6 +68,7 @@ If the county or municipality you're looking for isn't listed, you can email [el
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTajJ6S1ZIemIwdXc">Brighton (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaFRTanpiYnBJalU">Buena Vista (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUldQUmFtNE5aTEk">Burlington (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCN21WdjdsRmpBa0k">Carbondale (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESeU85X3J2ckN5TlU">Central City (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQlJ1N2phVGxnN0E">Cheyenne Wells (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESbGNxcG5iaV96T1E">Craig (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
@@ -80,6 +85,7 @@ If the county or municipality you're looking for isn't listed, you can email [el
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTN3kzUVVaVXVUMnM">Hayden (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESdVFmQk95RGpKSjA">Hugo (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTUUM3eUNKRUtQb28">Jamestown (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCN3I2VmN0TWZTcU0">Kiowa (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTQmY5VHJxU0RQTDA">La Junta (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCSG1pZ0ZzTTJvWnc">Lakewood (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESLWswOEgxSVZiUms">Leadville (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
