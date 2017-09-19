@@ -47,6 +47,7 @@ If the county or municipality you're looking for isn't listed, you can email [el
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESbk9uQ0JDQk9md2s">Morgan (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESOTJab1k1Ujk5Ykk">Moffat (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQUZSQkhJcDNhM1U">Otero (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B9kZxy54UDqMQ0w3QW0xZnRvNlk">Ouray (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTWEtzUGctaW02QVE">Pitkin (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUG1jbFNKSFJTSXc">Prowers (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTRDk3MEUyUzVEQUU">Pueblo (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
@@ -96,8 +97,9 @@ If the county or municipality you're looking for isn't listed, you can email [el
 <a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCRjNuV1l3Y1ctdnc">Morrison (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />  
 <a href="https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCM3p2My1TeUR0VE0">New Castle (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSncxaG0zaVBaVnM">Olathe (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B9kZxy54UDqMekFEZGtCXzNONm8">Ouray (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTMm56SzJWanV4ZFk">Red Cliff (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
-<a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTQmVZdnE4a2xFUHM">Ridgway (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
+<a href="https://drive.google.com/uc?export=download&id=0B9kZxy54UDqMWXdZaU1uaGNBZlE">Ridgway (2017)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQXRIWDJET3cydzA">Rifle (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYUNlZjRSYkNyWFU">Snowmass (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
 <a href="https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESVFFsNXExWTNhZjQ">Steamboat Springs (2015)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
