@@ -46,9 +46,9 @@ published: true
 
 - - -
  
-#### [Community Profiles](/community-profiles)
+#### [Community Profiles](https://demography.dola.colorado.gov/community-profiles/)
 
-We've moved all of our profiles to their own page, which can be found [here.](/community-profiles)
+We've moved all of our profiles to their own page, which can be found [here.](https://demography.dola.colorado.gov/community-profiles/)
 
 - - -
 
