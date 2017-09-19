@@ -54,6 +54,8 @@ We've moved all of our profiles to their own page, which can be found [here.](/c
 
 #### Presentations
 
+- [Colorado Overview (2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B9kZxy54UDqMZDFWVEpvb2dWSHM)
+- [Aging in Colorado (2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B9kZxy54UDqMbklTdy1qNWc1bTQ)
 - [\"Social Generations\" (2014) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7bkxBeXN3TlFlNEE)
 - [Colorado Economic & Demographic Overview (February 2014) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7VnVocTdzS1ByV00)
 - [Economics of Non-renewable Resource Extraction (October 2013) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7aUNDRUZkamVpTlk)
