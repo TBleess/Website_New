@@ -20,8 +20,29 @@ Brighton, CO 80601
 
 Please join us for this exciting and informational event to learn about the issues affecting YOUR community or organization!
 
-* The 2020 Census
-* Regional Updates
-* And more!
+* Spend the day learning about the population and economic trends affecting our state and the newest population and economic forecasts.
 
+* Get a better understanding of the upcoming 2020 Census, why it is important, and how your community or organization can get involved.
+
+* Learn about the impacts of aging in Colorado and how the transitions are impacting our economy and housing.
+
+* Learn about all the changes in Adams County from Adams County Economic Development.
+
+And more!
 Draft Agenda Coming Soon 
+
+We have three options for registering and "attending" our meeting this year:  
+
+
+1.  Register by October 20th and the registration fee will be $60, plus fees.
+
+2.  Late registration, between October 23rd and October 27th will be $75, plus fees.
+
+3.  For the second year in a row, we’re offering an easy way to “attend” via streaming video online! Register for the online option before November 2nd and for just $30 plus fees you’ll be able to see all the presentations and Q&A sessions, all in real-time, from anywhere!
+
+
+The meeting will be held on Friday November 3rd at the [Adams County Government Center](https://www.google.com/maps/place/The+Summit+Conference+%26+Event+Center/@39.7226338,-104.8210968,15z/data=!4m2!3m1!1s0x0:0x8f2a489b7d121816?sa=X&ved=0ahUKEwi7ltqWg7XPAhVB1GMKHdIVC5gQ_BIIgQEwDQ) in Brighton from 8:30am to 4:00pm. Breakfast and lunch will be provided! 
+
+[**Register Now!**](https://www.eventbrite.com/e/2017-annual-demography-summit-tickets-28259294310)
+
+**Questions? Please contact [heather.champeau@state.co.us](mailto:heather.champeau@state.co.us) for more information.**
