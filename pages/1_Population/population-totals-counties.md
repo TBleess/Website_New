@@ -35,7 +35,7 @@ The County Profile database allows the user to select county-level population es
 
 - - -
 
-#### Population Forecasts - years (2000 to 2040)
+#### Population Forecasts - years (2000 to 2050)
 
 Population forecasts are produced annually by the State Demography Office. Our most recent forecasts were produced in October, 2016.
 
