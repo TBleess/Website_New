@@ -41,7 +41,7 @@ We have three options for registering and "attending" our meeting this year:
 3.  For the second year in a row, we’re offering an easy way to “attend” via streaming video online! Register for the online option before November 2nd and for just $30 plus fees you’ll be able to see all the presentations and Q&A sessions, all in real-time, from anywhere!
 
 
-The meeting will be held on Friday November 3rd at the [Adams County Government Center](https://www.google.com/maps/place/The+Summit+Conference+%26+Event+Center/@39.7226338,-104.8210968,15z/data=!4m2!3m1!1s0x0:0x8f2a489b7d121816?sa=X&ved=0ahUKEwi7ltqWg7XPAhVB1GMKHdIVC5gQ_BIIgQEwDQ) in Brighton from 8:30am to 4:00pm. Breakfast and lunch will be provided! 
+The meeting will be held on Friday November 3rd at the [Adams County Government Center](https://www.google.com/maps/place/Adams+County+Government+Center/@39.9237893,-104.8129123,15z/data=!4m5!3m4!1s0x0:0x5d248cfc3b4bfa7b!8m2!3d39.9237893!4d-104.8129123) in Brighton from 8:30am to 4:00pm. Breakfast and lunch will be provided! 
 
 [**Register Now!**](https://www.eventbrite.com/e/2017-annual-demography-summit-tickets-38461837391)
 
