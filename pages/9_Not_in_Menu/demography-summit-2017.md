@@ -43,7 +43,8 @@ We have three options for registering and "attending" our meeting this year:
 
 The meeting will be held on Friday November 3rd at the [Adams County Government Center](https://www.google.com/maps/place/Adams+County+Government+Center/@39.9237893,-104.8129123,15z/data=!4m5!3m4!1s0x0:0x5d248cfc3b4bfa7b!8m2!3d39.9237893!4d-104.8129123) in Brighton from 8:00am to 4:00pm. Breakfast and lunch will be provided! 
 
-<div style="text-align:center"><img src ="https://drive.google.com/open?id=0B2FMBVetYCVCMGMtWmtCOVR2UEU" width="100%"/></div>
+Parking Map [JPG ![image](/images/page_white_picture.png 'download image file')](https://drive.google.com/file/d/0B2FMBVetYCVCMGMtWmtCOVR2UEU/view?usp=sharing) \| [PDF  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=0B2FMBVetYCVCb3dkUC1zWmg4dU0)
+
 
 [**Register Now!**](https://www.eventbrite.com/e/2017-annual-demography-summit-tickets-38461837391)
 
