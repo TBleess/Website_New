@@ -35,7 +35,7 @@ And more!
 We have three options for registering and "attending" our meeting this year:  
 
 
-1.  Register by October 20th and the registration fee will be $60, plus fees.
+1.  Register by October 23rd and the registration fee will be $60, plus fees.
 
 2.  Late registration, between October 23rd and October 27th will be $75, plus fees.
 
