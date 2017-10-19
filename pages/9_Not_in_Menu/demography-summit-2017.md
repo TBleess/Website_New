@@ -20,16 +20,17 @@ Brighton, CO 80601
 
 Please join us for this exciting and informational event to learn about the issues affecting YOUR community or organization!
 
-* Spend the day learning about the population and economic trends affecting our state and the newest population and economic forecasts.
+* Colorado is growing and is forecast to grow at different rates throughout the state based on changes in the economy, migration, birth rates and deaths.  Spend the day learning about the population and economic trends affecting our state and the newest population and economic forecasts.
 
-* Get a better understanding of the upcoming 2020 Census, why it is important, and how your community or organization can get involved.
+* Census 2020 is sooner than you think.  Many programs to prepare for Census 2020 are underway.  Counting everyone in the right place is not only essential for state and local planning but also every person in the state represents an estimated $1,030 per person per year in federal transfers.  Get a better understanding of the upcoming 2020 Census, why it is important, and how your community or organization can get involved and be prepared.
 
-* Learn about the impacts of aging in Colorado and how the transitions are impacting our economy and housing.
+* Colorado is the 3rd fastest aging state in the US.  Our 65+ population is forecast to grow by 6% per year.  Learn about the impacts of aging in Colorado and how the transitions are impacting our economy and housing.
 
-* Learn about all the changes in Adams County from Adams County Economic Development.
+* Population growth in the state is tightly linked to job growth, learn about all the changes in Adams County from Adams County Economic Development Also learn more about how state and economic development agencies approach economic development proposal and get a perspective on how communities look at planning for these changes.
 
 And more!
-Draft Agenda Coming Soon 
+[**Draft Agenda**](https://drive.google.com/open?id=0B2FMBVetYCVCRndMSUNudXhxWGc)
+
 
 We have three options for registering and "attending" our meeting this year:  
 
