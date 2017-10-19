@@ -29,9 +29,11 @@ Phone: 303-864-7752
 [cindy.degroen@state.co.us ![email](/images/email_link.png 'send email')](mailto:cindy.degroen@state.co.us)  
 Population Forecasts, Household and Labor Force Forecasts  
 
-**VACANT**  
+**Heather Champeau**  
 DATA SCIENTIST AND DEMOGRAPHER  
-Population Estimates, Demographic Methods, Database and Applications  
+Phone: 303-864-7755  
+[heather.champeau@state.co.us ![email](/images/email_link.png 'send email')](mailto:heather.champeau@state.co.us)  
+Population Estimates, Demographic Methods
 
 **Chris Akers**  
 ECONOMIST  
@@ -42,9 +44,11 @@ Economic Data & Analysis, Economic & Demographic Relationships
 **Todd Bleess**  
 GIS DEVELOPER  
 Phone: 303-864-7754  
-[todd.bleess@state.co.us ![email](/images/email_link.png 'send email')](mailto:todd.bleess@state.co.us)  -->
+[todd.bleess@state.co.us ![email](/images/email_link.png 'send email')](mailto:todd.bleess@state.co.us)  
 Geographic Information Systems Design, Analysis, Development, Mapping support, GIS Technical Support  
 
-**VACANT**  
-MARKETING & DATA MANAGEMENT  
-Census & ACS Data, Data Requests, User Training, Product Development, Demography Webmaster
+**Adam Bickford**  
+DATA ANALYST AND OUTREACH  
+Phone: 303-864-7753  
+[adam.bickford@state.co.us ![email](/images/email_link.png 'send email')](mailto:adam.bickford@state.co.us)  
+Census & ACS Data, Data Requests, User Training, Product Development  
