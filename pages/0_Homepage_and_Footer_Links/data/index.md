@@ -9,7 +9,7 @@ permalink: "/data/"
 
 <div style="text-align: center;" markdown="1">
 
-**_[Demography Office Data]_**(#state-demography-office-data) \| **_[Census Data Tools]_**(#census-data-tools) \| **_[GIS Data Downloads]_**(/gis/gis-data#gis-data) \| **_[Thematic Maps]_**(/gis/thematic-maps#thematic-maps)
+[**_Demography Office Data_**](#state-demography-office-data) \| [**_Census Data Tools_**](#census-data-tools) \| [**_GIS Data Downloads_**](/gis/gis-data#gis-data) \| [**_Thematic Maps_**](/gis/thematic-maps#thematic-maps)
 
 </div>
 
