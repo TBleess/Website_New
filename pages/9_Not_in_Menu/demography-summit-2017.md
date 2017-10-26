@@ -31,9 +31,9 @@ Please join us for this exciting and informational event to learn about the issu
 And more!
 [**Draft Agenda**](https://drive.google.com/open?id=0B2FMBVetYCVCRndMSUNudXhxWGc)
 
+Registration to attend the Summit will close on October 27th, webinar registration will close November 1st.
 
 We have three options for registering and "attending" our meeting this year:  
-
 
 1.  Register by October 23rd and the registration fee will be $60, plus fees.
 
