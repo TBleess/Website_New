@@ -10,6 +10,8 @@ description: "Details and information on the 2017 Demography Summit."
 
 ## 2017 Annual Demography Summit
 
+**In Person Registration Closed.  Webinar Registration Open Until Nov 2nd.**
+
 ### Join us on Friday, November 3rd at the [Adams County Government Center](https://www.google.com/maps/place/Adams+County+Government+Center/@39.9237893,-104.8129123,15z/data=!4m5!3m4!1s0x0:0x5d248cfc3b4bfa7b!8m2!3d39.9237893!4d-104.8129123) in Brighton for the 35th Annual Demography Summit!
 
 ***Address***<br>
