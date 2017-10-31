@@ -18,7 +18,7 @@ published: true
 
 [Infographics](/demography/infographics#infographics) \| [Publications & Reports](#publications-and-reports) \| [Community Profiles](https://demography.dola.colorado.gov/community-profiles/) \| [Presentations](#presentations) \| [Thematic Maps](/gis/thematic-maps#thematic-maps) \| [GIS Data](/gis/gis-data#gis-data)
 
-[2017 Annual Demography Summit](#annual-demography-summit-2017) \|[2016 Annual Demography Summit](#annual-demography-summit-2016) \| [Past Conferences](#past-conferences)\| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations#archived-publications-and-presentations)
+[2017 Annual Demography Summit](#annual-demography-summit-2017) \|[Past Conferences](#past-conferences)\| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations#archived-publications-and-presentations)
 
 </div>
 
@@ -80,34 +80,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Table1: Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCczZhUklHeG44Tm8)
   - [Table2: Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCM09WS3pVVFdWdHc)
   
-  
-- - -
-
-#### Annual Demography Summit 2016
-
-- [View Presentation Videos](https://demography.dola.colorado.gov/demography/annual-demography-summit-2016/)
-- Handouts and Presentations
-  - [Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTajBIaDNkZkVaQ1k)
-  - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTX3FXZlEtOHA5aDg)
-  - [List of Attendees ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTTzlLWGtMRVJrNms)
-  - [Attendee Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSEtuNFlRTzByWkk)
-  - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTU1c3ejVCei1tRTQ)
-  - [Region Reports ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTMEhZeXNZNjZacmM)
-  - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSTZOeU1VcTNCQlk)
-  - [Table1: Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbl9nVFdqSEpzMDg)
-  - [Table2: Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSzRZT2tqWHFqNHM)
-  - [Economic Outlook: Growing but Slowing ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSlc3bFpNTzJ0bjg) presented by Chris Akers, State Demography Office
-  - [The Five Big Trends Transforming Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTeEp5cm9XcllGYnc) presented by Cindy DeGroen, State Demography Office
-  - [Colorado's Population Landscape: Migration in Perspective ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTNDJtUWlmRkh4WDA) presented by Rob Kemp, PhD, State Demography Office
-  - [2020 Census Update ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTWDBXX19hT0ZUSmc) presented by Cathy Lacy and Jim Castagneri, US Census Bureau
-  - [Rural Colorado Economic Resiliency ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTY3QyV0VaLVR6STQ) presented by Laura Blomquist Rodriguez and Meridith Marshall, OEDIT; Brian Lewandowski, Leeds School of Business
-   - [Overview of Legalized Marijuana in Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZ3VqT0hRU05YcFk) presented by Barbara Brohl, Department of Revenue 
-    - [Marijuana Industry's Impact on Commercial Real Estate ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTUjBRSVRuc0NaZ28) presented by Jessica Ostermick, CBRE  
-    - [Colorado 3 Years In ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTNGMwOGRnVEExV2c) presented by Adam Orens, BBC Research  
-   - [Impacts of Marijuana Legalization in Colorado: Lessons Learned ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbUxtdDhmdUM1VEE) presented by Andrew Freedman, State of Colorado 
-  
-
-
+ 
 ---
 
 #### Past Conferences
