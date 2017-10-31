@@ -15,6 +15,32 @@ All archived Publications and Presentations are listed by year of original produ
 
 - - -
 
+#### 2016
+
+- [Annual Demography Meeting](/demography/annual-demography-meeting-2016/)
+- [View Presentation Videos](https://demography.dola.colorado.gov/demography/annual-demography-summit-2016/)
+- Handouts and Presentations
+  - [Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTajBIaDNkZkVaQ1k)
+  - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTX3FXZlEtOHA5aDg)
+  - [List of Attendees ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTTzlLWGtMRVJrNms)
+  - [Attendee Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSEtuNFlRTzByWkk)
+  - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTU1c3ejVCei1tRTQ)
+  - [Region Reports ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTMEhZeXNZNjZacmM)
+  - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSTZOeU1VcTNCQlk)
+  - [Table1: Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbl9nVFdqSEpzMDg)
+  - [Table2: Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSzRZT2tqWHFqNHM)
+  - [Economic Outlook: Growing but Slowing ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSlc3bFpNTzJ0bjg) presented by Chris Akers, State Demography Office
+  - [The Five Big Trends Transforming Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTeEp5cm9XcllGYnc) presented by Cindy DeGroen, State Demography Office
+  - [Colorado's Population Landscape: Migration in Perspective ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTNDJtUWlmRkh4WDA) presented by Rob Kemp, PhD, State Demography Office
+  - [2020 Census Update ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTWDBXX19hT0ZUSmc) presented by Cathy Lacy and Jim Castagneri, US Census Bureau
+  - [Rural Colorado Economic Resiliency ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTY3QyV0VaLVR6STQ) presented by Laura Blomquist Rodriguez and Meridith Marshall, OEDIT; Brian Lewandowski, Leeds School of Business
+   - [Overview of Legalized Marijuana in Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZ3VqT0hRU05YcFk) presented by Barbara Brohl, Department of Revenue 
+    - [Marijuana Industry's Impact on Commercial Real Estate ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTUjBRSVRuc0NaZ28) presented by Jessica Ostermick, CBRE  
+    - [Colorado 3 Years In ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTNGMwOGRnVEExV2c) presented by Adam Orens, BBC Research  
+   - [Impacts of Marijuana Legalization in Colorado: Lessons Learned ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTbUxtdDhmdUM1VEE) presented by Andrew Freedman, State of Colorado 
+  
+- - -
+
 #### 2014
 
  - [2014 Population Overview ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7TkpLeWVLLVdyWTg)
