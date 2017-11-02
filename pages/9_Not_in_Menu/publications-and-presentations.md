@@ -79,6 +79,14 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCdXBtZU1WcmVERVk)
   - [Table1: Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCczZhUklHeG44Tm8)
   - [Table2: Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCM09WS3pVVFdWdHc)
+  - [Economic Overview and Forecast ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1A_F42fU6XE8AepZ84U55WKX5WYdRHQwr)
+  - [Population Estimates and Forecast Overview ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ggBXzZoo0c41ormIAmXH2mdWJbVgjMBq)
+  - [Geographic Programs for Census 2020 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1USZNr_cGxg6DjP3MoqNtzXFTFVQFcSb3)
+  - [Preparing for 2020 Census ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=154gWqzT_DXRDRhx78w2qyCuxPaCCdIVZ)
+  - [Impact of Aging in Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=14lEm_kcd8CHbH5ebYtVi0tZ9yVK05_kd)
+  - [Housing and Age Friendly Communities ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1fUh_5qkwru5dme8SggMfw2oYaevglub9)
+  - [How do governments manage large scale proposals ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_jcWVSw7x-Wo4UXqiD0Shu-Hf4JMc6eq)
+  - [North Metro Development Outlook ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nyk9sCUTwAj-00t0ScZPSHG8l47pxX6p)
   
  
 ---
