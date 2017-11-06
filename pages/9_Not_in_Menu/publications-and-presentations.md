@@ -75,7 +75,6 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCdUMwTm9DN25MQUk)
   - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCQjJEejNQeVdhVUk)
   - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCcWRFN1lSZWFfRms)
-  - [Region Reports ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCeEhuV2pzMWtIVEE)
   - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCdXBtZU1WcmVERVk)
   - [Table1: Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCczZhUklHeG44Tm8)
   - [Table2: Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCM09WS3pVVFdWdHc)
@@ -87,7 +86,21 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Housing and Age Friendly Communities ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1fUh_5qkwru5dme8SggMfw2oYaevglub9)
   - [How do governments manage large scale proposals ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_jcWVSw7x-Wo4UXqiD0Shu-Hf4JMc6eq)
   - [North Metro Development Outlook ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nyk9sCUTwAj-00t0ScZPSHG8l47pxX6p)
-  
+  - Regional Reports: 
+    [Region 1 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=14dKySL-ipACpcCVR_gHqZyDVlL9IFzxJ)
+    [Region 2 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1VSKotsItrbmbO531vNOKZut8U2MUlX6P)
+    [Region 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1bnNk4lL1TMIehXpZpKJ1NF4CV2r-OJRe)
+    [Region 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nLAgwZP_CkI3kwX3C0J8NpCJnW-X5NcC)
+    [Region 5 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=15XdSVknk3NZwnTsMNWx84_jxxnBMysnc)
+    [Region 6 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1o0brJA3Ha8YBUv8USsZTeUpcF7EhU_Nb)
+    [Region 7 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xn4VpSDEPPYECfq0YZZ-86c-3FY2-9QT)
+    [Region 8 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nyk9sCUTwAj-00t0ScZPSHG8l47pxX6p)
+    [Region 9 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nyk9sCUTwAj-00t0ScZPSHG8l47pxX6p)
+    [Region 10 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1OlyABEP-jVwY8WbeqjP4R9ksfYc-G3hJ)
+    [Region 11 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1AAObyMQ1YA_glU4CcYKYw9nlaKRf8B_V)
+    [Region 12 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1udq1FRK8zcj5Ho0drpHLAu1a_JrREc6p)
+    [Region 13 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1fDhLOHzUAQ3rvOI35tso9xgJXe52YnFi)
+    [Region 14 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1gY5WrSJzzYi8zqkFcsqXmMstZzoIj5Wm)
  
 ---
 
