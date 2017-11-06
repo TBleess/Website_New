@@ -20,15 +20,15 @@ Historical Census data can also be obtained through the [National Historical Geo
 
 - - -
 
-#### Population Estimates - years (1985 to 2015)
+#### Population Estimates - years (1985 to 2016)
 
-Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2015 and was finalized in August of 2016.
+Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2016 and was finalized in August of 2017.
 
 - [Final Estimates, State, Sub-state regions, and Counties 2000 to current ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCRFRacjRjdG9VckE)
 
 [User Lookup:](/population/data/muni-pop-housing/) 
 
-This option allows the user to select any combination of state, counties or municipalities for the year(s) of 1980, 1990 to current.
+This option allows the user to select any combination of state, counties or municipalities for the year 2010 to current.
 
 [County Profile:](/population/data/profile-county/)
 
@@ -38,7 +38,7 @@ The County Profile database allows the user to select population estimates along
 
 #### Population Forecasts - years (2000 to 2050) 
 
-Population forecasts are produced annually by the State Demography Office. Our most recent forecasts were produced in October 2015.
+Population forecasts are produced annually by the State Demography Office. Our most recent forecasts were produced in November 2017.
 
 These tables illustrate the population for future years, based on plausible courses of future population change (see Forecasts Methodology for more information.) The forecasts for the State of Colorado & Sub-state regions are available for the years 2000 to 2050. 
 
