@@ -18,13 +18,13 @@ published: true
 - [Population Forecasts](/population/population-totals-colorado-substate#population-totals-for-colorado-and-sub-state-regions)
 - [Population Forecasts by Age](/population/age-gender-population-data#age-and-gender-population-data)
 - [Population by Race & Hispanic Origin](/population/race-hispanic-origin#race-and-hispanic-origin)
-- [Census Population Estimates (census.gov)](http://www.census.gov/popest/estimates.html)
+- [Census Population Estimates (census.gov)](https://www.census.gov/programs-surveys/popest.html)
 
 - - -
 
 #### Housing Unit and Household Data
 
-- [Colorado County Profile System](/population/data/county-profile#county-demographic-profiles)
+- [Colorado County and Municipal Housing Time Series](/population/data/muni-pop-housing)
 - [Division of Housing Vacancy and Rent Surveys](https://www.colorado.gov/pacific/dola/vacancy-rent-surveys)
 
 - - -
