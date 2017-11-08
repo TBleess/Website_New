@@ -17,7 +17,7 @@ In 2017 we live-streamed our Annual Demography Summit allowing data users from a
 <ul>
 <li>Chris Akers, State Demography Office</li>
 </ul>
-{% include _youtubePlayer.html time_continue="5457" id="nHEko9q8qyw" %}
+{% include _youtubePlayer.html id="nHEko9q8qyw" %}
  <br />
 
 
