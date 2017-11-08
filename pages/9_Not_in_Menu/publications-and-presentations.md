@@ -72,7 +72,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 #### Annual Demography Summit 2017
 
 - Handouts and Presentations
-  - [Video] (https://demography.dola.colorado.gov/demography/annual-demography-summit-2017/#annual-demography-summit-videos-2017)
+  - [Video] (/demography/annual-demography-summit-2017/#annual-demography-summit-videos-2017)
   - [Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCdUMwTm9DN25MQUk)
   - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCQjJEejNQeVdhVUk)
   - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCcWRFN1lSZWFfRms)
