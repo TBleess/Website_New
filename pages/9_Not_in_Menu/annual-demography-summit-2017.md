@@ -22,4 +22,3 @@ In 2017 we live-streamed our Annual Demography Summit allowing data users from a
  
 <iframe width='420' height='305' frameborder='0' scrolling='no' src='https://dola.ompnetwork.org/embed/sessions/19934?embedInPoint=5450&embedOutPoint=8650&shareMethod=embed'></iframe>
 
-<iframe width='600' height='1800' frameborder='0' scrolling='no' src='https://dola.ompnetwork.org/embed/sessions/19934?embedInPoint=1&embedOutPoint=30760&shareMethod=embed'></iframe>
