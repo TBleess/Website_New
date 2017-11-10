@@ -51,8 +51,16 @@ All archived Publications and Presentations are listed by year of original produ
    - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
    - [Region Reports ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESeGxoQjZTYV8tN0U)
    - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSmRKVkpuTGszY0E)
-   
-   
+   - [Cost of Living Index and Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESajdRcHRjcThka3c)
+   - [Table1: Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESLUMyNFFCTE5URGc)
+   - [Table2: Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESM2hxWVZDZGZGajA)
+   - [Economic Outlook: Sprinting or Plodding? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESLTd1Y2ZIeDNzN2M) presented by Chris Akers, State Demography Office
+   - [Transitions in Age and Increasing Diversity ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESRENtSXlCd25NazA) presented by Cindy DeGroen, State Demography Office
+   - [Colorado's Population Landscape ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESaEdlS0FpcnQ0eDg) presented by Rob Kemp, State Demography Office
+   - [Updated Products ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESdHJnMkJYXzFyZVk)
+   - [Financing Colorado's Future ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESWW9xeXlkcFg4SXc) presented by Lincoln Institute of Land Policy
+   - [Cost of Living Differentials Across the State ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESUDJoS1ZCQmFyM0U) presented by Elizabeth Garner, State Demography Office
+   - [Housing Matters ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSnpPWGFDQWoxSVU) presented by Jason Schrock, OSPB; Greg Lestikow, OSPB; Michael Yeadon, OSPB; and CHFA
    
    
 
