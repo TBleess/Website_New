@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aging and the Economy"
-date:   2017-11-21
+date:   2017-10-21
 author: Colorado State Demography Office
 permalink: /crosstabs/aging-and-the-economy/
 excerpt_separator: <!--more-->
