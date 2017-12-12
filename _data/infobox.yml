@@ -3,7 +3,7 @@
 # - name: "Webmap Gallery"
 #   url: "/gis/map-gallery/"
 - name "Local Update of Census Addresses Webinar"
-  url: "https://storage.googleapis.com/co-publicdata/2017-12-12%2008.59%20LUCA%20Technical%20Workshop.mp4"
+  url: "https://storage.googleapis.com/co-publicdata/2017_12_12_LUCA_Technical_Workshop.mp4"
 - name: "The 35th Annual State Demography Summit was November 3rd. Click for video and presentations."
   url: "/demography/publications-and-presentations/#annual-demography-summit-2017"
 - name: "Crosstabs - The Blog Taking a Closer Look at the Economics & Demographics of Colorado"
