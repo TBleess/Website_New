@@ -10,6 +10,14 @@ description: "Download Common American Community Survey Tables and Data."
 ## American Community Survey Data for Colorado
 - - -
 
+#### Tables (2012-2016 5-year estimates)
+
+- [Median Household Income (MHI) by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1LTZ1efQQbUTvMff2PGLr7lgiMUGpb8rv)
+- [Median Household Income by Place ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1ykQTOvnhor0WGDOhy2hqcwEZSYJc8QfP)
+
+
+
+
 #### Tables (2011-2015 5-year estimates)
 
 - [Percent of people who speak a language other than English at home ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0ByjImPUKASTTSW4teGhhaVU3enc)
