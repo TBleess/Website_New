@@ -14,7 +14,7 @@ description: "Download Common American Community Survey Tables and Data."
 
 - [Median Household Income (MHI) by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1LTZ1efQQbUTvMff2PGLr7lgiMUGpb8rv)
 - [Median Household Income by Place ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1ykQTOvnhor0WGDOhy2hqcwEZSYJc8QfP)
-- [Median Household Value ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=13gNSV2Er1k-7A-Wf14pHzxT4belFWcb)
+- [Median Household Value ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=13gNSV2Er1k-7A-Wf14pHzxT4belFWcb-)
 - [Percent of total population in poverty ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1CFgiRKOrH0tjfN-Y_6bF43v_chOZ4TEe)
 - [Percent of children in poverty ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1CD1hNOnuFArXkIiNo5JGEmlxEHamaU00)
 - [Poverty ratio by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1-4w6hgP4BUYFvLdL7cGrGeqeX9Wuh3yS)
