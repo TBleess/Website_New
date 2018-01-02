@@ -14,8 +14,19 @@ description: "Download Common American Community Survey Tables and Data."
 
 - [Median Household Income (MHI) by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1LTZ1efQQbUTvMff2PGLr7lgiMUGpb8rv)
 - [Median Household Income by Place ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1ykQTOvnhor0WGDOhy2hqcwEZSYJc8QfP)
+- [Median Household Value ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=13gNSV2Er1k-7A-Wf14pHzxT4belFWcb)
+- [Percent of total population in poverty ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1CFgiRKOrH0tjfN-Y_6bF43v_chOZ4TEe)
+- [Percent of children in poverty ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1CD1hNOnuFArXkIiNo5JGEmlxEHamaU00)
+- [Poverty ratio by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1-4w6hgP4BUYFvLdL7cGrGeqeX9Wuh3yS)
+- [Poverty ratio by Place ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1rPiL6QKVsvzF0g1yMUoetmfhuthu4Noy)
+- [Percent of owners and renters spending more than 35% of household income on housing costs ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1vqa1w2Kf0O5bWMPM9ZEme2SFBwHo-0q8)
+- [Percent of people who are native Coloradans ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1cO_SgbZYVfN02b2vpsRyGfy5P9wylTK-)
+- [Percent of people who lived in another state 1 year ago ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1tOud8rYNoWANRLHtQPDE1i1EPqbZy3OK)
+- [Percent of people who are foreign born ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1dwthNf29oN38QiuVXQYTpLIHvwzBOU7z)
 - [Percent of people who speak a language other than English at home ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1z6C19ui5ef8YwerVLqVk7xKCBrkIUpCZ)
-
+- [Educational Attainment by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1cJJraURw2odDCkmp2UVA__GIQN5LgTOZ)
+- [Health Insurance Coverage by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1rnzCbHQQTcB_hv7JXOK1-hNgqOcV9Uk8)
+- [Travel Time to Work by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1UaX0DeL738gwYQXM66F6rakNu7uwG42i)
 
 
 
