@@ -70,7 +70,6 @@ description: "Download GIS data produced by the Colorado State Demography Office
   - [Tracts](https://storage.googleapis.com/co-publicdata/ACS1115_tract.zip)
   - [Counties](https://storage.googleapis.com/co-publicdata/ACS1115_county.zip)
   - [Places](https://storage.googleapis.com/co-publicdata/ACS1115_place.zip)
-  - [ZIP](https://storage.googleapis.com/co-publicdata/ACS1115_zcta.zip)
 
 - 2010 US Census (with demographic characteristics)
   - [Blocks](https://storage.googleapis.com/co-publicdata/Census%20Blocks%202010.zip)
