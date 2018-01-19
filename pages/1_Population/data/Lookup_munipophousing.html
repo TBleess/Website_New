@@ -602,7 +602,7 @@ tag: "popdata"
         cell10.innerHTML = Number(totalhousingunits).toLocaleString();
         cell11.innerHTML = Number(occupiedhousingunits).toLocaleString();
         cell12.innerHTML = Number(vacanthousingunits).toLocaleString();
-        cell13.innerHTML = Number((parseInt(vacanthousingunits) / parseInt(totalhousingunits)).toFixed(2)).toLocaleString();
+        cell13.innerHTML = Number((parseInt(vacanthousingunits) / parseInt(totalhousingunits)*100).toFixed(2)).toLocaleString();
 
     }
 
