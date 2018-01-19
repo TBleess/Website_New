@@ -393,7 +393,7 @@ tag: "popdata"
         var selectedCounties = getSelectValues(countiesSelected);
         var selectedMunis = getSelectValues(municipalitiesSelected);
         var selectedYears = getSelectValues(yearsSelected);
-        var statstring = "&stats=totalpopulation,householdpopulation,groupquarterspopulation,totalhousingunits,occupiedhousingunits,vacanthousingunits,vacancyrate";
+        var statstring = "&stats=totalpopulation,householdpopulation,groupquarterspopulation,totalhousingunits,occupiedhousingunits,vacanthousingunits";
         var compressed = document.querySelector('input[name="compressed"]:checked').value;
         var yearstring;
 
@@ -561,13 +561,13 @@ tag: "popdata"
         var body = table.appendChild(document.createElement('tbody'));
 
         for (var i = 0; i < results.length; i++) {
-            addrow(i, results[i].year, results[i].municipalityname || "", results[i].placefips || "", results[i].countyfips || "", results[i].totalpopulation, results[i].householdpopulation, results[i].groupquarterspopulation, results[i].totalhousingunits, results[i].occupiedhousingunits, results[i].vacanthousingunits, results[i].vacancyrate);
+            addrow(i, results[i].year, results[i].municipalityname || "", results[i].placefips || "", results[i].countyfips || "", results[i].totalpopulation, results[i].householdpopulation, results[i].groupquarterspopulation, results[i].totalhousingunits, results[i].occupiedhousingunits, results[i].vacanthousingunits);
         }
 
     }
 
 
-    function addrow(rownum, year, placename, placefips, countyfips, totalpopulation, householdpopulation, groupquarterspopulation, totalhousingunits, occupiedhousingunits, vacanthousingunits, vacancyrate) {
+    function addrow(rownum, year, placename, placefips, countyfips, totalpopulation, householdpopulation, groupquarterspopulation, totalhousingunits, occupiedhousingunits, vacanthousingunits) {
 
         var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
 
@@ -602,7 +602,7 @@ tag: "popdata"
         cell10.innerHTML = Number(totalhousingunits).toLocaleString();
         cell11.innerHTML = Number(occupiedhousingunits).toLocaleString();
         cell12.innerHTML = Number(vacanthousingunits).toLocaleString();
-        cell13.innerHTML = Number(vacancyrate).toFixed(2).toLocaleString();
+        cell13.innerHTML = Number((parseInt(vacanthousingunits) / parseInt(totalhousingunits)).toFixed(2)).toLocaleString();
 
     }
 
