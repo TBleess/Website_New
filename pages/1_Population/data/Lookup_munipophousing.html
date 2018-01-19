@@ -556,7 +556,7 @@ tag: "popdata"
         hcell10.innerHTML = "Total Housing Units";
         hcell11.innerHTML = "Occupied Housing Units";
         hcell12.innerHTML = "Vacant Housing Units";
-        hcell13.innerHTML = "Vacancy Rate";
+        hcell13.innerHTML = "Vacancy Percent";
 
         var body = table.appendChild(document.createElement('tbody'));
 
@@ -602,7 +602,7 @@ tag: "popdata"
         cell10.innerHTML = Number(totalhousingunits).toLocaleString();
         cell11.innerHTML = Number(occupiedhousingunits).toLocaleString();
         cell12.innerHTML = Number(vacanthousingunits).toLocaleString();
-        cell13.innerHTML = Number((parseInt(vacanthousingunits) / parseInt(totalhousingunits)).toFixed(4)).toLocaleString();
+        cell13.innerHTML = Number(vacancyrate).toFixed(2).toLocaleString();
 
     }
 
