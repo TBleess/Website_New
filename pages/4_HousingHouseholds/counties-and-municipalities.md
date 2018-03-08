@@ -23,6 +23,9 @@ description: "Housing and Household data by Colorado County or City."
 
 - [Housing Unit and Household Estimates ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1cNjNZsCqjA5TNEZytkAKu6lb5c2aC0tT) are prepared annually for Colorado, counties and municipalities by the State Demography Office.
 
+- [County Profile:](/population/data/profile-county/)
+The County Profile database allows the user to select county-level population estimates along with other housing variables, for years 1985 to current.
+
 - - -
 
 #### Forecasts
