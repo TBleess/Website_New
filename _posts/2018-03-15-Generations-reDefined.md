@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-<div style="text-align:center"><img src ="https://drive.google.com/open?id=1WAm9FxwSxGKU8bnlXPlMTDsntfHqCYy9" width="100%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1WAm9FxwSxGKU8bnlXPlMTDsntfHqCYy9" width="100%"/></div>
 
 **Generations (re)Defined**
 
@@ -38,7 +38,7 @@ Now that we have identified whom the generations include, where are they in Colo
 Greatest – 1901-1927 - There are just over 36,000 members of the Greatest generation residing in Colorado in 2017 and all are currently ages 91 or older. Denver can boast it has the largest number of Greatest generation residents of any county in Colorado with over 4,600 residents followed closely behind by Jefferson (4,300) and Arapahoe (4,000). While Denver may have the largest number, Baca, Kiowa, and Phillips County (all located on the Eastern Plains of Colorado) have the largest share of their population as members of the Greatest generation at 2% of their total population compared to 0.6% statewide.
 
 *Figure 1: Counties with the largest share of Greatest Generations*
-<div style="text-align:center"><img src ="https://drive.google.com/open?id=1CTM1MrLyfbd-CRoqXG00lTH2Jgn1vq3H" width="80%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1CTM1MrLyfbd-CRoqXG00lTH2Jgn1vq3H" width="80%"/></div>
 
 Silent - 1928 – 1945 - More of the 375,000 Colorado resident members of the Silent generation, ages 73 to 90 in 2017, call Jefferson County (44,000) home than any other county in Colorado, followed by El Paso (43,000) and Arapahoe (40,000). However, Huerfano (17%), Custer (16%), and Costilla (16%) counties, all located in Southern Colorado and a few of Colorado’s oldest counties, get to claim having the largest share of the Silent generation within their total population compared to 7% statewide. Most of the Silent generation was born during the Great Depression and World War II when fertility rates were relatively low. As a result, the Silent generation had fewer members than other generations.
  <insert Silent Generation_3>
