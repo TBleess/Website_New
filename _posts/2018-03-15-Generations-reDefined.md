@@ -35,32 +35,27 @@ Now that we have identified whom the generations include, where are they in Colo
 
 **The counties with the largest number and largest share of each generation:**
  
-Greatest – 1901-1927 - There are just over 36,000 members of the Greatest generation residing in Colorado in 2017 and all are currently ages 91 or older. Denver can boast it has the largest number of Greatest generation residents of any county in Colorado with over 4,600 residents followed closely behind by Jefferson (4,300) and Arapahoe (4,000). While Denver may have the largest number, Baca, Kiowa, and Phillips County (all located on the Eastern Plains of Colorado) have the largest share of their population as members of the Greatest generation at 2% of their total population compared to 0.6% statewide.
-
-*Figure 1: Counties with the largest share of Greatest Generations*
+Greatest – 1901-1927 - There are just over 36,000 members of the Greatest generation residing in Colorado in 2017 and all are currently ages 91 or older. Denver can boast it has the largest number of Greatest generation residents of any county in Colorado with over 4,600 residents followed closely behind by Jefferson (4,300) and Arapahoe (4,000). While Denver may have the largest number, Baca, Kiowa, and Phillips County (all located on the Eastern Plains of Colorado highlighted in the map below) have the largest share of their population as members of the Greatest generation at 2% of their total population compared to 0.6% statewide.
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1CTM1MrLyfbd-CRoqXG00lTH2Jgn1vq3H" width="80%"/></div>
-
 Silent - 1928 – 1945 - More of the 375,000 Colorado resident members of the Silent generation, ages 73 to 90 in 2017, call Jefferson County (44,000) home than any other county in Colorado, followed by El Paso (43,000) and Arapahoe (40,000). However, Huerfano (17%), Custer (16%), and Costilla (16%) counties, all located in Southern Colorado and a few of Colorado’s oldest counties, get to claim having the largest share of the Silent generation within their total population compared to 7% statewide. Most of the Silent generation was born during the Great Depression and World War II when fertility rates were relatively low. As a result, the Silent generation had fewer members than other generations.
- <insert Silent Generation_3>
-
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1FcTy0UrnasfLOjtFdqOulHYE-h6tXPGj" width="80%"/></div>
 Baby Boomer - 1946 - 1964 – The Baby Boomer generation significantly outnumbers the members of the Silent generation in Colorado with over 1.2 million Boomers residing in Colorado. This large generation, whose members started turning 65 in 2011, is the reason Colorado has been experiencing rapid aging as the Boomer population numbers dwarfed the number of older Silent generation members previously in those age groups. Jefferson County is home to the largest number of the Baby Boomer residents in Colorado (150,000) ages 54 to 72 in 2017 followed by El Paso County (144,000) and Arapahoe (136,000). Mineral (38%), Custer (37%), and Park County (36%) have the highest shares of Baby Boomers of their total population, while Statewide Baby Boomers are 22% of the total population.
- <insert Baby Boomer Generation_3>
+ <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1faboqHFgsAdbuTM2VKQxiDjniA9Dfdt8" width="80%"/></div>
 Generation X - 1965 - 1980 (ages 38 to 53 in 2017) - More of the 1.2 million members of Generation X in Colorado currently call Denver (158,000) home than any other county in Colorado, followed by Arapahoe (135,000) and El Paso (131,409). While Denver may have the largest number, over one-quarter of San Miguel (26%), Gilpin (25%), and Douglas County (25%) residents are members of Generation X compared to 21% statewide.
- <insert Generation X_3>
-
+ <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1HQN4AZWZOhh7OjRJ6J3bmdgY_W5hfruC" width="80%"/></div>
 Millennials - 1981 – 1996 (ages 22 to 37 in 2017) – The Millennials are the largest generation in Colorado and have represented the most mobile generation within Colorado for the past decade, as young adults are most likely to move of all other age groups. Of the over 1.33 million Millennials currently residing in Colorado, 216,000 call Denver home followed by El Paso (173,000) and Arapahoe (154,000). Statewide Millennials are 24% of the total Colorado population. The counties with the largest shares of their population within the Millennial generation include Summit (36%), Crowley (32%), and Denver (31%).  Summit and Denver County experience young adult in-migration as a result of job, recreational, or educational opportunities while Crowley County has a significant young adult prison population.
- <insert Millennials Generation_3>
+ <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=18BZMctaH7kq9TXIRURXGc8TFSmWCuCJD" width="80%"/></div>
 Post-Millennials - 1997 – 2014 (ages 4 to 21 in 2017) – There are 1.3 million Post-Millennials residing in Colorado in 2017, a generation out numbered only by the Millennials. El Paso County currently has the largest number of the Post-Millennial residents than any other county in Colorado (177,000), followed by Arapahoe (152,000), and Adams (133,000). However, Alamosa (29%), Weld (27%), and Moffat County (26%) all have over a quarter of their total populations within the post Millennial generation while statewide 23% of the population is within the post-Millennial generation.
- <insert Post Millennials Generation_3>
+ <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1ax-dXGIPa3jLKdAe1LA25KjfKDYwBbGF" width="80%"/></div>
 Next Generation - 2015 - 2029 (ages 3 and under) - The newest members of Colorado’s population, the ones we are calling the Next generation, currently has its largest start within El Paso County (28,000) while Morgan, Prowers, and Phillips Counties on the Eastern Plains get to claim the largest share of their total population is within this just starting generation at 5%. Statewide just over 200,000 or 4% of Colorado’s total residents are members of this Next generation.
- <insert Next Generation_3>
+ <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=14HznX0eEwpopln2HUBRrUP9Dc1JRW2Yy" width="80%"/></div>
 Look to our projections for insight into where future generations will reside. 
 
-[To view your County’s age structure and to watch your County's generations age over time, visit the Age Animation application on the Interactive Data page on our website] (https://demography.dola.colorado.gov/gis/map-gallery/)
+**[To view your County’s age structure and to watch your County's generations age over time, visit the Age Animation application on the Interactive Data page on our website](https://demography.dola.colorado.gov/gis/map-gallery/)**
 
 **Want to know more?** Visit our website at [demography.dola.colorado.gov](http://demography.dola.colorado.gov) or send questions to [dola_dlg_helpdesk@state.co.us](mailto:dola_dlg_helpdesk@state.co.us)
 
-***Data sources: US Census Bureau and State Demography Office***
+***Data sources: State Demography Office***
 
 
 **[Sign up](http://colorado.us13.list-manage.com/subscribe?u=542afe896a1951030a7772c33&id=e6ff0b17bc) to receive notifications of new blog posts.**
