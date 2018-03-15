@@ -19,10 +19,15 @@ On March 1, 2018, the Pew Research Center defined the “Millennial” generatio
 The significant change in the age structure in Colorado has lent itself to several questions related to the size and magnitude of Colorado’s different generations.  Understanding the current and future age distribution of a community is important and gives us an opportunity to plan for potential changing demands in health services, education programs, transportation, housing, and labor supply. The purpose of this document is to describe and delineate through data the time periods of the “social generations” in Colorado.
 
 ·       The Greatest generation, those born 1901 to 1927, are known to have been born and come of age in the “American Century” of economic growth, technological progress, and mostly military triumph.
+
 ·       The Silent generation describes adults born from 1928 through 1945. Children of the Great Depression and World War II, their “Silent” label refers to their conformist and civic instincts. It also makes for a nice contrast with the noisy ways of the anti-establishment Boomers.
+
 ·       The Baby Boomer label is drawn from the great spike in fertility that began in 1946, after the end of World War II, and ended almost as abruptly in 1964, around the time the birth control pill went on the market. It’s a classic example of a demography-driven name.
+
 ·       Generation X typically refers to people born from 1965 through 1980. The label long ago overtook the first name affixed to this generation: the Baby Bust. Xers are often depicted as savvy, entrepreneurial loners.
+
 ·       The Millennial generation, also known as Gen Y, gets their name from the significant turn in the calendar and refers those born 1981 through 1996 – the first generation to come of age in the new millennium.
+
 ·       The post-Millennial generation – born 1997 (through 2014 for our purposes) – is a work in progress.  They will be followed by a generation yet to be defined who we will refer to as the Next generation. We are assigning this Next generation to begin in 2015 (a nice round number) and if the generation is defined similarly to earlier generations it will likely be approximately 15 years in length ending in 2030 (another nice round number).
 
 <!--more-->
