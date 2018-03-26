@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1WAm9FxwSxGKU8bnlXPlMTDsntfHqCYy9" width="100%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1y2eT8Ke-3Zambu4dFf89IozdpzLnt95s" width="100%"/></div>
 
 **Generations (re)Defined**
 
