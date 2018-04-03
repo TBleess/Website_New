@@ -25,4 +25,4 @@ The Office uses state and county economic analyses and forecasts to assist in th
 - [Economic Forecast](/economy-labor-force/economic-forecasts#economic-forecasts)
 - [Personal Income (BEA)](http://www.bea.gov/newsreleases/regional/spi/sqpi_newsrelease.htm)
 - [Labor Market Information (LMI)](https://www.colmigateway.com/vosnet/)
-- [Local Economic Information Summary Documentation (LEIFA) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B5iJvaUI0tr6YWJhaDVPTjZ1QU0)
+- [Local Economic Information Summary Documentation (LEIFA) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B9kZxy54UDqMSWNFTzF1YV81MTY5Uk9Dc0xTc3RZeFpJTFRV)
