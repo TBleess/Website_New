@@ -30,7 +30,7 @@ The County Profile database allows the user to select county-level population es
 
 #### Forecasts
 
-- [Colorado Household Projections 2010 to 2040](/housing-and-households/data/household-projections#household-projections)
+- [Colorado Household Projections 2010 to 2050](/housing-and-households/data/household-projections#household-projections)
 
 This report presents draft projections of household by type of household for Colorado and its counties. The projections were prepared by the State Demography Office (SDO), part of the Colorado Division of Local Government. These projections are an attempt to prepare projections of households by type and by age of householder for the state for use by local governments and the private sector for planning and decision-making.
 
