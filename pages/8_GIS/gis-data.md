@@ -41,7 +41,7 @@ description: "Download GIS data produced by the Colorado State Demography Office
   - [Library Districts](https://storage.googleapis.com/co-publicdata/dllibrary.zip)
   - [School Districts](https://storage.googleapis.com/co-publicdata/dlschool.zip)
   - [Soil Conservation Districts](https://storage.googleapis.com/co-publicdata/dlsoil.zip)
-  - [Cemetary Districts](https://storage.googleapis.com/co-publicdata/dlcemetary.zip)
+  - [Cemetery Districts](https://storage.googleapis.com/co-publicdata/dlcemetary.zip)
 
 ----
 
