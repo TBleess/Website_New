@@ -20,5 +20,5 @@ To generate a profile for your county or community start [here](https://gis.dola
 
 ###  Archived Community Profiles
 
-Archived publications and presentations are available [here](/demography/archived-publications-and-presentations#archived-publications-and-presentations).
+Archived Community Profiles are available [here](/demography/archived-publications-and-presentations#archived-publications-and-presentations).
 
