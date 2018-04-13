@@ -6,6 +6,7 @@ description: >-
   Community demographic profiles for municipalities and counties.
 published: true
 ---
+### To generate a profile for your county or community start [here](https://gis.dola.colorado.gov/apps/ProfileDashboard/)
 ---
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1ZkrSgBTU_I9h_hD7yAKcnH9eiFpTkjeh" width="100%"/></div>
 
