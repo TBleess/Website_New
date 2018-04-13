@@ -11,11 +11,13 @@ description: "Comprehensive list of past Demography Office Publications and Pres
 ## Archived Publications and Presentations
 
 - - -
-All archived Publications and Presentations are listed by year of original production date. If you have questions or are unable to locate a particular document, please send us an email.
+All archived Publications and Presentations are listed by year of original production date unless otherwise noted. If you have questions or are unable to locate a particular document, please send us an email.
 
 - - -
 
 #### 2016
+- Community Profiles for Counties and Municipalities
+
 
 - Annual Demography Meeting
 - [View Presentation Videos](https://demography.dola.colorado.gov/demography/annual-demography-summit-2016/)
