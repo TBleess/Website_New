@@ -19,9 +19,9 @@ To generate a profile for your county or community start [here](https://gis.dola
 - - -
 ##  Archived Community Profiles
 
-If the county or municipality you're looking for isn't listed, use the tool in the link above to generate one using the latest data available.
+Archived publications and presentations are available [here](/demography/archived-publications-and-presentations#archived-publications-and-presentations).
 
-### Counties
+### Community Profiles
 <div class="newspaper">
 
 <a href="https://drive.google.com/uc?export=download&id=0ByjImPUKASTTZXRhZm9GVHJiQ3c">Archuleta (2016)</a> <img src="/images/page_white_acrobat.png" alt ="download pdf file"><br />
