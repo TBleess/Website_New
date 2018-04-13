@@ -17,7 +17,8 @@ Demographic information is critical for making informed decisions at the local, 
 To generate a profile for your county or community start [here](https://gis.dola.colorado.gov/apps/ProfileDashboard/)
 
 - - -
-##  Archived Community Profiles
+
+###  Archived Community Profiles
 
 Archived publications and presentations are available [here](/demography/archived-publications-and-presentations#archived-publications-and-presentations).
 
