@@ -7,6 +7,7 @@ description: >-
 published: true
 ---
 ---
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1ZkrSgBTU_I9h_hD7yAKcnH9eiFpTkjeh" width="100%"/></div>
 
 ## Colorado Demographic Profiles
 
