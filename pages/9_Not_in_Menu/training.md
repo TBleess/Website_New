@@ -23,11 +23,12 @@ Please register for State Demography Office Online Data Tools webinar on May 21,
 https://attendee.gotowebinar.com/register/1022305410903788290
 
 Introduction to the online data tools and resources supported by the Colorado State Demography Office: 
-•	The Demographic Dashboard, 
 
-•	The County and regional Profiles Tool, and 
+    •	The Demographic Dashboard, 
 
-•	The Colorado Demographic Profiles Tool
+    •	The County and regional Profiles Tool, and 
+
+    •	The Colorado Demographic Profiles Tool
 
 and other tools to help you understand your Community.
 After registering, you will receive a confirmation email containing information about joining the webinar.
