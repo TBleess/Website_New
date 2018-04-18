@@ -31,6 +31,7 @@ Introduction to the online data tools and resources supported by the Colorado St
     •	The Colorado Demographic Profiles Tool
 
 and other tools to help you understand your Community.
+
 After registering, you will receive a confirmation email containing information about joining the webinar.
 
 
