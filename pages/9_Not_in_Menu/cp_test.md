@@ -22,5 +22,5 @@ Demographic information is critical for making informed decisions at the local, 
 
 ###  Archived Community Profiles
 
-Archived Community Profiles are available [here](/demography/archived-publications-and-presentations#archived-publications-and-presentations).
+Archived Community Profiles are available [here](/demography/archived-publications-and-presentations#archived-publications-and-presentations). 
 
