@@ -25,7 +25,7 @@ Please register for State Demography Office Online Data Tools webinar on May 21,
 Introduction to the online data tools and resources supported by the Colorado State Demography Office: 
 
   -  The Demographic Dashboard, 
-  -  The County and Regional Dta Lookup, 
+  -  The County and Regional Data Lookup, 
   -  The Colorado Demographic Profiles Tool
 
 and other tools to help you understand the population and economic dynamics of your Community.
