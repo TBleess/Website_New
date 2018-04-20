@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Community Profiles
-permalink: /community-profiles/
+title: "Colorado Demographic Profiles"
+permalink: /colorado-demographic-profiles/
 description: >-
   Community demographic profiles for municipalities and counties.
 published: true
