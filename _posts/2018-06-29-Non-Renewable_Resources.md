@@ -21,7 +21,7 @@ In 2007, Colorado produced 26.2 million barrels of oil and was the 11th largest 
 <!--more-->
 Figure 1
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1O05sqGgZfWb0XWbTJrV8PC0NggT4_eXc" width="80%"/></div>
-Source: http://cogcc.state.co.us/COGCCReports/production.aspx?id=MonthlyOilProdByCounty
+*Source: http://cogcc.state.co.us/COGCCReports/production.aspx?id=MonthlyOilProdByCounty*
 
 
 **Employment**
@@ -30,7 +30,7 @@ According to the Total Estimated Employment series computed by the State Demogra
 
 Figure 2
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1fqwJ9jqaQtZxSeQQJxfUBr4m31---oft" width="80%"/></div>
-Source: https://demography.dola.colorado.gov/economy-labor-force/data/jobs-by-sector/#jobs-by-sector-naics
+*Source: https://demography.dola.colorado.gov/economy-labor-force/data/jobs-by-sector/#jobs-by-sector-naics*
 
 
 **Natural Gas**
@@ -41,7 +41,7 @@ Large amounts of associated gas coming from oil drilling operations in Weld Coun
 
 Figure 3
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1gNcdXoQHjHGcg3oYFu_M_g5iKe_FJCV-" width="80%"/></div>
-Source: http://cogcc.state.co.us/COGCCReports/production.aspx?id=MonthlyGasProdByCounty 
+*Source: http://cogcc.state.co.us/COGCCReports/production.aspx?id=MonthlyGasProdByCounty *
 
 
 **Coal**
@@ -50,7 +50,7 @@ Coal production fell both in Colorado and nationally from 2012 to 2016 as increa
 
 Figure 4
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1MrMDTrFGGCgjgMrSHMZU5L6ukMMnpyFE" width="80%"/></div>
-Source: Department of Natural Resources, Division of Reclamation Mining & Safety 
+*Source: Department of Natural Resources, Division of Reclamation Mining & Safety *
 
 
 **Rural Response, Recovery & Resiliency (4R)**
