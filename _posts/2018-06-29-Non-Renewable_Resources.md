@@ -41,7 +41,7 @@ Large amounts of associated gas coming from oil drilling operations in Weld Coun
 
 Figure 3
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1gNcdXoQHjHGcg3oYFu_M_g5iKe_FJCV-" width="80%"/></div>
-*Source: http://cogcc.state.co.us/COGCCReports/production.aspx?id=MonthlyGasProdByCounty *
+*Source: http://cogcc.state.co.us/COGCCReports/production.aspx?id=MonthlyGasProdByCounty*
 
 
 **Coal**
@@ -50,7 +50,7 @@ Coal production fell both in Colorado and nationally from 2012 to 2016 as increa
 
 Figure 4
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1MrMDTrFGGCgjgMrSHMZU5L6ukMMnpyFE" width="80%"/></div>
-*Source: Department of Natural Resources, Division of Reclamation Mining & Safety *
+*Source: Department of Natural Resources, Division of Reclamation Mining & Safety*
 
 
 **Rural Response, Recovery & Resiliency (4R)**
