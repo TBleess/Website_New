@@ -28,7 +28,7 @@ published: true
 
 #### Publications and Reports
 
-- [Colorado Non-Renewable Resources Update (2018) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1spZdo9Un8CoZj-HgtvodWzYG1k2tNvvy)
+- [Colorado Non-Renewable Resources Update (2018) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1cT9svV10PxlrC46ucauNJttgJc0GS4sN)
 - [Employment Impact from Senior Spending in Colorado (2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCSDBQVlE1WkQxUlE)
 - [Colorado Fertility: Recent Trends and Expectations of Change (2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCRUxUQjg0R0NKSkU)
 - [Earnings: Millennials v. Older Generations](https://demography.dola.colorado.gov/crosstabs/millennial-earnings/)
