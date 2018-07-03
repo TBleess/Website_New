@@ -7,6 +7,7 @@ permalink: /crosstabs/Non-Renewable-Resources/
 excerpt_separator: <!--more-->
 ---
 
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1pjBCZM41_0blYeaP6D2gLptQJalosY8U" width="100%"/></div>
 
 **Colorado Extractive Industries Update: Record Oil Production and Rebounding Employment**
 
