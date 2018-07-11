@@ -1,3 +1,11 @@
+---
+layout: page
+title: 2020CCCC
+permalink: /demography/2020CCCC/
+description: Colorado Complete Count Campaign
+published: true
+---
+
 ## Census 2020 Colorado Complete Count Campaign
 
 *The State of Colorado is looking for volunteers to serve on the Colorado Complete Count Campaign to promote the 2020 Census.*
