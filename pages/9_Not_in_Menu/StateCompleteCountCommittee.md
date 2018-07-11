@@ -1,6 +1,6 @@
 ## Census 2020 State Complete Count Committee
 
-*The State of Colorado is looking for Volunteers to serve on the State Complete Count Committee for the 2020 Census.  The Committee is described below.*
+*The State of Colorado is looking for volunteers to serve on the State Complete Count Committee to promote the 2020 Census.*
 
 ### Overview
 The Census is a count of everyone residing in the United States on April 1, 2020. It has been mandated by the U.S. Constitution (Article 1, Section 2) since 1790 and it occurs every 10 years. The Census counts people of all ages, race, and ethnic groups. Population totals from the decennial Census determine the number of seats each state has in the House of Representatives; the totals are also used to redraw federal and state legislative districts. The Census is also used to help determine the appropriation of federally funded programs.
@@ -27,6 +27,6 @@ The Colorado Complete Count Campaign will draw on the successful partnerships an
 * Currently there is no budget for travel.
 * Meetings will be available via phone and webinar.
 
-Submit your application and resume here for the *Complete Count Campaign - Colorado* via:
+Submit your application and resume for the *Complete Count Campaign - Colorado* to:
 [https://www.colorado.gov/governor/boards-commissions-application](https://www.colorado.gov/governor/boards-commissions-application)
 
