@@ -18,7 +18,7 @@
   url: "population/data/profile-regions/"
 - name: "Training"
   url: "/demography/training#training"
-- name: "CTF Population Info"
+- name: "Estimate Review"
   url: "https://gis.dola.colorado.gov/apps/ctf_estimates_final/"
 - name: "Local Government Data Links"
   url: "/demography/cedis#colorado-economic-demographic-information-system"
