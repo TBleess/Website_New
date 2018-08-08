@@ -47,3 +47,6 @@ The following documents represent previously released Census information. Please
 - [Resources- The Form ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRMkNGcmYzWGhHU0k)
 - [Response Rates ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRejMwWnNyUjNmclk)
 - [Frequently Asked Questions ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRaU5YQVVGTHhtTDQ)
+
+.ym-g33 { ## Grid 1 }
+.ym-g33 { ## Grid 2 }
