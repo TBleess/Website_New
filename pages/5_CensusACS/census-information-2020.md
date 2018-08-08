@@ -16,11 +16,6 @@ We will maintain this website throughout the entire Census 2020 cycle (ending ab
 
 - - -
 
-#### Census Training
-[Local Update of Census Addresses Training Webinar[(https://storage.googleapis.com/co-publicdata/2017-12-12%2008.59%20LUCA%20Technical%20Workshop.mp4)
-
-- - -
-
 #### Census Programs
 
 [Local Update of Census Addresses (LUCA)](https://www.census.gov/geo/partnerships/luca.html)
