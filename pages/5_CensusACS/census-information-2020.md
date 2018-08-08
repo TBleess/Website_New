@@ -20,11 +20,6 @@ We will maintain this website throughout the entire Census 2020 cycle (ending ab
 
 [Local Update of Census Addresses (LUCA)](https://www.census.gov/geo/partnerships/luca.html)
 
-- - -
-
-#### Census Events
-
-DRCOG is hosting a Local Update of Census Addresses (LUCA) Technical Workshop Wednesday, October 11, 2017. [For more information and to register](https://drcog.org/node/386411)
 
 - - -
 
