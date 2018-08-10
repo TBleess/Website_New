@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>Colorado Census 2020 Main Page</title>
+
+	<!-- Mobile viewport optimisation -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+/* Column and Row Styles */
+.column1 {
+    float: left;
+    width: 210px;
+    padding: 1px;
+}
+.column2 {
+    float: left;
+    width: 480px;
+    padding: 1px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Box Styles */
+#menu_box {
+    background-color: #4e5758;
+	width: 200px;
+    border: 1px solid black ;
+    padding: 1px;
+    margin: 1px;
+	float: left;
+	}
+
+#wide_box  {
+    background-color: #d0d2d3;
+    width: 480px;
+	height: 300px;
+    border: 1px solid black ;
+    padding: 1px;
+    margin: 1px;
+	float: left;
+	}
+#content_box {
+    font-size :10pt;
+    background-color: #d0d2d3;
+   	width: 160px;
+	height: 300px;
+    border: 1px solid black ;
+    padding: 1px;
+    margin: 1px;
+	float: left;
+	}
+
+</style>
+</head>
+<body>
+<img src="images/CO2020.jpg" height=60px>
+<h1>Colorado Census 2020 Information: <i>Everyone Counts.  You count.  Show that you are here.</i></h1>
+<hr>
+<div class="row">
+<div class="column1">
+<div id="menu_box">
+<font color="white"><b>Census 2020</b></font>
+<br>
+<a href='https://demography.dola.colorado.gov/'><font color="white">Why Complete the Census?</font></a>
+<br>
+<a href='https://demography.dola.colorado.gov/'><font color="white">Census FAQ</font></a>
+<br>
+<a href='https://demography.dola.colorado.gov/'><font color="white">Data Collection Process</font></a>
+<br>
+<a href='https://demography.dola.colorado.gov/demography/2020CCCC/'><font color="white">Census Complete Count Campaign</font></a>
+<br>
+<a href='https://demography.dola.colorado.gov/'><font color="white">Resources for Communities</font></a>
+<br>
+<a href='https://demography.dola.colorado.gov/'><font color="white">Census Response Tracker</font></a>
+</div> 
+</div> 
+
+<div class="column2">
+<div id="wide_box">
+<h2>Welcome to the Colorado Census 2020 Main Page</h2>
+<p> The 2020 Census will be administered beginning in April, 2020. </p>
+<p>This web page provides information about the Census along with resources communities and constituent groups can use to achieve a complete count of people in Colorado. </p>
+<p>The contents of this page will develop as we get closer to Census Day, April 1 2020.</p>
+ <p>This site is maintained by the State Demography Office.  Be sure to visit this site often. 
+</div>
+<table>
+<col width="350">
+<col width="350">
+<col width="350">
+<tr>
+<td>
+	<div id="content_box">
+	<h3>Why Complete the Census?</h3>
+	Completing the Census provides multiple benefits for the State of Colorado and your community.  
+	It also gives you the chance to show the world that you are here. <br>
+	<br><br>
+	<a class="button" href="https://demography.dola.colorado.gov/demography/2020CCCC/">Reasons to complete the Census</a>
+	</div>
+</td>
+<td>
+	<div id="content_box">
+	<h3>Census FAQ</h3>
+	Frequently Asked Questions about the Census.<br>
+	Answers to your questions about the Census, its contents, and how you complete it. <br>
+	Questions are updated periodically. 
+	<br><br>
+	<a class="button" href="https://demography.dola.colorado.gov/demography/2020CCCC/">Read the Frequently Asked Questions</a>
+	</div>
+</td>
+<td>
+	<div id="content_box">
+	<h3>Data Collection Process</h3>
+	How do you respond to the Census?<br>
+	This section describes the data collection process from beginning to end.<br>
+	<br><br>
+	<a class="button" href="https://demography.dola.colorado.gov/demography/2020CCCC/">Learn More about the Data Collection Process</a>
+	</div>
+</td>
+</tr>
+<tr>
+<td>
+	<div id="content_box">
+	<h3>Census Complete Count Campaign</h3>
+	The Colorado Complete Count Campaign (CCC) is a volunteer committee established to increase awareness about Census 2020 
+	and to motivate residents in the community to respond with the result of the best, most accurate, count in Colorado.
+	<br><br>
+	<a class="button" href="https://demography.dola.colorado.gov/demography/2020CCCC/">Learn More about the Census Complete Count Campaign</a>
+	</div>
+</td>
+<td>
+	<div id="content_box">
+	<h3>Resources for Communities</h3>
+	Find resources, handouts, posters and other materials describing the 2020 Census.
+	<br><br>
+	<a class="button" href="https://demography.dola.colorado.gov/demography/2020CCCC/">Go to the Resources Page</a>
+</td>
+<td>
+	<div id="content_box">
+	<h3>Census Response Tracker</h3>
+	An online tool for tracking Census form submissions.  Data will be available beginning April, 2020.
+	<br><br>
+	<a class="button" href="https://demography.dola.colorado.gov/demography/2020CCCC/">Go to the Census Response Tracker</a>
+	</div>
+</td>
+</tr>
+</table>
+</div> 
+</div> 
+</body>
+</html>
