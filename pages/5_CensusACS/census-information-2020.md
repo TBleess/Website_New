@@ -2,7 +2,7 @@
 
 layout: page
 title: "2020 Census Information"
-permalink: "/census-acs/2020-census-information/"
+permalink: "/census-acs/2020-census-information-old/"
 datalink: "/data/#census-data-tools"
 description: "Information about 2020 US Census"
     
