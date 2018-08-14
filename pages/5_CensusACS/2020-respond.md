@@ -21,7 +21,7 @@ After several days, addresses that have not responded to the Census will receive
 There are special counting procedures in place to count college students, people in institutions, the homeless, and the incarcerated.
 
 ### Who should respond to the Census?
-The Census asks about all persons in a household.  This includes information about the head of household, spouses, children of all ages (including infants), the eldely, roommates, etc.  College students staying in University housing will be counted there.  
+The Census asks about all persons in a household.  All residents living at an address as of April 1, 2020 should be counted.  This includes young children (ages from birth to 5 years old), older children living at an address, grandparents, family members and other, non-relatives living at the address.  College students staying in University housing on April 1, 2020 will be counted there.  
 
 ### When will Census data be published?
 * April 1, 2020 Census Day
