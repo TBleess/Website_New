@@ -7,6 +7,8 @@ datalink: "/data/#census-data-tools"
 description: "Why Respond to the Census"
     
 ---
+
+## Why Complete the Census?
 There are many reasons to complete and submit your 2020 Census form. The Census gives us an opportunity to show that we are here. There other reasons, political reasons dealing with representation of Colorado in the Congress, the representation of your community in the Colorado General Assembly, and financial reasons dealing with the distribution of federal and state funds. But these are not the most important reasons to complete and submit your Census form.
   
 Colorado is a diverse and vibrant state, and its people are unique. No matter if you live on the Eastern Plains, the Western Slope, the San Luis Valley or on the Front Range, each person adds to strength and resilience of the Colorado way of life. The Census is an opportunity to state positively that we all are here and that we all contribute to the Colorado we love.
