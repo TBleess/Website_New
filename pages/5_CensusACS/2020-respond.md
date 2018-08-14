@@ -8,7 +8,7 @@ description: "How to Respond to the Census"
 
 ## How to respond to the Census
 
-There are multiple ways to respond to the Census.  For most people, the census response process will begin with a Census Postcard send to an address. The Postcard will give the recipient multiple options to respond:
+There are multiple ways to respond to the Census.  For most people, the census response process will begin with a Census Postcard sent to your address. The Postcard will give the recipient multiple options to respond:
 
 * Online, using a web browser,
 * Online, using a smart phone,
@@ -17,11 +17,14 @@ There are multiple ways to respond to the Census.  For most people, the census r
 
 Online forms, paper forms and telephone scripts will be available in multiple languages.
 
-After several days, addresses that have not responded to the Census will receive a second packet, called the “2020 Census Internet Choice Questionnaire Package”, containing a paper Census form, along with options to submit the form online or over the telephone. After Census Day, April 15, 2020, Census Enumerators will begin canvassing addresses that have not responded to previous mailings.
-There are special counting procedures in place to count college students, people in Institutions, the homeless, and the incarcerated.
+After several days, addresses that have not responded to the Census will receive a second packet, called the “2020 Census Internet Choice Questionnaire Package”, containing a paper Census form, along with options to submit the form online or over the telephone. Beginning in May, 2020 Census Enumerators will begin canvassing addresses that have not responded to previous mailings.
+There are special counting procedures in place to count college students, people in institutions, the homeless, and the incarcerated.
+
+### Who should respond to the Census?
+The Census asks about all persons in a household.  This includes information about the head of household, spouses, children of all ages (including infants), the eldely, roommates, etc.  College students staying in University housing will be counted there.  
 
 ### When will Census data be published?
-* April 15, 2020 Census Day
+* April 1, 2020 Census Day
 * December 31, 2020 Deliver apportionment counts to the President  
 * April 1, 2021 Release counts to states for redistricting
 * December, 2021 First Release of data to the public
