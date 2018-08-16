@@ -11,13 +11,13 @@ description: "How to Respond to the Census"
 There are multiple ways to respond to the Census.  For most people, the census response process will begin with a Census Postcard sent to your address. The Postcard will give the recipient multiple options to respond:
 
 * Online, using a web browser,
-* Online, using a smart phone,
+* Online, using a smartphone,
 * Over the telephone, by calling the Census Questionnaire Assistance Center, or 
 * By requesting a paper form from the Census Questionnaire Assistance Center.
 
-Online forms, paper forms and telephone scripts will be available in multiple languages.
+Online forms and paper forms will be available in multiple languages.
 
-After several days, addresses that have not responded to the Census will receive a second packet, called the “2020 Census Internet Choice Questionnaire Package”, containing a paper Census form, along with options to submit the form online or over the telephone. Beginning in May, 2020 Census Enumerators will begin canvassing addresses that have not responded to previous mailings.
+Addresses that have not submitted their Census form will receive a second packet, called the “2020 Census Internet Choice Questionnaire Package”, containing a paper Census form, along with options to submit the form online or over the telephone. Beginning in May, 2020 Census Enumerators will begin canvassing addresses that have not responded to previous mailings.
 There are special counting procedures in place to count college students, people in institutions, the homeless, and the incarcerated.
 
 ### Who should respond to the Census?
