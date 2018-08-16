@@ -15,7 +15,7 @@ description: "Census 2020 Response Tracker"
  
 ## Census Response Outreach Area Mapper (ROAM)<br>
  
- The *Response Outreach Area Mapper (ROAM)* is a tool developed by the U.S. Census Bureau to identify identify hard-to-survey areas.
+ The *Response Outreach Area Mapper (ROAM)* is a tool developed by the U.S. Census Bureau to identify hard-to-survey areas.
  
  See the ROAM tool at [https://www.census.gov/roam](https://www.census.gov/roam)
  
