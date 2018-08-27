@@ -28,7 +28,7 @@ Population estimates are produced annually by the State Demography Office. The m
 
 
 [User Lookup:](/population/data/muni-pop-housing/) 
-This option allows the user to select any combination of counties or municipalities for the years 2010 to 2015.
+This option allows the user to select any combination of counties or municipalities for the years 2010 to current.
 
 [County Profile:](/population/data/profile-county/)
 The County Profile database allows the user to select county-level population estimates along with other variables, for years 1985 to current.
