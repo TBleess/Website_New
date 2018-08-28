@@ -21,14 +21,14 @@ Make plans now to attend this exciting one-day conference to learn about
 * Discussions of the changes in the Colorado Labor Force; and
 * Discussions of the impact of the Gallagher Amendment on local revenues.
 
-See the [**Preliminary Program**]()
+See the [**Preliminary Program**](https://drive.google.com/open?id=1_ZMNnpnD-JpyXompOtMvKmjWWbI53vwCDMHOIhExm3g)
 
 ### Benefits for attendees
 This conference will provide insights into the population changes, labor force changes, and changes in local financing expected in 2019
 the future.
 * Continuing Education Credits will be avialble for attendees
-* In-person and On-line/Live streaming registration avaialble
+* In-person and On-line/Live streaming registration available
 
-### Registration for the 2018 Annual Summit will open on **September 15, 2018** and can be accessed from this page.
+Registration for the 2018 Annual Summit will open on **September 15, 2018** and can be accessed from this page.
 
 **Questions? Please contact [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) for more information.** 
