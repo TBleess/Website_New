@@ -27,8 +27,8 @@ See the [**Preliminary Program**]()
 This conference will provide insights into the population changes, labor force changes, and changes in local financing expected in 2019
 the future.
 * Continuing Education Credits will be avialble for attendees
-* In-person and On-line registration avaialble
+* In-person and On-line/Live streaming registration avaialble
 
-## Registration for the 2018 Annual Summit will open on **September 15, 2018** and can be accessed from this page.
+### Registration for the 2018 Annual Summit will open on **September 15, 2018** and can be accessed from this page.
 
 **Questions? Please contact [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) for more information.** 
