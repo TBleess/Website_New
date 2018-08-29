@@ -27,6 +27,7 @@ See the [**Preliminary Program**](https://drive.google.com/open?id=1_ZMNnpnD-Jpy
 ### Benefits for attendees
 This conference will provide insights into the population changes, labor force changes, and changes in local financing expected in 2019
 the future.
+
 * Continuing Education Credits will be avialble for attendees
 * In-person and On-line/Live streaming registration available
 
