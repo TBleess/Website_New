@@ -14,6 +14,7 @@ The 36th Annual Colorado Demography Summit will be held at the [Stapleton MCA](h
 on Friday November 2, 2018.
 
 Make plans now to attend this exciting one-day conference to learn about
+
 * The State Demography Office updated population and econonmic estimates and forecasts;
 * Updates on the 2020 Census;
 * Updates on the data tools provided by the State Demography Office, including the 
