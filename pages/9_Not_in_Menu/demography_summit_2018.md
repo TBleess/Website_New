@@ -32,3 +32,6 @@ the future.
 Registration for the 2018 Annual Summit will open on **September 15, 2018** and can be accessed from this page.
 
 **Questions? Please contact [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) for more information.** 
+
+The 35th Annual State Demography Summit was November 3rd, 2017. [Click here] (/demography/publications-and-presentations/#annual-demography-summit-2017) for video and presentations.
+ 
