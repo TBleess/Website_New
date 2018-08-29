@@ -15,7 +15,7 @@ on Friday November 2, 2018.
 
 Make plans now to attend this exciting one-day conference to learn about
 
-* The State Demography Office updated population and econonmic estimates and forecasts;
+* The State Demography Office updated population and economic estimates and forecasts;
 * Updates on the 2020 Census;
 * Updates on the data tools provided by the State Demography Office, including the 
    [**Colorado Demographic Profile**](https://demography.dola.colorado.gov/community-profiles/);
