@@ -1,16 +1,16 @@
 ---
 
 layout: page
-title: "Annual Demography Summit"
+title: "Annual State Demography Summit"
 permalink: "/demography/demography-summit-2018/"
 datalink: "/data"
 description: "Save the Date: 2018 Demography Summit."
 
 ---
 
-## Save the Date: 2018 Annual Demography Summit
+## Save the Date: 2018 Annual State Demography Summit
 
-The 36th Annual Colorado Demography Summit will be held at the [Stapleton MCA](https://www.google.com/maps/place/Stapleton+MCA/@39.7580033,-104.9042528,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7b8454e7fec9:0x6b988a5c607d5439!8m2!3d39.7579992!4d-104.9020641), 7350 E 29th Ave #300, Denver, CO 80238, 
+The 36th Annual State Demography Summit will be held at the [Stapleton MCA](https://www.google.com/maps/place/Stapleton+MCA/@39.7580033,-104.9042528,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7b8454e7fec9:0x6b988a5c607d5439!8m2!3d39.7579992!4d-104.9020641), 7350 E 29th Ave #300, Denver, CO 80238, 
 on Friday November 2, 2018.
 
 Make plans now to attend this exciting one-day conference to learn about
