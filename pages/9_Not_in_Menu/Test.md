@@ -21,9 +21,7 @@ description: "Testing links and html."
 
 #### Documents
 
-- [American FactFinder \"quick start\" guide with ACS Data Products overview  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7dnJHOTB1OWRNUVk)
-- [ACS Data Products overview ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B5iJvaUI0tr6SC1YcHdTV0UwaWM)
-- [Margin of Error guidelines ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7bC1hYUxPNVVmRnM)
+- <a>[Margin of Error guidelines ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7bC1hYUxPNVVmRnM)</a>
 
 - - -
 
