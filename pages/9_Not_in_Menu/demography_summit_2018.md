@@ -33,7 +33,7 @@ the future.
 * Continuing Education Credits will be avialble for attendees
 * In-person and On-line/Live streaming registration available
 
-Registration for the 2018 Annual Summit will open on **September 15, 2018** and can be accessed from this page.
+Registration for the 2018 Annual Summit will open on **September 14, 2018** and can be accessed from this page.
 
 **Questions? Please contact [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) for more information.** 
 
