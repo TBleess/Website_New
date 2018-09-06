@@ -21,7 +21,17 @@ description: "Testing links and html."
 
 #### Documents
 
-- <a>[Margin of Error guidelines ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7bC1hYUxPNVVmRnM)</a>
+- <a onclick="myFunction()">[Margin of Error guidelines ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7bC1hYUxPNVVmRnM)</a>
+
+<script>
+  function myFunction(event) {
+  ga('send', 'event', {
+    eventCategory: 'Download',
+    eventAction: 'Click',
+    eventLabel: 'Testfile'
+  });
+}
+</script>
 
 - - -
 
