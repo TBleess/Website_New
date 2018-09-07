@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Census 2020 Jobs"
-permalink: "/census-acs/2020_Census_Jobs/"
-datalink: ""/data/#census-data-tools""
+permalink: "/census-acs/2020-census-jobs/"
+datalink: "/data/#census-data-tools"
 description: "Census 2020 Jobs"
----    
+---
+
 ##Census 2020 Jobs
 
 The following positions have been listed by the U.S. Census Bureau.  “Internal” positions are for people who have worked for the U.S. Census Bureau in the past.  “External” positions are for people without pervious U.S. Census Bureau experience.
