@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Census 2020 Jobs"
-permalink: "/census-acs/2020-census_jobs/"
-datalink: "/data/#census_jobs"
+permalink: "/census-acs/2020_Census_Jobs/"
+datalink: ""/data/#census-data-tools""
 description: "Census 2020 Jobs"
 ---    
 ##Census 2020 Jobs
