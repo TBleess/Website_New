@@ -13,7 +13,7 @@ The following positions have been listed by the U.S. Census Bureau.
 * “Internal” positions are for people who have worked for the U.S. Census Bureau in the past.  
 * “External” positions are for people without pervious U.S. Census Bureau experience.
 
-Last Updated: 9/7/2018
+Last Updated: 09/07/2018
 
 ## Census Partnership Positions: ##
 
