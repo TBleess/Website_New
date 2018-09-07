@@ -36,7 +36,7 @@ Last Updated: 09/07/2018
 [RCC2020DAL-2018-0231 (External)](https://www.usajobs.gov/GetJob/ViewDetails/509416200)
 
 ## Media Specialist, GG-0301-11/12 in the Dallas Regional Census Center ##
-### Closes September 20, 2018 
+### Closes September 20, 2018 ###
 
 [RCC2020DAL-2018-0212 (Internal)](https://www.usajobs.gov/GetJob/ViewDetails/509551700)
 
