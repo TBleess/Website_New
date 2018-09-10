@@ -14,7 +14,7 @@ description: "Why Respond to the Census"
 
 ### It’s Important
 * The 2020 Census counts are used for Reapportionment - the process of re-distributing seats in the House of Representatives to each state based on Census counts. The distribution of congressional representatives impacts your voice in Congress.  It is estimated based on current trends that Colorado could gain an additional congressional seat.
-#	Census 2020 counts are used for redistricting.  Redistricting draws boundaries within each state for voting and representation.  Redistricting occurs for the U.S. House of Representative districts, State House and Senate Districts, county commissioners, city council, and other local governments.
+*	Census 2020 counts are used for redistricting.  Redistricting draws boundaries within each state for voting and representation.  Redistricting occurs for the U.S. House of Representative districts, State House and Senate Districts, county commissioners, city council, and other local governments.
 *	Census data affects the distribution of federal funds to your community.  It is estimated that over 8 billion dollars (which translates to $1,480 per person) are allocated to Colorado annually based on Decennial Census statistics.  
 *	An accurate Census count is essential for our state. The federal, state and local governments, businesses, nonprofits and foundations, routinely rely on data from the Census to allocate funding, define where services are delivered, promote economic development, and understand current conditions.
 
