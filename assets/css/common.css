@@ -537,6 +537,11 @@ button {
         padding-left: 12px;
         padding-right: 12px;
     }
+	
+    #top-navigation-list li.padding-none a {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
 
     #top-navigation-list li:last-child a {
         border-right: none;
