@@ -522,8 +522,8 @@ button {
         font-size:16px;
         text-decoration:none;
         border:none;
-        top: 12px;
-        padding-top: 8px;
+        top: 8px;
+        padding-top: 13px;
         padding-bottom: 13px;
         border-right: 1px solid #454444;
     }
