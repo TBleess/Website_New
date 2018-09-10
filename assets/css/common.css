@@ -539,8 +539,7 @@ button {
     }
 	
     #top-navigation-list li.padding-none a {
-        padding-left: 0px;
-        padding-right: 0px;
+        padding-bottom: 0px;
     }
 
     #top-navigation-list li:last-child a {
