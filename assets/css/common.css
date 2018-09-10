@@ -626,3 +626,8 @@ button {
     overflow:hidden;
     height:1px;
 }
+
+.censuslogo img {
+	max-height: 100%;
+	max-width:100%;
+}
