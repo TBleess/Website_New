@@ -499,14 +499,14 @@ button {
   
     #top-navigation-wrapper{
         background-color: #21201e;
-        height: 54px;
+        height: 48px;
     }
 
     #top-navigation-list {
         margin: 0;
         padding: 0;
         padding-left: 4px;
-        height: 54px;
+        height: 48px;
         background-color: #21201e;
     }
 
@@ -522,7 +522,7 @@ button {
         font-size:16px;
         text-decoration:none;
         border:none;
-        top: 8px;
+        top: 12px;
         padding-top: 13px;
         padding-bottom: 13px;
         border-right: 1px solid #454444;
@@ -536,12 +536,6 @@ button {
     #top-navigation-list li.padding-normal a {
         padding-left: 12px;
         padding-right: 12px;
-    }
-	
-    #top-navigation-list li.padding-none a {
-        top: 0px;
-	padding-top: 0px;
-	padding-bottom: 0px;
     }
 
     #top-navigation-list li:last-child a {
