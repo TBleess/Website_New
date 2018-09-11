@@ -2,6 +2,8 @@
   # url: "/data/"
 # - name: "Webmap Gallery"
 #   url: "/gis/map-gallery/"
+- name: "Census 2020 Page"
+  url: "/census-acs/2020-census-information/#census-information-2020"
 - name: "Save the Date: 36th Annual State Demography Summit, November 2, 2018"
   url: "/demography/demography-summit-2018/"
 - name: "Census 2020:  Colorado Complete Count Campaign Application"
