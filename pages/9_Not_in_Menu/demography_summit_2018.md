@@ -26,14 +26,18 @@ Make plans now to attend this exciting one-day conference to learn about
 
 See the [**Preliminary Program**](https://drive.google.com/open?id=1_ZMNnpnD-JpyXompOtMvKmjWWbI53vwCDMHOIhExm3g)
 
-### Benefits for attendees
-This conference will provide insights into the population changes, labor force changes, and changes in local financing expected in 2019
-the future.
+##Registration Fee##
+**In Person Attendees:  $60.00.**  Includes Continental Breakfast, Lunch and Conference Materials.  Meals include options for vegetarian/vegan diets.
 
-* 6 hours of Continuing Education Credits will be available for attendees
-* In-person and On-line/Live streaming registration available
+**Livestream Attendance: $40.00.**  Includes login information for one location.  Conference Materials will be available on the State Demography Office website on November 2, 2018.
 
-Registration for the 2018 Annual Summit will open on **September 14, 2018** and can be accessed from this page.
+The price of In Person Attendee tickets will increase to $75.00 on October 26, 2018.
+
+The registration Fee includes 6 hours of Continuing Education Credits from the Colorado Board of Real Estate Appraisers. Please download the application form [here](https://docs.google.com/document/d/1ldKxlaMeXdu5bs0tPBGVcqPwvygnFDJpqXKkcH255zY/edit?usp=sharing)
+
+**Note: The State Demography Office will not accept Continuing Education Applications submitted before November 2, 2018**
+
+Registration for the 2018 Annual Summit is open.  Click [here](https://www.eventbrite.com/e/36th-annual-state-demography-summit-tickets-49899123622) to register.
 
 **Questions? Please contact [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) for more information.** 
 
