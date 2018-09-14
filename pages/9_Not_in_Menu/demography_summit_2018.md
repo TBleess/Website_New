@@ -26,7 +26,7 @@ Make plans now to attend this exciting one-day conference to learn about
 
 See the [**Preliminary Program**](https://drive.google.com/open?id=1_ZMNnpnD-JpyXompOtMvKmjWWbI53vwCDMHOIhExm3g)
 
-##Registration Fee##
+## Registration Fees
 
 **In Person Attendees:  $60.00.**  Includes Continental Breakfast, Lunch and Conference Materials.  Meals include options for vegetarian/vegan diets.
 
