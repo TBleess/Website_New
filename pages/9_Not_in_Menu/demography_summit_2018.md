@@ -4,11 +4,11 @@ layout: page
 title: "Annual State Demography Summit"
 permalink: "/demography/demography-summit-2018/"
 datalink: "/data"
-description: "Save the Date: 2018 Demography Summit."
+description: " 2018 Demography Summit."
 
 ---
 
-## Save the Date. 2018 Annual State Demography Summit: November 2, 2018
+## 2018 Annual State Demography Summit: November 2, 2018
 
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1845_hRkIDXPfiQ40Yeb-lFJ-MJNI_4aP" width="100%"/></div>
 
