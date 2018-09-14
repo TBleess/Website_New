@@ -27,6 +27,7 @@ Make plans now to attend this exciting one-day conference to learn about
 See the [**Preliminary Program**](https://drive.google.com/open?id=1_ZMNnpnD-JpyXompOtMvKmjWWbI53vwCDMHOIhExm3g)
 
 ##Registration Fee##
+
 **In Person Attendees:  $60.00.**  Includes Continental Breakfast, Lunch and Conference Materials.  Meals include options for vegetarian/vegan diets.
 
 **Livestream Attendance: $40.00.**  Includes login information for one location.  Conference Materials will be available on the State Demography Office website on November 2, 2018.
