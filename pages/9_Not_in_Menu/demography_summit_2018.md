@@ -34,11 +34,11 @@ See the [**Preliminary Program**](https://drive.google.com/open?id=1_ZMNnpnD-Jpy
 
 The price of In Person Attendee tickets will increase to $75.00 on October 26, 2018.
 
-The registration Fee includes 6 hours of Continuing Education Credits from the Colorado Board of Real Estate Appraisers. Please download the application form [here](https://docs.google.com/document/d/1ldKxlaMeXdu5bs0tPBGVcqPwvygnFDJpqXKkcH255zY/edit?usp=sharing)
+The registration Fee includes 6 hours of Continuing Education Credits from the Colorado Board of Real Estate Appraisers. Please download the application form [here](https://docs.google.com/document/d/1ldKxlaMeXdu5bs0tPBGVcqPwvygnFDJpqXKkcH255zY) .
 
 **Note: The State Demography Office will not accept Continuing Education Applications submitted before November 2, 2018**
 
-Registration for the 2018 Annual Summit is open.  Click [here](https://www.eventbrite.com/e/36th-annual-state-demography-summit-tickets-49899123622) to register.
+Registration for the 2018 Annual Summit is open.  [Click here](https://www.eventbrite.com/e/36th-annual-state-demography-summit-tickets-49899123622) to register.
 
 **Questions? Please contact [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) for more information.** 
 
