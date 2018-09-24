@@ -8,6 +8,9 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
+The [Census Jobs 2020](https://2020census.gov/jobs?eml=gd&utm_medium=email&utm_source=govdelivery) page is live!  
+Apply here to become a "Census Taker" ("Enumerator") and to support the census data collection effort. 
+
 The following positions have been listed by the U.S. Census Bureau.
 <br>
 * “Internal” positions are for people who have worked for the U.S. Census Bureau in the past.  
