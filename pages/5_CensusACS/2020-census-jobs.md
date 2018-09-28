@@ -10,15 +10,15 @@ description: "Census 2020 Jobs"
 
 Last Updated: 09/28/2018
 
-**Lead Census Field Manager, Denver CO, Job Announcement opened Tuesday 09/25/2018 - closes 10/09/2018** 
+**Lead Census Field Manager, Denver CO. Job Announcement opened Tuesday 09/25/2018 - closes 10/09/2018** 
 
 [RCC2020DAL-2018-0302 (External)](https://www.usajobs.gov/GetJob/ViewDetails/511560800)
 
-**Area Census Office Manager, AD-0301-00 Regional Census Centers Denver, CO**
+**Area Census Office Manager, AD-0301-00 Regional Census Centers Denver, CO.  Job Announcement opened Tuesday 09/25/2018 - closes 10/09/2018**
 
 [RCC2020DAL-2018-0304 (External)](https://www.usajobs.gov/GetJob/ViewDetails/511562300)
 
-**IT position - Denver, CO (closes MONDAY)**
+**IT position - Denver, CO. Closes 10/01/2018**
 
 [https://www.census.gov/about/regions/denver/jobs/colorado.html](https://www.census.gov/about/regions/denver/jobs/colorado.html)
 
