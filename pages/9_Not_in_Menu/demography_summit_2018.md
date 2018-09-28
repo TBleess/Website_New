@@ -35,7 +35,7 @@ See the [**Preliminary Program**](https://drive.google.com/open?id=1_ZMNnpnD-Jpy
 The price of In Person Attendee tickets will increase to $75.00 on October 26, 2018.
 
 The Registration Fee includes 6 hours of Continuing Education Credits from the Colorado Board of Real Estate Appraisers. 
-**Please download the application form** [here](https://storage.googleapis.com/co-publicdata/CE%20Application_Participants.docx).
+**Please download the application form** [here](https://storage.googleapis.com/co-publicdata/CE_Application_Participants.docx).
 
 **Note: The State Demography Office will not accept Continuing Education Applications submitted prior to November 2, 2018**
 
