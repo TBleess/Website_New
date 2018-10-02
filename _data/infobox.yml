@@ -20,7 +20,7 @@
   url: "population/data/profile-county/"  
 - name: "Regional Data Lookup"
   url: "population/data/profile-regions/"
-- name: "Resources for Areas Agencies on Aging"
+- name: "Resources for Colorado Area Agencies on Aging"
   url: "/demography/AAA-2018/"
 - name: "Training"
   url: "/demography/training#training"
