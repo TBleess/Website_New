@@ -24,7 +24,7 @@ Attend this exciting one-day conference to learn about
 * Discussions of the changes in the Colorado Labor Force; and
 * Discussions of the impact of the Gallagher Amendment on local revenues.
 
-See the [**Preliminary Program**](https://drive.google.com/uc?export=download&id=1mVz4fuiqHid6826-4Ur2AmhfMrFM5DCd)
+See the [**Preliminary Program**](ttps://storage.googleapis.com/co-publicdata/Agenda.docx)
 
 ## Registration Fees
 
