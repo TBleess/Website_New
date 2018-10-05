@@ -28,11 +28,9 @@ See the **[Preliminary Program](https://storage.googleapis.com/co-publicdata/Age
 
 ## Registration Fees
 
-**In Person Attendees:  $60.00.**  Includes Continental Breakfast, Lunch and Conference Materials.  Meals include options for vegetarian/vegan diets.
+**In Person Attendees:  SOLD OUT 10/5/2018**  Livestrem tickets are still available.
 
 **Livestream Attendance: $40.00.**  Includes login information for one location.  Conference Materials will be available on the State Demography Office website on November 2, 2018.
-
-The price of In Person Attendee tickets will increase to $75.00 on October 26, 2018.
 
 The Registration Fee includes 6 hours of Continuing Education Credits from the Colorado Board of Real Estate Appraisers. 
 **Please download the application form** [here](https://storage.googleapis.com/co-publicdata/CE_Application_Participants.docx).
