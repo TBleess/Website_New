@@ -33,7 +33,10 @@ deaths).  Data from the American Community Survey further supports this point, s
 between 2011 and 2016, ranging between 230,000 and 250,000, while the number of people moving out of Colorado over the same period has
 been between 160,000 and 196,000.  
 
+<!--more-->
 Figure 1
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1BqnNw5EXL85Clyr1qKcaL3NOf4STRkRD" width="80%"/></div>
+
 
 **Where in-migrants moved from and out-migrants moved to**
 
