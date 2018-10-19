@@ -33,7 +33,7 @@ been between 160,000 and 196,000.
 Figures 2 and 3 shows where in the United States in-migrants lived before 2016.  In 2016, 12 percent of in-migrants relocated to Colorado from outside of the United States.  Figure 2 shows the absolute number of domestic in-migrants by state.  The states with the highest number of in-migrants come from the largest states, i.e., California, Texas, and Florida.  Additionally, more than 10,000 in-migrants from Arizona and Illinois relocated to Colorado in 2016.
 
 *Figure 2 Number of Domestic In-Migrants by State, 2016*
-<div style="text-align:center"><img align="middle" src ="https://drive.google.com/uc?export=view&id=17Ad686zHSxcmbzoAJX9eTFcCGbzFDchy"  width="50%" height="50%"/></div>
+<div style="text-align:center"><img align="middle" src ="https://drive.google.com/uc?export=view&id=17Ad686zHSxcmbzoAJX9eTFcCGbzFDchy"  width="50%" height="50%"/></div>&nbsp;&nbsp;&nbsp;&nbsp;
 
 Figure 3 shows the in-migration rate per 1,000 persons.  The state with the highest in-migration rate to Colorado is Wyoming, followed by other states in the Midwest and Mountain West.  The Western states, California, Washington and Oregon, have relatively low rates of
 in-migration; lower than one person per 1,000 residents of these states moved to Colorado in 2016.  The regions with the lowest rates of
@@ -41,17 +41,17 @@ in-migration to Colorado are the states in the Northern Tier (New York to Michig
 Alabama).
 
 *Figure 3 Location of Domestic In-Migrants per 1,000 Population, 2016*
-<div style="text-align:center"><img align="middle" src ="https://drive.google.com/uc?export=view&id=1p68jp-5CKEqZ7lF6Li9VTj-GlGlyfqH2"  width="50%" height="50%"/></div>
+<div style="text-align:center"><img align="middle" src ="https://drive.google.com/uc?export=view&id=1p68jp-5CKEqZ7lF6Li9VTj-GlGlyfqH2"  width="50%" height="50%"/></div>&nbsp;&nbsp;&nbsp;&nbsp;
 
 Figures 4 and 5 show similar counts and rates for out-migrants.  People leaving Colorado in 2016 resettled in all states but primarily
 relocated to four states, Arizona, California, Texas, and Washington.  Regarding the out-migration rate, the two states with the highest
 rates are California and Texas.  These maps reinforce the idea that populations are moving in and out of Colorado to a similar extent. 
 
 *Figure 4 Destination of Domestic Out-Migrants by State, 2016*
-<div style="text-align:center"><img align="middle" src ="https://drive.google.com/uc?export=view&id=19dVdxG5bKwsEBwT-XWG1SXVpVDuB_mp8"  width="50%" height="50%"/></div>
+<div style="text-align:center"><img align="middle" src ="https://drive.google.com/uc?export=view&id=19dVdxG5bKwsEBwT-XWG1SXVpVDuB_mp8"  width="50%" height="50%"/></div>&nbsp;&nbsp;&nbsp;&nbsp;
 
 *Figure 5 Destination of Domestic Out-Migrants per 1,000 Population, 2016*
-<div style="text-align:center"><img align="middle" src ="https://drive.google.com/uc?export=view&id=14yliMlzRu1i37rl0DbVhfz0lpHHhkfKW"  width="50%" height="50%"/></div>
+<div style="text-align:center"><img align="middle" src ="https://drive.google.com/uc?export=view&id=14yliMlzRu1i37rl0DbVhfz0lpHHhkfKW"  width="50%" height="50%"/></div>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Characteristics of Migrants**
 
