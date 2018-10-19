@@ -7,8 +7,6 @@ permalink: /crosstabs/Colorado-Migrants/
 excerpt_separator: <!--more-->
 ---
 
-<style type="text/css"> .image-right { display: block; margin-left: auto; margin-right: auto; float: right; } .image-left { display: block; margin-left: auto; margin-right: auto; float: left; } </style>
-
 **Characteristics of Colorado In-Migrants and Out-Migrants**
 
 The largest source of change in Colorado’s population is migration.  Each year between 2011 and 2016 between 235,000 and 250,000 people
@@ -36,7 +34,7 @@ Figures 2 and 3 shows where in the United States in-migrants lived before 2016. 
 
 *Figure 2 Number of Domestic In-Migrants by State, 2016*
 <div style="text-align:center"><img align="left" src ="https://drive.google.com/uc?export=view&id=17Ad686zHSxcmbzoAJX9eTFcCGbzFDchy"  width="50%" height="50%"/></div>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 Figure 3 shows the in-migration rate per 1,000 persons.  The state with the highest in-migration rate to Colorado is Wyoming, followed by other states in the Midwest and Mountain West.  The Western states, California, Washington and Oregon, have relatively low rates of
 in-migration; lower than one person per 1,000 residents of these states moved to Colorado in 2016.  The regions with the lowest rates of
 in-migration to Colorado are the states in the Northern Tier (New York to Michigan) and the South (notably, Arkansas, Mississippi, and
