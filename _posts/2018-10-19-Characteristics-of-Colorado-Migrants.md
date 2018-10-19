@@ -35,7 +35,7 @@ been between 160,000 and 196,000.
 
 <!--more-->
 Figure 1
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1BqnNw5EXL85Clyr1qKcaL3NOf4STRkRD" width="80%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1BqnNw5EXL85Clyr1qKcaL3NOf4STRkRD" width="100%"/></div>
 
 **Where in-migrants moved from and out-migrants moved to**
 
