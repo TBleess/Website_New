@@ -65,4 +65,4 @@ this central age difference.
 The larger analysis documents characteristics of in-migrants and out-migrants by comparing in-migrants to out-migrants, in-migrants to
 Colorado residents and return migrants (i.e., people born in Colorado returning after living elsewhere) to migrants born elsewhere.  Over
 all, the changes in the population due to migration are typical and expected, given the age of the migrating population.  See the full
-report here.[link]https://drive.google.com/file/d/1UE68eQerKFkQz-KMPppFCcrdQPWRfZ73/view?usp=sharing
+report **[here.](https://drive.google.com/file/d/1UE68eQerKFkQz-KMPppFCcrdQPWRfZ73/view?usp=sharing)**
