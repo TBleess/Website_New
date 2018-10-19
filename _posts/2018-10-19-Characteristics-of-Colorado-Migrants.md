@@ -26,7 +26,7 @@ been between 160,000 and 196,000.
 
 <!--more-->
 *Figure 1 Population Change, Natural Increase and Net Migration: 1985 to 2017*
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1BqnNw5EXL85Clyr1qKcaL3NOf4STRkRD"  width="800" height="400"/></div>&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1BqnNw5EXL85Clyr1qKcaL3NOf4STRkRD"  width="80%" /></div>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Where in-migrants moved from and out-migrants moved to**
 
