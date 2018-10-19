@@ -41,17 +41,17 @@ in-migration to Colorado are the states in the Northern Tier (New York to Michig
 Alabama).
 
 *Figure 3 Location of Domestic In-Migrants per 1,000 Population, 2016*
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1p68jp-5CKEqZ7lF6Li9VTj-GlGlyfqH2"  width="50%" height="50%"/></div>&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1p68jp-5CKEqZ7lF6Li9VTj-GlGlyfqH2"  width="80%" /></div>&nbsp;&nbsp;&nbsp;&nbsp;
 
 Figures 4 and 5 show similar counts and rates for out-migrants.  People leaving Colorado in 2016 resettled in all states but primarily
 relocated to four states, Arizona, California, Texas, and Washington.  Regarding the out-migration rate, the two states with the highest
 rates are California and Texas.  These maps reinforce the idea that populations are moving in and out of Colorado to a similar extent. 
 
 *Figure 4 Destination of Domestic Out-Migrants by State, 2016*
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=19dVdxG5bKwsEBwT-XWG1SXVpVDuB_mp8"  width="50%" height="50%"/></div>&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=19dVdxG5bKwsEBwT-XWG1SXVpVDuB_mp8"  width="80%" /></div>&nbsp;&nbsp;&nbsp;&nbsp;
 
 *Figure 5 Destination of Domestic Out-Migrants per 1,000 Population, 2016*
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=14yliMlzRu1i37rl0DbVhfz0lpHHhkfKW"  width="50%" height="50%"/></div>&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=14yliMlzRu1i37rl0DbVhfz0lpHHhkfKW"  width="80%" /></div>&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Characteristics of Migrants**
 
