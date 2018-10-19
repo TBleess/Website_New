@@ -37,7 +37,6 @@ been between 160,000 and 196,000.
 Figure 1
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1BqnNw5EXL85Clyr1qKcaL3NOf4STRkRD" width="80%"/></div>
 
-
 **Where in-migrants moved from and out-migrants moved to**
 
 Figures 2 and 3 shows where in the United States in-migrants lived before 2016.  In 2016, 12 percent of in-migrants relocated to Colorado
