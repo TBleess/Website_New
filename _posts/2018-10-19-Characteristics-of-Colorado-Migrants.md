@@ -33,7 +33,7 @@ been between 160,000 and 196,000.
 Figures 2 and 3 shows where in the United States in-migrants lived before 2016.  In 2016, 12 percent of in-migrants relocated to Colorado from outside of the United States.  Figure 2 shows the absolute number of domestic in-migrants by state.  The states with the highest number of in-migrants come from the largest states, i.e., California, Texas, and Florida.  Additionally, more than 10,000 in-migrants from Arizona and Illinois relocated to Colorado in 2016.
 
 *Figure 2 Number of Domestic In-Migrants by State, 2016*
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=17Ad686zHSxcmbzoAJX9eTFcCGbzFDchy"  width="100%" height="100%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=17Ad686zHSxcmbzoAJX9eTFcCGbzFDchy"  width="50%" height="50%"/></div>
 
 Figure 3 shows the in-migration rate per 1,000 persons.  The state with the highest in-migration rate to Colorado is Wyoming, followed by other states in the Midwest and Mountain West.  The Western states, California, Washington and Oregon, have relatively low rates of
 in-migration; lower than one person per 1,000 residents of these states moved to Colorado in 2016.  The regions with the lowest rates of
