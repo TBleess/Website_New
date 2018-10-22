@@ -13,7 +13,7 @@ description: " 2018 Demography Summit."
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1845_hRkIDXPfiQ40Yeb-lFJ-MJNI_4aP" width="100%"/></div>
 
 The 36th Annual State Demography Summit will be held at the [The Cube at Stapleton](https://www.google.com/maps/place/Stapleton+MCA/@39.7580033,-104.9042528,17z/data=!3m1!4b1!4m5!3m4!1s0x876c7b8454e7fec9:0x6b988a5c607d5439!8m2!3d39.7579992!4d-104.9020641), 8371 Northfield Blvd, Denver, CO 80238, 
-on Friday November 2, 2018.
+on Friday November 2, 2018.  8:00 A.M. to 4:00 P.M.
 
 Attend this exciting one-day conference to learn about
 
@@ -24,7 +24,7 @@ Attend this exciting one-day conference to learn about
 * Discussions of the changes in the Colorado Labor Force; and
 * Discussions of the impact of the Gallagher Amendment on local revenues.
 
-See the **[Preliminary Program](https://drive.google.com/uc?export=download&id=1mVz4fuiqHid6826-4Ur2AmhfMrFM5DCd)**
+See the **[Final Program](https://drive.google.com/uc?export=download&id=1mVz4fuiqHid6826-4Ur2AmhfMrFM5DCd)**
 
 ## Registration Fees
 
