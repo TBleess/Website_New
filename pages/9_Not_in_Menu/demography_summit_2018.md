@@ -8,7 +8,7 @@ description: " 2018 Demography Summit."
 
 ---
 
-## 2018 Annual State Demography Summit: November 2, 2018
+## 2018 Annual State Demography Summit: November 2, 2018 8:00 A.M. to 4:00 P.M.
 
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1845_hRkIDXPfiQ40Yeb-lFJ-MJNI_4aP" width="100%"/></div>
 
