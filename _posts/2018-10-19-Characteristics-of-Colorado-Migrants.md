@@ -7,6 +7,7 @@ permalink: /crosstabs/Colorado-Migrants/
 excerpt_separator: <!--more-->
 ---
 
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=0B9kZxy54UDqMMm9VOXRmYmtTY3ZBUjZuMGFFblVjZGxKQVpJ" width="100%"/></div>
 **Characteristics of Colorado In-Migrants and Out-Migrants**
 
 The largest source of change in Colorado’s population is migration.  Each year between 2011 and 2016 between 235,000 and 250,000 people
