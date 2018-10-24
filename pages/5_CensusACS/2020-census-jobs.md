@@ -14,7 +14,7 @@ Last Updated: 10/24/2018
 
 [Adams County (Spanish Speaking)](https://www.usajobs.gov/GetJob/ViewDetails/513657000)
 
-[Mesa County (Spanish Speaking](https://www.usajobs.gov/GetJob/ViewDetails/513658500)
+[Mesa County (Spanish Speaking)](https://www.usajobs.gov/GetJob/ViewDetails/513658500)
 
 Additional Positions:
 
