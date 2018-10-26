@@ -21,7 +21,7 @@ Attend this exciting one-day conference to learn about
 * Updates on the 2020 Census;
 * Updates on the data tools provided by the State Demography Office, including the 
    [**Colorado Demographic Profile**](/community-profiles/);
-* Discussions of the changes in the Colorado Labor Force; and
+* Discussions of the changes in the Colorado Labor Force; and 
 * Discussions of the impact of the Gallagher Amendment on local revenues.
 
 See the **[Final Program](https://drive.google.com/uc?export=download&id=1mVz4fuiqHid6826-4Ur2AmhfMrFM5DCd)**
