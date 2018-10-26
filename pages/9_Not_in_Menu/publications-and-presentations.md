@@ -18,7 +18,7 @@ published: true
 
 [Infographics](/demography/infographics#infographics) \| [Publications & Reports](#publications-and-reports) \| [Community Profiles](https://demography.dola.colorado.gov/community-profiles/) \| [Presentations](#presentations) \| [Thematic Maps](/gis/thematic-maps#thematic-maps) \| [GIS Data](/gis/gis-data#gis-data)
 
-[2017 Annual Demography Summit](#annual-demography-summit-2017) \|[Past Conferences](#past-conferences)\| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations#archived-publications-and-presentations)
+[2018 Annual Demography Summit](#annual-demography-summit-2018) \|[Past Conferences](#past-conferences)\| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations#archived-publications-and-presentations)
 
 </div>
 
@@ -71,10 +71,9 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
 - - -
 
-#### Annual Demography Summit 2017
+#### Annual Demography Summit 2018
 
 - Handouts and Presentations
- - [Video](/demography/annual-demography-summit-2017/#annual-demography-summit-videos-2017)
   - [Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCdUMwTm9DN25MQUk)
   - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCQjJEejNQeVdhVUk)
   - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCcWRFN1lSZWFfRms)
@@ -108,7 +107,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 ---
 
 #### Past Conferences
-
+ - [Annual Conference Page 2017](/demography/annual-demography-summit-2017/#annual-demography-summit-videos-2017)
  - [Annual Conference Page 2016](/demography/annual-demography-summit-2016/#annual-demography-summit-videos-2016)
  - [Annual Conference Page 2015](/demography/annual-demography-meeting-2015/#annual-demography-meeting-videos-2015)
  - [Annual Conference Page 2014](/demography/annual-demography-meeting-2014/#annual-demography-meeting-videos-2014)
