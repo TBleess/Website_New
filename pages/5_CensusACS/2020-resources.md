@@ -8,7 +8,7 @@ description: "Census 2020 Resources Page"
 
 ## Census 2020 Resources Page
  
-** Census Resources from the State Demography Summit **
+**Census Resources from the State Demography Summit**
 
 Updated 10/29/2018
 
