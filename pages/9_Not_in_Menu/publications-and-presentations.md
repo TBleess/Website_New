@@ -74,12 +74,12 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 #### Annual Demography Summit 2018
 
 - Handouts and Presentations
-  - [Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCdUMwTm9DN25MQUk)
-  - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCQjJEejNQeVdhVUk)
+  - [Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1mVz4fuiqHid6826-4Ur2AmhfMrFM5DCd)
+  - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=14KXxXvUmjybzQ5N11emrXyULa6bB3Uit)
   - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCcWRFN1lSZWFfRms)
-  - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCdXBtZU1WcmVERVk)
-  - [Table1: Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCczZhUklHeG44Tm8)
-  - [Table2: Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCM09WS3pVVFdWdHc)
+  - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1skKvwMuUxqnIeQ2z_jwQlgDCfEVtxLdh)
+  - [County and Municipality Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1GsDgHJqfcugTWDG1mb4bkGQcMibQEWgD)
+  - [Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xNxM7uBZYBZ9I-zDiI8mEO8rGrySZfs-)
   - [Economic Overview and Forecast ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1A_F42fU6XE8AepZ84U55WKX5WYdRHQwr)
   - [Population Estimates and Forecast Overview ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ggBXzZoo0c41ormIAmXH2mdWJbVgjMBq)
   - [Geographic Programs for Census 2020 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1USZNr_cGxg6DjP3MoqNtzXFTFVQFcSb3)
@@ -89,20 +89,21 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [How do governments manage large scale proposals ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_jcWVSw7x-Wo4UXqiD0Shu-Hf4JMc6eq)
   - [North Metro Development Outlook ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nyk9sCUTwAj-00t0ScZPSHG8l47pxX6p)
   - Regional Reports: 
-    [Region 1 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=14dKySL-ipACpcCVR_gHqZyDVlL9IFzxJ)
-    [Region 2 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1VSKotsItrbmbO531vNOKZut8U2MUlX6P)
-    [Region 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1bnNk4lL1TMIehXpZpKJ1NF4CV2r-OJRe)
-    [Region 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nLAgwZP_CkI3kwX3C0J8NpCJnW-X5NcC)
-    [Region 5 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=15XdSVknk3NZwnTsMNWx84_jxxnBMysnc)
-    [Region 6 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ed8ds-8t87haIZBHbsTx8TtON-T_jpW6)
-    [Region 7 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=15nJI5UgJl-MXpnc7_pBEQ0EBJPKm43VI)
-    [Region 8 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1o0brJA3Ha8YBUv8USsZTeUpcF7EhU_Nb)
-    [Region 9 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xn4VpSDEPPYECfq0YZZ-86c-3FY2-9QT)
-    [Region 10 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1OlyABEP-jVwY8WbeqjP4R9ksfYc-G3hJ)
-    [Region 11 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1AAObyMQ1YA_glU4CcYKYw9nlaKRf8B_V)
-    [Region 12 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1udq1FRK8zcj5Ho0drpHLAu1a_JrREc6p)
-    [Region 13 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1fDhLOHzUAQ3rvOI35tso9xgJXe52YnFi)
-    [Region 14 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1gY5WrSJzzYi8zqkFcsqXmMstZzoIj5Wm)
+    [Region 1 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1vfTtp5bX2FiD_3l94ssQRpyMgEKnvZmpJ)
+    [Region 2 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1HD5E574pO9ojAhVTUzQZxDbSBdGbJGma)
+    [Region 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1TU9gZgpfbvZjg7-uR4PW51A2Dh4Z6I0H)
+    [Region 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1UklKLa4vRlkT71BXo_GFNyLpBYQ_XHxd)
+    [Region 5 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1IMNpIJUv0_E__vCKVN3h1zQMS-8EMR2W)
+    [Region 6 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1hg0AYNz1zFCM06mEc7jFhbOM-7zIX2tm)
+    [Region 7 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1qE2ehUAKkyyJrtuyEYX7BTpIb0a_Ekb7)
+    [Region 8 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1jd3JqMVhyI2cnxmmg6H6bmYfoPw8norY)
+    [Region 9 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1SbkmIRlUSrLnMdMgxxGR4LBtA_P8aMsb)
+    [Region 10 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1iBMhUnzHwl5NBz97BEcNwyo6cP8MHiVM)
+    [Region 11 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1wHe611vJ6HeFHerEDVi2GDnWkA76twik)
+    [Region 12 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1xoHbguZZVa4xWK3RMxfN66rL_-JsYns-)
+    [Region 13 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1Ucb96BFmRU0qx-8h2gS5ujFIisHu-Ez5)
+    [Region 14 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export-download&id=1ACwcCeUIKYUeqqu_ONt0WTWZGteBQPTU)
+ 
  
 ---
 
