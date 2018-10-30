@@ -73,7 +73,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
 #### Annual Demography Summit 2018
 
-- Materials will be posted on November 1, 2018
+Materials will be posted on November 1, 2018
 ---
 
 #### Past Conferences
