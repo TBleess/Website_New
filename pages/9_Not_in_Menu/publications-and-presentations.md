@@ -73,7 +73,39 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
 #### Annual Demography Summit 2018
 
-Materials will be posted on November 1, 2018
+- Handouts and Presentations
+  - [Agenda](https://drive.google.com/uc?export=download&id=1mVz4fuiqHid6826-4Ur2AmhfMrFM5DCd)
+  - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=14KXxXvUmjybzQ5N11emrXyULa6bB3Uit)
+  - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCcWRFN1lSZWFfRms)
+  - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1skKvwMuUxqnIeQ2z_jwQlgDCfEVtxLdh)
+  - [County and Municipality Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1GsDgHJqfcugTWDG1mb4bkGQcMibQEWgD)
+  - [Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xNxM7uBZYBZ9I-zDiI8mEO8rGrySZfs-)
+  - [Estimating Colorado's Population ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1192LVTfiL3p8VBAYrqonKSnpLhd5IdZT)
+  - [Where do we Grow from Here? Population Projections ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1qIhkID40xuCwOYMYwjto4QQEBrxpuBxe)
+  - [Economic Outlook ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1rBhtW_I-L7ZonghR0jNUG4egYkSm22rg)
+  - [State Demography Office Data Tools ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1uBIqjFalnRC15wPLWl3IBwjblcfPbJTz)
+  - [Preparing for 2020 Census ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1T2QAzoY-3JnkPe2g5QNg1gX3y2-7EYdI)
+  - [Gigs vs. Jobs![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1uXcksCF8eZ3p1GF5P1JVUTzNG3sl1BJc)
+  - [What is Colorado Schools were Number 1? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=16M3eRItvykPfK8-fqMkANrQxNr3_EiuK)
+  - [The Gallagher Amendment and Local Tax Revenues: Issues and Solutions? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1KbbNrt7iOFBqaapPLq03lb0M18E7HSbB)
+ 
+  - Regional Reports: 
+    [Region 1 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vfTtp5bX2FiD_3l94ssQRpyMgEKnvZmpJ)
+    [Region 2 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1HD5E574pO9ojAhVTUzQZxDbSBdGbJGma)
+    [Region 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1TU9gZgpfbvZjg7-uR4PW51A2Dh4Z6I0H)
+    [Region 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1UklKLa4vRlkT71BXo_GFNyLpBYQ_XHxd)
+    [Region 5 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1IMNpIJUv0_E__vCKVN3h1zQMS-8EMR2W)
+    [Region 6 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1hg0AYNz1zFCM06mEc7jFhbOM-7zIX2tm)
+    [Region 7 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1qE2ehUAKkyyJrtuyEYX7BTpIb0a_Ekb7)
+    [Region 8 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1jd3JqMVhyI2cnxmmg6H6bmYfoPw8norY)
+    [Region 9 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1SbkmIRlUSrLnMdMgxxGR4LBtA_P8aMsb)
+    [Region 10 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1iBMhUnzHwl5NBz97BEcNwyo6cP8MHiVM)
+    [Region 11 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1wHe611vJ6HeFHerEDVi2GDnWkA76twik)
+    [Region 12 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xoHbguZZVa4xWK3RMxfN66rL_-JsYns-)
+    [Region 13 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Ucb96BFmRU0qx-8h2gS5ujFIisHu-Ez5)
+    [Region 14 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ACwcCeUIKYUeqqu_ONt0WTWZGteBQPTU)
+ 
+
 ---
 
 #### Past Conferences
