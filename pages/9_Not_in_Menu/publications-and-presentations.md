@@ -78,7 +78,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=14KXxXvUmjybzQ5N11emrXyULa6bB3Uit)
   - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCcWRFN1lSZWFfRms)
   - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1skKvwMuUxqnIeQ2z_jwQlgDCfEVtxLdh)
-  - [County and Municipality Population Estimates Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1GsDgHJqfcugTWDG1mb4bkGQcMibQEWgD)
+  - [County and Municipality Population Estimates Data ![pdf](/population/population-totals-municipalities/#population-totals-for-colorado-municipalities)
   - [Population Forecasts Data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xNxM7uBZYBZ9I-zDiI8mEO8rGrySZfs-)
   - [Estimating Colorado's Population ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1192LVTfiL3p8VBAYrqonKSnpLhd5IdZT)
   - [Where do we Grow from Here? Population Projections ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1qIhkID40xuCwOYMYwjto4QQEBrxpuBxe)
