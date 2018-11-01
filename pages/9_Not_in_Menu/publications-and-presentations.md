@@ -80,7 +80,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Components of Change](https://demography.dola.colorado.gov/births-deaths-migration/)
   - [County and Municipality Population Estimates Data](https://demography.dola.colorado.gov/population/population-totals-municipalities/#population-totals-for-colorado-municipalities)
   - [Population Forecasts Data](https://demography.dola.colorado.gov/population/population-totals-counties/#population-totals-for-colorado-counties)
-  -[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University](https://gwipp.gwu.edu/counting-dollars-2020-initial-analysis) 
+  - [Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University](https://gwipp.gwu.edu/counting-dollars-2020-initial-analysis) 
   - [Estimating Colorado's Population ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1192LVTfiL3p8VBAYrqonKSnpLhd5IdZT)
   - [Where do we Grow from Here? Population Projections ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1qIhkID40xuCwOYMYwjto4QQEBrxpuBxe)
   - [Economic Outlook ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1rBhtW_I-L7ZonghR0jNUG4egYkSm22rg)
