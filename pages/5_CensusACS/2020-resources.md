@@ -18,7 +18,7 @@ Updated 10/29/2018
 
 *	[Census Toolkit](https://www.census.gov/partners/toolkits.html) 
 
-*	[Counting for Dollars (impact of population on Federal Transfers and Grants](https://gwipp.gwu.edu/counting-dollars-2020-initial-analysis) 
+*	[Counting for Dollars (impact of population on Federal Transfers and Grants, George Washington University](https://gwipp.gwu.edu/counting-dollars-2020-initial-analysis) 
 
  
 This page will provide customizable materials communities can use to promote the Census, question and answer sheets for distribution, and an order form for promotional materials from the Department of Local Affairs.
