@@ -14,7 +14,7 @@ description: " 2018 Demography Summit."
 
 The 36th Annual State Demography Summit was held on Friday November 2, 2018. 
 
-## Presentations and Handouts are available [here](https://demography.dola.colorado.gov/demography/publications-and-presentations/#annual-demography-summit-2018).
+**Presentations and Handouts are available [here](https://demography.dola.colorado.gov/demography/publications-and-presentations/#annual-demography-summit-2018).**
 
 Video of the summit proceedings will be posted on the presentation page in early December.
 
