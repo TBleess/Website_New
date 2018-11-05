@@ -92,21 +92,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Introduction to the Gallagher Admendment ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_wcUwvL7Jx87VWExwR7VMn4l9pY723lq)
   - [The Gallagher Amendment and Local Tax Revenues: Issues and Solutions? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1KbbNrt7iOFBqaapPLq03lb0M18E7HSbB)
  
-  - Regional Reports: 
-    [Region 1 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vfTtp5bX2FiD_3l94ssQRpyMgEKnvZmpJ)
-    [Region 2 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1HD5E574pO9ojAhVTUzQZxDbSBdGbJGma)
-    [Region 3 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1TU9gZgpfbvZjg7-uR4PW51A2Dh4Z6I0H)
-    [Region 4 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1UklKLa4vRlkT71BXo_GFNyLpBYQ_XHxd)
-    [Region 5 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1IMNpIJUv0_E__vCKVN3h1zQMS-8EMR2W)
-    [Region 6 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1hg0AYNz1zFCM06mEc7jFhbOM-7zIX2tm)
-    [Region 7 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1qE2ehUAKkyyJrtuyEYX7BTpIb0a_Ekb7)
-    [Region 8 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1jd3JqMVhyI2cnxmmg6H6bmYfoPw8norY)
-    [Region 9 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1SbkmIRlUSrLnMdMgxxGR4LBtA_P8aMsb)
-    [Region 10 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1iBMhUnzHwl5NBz97BEcNwyo6cP8MHiVM)
-    [Region 11 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1wHe611vJ6HeFHerEDVi2GDnWkA76twik)
-    [Region 12 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xoHbguZZVa4xWK3RMxfN66rL_-JsYns-)
-    [Region 13 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Ucb96BFmRU0qx-8h2gS5ujFIisHu-Ez5)
-    [Region 14 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ACwcCeUIKYUeqqu_ONt0WTWZGteBQPTU)
+ 
  
 
 ---
