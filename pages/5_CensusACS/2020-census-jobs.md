@@ -8,7 +8,19 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
-Last Updated: 10/24/2018
+Last Updated: 11/06/2018
+
+
+**Partnership Specialist (Tribal), GG-0301-11/12**
+
+Closes 11:59 p.m., EST, on Tuesday, November 20, 2018. Yo
+
+DENVER METRO AREA
+ 
+[RCC2020DAL-2019-0062 (Internal)](https://www.usajobs.gov/GetJob/ViewDetails/515992500)
+
+[RCC2020DAL-2019-0061 (External)](https://www.usajobs.gov/GetJob/ViewDetails/515969800)
+
 
 **Partnership Specialist, GG-0301-11/12, Census-EXT-JKP** 
 
