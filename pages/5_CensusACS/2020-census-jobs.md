@@ -8,12 +8,39 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
-Last Updated: 11/06/2018
+Last Updated: 11/08/2018
 
+**COLORADO **
+
+**Must reside in the Denver Metro Area**
+
+**Partnership Specialist (Vietnamese), GG-0301-11/12**
+
+Close at 11:59 p.m., EST, on Tuesday, November 20, 2018.
+
+[RCC2020DAL-2019-0069 (External)](https://www.usajobs.gov/GetJob/ViewDetails/515968800)
+ 
+[RCC2020DAL-2019-0070 (Internal)](https://www.usajobs.gov/GetJob/ViewDetails/515969000)
+
+**Partnership Specialist (Spanish), GG-0301-11/12**
+
+Close at 11:59 p.m., EST, on Tuesday, November 20, 2018.
+
+[RCC2020DAL-2019-0071 (External)](https://www.usajobs.gov/GetJob/ViewDetails/515969100)
+ 
+[RCC2020DAL-2019-0072 (Internal)](https://www.usajobs.gov/GetJob/ViewDetails/515969200)
+
+**Partnership Specialist (Spanish), GG-0301-11/12**
+
+**Must reside in Weld, Larimer, Morgan or Broomfield County (Spanish)**
+
+[RCC2020DAL-2019-0087 (External)](https://www.usajobs.gov/GetJob/ViewDetails/515969400)
+ 
+[RCC2020DAL-2019-0088 (Internal)](https://www.usajobs.gov/GetJob/ViewDetails/515969600)
 
 **Partnership Specialist (Tribal), GG-0301-11/12**
 
-Closes 11:59 p.m., EST, on Tuesday, November 20, 2018. Yo
+Closes 11:59 p.m., EST, on Tuesday, November 20, 2018. 
 
 DENVER METRO AREA
  
