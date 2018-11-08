@@ -11,6 +11,7 @@ description: "Census 2020 Jobs"
 Last Updated: 11/08/2018
 
 **COLORADO**
+
 **Partnership Specialist (Vietnamese), GG-0301-11/12**
 
 Closes at 11:59 p.m., EST, on Tuesday, November 20, 2018.
@@ -33,7 +34,7 @@ DENVER METRO AREA
 
 **Partnership Specialist (Spanish), GG-0301-11/12**
 
-Closea at 11:59 p.m., EST, on Tuesday, November 20, 2018.
+Closes at 11:59 p.m., EST, on Tuesday, November 20, 2018.
 
 WELD, LARIMER, MORGAN or BROOMFIELD COUNTY
 
