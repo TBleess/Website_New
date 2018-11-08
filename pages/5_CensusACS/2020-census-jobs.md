@@ -13,7 +13,7 @@ Last Updated: 11/08/2018
 **COLORADO**
 **Partnership Specialist (Vietnamese), GG-0301-11/12**
 
-Close at 11:59 p.m., EST, on Tuesday, November 20, 2018.
+Closes at 11:59 p.m., EST, on Tuesday, November 20, 2018.
 
 DENVER METRO AREA
 
@@ -23,7 +23,9 @@ DENVER METRO AREA
 
 **Partnership Specialist (Spanish), GG-0301-11/12**
 
-Close at 11:59 p.m., EST, on Tuesday, November 20, 2018.
+Closes at 11:59 p.m., EST, on Tuesday, November 20, 2018.
+
+DENVER METRO AREA
 
 [RCC2020DAL-2019-0071 (External)](https://www.usajobs.gov/GetJob/ViewDetails/515969100)
  
@@ -31,7 +33,7 @@ Close at 11:59 p.m., EST, on Tuesday, November 20, 2018.
 
 **Partnership Specialist (Spanish), GG-0301-11/12**
 
-Close at 11:59 p.m., EST, on Tuesday, November 20, 2018.
+Closea at 11:59 p.m., EST, on Tuesday, November 20, 2018.
 
 WELD, LARIMER, MORGAN or BROOMFIELD COUNTY
 
