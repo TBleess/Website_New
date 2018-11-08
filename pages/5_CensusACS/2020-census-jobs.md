@@ -10,7 +10,7 @@ description: "Census 2020 Jobs"
 
 Last Updated: 11/08/2018
 
-**COLORADO **
+**COLORADO**
 
 **Must reside in the Denver Metro Area**
 
