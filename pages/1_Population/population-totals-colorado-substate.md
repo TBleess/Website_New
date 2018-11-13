@@ -38,7 +38,7 @@ The County Profile database allows the user to select population estimates along
 
 #### Population Forecasts - years (2000 to 2050) 
 
-Population forecasts are produced annually by the State Demography Office. Our most recent forecasts were produced in November 2017.
+Population forecasts are produced annually by the State Demography Office. Our most recent forecasts were produced in November 2018.
 
 These tables illustrate the population for future years, based on plausible courses of future population change (see Forecasts Methodology for more information.) The forecasts for the State of Colorado & Sub-state regions are available for the years 2000 to 2050. 
 
