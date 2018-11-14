@@ -13,6 +13,7 @@ Update 11/14/2018
 **Census New Construction Program**
 
 Access the U.S. Census New Construction Program Flyer [here](https://drive.google.com/open?id=150NAdBhsWChmsYvcVtvJDodcMfqyt1kp) . 
+
 Official invitations will be mailed starting April 2019.  Changes from 2010 include participation by the States and inclusion of Group Quarters and Transitory Locations.
 
 
