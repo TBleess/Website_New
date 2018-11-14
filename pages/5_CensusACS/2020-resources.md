@@ -7,7 +7,21 @@ description: "Census 2020 Resources Page"
 ---
 
 ## Census 2020 Resources Page
- 
+
+Update 11/14/2018
+**Census New Construction Program**
+
+Access U.S. Census New Construction Program Flyer [here] . 
+Official invitations will be mailed starting April 2019.  Changes from 2010 include participation by the States and inclusion of Group Quarters and Transitory Locations.
+
+
+Please be aware that the program is offered and limited to those specific areas and governments where we are using the U.S. Postal Service to deliver* an enumeration package to the housing unit.  This specific location information will be shared with participants once they register for the program.  As before, this program does NOT require a Title-13 confidentiality agreement.
+
+
+*For those governments and areas not covered by postal delivery, the Census Bureau will be documenting newly constructed housing units during our Update/Leave field operation.
+
+
+
 **Census Resources from the State Demography Summit**
 
 Updated 10/29/2018
