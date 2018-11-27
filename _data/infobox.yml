@@ -9,7 +9,7 @@
 - name: "Crosstabs - The Blog Taking a Closer Look at the Economics & Demographics of Colorado"
   url: "/crosstabs/"
 - name: "Colorado Demographic Profiles"
-  url: "https://codemogshiny.shinyapps.io/profiledashboard/"
+  url: "https://gis.dola.colorado.gov/apps/ProfileDashboard2/"
   # url: "/community-profiles/"
 - name: "Publications and Presentations"
   url: "/demography/publications-and-presentations#publications-and-presentations"
