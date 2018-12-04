@@ -73,7 +73,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
 #### Annual Demography Summit 2018
 - Conference Videos
- - [Annual Conference Video 2018](/demography/annual-demography-summit-2018/#annual-demography-summit-videos-2018)
+  - [Annual Conference Video 2018](/demography/annual-demography-summit-2018/#annual-demography-summit-videos-2018)
 
 - Handouts and Presentations
   - [Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1l_vI5hM4FSn2_OdK8aLs2gaDoRhcwbXf)
