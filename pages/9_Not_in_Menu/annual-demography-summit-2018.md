@@ -14,5 +14,5 @@ description: "Video Presentations from the 2018 Annual Demography Summit."
   
 
 {% raw %}
-<iframe width='600' height='1800' frameborder='0' scrolling='no' src='https://www.youtube.com/watch?v=HMlp0cdLhF4&feature=youtu.be'></iframe>
+<iframe width='600' height='1800' frameborder='0' scrolling='no' src='https://youtu.be/HMlp0cdLhF4?embedInPoint=1&embedOutPoint=30760&shareMethod=embed&autoplay=off%27'></iframe>
 {% endraw %}
