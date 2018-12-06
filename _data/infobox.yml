@@ -3,7 +3,7 @@
 # - name: "Webmap Gallery"
 #   url: "/gis/map-gallery/"
 - name: "State Demography Office Census 2020 Page"
-  url: "/census-acs/2020-census-information/#census-information-2020"
+  url: "/census_2020"
 - name: "Census 2020:  Colorado Complete Count Campaign Application"
   url: "/demography/2020CCCC"
 - name: "Crosstabs - The Blog Taking a Closer Look at the Economics & Demographics of Colorado"
