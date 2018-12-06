@@ -18,7 +18,7 @@ Census Field Manager, [AD-0301-00-Census-EXT-JKP](https://www.usajobs.gov/GetJob
 
 [www.usajobs.gov](www.usajobs.gov)
 
-This is a Work At Home (**WAH**) position assigned to the Area Census Office (ACO) in Colorado Springs, CO. The Initial duty station is the selectee's home address (work-from-home position) until the opening of the (ACO) in  **Colorado Springs**.  At that time the employee will report to the ACO as their regular place of work. To be considered, applicants **MUST CURRENTLY RESIDE in the Colorado Springs commuting area.** A supervisory trial period may be required. Relocation will not be paid.
+This is a Work At Home (**WAH**) position assigned to the Area Census Office (ACO) in Colorado Springs, CO. The Initial duty station is the selectee's home address (work-from-home position) until the opening of the (ACO) in  **Colorado Springs**.  At that time the employee will report to the ACO as their regular place of work. To be considered, applicants **MUST CURRENTLY RESIDE** in the Colorado Springs commuting area. A supervisory trial period may be required. Relocation will not be paid.
 
 **CENSUS FIELD MANAGER - COLORADO SPRINGS - SPANISH SPEAKING**
 
@@ -26,18 +26,24 @@ Census Field Manager (Spanish), [AD-0301-00-Census-EXT-JKP](https://www.usajobs.
 
 [www.usajobs.gov](www.usajobs.gov)
 
-This is a Work At Home (**WAH**) position assigned to the Area Census Office (ACO) in Colorado Springs, CO. The Initial duty station is the selectee's home address (work-from-home position) until the opening of the Area Census Office (ACO) in  **Colorado Springs, CO**.  At that time the employee will report to the ACO as their regular place of work. To be considered, applicants **MUST CURRENTLY RESIDE  in the Colorado Springs Commuting area.** Relocation will not be paid.
+This is a Work At Home (**WAH**) position assigned to the Area Census Office (ACO) in Colorado Springs, CO. The Initial duty station is the selectee's home address (work-from-home position) until the opening of the Area Census Office (ACO) in  **Colorado Springs, CO**.  At that time the employee will report to the ACO as their regular place of work. To be considered, applicants **MUST CURRENTLY RESIDE**  in the Colorado Springs Commuting area. Relocation will not be paid.
 
 
 **CENSUS FIELD MANAGER - LONGMONT**
 Census Field Manager, [AD-0301-00-Census-EXT-JKP]( https://www.usajobs.gov/GetJob/ViewDetails/518072400)
+
+[www.usajobs.gov]( www.usajobs.gov)
+
+This is a Work At Home (**WAH**) position assigned to the Area Census Office (ACO) in Longmont, CO. The Initial duty station is the selectee's home address (work-from-home position) until the opening of the (ACO) in  **Longmont, CO**. At that time the employee will report to the ACO as their regular place of work. To be considered, applicants **MUST CURRENTLY RESIDE** in the Longmont commuting area. A supervisory trial period may be required. Relocation will not be paid.
+
+
 
 **CENSUS FIELD MANAGER - LAKEWOOD**
 Census Field Manager, [AD-0301-00-Census-EXT-JKP](https://www.usajobs.gov/GetJob/ViewDetails/518072500)
 
 [www.usajobs.gov]( www.usajobs.gov)
 
-This is a Work At Home (**WAH**) position assigned to the Area Census Office (ACO) in Lakewood, CO. The Initial duty station is the selectee's home address (work-from-home position) until the opening of the (ACO) in  **Lakewood, CO**. At that time the employee will report to the ACO as their regular place of work. To be considered, applicants **MUST CURRENTLY RESIDE in the Lakewood commuting area.** A supervisory trial period may be required. Relocation will not be paid.
+This is a Work At Home (**WAH**) position assigned to the Area Census Office (ACO) in Lakewood, CO. The Initial duty station is the selectee's home address (work-from-home position) until the opening of the (ACO) in  **Lakewood, CO**. At that time the employee will report to the ACO as their regular place of work. To be considered, applicants **MUST CURRENTLY RESIDE** in the Lakewood commuting area. A supervisory trial period may be required. Relocation will not be paid.
 
 
 
