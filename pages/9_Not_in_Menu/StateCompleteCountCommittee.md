@@ -26,15 +26,15 @@ The Colorado Complete Count Campaign (CCC) held its kickoff meeting on December 
 
 #### Supporting Materials
 
-[What is a CCC?](https://storage.cloud.google.com/co-publicdata/CCC2020%20Flyer%20-%20What%20is%20CCC.pdf?_ga=2.132116815.-1732879585.1519318964)
+[What is a CCC? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.cloud.google.com/co-publicdata/CCC2020%20Flyer%20-%20What%20is%20CCC.pdf?_ga=2.132116815.-1732879585.1519318964)
 
-[The 2020 Census at a Glance](http://lvpc.org/pdf/P+Pizza/2020%20Census%20flyer.pdf)
+[The 2020 Census at a Glance ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://lvpc.org/pdf/P+Pizza/2020%20Census%20flyer.pdf)
 
-[Counting Young Children in the 2020 Census](https://files.buildthefoundation.org/wp-content/uploads/2018/11/counting-young-children-in-2020-census.pdf)
+[Counting Young Children in the 2020 Census ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://files.buildthefoundation.org/wp-content/uploads/2018/11/counting-young-children-in-2020-census.pdf)
 
-[Census Complete Count Committee Training Manual,  U.S. Census Bureau](https://www.census.gov/content/dam/Census/newsroom/press-kits/2018/ccc-guide-d-1280.pdf)
+[Census Complete Count Committee Training Manual,  U.S. Census Bureau ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www.census.gov/content/dam/Census/newsroom/press-kits/2018/ccc-guide-d-1280.pdf)
 
-[Counting for Dollars 2020: Colorado](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/Colorado%2008-18-17.pdf)
+[Counting for Dollars 2020: Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/Colorado%2008-18-17.pdf)
 
 
 
