@@ -11,7 +11,7 @@
 - name: "Crosstabs - The Blog Taking a Closer Look at the Economics & Demographics of Colorado"
   url: "/crosstabs/"
 - name: "Colorado Demographic Profiles"
-  url: "/demography/colorado-demographic-profiles/"
+  url: "/colorado-demographic-profiles/"
   # url: "/community-profiles/"
 - name: "Publications and Presentations"
   url: "/demography/publications-and-presentations#publications-and-presentations"
