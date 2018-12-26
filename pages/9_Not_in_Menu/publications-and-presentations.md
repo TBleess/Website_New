@@ -93,7 +93,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Introduction to the Gallagher Admendment ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_wcUwvL7Jx87VWExwR7VMn4l9pY723lq)
   - [The Gallagher Amendment and Local Tax Revenues: Issues and Solutions? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1KbbNrt7iOFBqaapPLq03lb0M18E7HSbB)
   
- View the videos of the 2018 Demographt Summit [here]('https://dola.ompnetwork.org/embed/sessions/94859?embedInPoint=1&embedOutPoint=31075&shareMethod=embed')
+ **View the video of the Summit sessions [here](https://dola.ompnetwork.org/embed/sessions/94859?embedInPoint=1&embedOutPoint=31075&shareMethod=embed).**
  
  
  
