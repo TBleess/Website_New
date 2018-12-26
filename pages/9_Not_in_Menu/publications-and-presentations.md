@@ -28,6 +28,7 @@ published: true
 
 #### Publications and Reports
 
+- [Characteristics of Colorado Migrants (2018) ![pdf](/images/page_white_acrobat.png 'download pdf file'] (https://drive.google.com/file/d/1UaUuhTWxQiX7Kdu-b3vJn8J9V10BtOFn/view?usp=sharing)
 - [Colorado Non-Renewable Resources Update (2018) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1cT9svV10PxlrC46ucauNJttgJc0GS4sN)
 - [Employment Impact from Senior Spending in Colorado (2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCSDBQVlE1WkQxUlE)
 - [Colorado Fertility: Recent Trends and Expectations of Change (2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCRUxUQjg0R0NKSkU)
@@ -91,6 +92,8 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [What is Colorado Schools were Number 1? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=16M3eRItvykPfK8-fqMkANrQxNr3_EiuK)
   - [Introduction to the Gallagher Admendment ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_wcUwvL7Jx87VWExwR7VMn4l9pY723lq)
   - [The Gallagher Amendment and Local Tax Revenues: Issues and Solutions? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1KbbNrt7iOFBqaapPLq03lb0M18E7HSbB)
+  
+ View the videos of the 2018 Demographt Summit [here]('https://dola.ompnetwork.org/embed/sessions/94859?embedInPoint=1&embedOutPoint=31075&shareMethod=embed')
  
  
  
