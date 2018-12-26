@@ -28,7 +28,7 @@ published: true
 
 #### Publications and Reports
 
-- [Characteristics of Colorado Migrants (2018) ![pdf](/images/page_white_acrobat.png 'download pdf file')] (https://drive.google.com/file/d/1UaUuhTWxQiX7Kdu-b3vJn8J9V10BtOFn)
+- [Characteristics of Colorado Migrants (2018) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1UaUuhTWxQiX7Kdu-b3vJn8J9V10BtOFn)
 - [Colorado Non-Renewable Resources Update (2018) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1cT9svV10PxlrC46ucauNJttgJc0GS4sN)
 - [Employment Impact from Senior Spending in Colorado (2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCSDBQVlE1WkQxUlE)
 - [Colorado Fertility: Recent Trends and Expectations of Change (2017) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCRUxUQjg0R0NKSkU)
