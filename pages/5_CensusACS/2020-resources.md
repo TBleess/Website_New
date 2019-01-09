@@ -8,7 +8,9 @@ description: "Census 2020 Resources Page"
 
 ## Census 2020 Resources Page
 
-Update 11/14/2018
+Update 01/09/2019
+
+[2020 Census at a Glance![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=15BmGnnARZKv_1GYwaraYqshXTYfeCCgp)
 
 **Census New Construction Program**
 
