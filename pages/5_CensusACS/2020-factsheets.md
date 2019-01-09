@@ -12,7 +12,7 @@ Last Updated 01/09/2019
 
 [Census 2020 Census 101  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1S3GR-064pCviYfIJv12b9lOpjBjl_htS)
 
-Basic information about the 202 Census
+Basic information about the 2020 Census
 
 [Census 2020 Timeline  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1nsyddk4SylnkdeNM_etcUzQKjqLGlr5D)
 
