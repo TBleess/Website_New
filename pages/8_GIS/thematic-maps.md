@@ -16,7 +16,7 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 <div style="text-align: center;" markdown="1">
 
-**Maps**:  [ACS 2012-2016](#acs-2012-2016) \| [Census 2010](#census-2010) \| [Population](#population) \| [Forecast](#forecast) \| [Migration](#migration) \| [Employment](#employment) \| [Poverty](#poverty) \| [Rural](#rural) \| [Flood Maps (2013)](/gis/flood-maps#flood-maps-2013)
+**Maps**:  [ACS 2013-2017](#acs-2013-2017) \| [Census 2010](#census-2010) \| [Population](#population) \| [Forecast](#forecast) \| [Migration](#migration) \| [Employment](#employment) \| [Poverty](#poverty) \| [Rural](#rural) \| [Flood Maps (2013)](/gis/flood-maps#flood-maps-2013)
 
 </div>
 
@@ -24,7 +24,7 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 ### Thematic Maps
 
-#### ACS 2012-2016
+#### ACS 2013-2017
 
 - [Bachelors Degree or Higher (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.cloud.google.com/maps-static/BachelorOrHigher.pdf)
 - [Born in Colorado (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PercentBornInColorado.pdf)
