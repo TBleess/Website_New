@@ -8,9 +8,38 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
-Last Updated: 12/06/2018
+Last Updated: 1/23/2019
 
-* Current Positions:
+* A message from the Census Bureau about recruitment during the current government shutdown
+
+**Jan. 23, 2019** — The U.S. Census Bureau continues to recruit thousands of workers for temporary jobs available nationwide in advance of the 2020 Census.
+
+The Census Bureau is using funds appropriated in prior years to continue all critical work in preparation for the 2020 Census, including hiring for field operations. Neither schedule nor cost is impacted by the partial government shutdown at this time.
+
+The [2020 Census Jobs website](https://2020census.gov/jobs?eml=gd&utm_medium=email&utm_source=govdelivery) allows applicants to apply for a range of positions, including recruiting assistants, office operations supervisors, clerks, census field supervisors and census takers by completing a single application online. Opportunities are available nationwide and offer flexible work hours, including daytime, evenings and weekends.
+
+* Additional Positions:
+
+The [Census Jobs 2020](https://2020census.gov/jobs?eml=gd&utm_medium=email&utm_source=govdelivery) website is live!  
+Apply here to become a "Census Taker" ("Enumerator") and to support the census data collection effort. 
+
+Avialable Jobs:
+
+* **Recruiting assistants** travel throughout geographic areas to visit with community-based organizations, attend promotional events and conduct other recruiting activities.
+
+* **Office operations supervisors** assist in the management of office functions and day-to-day activities in one or more functional areas, including payroll, personnel, recruiting, field operations and support.
+
+* **Clerks** perform various administrative and clerical tasks to support various functional areas, including payroll, personnel, recruiting, field operations and support.
+
+* **Census field supervisors** conduct fieldwork to support and conduct on-the-job training for census takers and/or to follow-up in situations where census takers have confronted issues, such as not gaining entry to restricted areas.
+
+* **Census takers** work in the field. Some field positions require employees to work during the day to see addresses on buildings. Other field positions require interviewing the public, so employees must be available to work when people are usually at home, such as in the evening and on weekends.
+
+
+* Past Positions:
+
+
+**COLORADO**
 
 **CENSUS FIELD MANAGER - COLORADO SPRINGS**
 
@@ -44,32 +73,6 @@ Census Field Manager, [AD-0301-00-Census-EXT-JKP](https://www.usajobs.gov/GetJob
 [www.usajobs.gov]( www.usajobs.gov)
 
 This is a Work At Home (**WAH**) position assigned to the Area Census Office (ACO) in Lakewood, CO. The Initial duty station is the selectee's home address (work-from-home position) until the opening of the ACO in  **Lakewood, CO**. At that time the employee will report to the ACO as their regular place of work. To be considered, applicants **MUST CURRENTLY RESIDE** in the Lakewood commuting area. A supervisory trial period may be required. Relocation will not be paid.
-
-
-
-
-* Additional Positions:
-
-The [Census Jobs 2020](https://2020census.gov/jobs?eml=gd&utm_medium=email&utm_source=govdelivery) page is live!  
-Apply here to become a "Census Taker" ("Enumerator") and to support the census data collection effort. 
-
-Avialable Jobs:
-
-* **Recruiting assistants** travel throughout geographic areas to visit with community-based organizations, attend promotional events and conduct other recruiting activities.
-
-* **Office operations supervisors** assist in the management of office functions and day-to-day activities in one or more functional areas, including payroll, personnel, recruiting, field operations and support.
-
-* **Clerks** perform various administrative and clerical tasks to support various functional areas, including payroll, personnel, recruiting, field operations and support.
-
-* **Census field supervisors** conduct fieldwork to support and conduct on-the-job training for census takers and/or to follow-up in situations where census takers have confronted issues, such as not gaining entry to restricted areas.
-
-* **Census takers** work in the field. Some field positions require employees to work during the day to see addresses on buildings. Other field positions require interviewing the public, so employees must be available to work when people are usually at home, such as in the evening and on weekends.
-
-
-* Past Positions:
-
-
-**COLORADO**
 
 **Partnership Specialist (Vietnamese), GG-0301-11/12**
 
