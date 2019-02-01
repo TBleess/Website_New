@@ -28,7 +28,7 @@ The following infographics were developed by the State Demography Office.
 
 [Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=11FU8LrHwRQIP_UOMNYyLO0xyLZVKX2b5)
 
-![Colorado Population Change 1970-2050](/images/colorado-population-change-1970-2050.jpg)
+![Colorado Population Change 1970-2050](/images/colorado-population-change-1970-2050.JPG)
 
 
 <a name="b"></a>
