@@ -14,7 +14,7 @@ description: "Colorado Infographics; Economic and Demographic.  Population Forec
 
 The following infographics were developed by the State Demography Office.
 
-- [Colorado Population Change 1970-2040](#a)
+- [Colorado Population Change 1970-2050](#a)
 - [Colorado Population Change 2000-2013](#b)
 - [Colorado Labor Force 1970-2040](#c)
 - [Colorado Households 1970-2014](#d)
@@ -24,11 +24,11 @@ The following infographics were developed by the State Demography Office.
 
 - - -
 
-## Colorado Population Change 1970-2040 (2014)
+## Colorado Population Change 1970-2050 (2018)
 
-[Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7eFVnQmJmTUc4czA)
+[Download a PDF ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=11FU8LrHwRQIP_UOMNYyLO0xyLZVKX2b5)
 
-![Colorado Population Change 1970-2040](/images/colorado-population-change-1970-2040.jpeg)
+![Colorado Population Change 1970-2050](/images/colorado-population-change-1970-2050.jpg)
 
 
 <a name="b"></a>
