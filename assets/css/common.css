@@ -499,14 +499,14 @@ button {
   
     #top-navigation-wrapper{
         background-color: #21201e;
-        height: 60px;
+        height: 40px;
     }
 
     #top-navigation-list {
         margin: 0;
         padding: 0;
         padding-left: 4px;
-        height: 48px;
+        height: 40px;
         background-color: #21201e;
     }
 
