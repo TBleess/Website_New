@@ -499,14 +499,14 @@ button {
   
     #top-navigation-wrapper{
         background-color: #21201e;
-        height: 40px;
+        height: 48px;
     }
 
     #top-navigation-list {
         margin: 0;
         padding: 0;
         padding-left: 4px;
-        height: 40px;
+        height: 48px;
         background-color: #21201e;
     }
 
@@ -516,7 +516,7 @@ button {
     }
 
     #top-navigation-list li a{
-        position: relative;
+        position: top;
         color: #c3c1c1;
         background-color: #21201e; 
         font-size:16px;
