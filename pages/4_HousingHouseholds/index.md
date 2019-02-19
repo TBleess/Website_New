@@ -32,4 +32,4 @@ description: "Directory of Housing and Household resources."
 
 - [Division of Housing](https://www.colorado.gov/pacific/dola/division-housing)
 - [Housing & Urban Development (HUD)](http://www.huduser.org/portal/)
-- [US Census Bureau Housing Topics (census.gov)](http://www.census.gov/housing/)
+- [US Census Bureau Housing Topics (census.gov)](https://www.census.gov/topics/housing.html)
