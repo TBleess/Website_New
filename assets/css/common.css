@@ -530,12 +530,12 @@ button {
 
     #top-navigation-list li.padding-extra a {
         padding-left: 16px;
-        padding-right: 28px;
+        padding-right: 16px;
     }
 
     #top-navigation-list li.padding-normal a {
-        padding-left: 12px;
-        padding-right: 12px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
     #top-navigation-list li:last-child a {
