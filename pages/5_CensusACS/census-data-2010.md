@@ -39,26 +39,26 @@ Maps:
 
 Released May 19th 2011, the Demographic Profiles provide 2010 Census data on age and sex distributions, race, Hispanic or Latino origin, houshold relationship and type, the group quarters population, and housing occupancy and tenure (whether the housing occupant owns or rents).
 
-- [Population by Age by County ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/PopulationByAge2010_County.xls)
-- [Population by Age by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/PopulationByAge2010vs2000_County.xls)
-- [Population by Age by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/PopulationByAge2010_IncorporatedPlace.xls)
-- [Population by Age by Place ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/PopulationByAge2010_Place.xls)
-- [Relationship by County ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/Relationship2010_County.xls)
-- [Relationship by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/Relationship2010vs2000_County.xls)
-- [Relationship by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/Relationship2010_IncorporatedPlace.xls)
-- [Relationship by Place ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/Relationship2010_Place.xls)
-- [Households by Type by County ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HouseholdsByType2010_County.xls)
-- [Households by Type by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HouseholdsByType2010vs2000_County.xls)
-- [Households by Type by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HouseholdsByType2010_IncorporatedPlace.xls)
-- [Households by Type by Place ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HouseholdsByType2010_Place.xls)
-- [Housing Occupancy by County ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HousingOccupancy2010_County.xls)
-- [Housing Occupancy by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HousingOccupancy2010vs2000_County.xls)
-- [Housing Occupancy by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HousingOccupancy2010_IncorporatedPlace.xls)
-- [Housing Occupancy by Place ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HousingOccupancy2010_Place.xls)
-- [Housing Tenure by County ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HousingTenure2010_County.xls)
-- [Housing Tenure by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HousingTenure2010vs2000_County.xls)
-- [Housing Tenure by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HousingTenure2010_IncorporatedPlace.xls)
-- [Housing Tenure by Place ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/demographicprofiles/HousingTenure2010_Place.xls)
+- [Population by Age by County ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/PopulationByAge2010_County.xls)
+- [Population by Age by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/PopulationByAge2010vs2000_County.xls)
+- [Population by Age by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/PopulationByAge2010_IncorporatedPlace.xls)
+- [Population by Age by Place ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/PopulationByAge2010_Place.xls)
+- [Relationship by County ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/Relationship2010_County.xls)
+- [Relationship by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/Relationship2010vs2000_County.xls)
+- [Relationship by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/Relationship2010_IncorporatedPlace.xls)
+- [Relationship by Place ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/Relationship2010_Place.xls)
+- [Households by Type by County ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HouseholdsByType2010_County.xls)
+- [Households by Type by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HouseholdsByType2010vs2000_County.xls)
+- [Households by Type by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HouseholdsByType2010_IncorporatedPlace.xls)
+- [Households by Type by Place ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static//HouseholdsByType2010_Place.xls)
+- [Housing Occupancy by County ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingOccupancy2010_County.xls)
+- [Housing Occupancy by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingOccupancy2010vs2000_County.xls)
+- [Housing Occupancy by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingOccupancy2010_IncorporatedPlace.xls)
+- [Housing Occupancy by Place ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingOccupancy2010_Place.xls)
+- [Housing Tenure by County ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingTenure2010_County.xls)
+- [Housing Tenure by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingTenure2010vs2000_County.xls)
+- [Housing Tenure by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingTenure2010_IncorporatedPlace.xls)
+- [Housing Tenure by Place ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingTenure2010_Place.xls)
 
 ----
 
@@ -70,51 +70,44 @@ Use the menu below to access Demographic Profiles for all Cities and Towns withi
 
 {% include _2010profileAFF.html %}
 
-Click [here ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/dlg/demog/2010data/Accessing%20the%20Demographic%20Profile%20for%20a%20City_April13.pdf) for step-by-step instructions on how to download Demographic Profiles for any City, Town or Census Designated Place.
+Click [here ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.cloud.google.com/maps-static/Accessing%20the%20Demographic%20Profile%20for%20a%20City_April13.pdf) for step-by-step instructions on how to download Demographic Profiles for any City, Town or Census Designated Place.
 
 ----
 
 ### Total Population Counts and Change from 2000 to 2010
 
-- [State and Counties ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/total%20pop%20change%20counties.xls)
-- [State and Counties ranked by 2010 pop ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/total%20pop%20change%20counties_ranked.xls)
-- [State and Counties- 18 years and over ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/total%20pop%20change%20counties%2018.xls)
-- [State and Counties- 18 years and over ranked by 2010 pop ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/total%20pop%20change%20counties%2018_ranked.xls)
-- [Regions ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/total%20pop%20change%20region.xls)
-- [Cities and Towns ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/total%20pop%20change.xls)
-- [Places ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/total%20pop%20change%20muni.xls)
-- [Places ranked by 2010 pop ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/total%20pop%20change%20muni_ranked.xls)
-- [Places- 18 years and over ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/total%20pop%20change%20muni%2018.xls)
-- [Places- 18 years and over ranked by 2010 pop ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/total%20pop%20change%20muni%2018_ranked.xls)
+- [State and Counties ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change%20counties.xls)
+- [State and Counties ranked by 2010 pop ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change%20counties_ranked.xls)
+- [State and Counties- 18 years and over ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change%20counties%2018.xls)
+- [State and Counties- 18 years and over ranked by 2010 pop ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change%20counties%2018_ranked.xls)
+- [Regions ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change%20region.xls)
+- [Cities and Towns ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change.xls)
+- [Places ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change%20muni.xls)
+- [Places ranked by 2010 pop ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change%20muni_ranked.xls)
+- [Places- 18 years and over ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change%20muni%2018.xls)
+- [Places- 18 years and over ranked by 2010 pop ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change%20muni%2018_ranked.xls)
 
 
 ### Race and Hispanic Origin
 
-- [Race & Ethnicity (including 18+, % and Absolute Change from 2000 to 2010) by County (multiple tabs) ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/race%20and%20hispanic%20origin%20counties_change2000to2010.xls)
-- [Race by Hispanic Origin by Selected Age Groups by County ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/RaceByHispanicOriginbyAgeCounties.xlsx)
-- [State Totals and Change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/race%20and%20hispanic%20origin%20state_2000%202010.xls)
-- [State and Counties ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/race%20and%20hispanic%20origin%20counties.xls)
-- [State and Counties Hispanic change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/hispanic%20change%20counties.xls)
-- [State and Counties- 18 years and over ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/race%20and%20hispanic%20origin%20counties_18%20and%20over.xls)
-- [State and Counties- 18 years and over Hispanic change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/hispanic%20change%20counties_18%20and%20over.xls)
-- [Places ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/race%20and%20hispanic%20origin%20muni.xls)
-- [Places- Hispanic change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/hispanic%20change%20muni.xls)
-- [Places- 18 years and over ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/race%20and%20hispanic%20origin%20muni_18%20and%20over.xls)
-- [Places- 18 years and over Hispanic change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/hispanic%20change%20muni_18%20and%20over.xls)
+- [Race & Ethnicity (including 18+, % and Absolute Change from 2000 to 2010) by County (multiple tabs) ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/race%20and%20hispanic%20origin%20counties_change2000to2010.xls)
+- [Race by Hispanic Origin by Selected Age Groups by County ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/RaceByHispanicOriginbyAgeCounties.xlsx)
+- [State Totals and Change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/race%20and%20hispanic%20origin%20state_2000%202010.xls)
+- [State and Counties ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/race%20and%20hispanic%20origin%20counties.xls)
+- [State and Counties Hispanic change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/hispanic%20change%20counties.xls)
+- [State and Counties- 18 years and over ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/race%20and%20hispanic%20origin%20counties_18%20and%20over.xls)
+- [State and Counties- 18 years and over Hispanic change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/hispanic%20change%20counties_18%20and%20over.xls)
+- [Places ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/race%20and%20hispanic%20origin%20muni.xls)
+- [Places- Hispanic change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/hispanic%20change%20muni.xls)
+- [Places- 18 years and over ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/race%20and%20hispanic%20origin%20muni_18%20and%20over.xls)
+- [Places- 18 years and over Hispanic change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/hispanic%20change%20muni_18%20and%20over.xls)
 
 
 ### Housing Unit Totals
 
-- [State and Counties ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/housing%20units%20counties.xls)
-- [Places ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/housing%20units%20muni.xls)
+- [State and Counties ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/housing%20units%20counties.xls)
+- [Places ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/housing%20units%20muni.xls)
 
-
-### Estimates and Projections
-
-The State Demography Office has produced an update to its population estimates and forecasts to incorporate the recently released 2010 Census count population totals. *More detailed information is included in the estimate and forecast files below.*
-
-- [Estimates ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/popbycountyandmuni_2010to2020_revisedformular.xls)
-- [Forecasts ![xls](/images/page_white_excel.png 'download xls file')](https://dola.colorado.gov/dlg/demog/2010data/UpdatedPreliminaryProjections.xls)
 
 ----
 
