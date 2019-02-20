@@ -10,7 +10,6 @@ description: "Census 2020 Jobs"
 
 Last Updated: 1/23/2019
 
-* A message from the Census Bureau about recruitment during the current government shutdown
 
 **Jan. 23, 2019** — The U.S. Census Bureau continues to recruit thousands of workers for temporary jobs available nationwide in advance of the 2020 Census.
 
