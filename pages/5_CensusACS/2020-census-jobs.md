@@ -35,7 +35,7 @@ Avialable Jobs:
 * **Census takers** work in the field. Some field positions require employees to work during the day to see addresses on buildings. Other field positions require interviewing the public, so employees must be available to work when people are usually at home, such as in the evening and on weekends.
 
 
-* Past Positions:
+## Past Positions:
 
 
 **COLORADO**
