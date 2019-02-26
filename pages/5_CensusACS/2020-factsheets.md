@@ -7,13 +7,22 @@ description: "State Demography Office Census 2020 Fact Sheets"
 ---
 
 ## State Demography Office Census 2020 Fact Sheets
+These fact sheets are developed to provide basic informaton about Census 2020 operations.  If you have any questions, or have suggestions
+for additional fact sheets, please contact the Stae Demography Office.
 
-Last Updated 01/10/2019
 
-* [Census 2020 How to get involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ytPPwv72D9cM3JQjErXUsvE3IgOGA_Qq) Resources for supporting the Census
+Last Updated 03/01/2019
 
-* [Census 2020 Census 101  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1S3GR-064pCviYfIJv12b9lOpjBjl_htS/uc?export=download) Basic information about the 2020 Census
+* [Census 2020 Fact Sheet: Census 101  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1rIPKdEJv3N9cqdRX5yNsqoPJ83lYikKo) Basic information about Census 2020
 
-* [Census 2020 Timeline  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nsyddk4SylnkdeNM_etcUzQKjqLGlr5D) Census 2020 Timeline
+* [Census 2020 Fact Sheet: How to get involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ytPPwv72D9cM3JQjErXUsvE3IgOGA_Qq) Resources for supporting the Census
 
-* [Census 2020 Fact Sheet for Libraries  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_J9K317loEm7hg-cVUH0rE_cSJSiR9sr) Census information for Libraries and Librarians
+* [Census 2020 Fact Sheet: Timeline  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1e7G3DxlOETABoLzSm2KpiQrC3UVK_tI1) Census 2020 timeline
+
+* [Census 2020 Fact Sheet for Libraries  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1zf9rDwCO0E_krBGCL77booqjiuPHCr9q) Census information for libraries and Librarians
+
+* [Census 2020 Fact Sheet Citizenship  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vPIn39C4Vur0EJcNLC0jdVvNCNhYHZbq) Background on the proposed citizenship question
+
+* [Census 2020 Fact Sheet Counting the Homeless  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=13ByTLcA6K2eusbxzojrbb7EbxbvCZIM-) Procedures to count the homeless
+
+* [Census 2020 Fact Sheet: Counting College Students and Others in Institutions  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nHo3O3VYkinLzdxhGP0Qr4sRhhdAG1Qd) Procedures to count college students and people living in institutions
