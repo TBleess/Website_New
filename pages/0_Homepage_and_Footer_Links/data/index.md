@@ -45,7 +45,7 @@ permalink: "/data/"
 
 ## Thematic Maps
 
-- [Thematic Maps](/gis/thematic-maps#thematic-maps)  A variety of thematic maps using data from: ACS 2010-2014, Census 2010 and original data from the Colorado State Demography Office!
+- [Thematic Maps](/gis/thematic-maps#thematic-maps)  A variety of thematic maps using data from: ACS 2013-2017, Census 2010 and original data from the Colorado State Demography Office!
 
 <br />
 
