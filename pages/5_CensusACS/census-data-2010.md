@@ -50,7 +50,7 @@ Released May 19th 2011, the Demographic Profiles provide 2010 Census data on age
 - [Households by Type by County ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HouseholdsByType2010_County.xls)
 - [Households by Type by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HouseholdsByType2010vs2000_County.xls)
 - [Households by Type by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HouseholdsByType2010_IncorporatedPlace.xls)
-- [Households by Type by Place ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static//HouseholdsByType2010_Place.xls)
+- [Households by Type by Place ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HouseholdsByType2010_Place.xls)
 - [Housing Occupancy by County ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingOccupancy2010_County.xls)
 - [Housing Occupancy by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingOccupancy2010vs2000_County.xls)
 - [Housing Occupancy by City/Town ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/HousingOccupancy2010_IncorporatedPlace.xls)
