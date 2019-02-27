@@ -123,13 +123,13 @@ AFF works best with Internet Explorer 7+ or Mozilla Firefox or Google Chrome.
 
 ### I thought ACS 5-year estimates were available at the Block Group level, but I can\'t find them in AFF. Why not?
 
-ACS 5-year estimates are available down to the Block Group level, but not through American FactFinder. To access the BG data, you need to download the [Summary File Retrieval Tool (census.gov)](http://www.census.gov/acs/www/data_documentation/summary_file/). It\'s available about halfway down the page, and right below that is a user guide.
+ACS 5-year estimates are available down to the Block Group level, but not through American FactFinder. To access the BG data, you need to download the [Summary File Retrieval Tool (census.gov)](https://www.census.gov/programs-surveys/acs/technical-documentation/summary-file-documentation.html). It\'s available about halfway down the page, and right below that is a user guide.
 
 - - -
 
 ### Is there a complete list of all ACS tables?
 
-A complete list is available within the ACS technical documentation for each set of estimates: [1-year (census.gov) ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://www2.census.gov/acs2010_1yr/summaryfile/ACS_2010_SF_Tech_Doc.pdf), [3-year (census.gov) ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://www2.census.gov/acs2010_3yr/summaryfile/ACS_2008-2010_SF_Tech_Doc.pdf) and [5-year (census.gov) ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://www2.census.gov/acs2010_5yr/summaryfile/ACS_2006-2010_SF_Tech_Doc.pdf).
+A complete list is available within the ACS technical documentation for each set of estimates: [1-year and 5-year (census.gov) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www2.census.gov/programs-surveys/acs/summary_file/2017/documentation/tech_docs/2017_SummaryFile_Tech_Doc.pdf).
 
 
 ---
