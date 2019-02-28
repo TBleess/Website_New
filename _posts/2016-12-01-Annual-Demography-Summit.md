@@ -39,10 +39,10 @@ The afternoon flew by as our speakers covered issues ranging from regulating a b
 __Sound interesting? Sorry you missed it? Well good news!__ Because the Summit was livestreamed and we have all the presentations [online available for viewing](https://demography.dola.colorado.gov/demography/annual-demography-summit-2016/) along with copies of their [slides and all the handouts](https://demography.dola.colorado.gov/demography/publications-and-presentations/#publications-and-presentations) attendees received.
 
 
-If you think you might want to attend in 2017, sign up for the [Demography Listserv](http://colorado.us13.list-manage.com/subscribe?u=542afe896a1951030a7772c33&id=89fa6d3fd5) to receive updates, and then sign up below to receive notifications of new Crosstabs posts! 
+If you think you might want to attend in 2017, sign up for the [Demography Listserv](http://eepurl.com/b8msob) to receive updates, and then sign up below to receive notifications of new Crosstabs posts! 
 
 
 **Want to know more?** Visit our website at [demography.dola.colorado.gov](http://demography.dola.colorado.gov) or send questions to [dola_dlg_helpdesk@state.co.us](mailto:dola_dlg_helpdesk@state.co.us)
 
 
-**[Sign up](http://colorado.us13.list-manage.com/subscribe?u=542afe896a1951030a7772c33&id=e6ff0b17bc) to receive notifications of new blog posts.**
+**[Sign up](http://eepurl.com/b8msob) to receive notifications of new blog posts.**
