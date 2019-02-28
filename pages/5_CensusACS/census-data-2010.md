@@ -111,6 +111,6 @@ Click [here ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://
 
 ----
 
-As with all census data you can find this information and much more on the [U.S. Census Bureau](https://www.census.gov) (link is external) web site.
+As with all census data you can find this information and much more on the [U.S. Census Bureau](https://www.census.gov) web site (external link).
 
  
