@@ -37,6 +37,6 @@ As with all census data you can find this information and much more on the [US C
 
 - [Comparing Census and ACS data (HUD)](http://www.huduser.org/portal/home.html)
 - [Map Gallery](/gis/map-gallery/)
-- [What are Metropolitan & Micropolitan Statistical Areas (census.gov)](http://www.census.gov/population/metro/)
+- [What are Metropolitan & Micropolitan Statistical Areas (census.gov)](https://www.census.gov/programs-surveys/metro-micro.html)
 - [Urban & Rural Definitions (census.gov)](http://www.census.gov/geo/reference/ua/urban-rural-2010.html)
 
