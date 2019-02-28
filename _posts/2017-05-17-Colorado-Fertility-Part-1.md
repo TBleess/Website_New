@@ -81,5 +81,5 @@ Outside of the Front Range, TFRs increased within the Eastern Plains, Northweste
 
 
 
-**[Sign up](http://colorado.us13.list-manage.com/subscribe?u=542afe896a1951030a7772c33&id=e6ff0b17bc) to receive notifications of new blog posts.**
+**[Sign up](http://eepurl.com/b8msob) to receive notifications of new blog posts.**
 
