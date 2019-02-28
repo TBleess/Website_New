@@ -67,4 +67,4 @@ Visit this link to learn more about the 4R program: https://www.colorado.gov/pac
 **Want to know more?** Visit our website at [demography.dola.colorado.gov](http://demography.dola.colorado.gov) or send questions to [dola_dlg_helpdesk@state.co.us](mailto:dola_dlg_helpdesk@state.co.us)
 
 
-**[Sign up](http://colorado.us13.list-manage.com/subscribe?u=542afe896a1951030a7772c33&id=e6ff0b17bc) to receive notifications of new blog posts.**
+**[Sign up](http://eepurl.com/b8msob) to receive notifications of new blog posts.**
