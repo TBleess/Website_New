@@ -10,11 +10,11 @@ description: "Census 2020 Resources Page"
 
 Update 03/04/2019
 
-**Shape your future. Start here**
+##Census 2020 Communications Tagline: 'Shape your future. START HERE.'
 
 [The 2020 Census Communications Campaign Platform information](https://www.census.gov/newsroom/press-releases/2019/2020-campaign-logo.html)
 
-The U.S. Census Bureau unvieled its 2020 Census Communications Platform on March 4, 2019.
+The U.S. Census Bureau unvieled its 2020 Census Communications Platform on March 4, 2019.  Additional resources, poster templates, downloadable materials, etc. will be available on this platform in the next few months.
 
 [2020 Census at a Glance Flyer ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=15BmGnnARZKv_1GYwaraYqshXTYfeCCgp)
 
