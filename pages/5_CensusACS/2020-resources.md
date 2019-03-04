@@ -8,7 +8,11 @@ description: "Census 2020 Resources Page"
 
 ## Census 2020 Resources Page
 
-Update 01/09/2019
+Update 03/04/2019
+
+**Start your future here
+
+[The 2020 Census Communications Campaign Platform information](https://www.census.gov/newsroom/press-releases/2019/2020-campaign-logo.html)
 
 [2020 Census at a Glance Flyer ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=15BmGnnARZKv_1GYwaraYqshXTYfeCCgp)
 
