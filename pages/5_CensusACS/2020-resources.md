@@ -10,7 +10,7 @@ description: "Census 2020 Resources Page"
 
 Update 03/04/2019
 
-**Start your future here
+**Start your future here**
 
 [The 2020 Census Communications Campaign Platform information](https://www.census.gov/newsroom/press-releases/2019/2020-campaign-logo.html)
 
