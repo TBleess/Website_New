@@ -23,6 +23,7 @@ Last Updated 03/01/2019
 
 * [Census 2020 Fact Sheet Citizenship  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vPIn39C4Vur0EJcNLC0jdVvNCNhYHZbq) Background on the proposed citizenship question
 
+* [Census 2020 Fact Sheet Residence Criteria ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vOcBEhKW8xbraf-bZ9lpc6AuhSsmWeAM)  Discussion of Census Residence Criteria
 * [Census 2020 Fact Sheet Counting the Homeless  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=13ByTLcA6K2eusbxzojrbb7EbxbvCZIM-) Procedures to count the homeless
 
 * [Census 2020 Fact Sheet: Counting College Students and Others in Institutions  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nHo3O3VYkinLzdxhGP0Qr4sRhhdAG1Qd) Procedures to count college students and people living in institutions
