@@ -8,7 +8,7 @@ description: "Census 2020 Resources Page"
 
 ## Census 2020 Resources Page
 
-Update 03/04/2019
+Update 03/15/2019
 
 ### Census 2020 Communications Tagline: 'Shape your future. START HERE.'
 
