@@ -10,7 +10,7 @@ description: "Census 2020 Resources Page"
 
 Update 03/18/2019
 
-### Census Median Vendor Day
+### Census Media Vendor Day
 
 Census Media Vendor Day is April 3, 2019.  This event provides the opportunity for local, hyperlocal, small-minority owned and focused media to learn how they can possibly be involved in the 2020 Census Paid Media Campaign. 
 
