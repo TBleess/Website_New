@@ -16,7 +16,7 @@ Census Media Vendor Day is April 3, 2019.  This event provides the opportunity f
 
 [Information](https://www.census.gov/about/business-opportunities/opportunities/2020-opps/2020-census-paid-media.html)
 
-[Registration](www.2020NYC.eventbrite.com)
+[Registration](https://www.eventbrite.com/e/2020-census-media-vendor-day-new-york-tickets-56648283541)
 
 ### Census 2020 Communications Tagline: 'Shape your future. START HERE.'
 
