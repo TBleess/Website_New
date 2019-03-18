@@ -8,7 +8,15 @@ description: "Census 2020 Resources Page"
 
 ## Census 2020 Resources Page
 
-Update 03/15/2019
+Update 03/18/2019
+
+### Census Median Vendor Day
+
+Census Media Vendor Day is April 3, 2019.  This event provides the opportunity for local, hyperlocal, small-minority owned and focused media to learn how they can possibly be involved in the 2020 Census Paid Media Campaign. 
+
+[Information](https://www.census.gov/about/business-opportunities/opportunities/2020-opps/2020-census-paid-media.html)
+
+[Registration](www.2020NYC.eventbrite.com)
 
 ### Census 2020 Communications Tagline: 'Shape your future. START HERE.'
 
