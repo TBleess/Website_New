@@ -232,7 +232,7 @@ $( document ).ready(function() {
 
 	console.log(querystring);    
 	    
-        fetchJSONFile("https://gis.dola.colorado.gov/lookups/sya_region?" + querystring, function(text) {
+        fetchJSONFile("https://gis.dola.colorado.gov/lookups/sya_regions?" + querystring, function(text) {
             /* make Download CSV button visible */
             document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
