@@ -228,7 +228,7 @@ $( document ).ready(function() {
             
         }
       
-        var querystring = "age=" + agestring + "&reg_num=" + reg_numstring + "&year=" + yearstring + "&group=" + compressed;
+        var querystring = "age=" + agestring + "&reg_num=" + reg_numstring + "&year=" + yearstring + "&group=" + compressed + "&choice=" + categorySelected + "&intervals=" + intervals;
 
         fetchJSONFile("https://gis.dola.colorado.gov/lookups/sya_regions?" + querystring, function(text) {
             /* make Download CSV button visible */
