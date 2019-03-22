@@ -4,8 +4,8 @@
 # 
 layout: redirect
 sitemap: false
-permalink: https://demography.dola.colorado.gov/census-acs/2020-census-information/
-redirect_to:  https://demography.dola.colorado.gov/census_2020/
+permalink: /census-acs/2020-census-information/
+redirect_to:  /census_2020/
 # 
 # Idea and Code by: http://codingtips.kanishkkunal.in/about/
 ---
