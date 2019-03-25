@@ -31,10 +31,10 @@ tag: ""
 <!-- populated from database -->
 </select><br /><br />
 
-<!-- <input type="radio" name="compressed" value="" checked>No Grouping&nbsp;&nbsp;&nbsp;
-<input type="radio" name="compressed" value="&group=opt1">Group by Year&nbsp;&nbsp;&nbsp;
-<input type="radio" name="compressed" value="&group=opt2">Group by County&nbsp;&nbsp;&nbsp;
-<br /><br /> -->
+<input type="radio" name="compressed" value="" checked hidden>
+<input type="radio" name="compressed" value="&group=opt1" hidden>
+<input type="radio" name="compressed" value="&group=opt2" hidden>
+
 <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
@@ -47,7 +47,7 @@ tag: ""
     fetchJSONFile('https://gis.dola.colorado.gov/lookups/jobsforecastYRS', function(yrs) {
         var queriedYears = "";
         for (let i = 0; i < yrs.length; i++) {
-            queriedYears += "<option style='color:" + ((yrs[i].datatype === "Estimate") ? "black" : "red") + "' value='" + yrs[i].population_year + "'>" + yrs[i].population_year + "</option>";
+            queriedYears += "<option style='color:" + ((yrs[i].datatype === "ESTIMATE") ? "black" : "red") + "' value='" + yrs[i].population_year + "'>" + yrs[i].population_year + "</option>";
         }
         document.getElementById('yearsSelected').innerHTML = queriedYears;
     });
