@@ -22,7 +22,7 @@ tag: "econdata"
 
 <h2 id="job-forecast">Job Forecast - County</h2>
 
-<a href="/economy-labor-force/data/jobs-forecast-region/">Need Region Data?</a><br /><br />
+<a href="/economy-labor-force/data/jobs-forecast-regions/">Need Region Data?</a><br /><br />
 
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
 
@@ -51,7 +51,7 @@ tag: "econdata"
     fetchJSONFile('https://gis.dola.colorado.gov/lookups/jobsforecastYRS', function(yrs) {
         var queriedYears = "";
         for (let i = 0; i < yrs.length; i++) {
-            queriedYears += "<option style='color:" + ((yrs[i].datatype === "Estimate") ? "black" : "red") + "' value='" + yrs[i].population_year + "'>" + yrs[i].population_year + "</option>";
+            queriedYears += "<option style='color:" + ((yrs[i].datatype === "ESTIMATE") ? "black" : "red") + "' value='" + yrs[i].population_year + "'>" + yrs[i].population_year + "</option>";
         }
         document.getElementById('yearsSelected').innerHTML = queriedYears;
     });
