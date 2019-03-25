@@ -1,0 +1,47 @@
+---
+layout: page
+title: "Jobs Forecast"
+permalink: "/economy-labor-force/data/jobs-forecast/"
+custom_js:
+- /assets/js/FileSaver.min.js
+- /assets/js/common/dola_custom_functions.js
+file: 
+- "https://storage.googleapis.com/co-publicdata/jobs-county.csv"
+- "https://storage.googleapis.com/co-publicdata/jobs-region.csv"
+description: "Search for information on jobs by year."
+years: "1970-2017 (Estimates) and 2018-2050 (Forecast)"
+tag: "jobdata"
+
+---
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
+
+
+<h2 id="job-forecast">Job Forecast - County</h2>
+
+<a href="/economy-labor-force/data/jobs-forecast-region/">Need Region Data?</a><br /><br />
+
+<label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
+
+<select id="countiesSelected" name="countiesSelected" multiple="multiple" size="5">
+  	<option value="0">Colorado</option>
+{% include _optionValuesCounty.html %}
+</select>
+
+<br /><br />
+<label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
+<select id="yearsSelected" name="yearsSelected" multiple="multiple" size="4">
+<!-- populated from database -->
+</select><br /><br />
+
+<input type="radio" name="compressed" value="" checked>No Grouping&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&group=opt1">Group by Year&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&group=opt2">Group by County&nbsp;&nbsp;&nbsp;
+<br /><br />
+<input type="submit" id="callapi" value="View Results" class="form-submit" />
+<br /><br /><br />
+<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
+<table id="resultstable"></table>
