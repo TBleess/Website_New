@@ -37,10 +37,10 @@ tag: "econdata"
 <!-- populated from database -->
 </select><br /><br />
 
-<!-- <input type="radio" name="compressed" value="" checked>No Grouping&nbsp;&nbsp;&nbsp;
-<input type="radio" name="compressed" value="&group=opt1">Group by Year&nbsp;&nbsp;&nbsp;
-<input type="radio" name="compressed" value="&group=opt2">Group by County&nbsp;&nbsp;&nbsp;
-<br /><br /> -->
+<input type="radio" name="compressed" value="" checked hidden>No Grouping&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&group=opt1" hidden>Group by Year&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&group=opt2" hidden>Group by County&nbsp;&nbsp;&nbsp;
+<br /><br />
 <input type="submit" id="callapi" value="View Results" class="form-submit" />
 <br /><br /><br />
 <input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
@@ -68,7 +68,7 @@ tag: "econdata"
             return;
         }
         document.getElementById("dlcsv").style.display = 'inline-block';
-        var compressed = "";//document.querySelector('input[name="compressed"]:checked').value;
+        var compressed = document.querySelector('input[name="compressed"]:checked').value;
         var querystring = "https://gis.dola.colorado.gov/lookups/jobs-forecast?year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + compressed;
         fetchJSONFile(querystring, function(text) {
             /* make Download CSV button visible */
