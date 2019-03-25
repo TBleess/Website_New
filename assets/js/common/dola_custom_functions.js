@@ -262,6 +262,9 @@ function clookup(county) {
     if (county === 125 || county === "125") {
         return "Yuma County";
     }
+    if (county === 0 || county === "000") {
+        return "Colorado";
+    }
 
     return undefined;
 }
