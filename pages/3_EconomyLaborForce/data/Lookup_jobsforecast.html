@@ -68,8 +68,8 @@ tag: "econdata"
             return;
         }
         document.getElementById("dlcsv").style.display = 'inline-block';
-        //var compressed = document.querySelector('input[name="compressed"]:checked').value;
-        var querystring = "https://gis.dola.colorado.gov/lookups/jobs-forecast?year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + "";// + compressed;
+        var compressed = "";//document.querySelector('input[name="compressed"]:checked').value;
+        var querystring = "https://gis.dola.colorado.gov/lookups/jobs-forecast?year=" + selectedYears.join(",") + "&county=" + selectedCounties.join(",") + compressed;
         fetchJSONFile(querystring, function(text) {
             /* make Download CSV button visible */
             document.getElementById("dlcsv").style.display = 'inline-block';
