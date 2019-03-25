@@ -1,0 +1,130 @@
+---
+layout: page
+title: "Jobs Forecast - Regions"
+permalink: "/economy-labor-force/data/jobs-forecast-regions/"
+custom_js:
+- /assets/js/FileSaver.min.js
+- /assets/js/common/dola_custom_functions.js
+description: "Search for information on jobs by region and year."
+years: "1970-2017 (Estimates) and 2018-2050 (Forecast)"
+tag: ""
+
+---
+
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
+
+
+<h2>Jobs Forecast - Regions</h2>
+
+<a href="/economy-labor-force/data/jobs-forecast/">Need County Data?</a><br /><br />
+<a href="/gis/colorado-regions/" target="_blank">Regions WebMap <img src="/images/map.png" /></a><br /><br />
+<label for="countiesSelected" style="font-weight: bold;">Select 1 or more regions:</label><br />
+<select id="countiesSelected" name="countiesSelected" multiple="multiple" size="5">	
+{% include _optionValuesRegion.html %}
+</select><br /><br />
+<label for="yearsSelected" style="font-weight: bold;">Select 1 or more years:</label><br />
+<select id="yearsSelected" name="yearsSelected" multiple="multiple" size="4">
+<!-- populated from database -->
+</select><br /><br />
+
+<input type="radio" name="compressed" value="" checked>No Grouping&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&group=opt1">Group by Year&nbsp;&nbsp;&nbsp;
+<input type="radio" name="compressed" value="&group=opt2">Group by Region&nbsp;&nbsp;&nbsp;
+<br /><br />
+<input type="submit" id="callapi" value="View Results" class="form-submit" />
+<br /><br /><br />
+<input type="submit" id="dlcsv" value="Download CSV" style="display:none;" /><br />
+<table id="resultstable"></table>
+
+
+
+<script>
+  
+    fetchJSONFile('https://gis.dola.colorado.gov/lookups/jobsforecastYRS', function(yrs) {
+        var queriedYears = "";
+        for (let i = 0; i < yrs.length; i++) {
+            queriedYears += "<option style='color:" + ((yrs[i].datatype === "Estimate") ? "black" : "red") + "' value='" + yrs[i].population_year + "'>" + yrs[i].population_year + "</option>";
+        }
+        document.getElementById('yearsSelected').innerHTML = queriedYears;
+    });
+    document.getElementById('callapi').addEventListener('click', function() {
+        var selectedCounties = getSelectValues(countiesSelected);
+        var selectedYears = getSelectValues(yearsSelected);
+        if (selectedCounties.length === 0) {
+            alert('please choose a county selection');
+            return;
+        }
+        if (selectedYears.length === 0) {
+            alert('please choose one or more years');
+            return;
+        }
+        var compressed = document.querySelector('input[name="compressed"]:checked').value;
+        var querystring = "year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") + compressed;
+        fetchJSONFile("https://gis.dola.colorado.gov/lookups/components_region?" + querystring, function(text) {
+            /* make Download CSV button visible */
+            document.getElementById("dlcsv").style.display = 'inline-block';
+            createtable(text);
+        });
+    }, false);
+    function createtable(results) {
+        var table = document.getElementById("resultstable");
+        table.innerHTML = ""; /*clear all previous content*/
+        var header = table.createTHead();
+        var hrow = header.insertRow(0);
+        var hcell1 = hrow.insertCell(0);
+        var hcell2 = hrow.insertCell(1);
+        var hcell3 = hrow.insertCell(2);
+        var hcell4 = hrow.insertCell(3);
+        var hcell5 = hrow.insertCell(4);
+        var hcell6 = hrow.insertCell(5);
+        var hcell7 = hrow.insertCell(6);
+        var hcell8 = hrow.insertCell(7);
+        var hcell9 = hrow.insertCell(8);
+        hcell1.innerHTML = "Region";
+        hcell2.innerHTML = "Region Number";
+        hcell3.innerHTML = "Year";
+        hcell4.innerHTML = "Population";
+        hcell5.innerHTML = "Change";
+        hcell6.innerHTML = "Births";
+        hcell7.innerHTML = "Deaths";
+        hcell8.innerHTML = "NetMigration";
+        hcell9.innerHTML = "Datatype";
+        var body = table.appendChild(document.createElement('tbody'));
+        for (var i = 0; i < results.length; i++) {
+            addrow(i, rlookup(results[i].reg_num) || "", results[i].reg_num || "", results[i].year || "", results[i].estimate || "", results[i].change || "", results[i].births || "", results[i].deaths || "", results[i].netmig || "", results[i].datatype || "");
+        }
+    }
+    function addrow(rownum, region, reg_num, year, population, change, births, deaths, netmig, datatype) {
+        var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
+        /* Create an empty <tr> element and add it to the 1st position of the table:*/
+        var row = tableRef.insertRow(rownum);
+        /* Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:*/
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        var cell3 = row.insertCell(2);
+        var cell4 = row.insertCell(3);
+        var cell5 = row.insertCell(4);
+        var cell6 = row.insertCell(5);
+        var cell7 = row.insertCell(6);
+        var cell8 = row.insertCell(7);
+        var cell9 = row.insertCell(8);
+        /* Add some text to the new cells:*/
+        cell1.innerHTML = region;
+        cell2.innerHTML = reg_num;
+        cell3.innerHTML = year;
+        cell4.innerHTML = Number(population).toLocaleString();
+        cell5.innerHTML = Number(change).toLocaleString();
+        cell6.innerHTML = Number(births).toLocaleString();
+        cell7.innerHTML = Number(deaths).toLocaleString();
+        cell8.innerHTML = Number(netmig).toLocaleString();
+        cell9.innerHTML = datatype;
+    }
+    document.getElementById('dlcsv').addEventListener('click', function() {
+        dlcsv("resultstable", "region-componentsChange_data.csv");
+    }, false);
+  
+</script>
