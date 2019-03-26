@@ -19,3 +19,12 @@ description: "Census 2020 Response Tracker"
  
  See the ROAM tool at [https://www.census.gov/roam](https://www.census.gov/roam)
  
+ ## Census Type of Enumeraton Area Viewer<br>
+ 
+ The *Census Type of Enumeration Area Viewer* identifies census tracts that willreceive census forms through the "Update/Leave" and "Update/Enumerate" programs. These programs are designed to serve rural areas with homes that do not have standard street addresses. The census bureau estimates that five percent of the homes nationwide will be enumerted using these programs. 
+ 
+- Homes part of the "Update/Leave" program will be visited by a census enumerator, who will leave a census form behind for the household to complete. 
+- Homes part of the "Update/Enumerate" program will be visited by an enumerator, who will complete the census form during their visit with a household.  The "Update/Enumerate" program is focuesed on remote areas in Alaska and Northen Maine. 
+ 
+See the Type of Enumeration Area Viewer at [https://www.census.gov/newsroom/press-releases/2019/tea-viewer.html](https://www.census.gov/newsroom/press-releases/2019/tea-viewer.html)
+ 
