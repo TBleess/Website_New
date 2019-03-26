@@ -21,7 +21,7 @@ description: "Census 2020 Response Tracker"
  
  ## Census Type of Enumeraton Area Viewer<br>
  
- The *Census Type of Enumeration Area Viewer* identifies census tracts that willreceive census forms through the "Update/Leave" and "Update/Enumerate" programs. These programs are designed to serve rural areas with homes that do not have standard street addresses. The census bureau estimates that five percent of the homes nationwide will be enumerted using these programs. 
+ The *Census Type of Enumeration Area Viewer* identifies census tracts that will receive census forms through the "Update/Leave" and "Update/Enumerate" programs. These programs are designed to serve rural areas with homes that do not have standard street addresses. The census bureau estimates that five percent of  homes nationwide will be enumerated using these programs. 
  
 - Homes part of the "Update/Leave" program will be visited by a census enumerator, who will leave a census form behind for the household to complete. 
 - Homes part of the "Update/Enumerate" program will be visited by an enumerator, who will complete the census form during their visit with a household.  The "Update/Enumerate" program is focuesed on remote areas in Alaska and Northen Maine. 
