@@ -17,7 +17,7 @@ tag: ""
 {% endif %}
 
 <h2>Regional Data Lookup</h2>
-<a href="/population/data/profile-county/">Need County Data?</a><br /><br />
+<a href="/population/data/county-data-lookup/">Need County Data?</a><br /><br />
 <a href="/gis/colorado-regions/" target="_blank">Regions WebMap <img src="/images/map.png" /></a><br /><br />
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more regions:</label><br />
 <select id="countiesSelected" class="formtable" name="countiesSelected" multiple="multiple" size="5">	
@@ -221,43 +221,43 @@ tag: ""
         cell2.innerHTML = year;
         cell3.innerHTML = region;
         if (totalpopulation !== "") {
-            cell4.innerHTML = totalpopulation.toLocaleString()
+            cell4.innerHTML = totalpopulation.toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (births !== "") {
-            cell5.innerHTML = births.toLocaleString()
+            cell5.innerHTML = births.toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (deaths !== "") {
-            cell6.innerHTML = deaths.toLocaleString()
+            cell6.innerHTML = deaths.toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (netmigration !== "") {
-            cell7.innerHTML = Number(netmigration).toLocaleString()
+            cell7.innerHTML = Number(netmigration).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (naturalincrease !== "") {
-            cell8.innerHTML = Number(naturalincrease).toLocaleString()
+            cell8.innerHTML = Number(naturalincrease).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (censusbuildingpermits !== "") {
-            cell9.innerHTML = Number(censusbuildingpermits).toLocaleString()
+            cell9.innerHTML = Number(censusbuildingpermits).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (groupquarterspopulation !== "") {
-            cell10.innerHTML = Number(groupquarterspopulation).toLocaleString()
+            cell10.innerHTML = Number(groupquarterspopulation).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (householdpopulation !== "") {
-            cell11.innerHTML = Number(householdpopulation).toLocaleString()
+            cell11.innerHTML = Number(householdpopulation).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (households !== "") {
-            cell12.innerHTML = Number(households).toLocaleString()
+            cell12.innerHTML = Number(households).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (householdsize !== "") {
             cell13.innerHTML = Number((Number(householdsize)).toFixed(2)).toLocaleString()
         };
         if (totalhousingunits !== "") {
-            cell14.innerHTML = Number(totalhousingunits).toLocaleString()
+            cell14.innerHTML = Number(totalhousingunits).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (vacancyrate !== "") {
             cell15.innerHTML = Number(vacancyrate).toLocaleString()
         };
         if (vacanthousingunits !== "") {
-            cell16.innerHTML = Number(vacanthousingunits).toLocaleString()
+            cell16.innerHTML = Number(vacanthousingunits).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
 
     }
