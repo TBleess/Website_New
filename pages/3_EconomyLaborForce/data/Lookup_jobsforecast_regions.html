@@ -18,7 +18,7 @@ tag: ""
 {% endif %}
 
 
-<h2>Jobs Forecast - Regions</h2>
+<h2>Job Forecast - Regions</h2>
 
 <a href="/economy-labor-force/data/jobs-forecast/">Need County Data?</a><br /><br />
 <a href="/gis/colorado-regions/" target="_blank">Regions WebMap <img src="/images/map.png" /></a><br /><br />
@@ -63,9 +63,9 @@ tag: ""
             return;
         }
         var compressed = document.querySelector('input[name="compressed"]:checked').value;
-        var querystring = "year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") + compressed;
+        var querystring = "https://gis.dola.colorado.gov/lookups/jobsforecast_region?year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") + compressed;
 console.log(querystring);
-        fetchJSONFile("https://gis.dola.colorado.gov/lookups/jobsforecast_region?" + querystring, function(text) {
+        fetchJSONFile(querystring, function(text) {
             /* make Download CSV button visible */
             document.getElementById("dlcsv").style.display = 'inline-block';
             createtable(text);
