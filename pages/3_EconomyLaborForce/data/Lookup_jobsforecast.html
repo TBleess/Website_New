@@ -92,7 +92,7 @@ tag: "econdata"
         hcell5.innerHTML = "Datatype";
         var body = table.appendChild(document.createElement('tbody'));
         for (var i = 0; i < results.length; i++) {
-            addrow(i, clookup(results[i].countyfips) || "", results[i].countyfips || "", results[i].population_year || "", results[i].totaljobs.toFixed(0) || "", results[i].datatype || "");
+            addrow(i, clookup(results[i].countyfips) || "", results[i].countyfips || "", results[i].population_year || "", Number(results[i].totaljobs).toFixed(0).toLocalString() || "", results[i].datatype || "");
         }
     }
     function addrow(rownum, county, countyfips, population_year, totaljobs, datatype) {
