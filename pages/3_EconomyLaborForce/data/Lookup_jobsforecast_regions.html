@@ -105,7 +105,7 @@ console.log(querystring);
         cell1.innerHTML = region;
         cell2.innerHTML = reg_num;
         cell3.innerHTML = population_year;
-        cell4.innerHTML = Number(totaljobs).toLocaleString();
+        cell4.innerHTML = Number(totaljobs).toFixed(0).toLocaleString();
         cell5.innerHTML = datatype;
     }
     document.getElementById('dlcsv').addEventListener('click', function() {
