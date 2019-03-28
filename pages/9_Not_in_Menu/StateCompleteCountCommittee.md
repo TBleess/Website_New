@@ -34,7 +34,7 @@ The Colorado Complete Count Campaign (CCC) held its kickoff meeting on December 
 
 [Census Complete Count Committee Training Manual,  U.S. Census Bureau ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www.census.gov/content/dam/Census/newsroom/press-kits/2018/ccc-guide-d-1280.pdf)
 
-[Counting for Dollars 2020: Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/Colorado%2008-18-17.pdf)
+[Counting for Dollars 2020: Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf)
 
 
 
