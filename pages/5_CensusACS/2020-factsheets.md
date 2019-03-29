@@ -15,7 +15,7 @@ Last Updated 03/01/2019
 
 * [Census 2020 Fact Sheet: Census 101  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1rIPKdEJv3N9cqdRX5yNsqoPJ83lYikKo) Basic information about Census 2020
 
-* [Census 2020: How Businesses can get invloved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&idid=1xcqH3Ru6cz6OPeg6HGfD3DEwWxx4GTn-)
+* [Census 2020: How Businesses can get invloved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xcqH3Ru6cz6OPeg6HGfD3DEwWxx4GTn-)
 
 * [Census 2020 Fact Sheet: How to get involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ytPPwv72D9cM3JQjErXUsvE3IgOGA_Qq) Resources for supporting the Census
 
