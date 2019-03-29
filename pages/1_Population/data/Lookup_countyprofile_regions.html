@@ -221,13 +221,13 @@ tag: ""
         cell2.innerHTML = year;
         cell3.innerHTML = region;
         if (totalpopulation !== "") {
-            cell4.innerHTML = totalpopulation.toLocaleString(undefined, {maximumFractionDigits: 0})
+            cell4.innerHTML = Number(totalpopulation).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (births !== "") {
-            cell5.innerHTML = births.toLocaleString(undefined, {maximumFractionDigits: 0})
+            cell5.innerHTML = Number(births).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (deaths !== "") {
-            cell6.innerHTML = deaths.toLocaleString(undefined, {maximumFractionDigits: 0})
+            cell6.innerHTML = Number(deaths).toLocaleString(undefined, {maximumFractionDigits: 0})
         };
         if (netmigration !== "") {
             cell7.innerHTML = Number(netmigration).toLocaleString(undefined, {maximumFractionDigits: 0})
