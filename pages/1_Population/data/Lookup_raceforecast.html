@@ -212,7 +212,7 @@ tag: "popdata"
         cell3.innerHTML = year;
         cell4.innerHTML = age;
         cell5.innerHTML = race;
-        cell6.innerHTML = Number(count).toLocaleString();
+        cell6.innerHTML = Number(count).toLocaleString(undefined, {maximumFractionDigits: 0}));
 
     }
 
