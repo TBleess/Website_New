@@ -255,7 +255,7 @@ tag: "hhdata"
         cell3.innerHTML = year;
         cell4.innerHTML = age;
         cell5.innerHTML = household;
-        cell6.innerHTML = Number(total_household).toLocaleString();
+        cell6.innerHTML = Number(total_household).toLocaleString(undefined, {maximumFractionDigits: 0});
 
     }
 
