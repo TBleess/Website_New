@@ -185,8 +185,8 @@ tag: "econdata"
         cell3.innerHTML = year;
         cell4.innerHTML = age;
         cell5.innerHTML = gender;
-        cell6.innerHTML = Number(laborforce).toLocaleString();
-        cell7.innerHTML = Number(cni_pop_16pl).toLocaleString();
+        cell6.innerHTML = Number(laborforce).toLocaleString(undefined, {maximumFractionDigits: 0});
+        cell7.innerHTML = Number(cni_pop_16pl).toLocaleString(undefined, {maximumFractionDigits: 0});
         cell8.innerHTML = (Number(participationrate * 100).toFixed(2)).toLocaleString();
     }
 
