@@ -109,7 +109,7 @@ In AFF, you can build a map of a specific piece of data about a particular area.
 Note that:
 
 - The data in some tables are not appropriate for mapping (for example, Data Profiles); and  
-- You must select at least 2 like geographies (for example, 2 or mose state) to map.
+- You must select at least 2 like geographies (for example, 2 or more state) to map.
 
 For more information visit the [Create a Map Tutorial (census.gov)](https://factfinder.census.gov/help/en/creating_a_thematic_map.htm).
 
