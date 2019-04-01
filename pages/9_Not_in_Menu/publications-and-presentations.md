@@ -87,7 +87,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Economic Outlook ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1rBhtW_I-L7ZonghR0jNUG4egYkSm22rg)
   - [State Demography Office Data Tools ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vXkuN6Wq5H4iNd1jjuiVRvdxvopHKmLi)
   - [Preparing for 2020 Census ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1T2QAzoY-3JnkPe2g5QNg1gX3y2-7EYdI)
-  - [Tour of the State Demograpy Office Website ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1uBIqjFalnRC15wPLWl3IBwjblcfPbJTz)
+  - [Tour of the State Demography Office Website ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1uBIqjFalnRC15wPLWl3IBwjblcfPbJTz)
   - [Gigs vs. Jobs![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1uXcksCF8eZ3p1GF5P1JVUTzNG3sl1BJc)
   - [What is Colorado Schools were Number 1? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=16M3eRItvykPfK8-fqMkANrQxNr3_EiuK)
   - [Introduction to the Gallagher Amendment ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_wcUwvL7Jx87VWExwR7VMn4l9pY723lq)
