@@ -37,7 +37,7 @@ Maps:
 
 ### Demographic Profiles of General Population and Housing Characteristics
 
-Released May 19th 2011, the Demographic Profiles provide 2010 Census data on age and sex distributions, race, Hispanic or Latino origin, houshold relationship and type, the group quarters population, and housing occupancy and tenure (whether the housing occupant owns or rents).
+Released May 19th 2011, the Demographic Profiles provide 2010 Census data on age and sex distributions, race, Hispanic or Latino origin, household relationship and type, the group quarters population, and housing occupancy and tenure (whether the housing occupant owns or rents).
 
 - [Population by Age by County ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/PopulationByAge2010_County.xls)
 - [Population by Age by County change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/PopulationByAge2010vs2000_County.xls)
