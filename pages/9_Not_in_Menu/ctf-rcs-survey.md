@@ -25,7 +25,7 @@ Please use this spreadsheet to reply: [Survey Submission ![xls](/images/page_whi
 
 Send spreadsheet to Rob Kemp, Demographer, at [robert.kemp@state.co.us ![email](/images/email_link.png 'send email')](mailto:robert.kemp@state.co.us) to respond.
 
-If you do not ahve any changes, a simple email noting that is enough.
+If you do not have any changes, a simple email noting that is enough.
 
 
 ## Previous Data
