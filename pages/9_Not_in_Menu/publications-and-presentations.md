@@ -90,7 +90,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Tour of the State Demograpy Office Website ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1uBIqjFalnRC15wPLWl3IBwjblcfPbJTz)
   - [Gigs vs. Jobs![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1uXcksCF8eZ3p1GF5P1JVUTzNG3sl1BJc)
   - [What is Colorado Schools were Number 1? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=16M3eRItvykPfK8-fqMkANrQxNr3_EiuK)
-  - [Introduction to the Gallagher Admendment ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_wcUwvL7Jx87VWExwR7VMn4l9pY723lq)
+  - [Introduction to the Gallagher Amendment ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_wcUwvL7Jx87VWExwR7VMn4l9pY723lq)
   - [The Gallagher Amendment and Local Tax Revenues: Issues and Solutions? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1KbbNrt7iOFBqaapPLq03lb0M18E7HSbB)
   
  **View the video of the Summit sessions [here](https://dola.ompnetwork.org/embed/sessions/94859?embedInPoint=1&embedOutPoint=31075&shareMethod=embed).**
