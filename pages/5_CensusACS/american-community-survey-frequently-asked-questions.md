@@ -58,7 +58,7 @@ There are multiple differences between 1, 3 and 5 year estimates. The US Census 
 
 ### What is a Margin of Error?
 
-All data that are based on samples, such as the ACS, include a range of uncertainty. The Margin of Error (MOE) refers to sampling errors which occure when data are based on a sample of a population rather than the full population. MOE measures the precision of an estimate at a given level of confidence- 90% for the ACS. In the simplest of terms, this means that the Census Bureau is 90% certain that the difference between the population value and the sample estimate is less than or equal to the MOE.
+All data that are based on samples, such as the ACS, include a range of uncertainty. The Margin of Error (MOE) refers to sampling errors which occur when data are based on a sample of a population rather than the full population. MOE measures the precision of an estimate at a given level of confidence- 90% for the ACS. In the simplest of terms, this means that the Census Bureau is 90% certain that the difference between the population value and the sample estimate is less than or equal to the MOE.
 
 Sampling error can be used to assess the statistical reliability of survey data. For any given area, the larger the sample and the more months included in the data, the greater the confidence in the estimate and the smaller the MOE.
 
