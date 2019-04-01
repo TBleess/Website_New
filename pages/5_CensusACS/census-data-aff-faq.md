@@ -69,7 +69,7 @@ If you\'re interested in more advanced geography searches, please visit our [Tra
 ### How do I find data for all the counties or all places in Colorado?
 
 - Start at the [AFF Search page (census.gov)](http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t)
-- Click the blue Geographies button the lefthand side of the screen. The geography overlay will open. Make sure the List tab is selected, then choose either County of Place within state from the drop down list.
+- Click the blue Geographies button the left hand side of the screen. The geography overlay will open. Make sure the List tab is selected, then choose either County of Place within state from the drop down list.
 - Select Colorado from the next drop down list, then choose All Counties Within Colorado from the list (it will be listed first), and click Add To Your Selections.
 - The chosen geography has been added to the Your Selections box. You can now close out of the geography overlay.
 
