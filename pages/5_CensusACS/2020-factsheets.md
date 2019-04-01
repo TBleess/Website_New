@@ -7,7 +7,7 @@ description: "State Demography Office Census 2020 Fact Sheets"
 ---
 
 ## State Demography Office Census 2020 Fact Sheets
-These fact sheets are developed to provide basic informaton about Census 2020 operations.  If you have any questions, or have suggestions
+These fact sheets are developed to provide basic information about Census 2020 operations.  If you have any questions, or have suggestions
 for additional fact sheets, please contact the State Demography Office.
 
 
