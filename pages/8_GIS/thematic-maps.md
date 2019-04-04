@@ -94,7 +94,7 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 #### Employment
 
 - [Percent Change in Total Jobs, 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/JobChangePerc2010-17.png)
-- [Percent Change in Total Jobs, 2015 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/JobChangePercent2016-17.png)
+- [Percent Change in Total Jobs, 2016 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/JobChangePercent2016-17.png)
 - [2017 Employment as a Percentage of Pre-Recession Peak (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/2017PctChngPreRecessionRevised.png)
 - [2017 Proprietor Job Share (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/ProprietorShare2017.png)
 - [2017 Top Proprietor Industry (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.cloud.google.com/maps-static/TopEmployer2017.png)
