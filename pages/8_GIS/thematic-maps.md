@@ -16,7 +16,7 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 <div style="text-align: center;" markdown="1">
 
-**Maps**:  [ACS 2013-2017](#acs-2013-2017) \| [Census 2010](#census-2010) \| [Population](#population) \| [Forecast](#forecast) \| [Migration](#migration) \| [Employment](#employment) \| [Poverty](#poverty) \| [Rural](#rural) \| [Flood Maps (2013)](/gis/flood-maps#flood-maps-2013)
+**Maps**:  [ACS 2013-2017](#acs-2013-2017) \| [Census 2010](#census-2010) \| [Population](#population) \| [Forecast](#forecast) \| [Migration](#migration) \| [Employment](#employment) \| [Poverty](#poverty) \| [Rural](#rural)
 
 </div>
 
@@ -93,11 +93,12 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 #### Employment
 
-- [Percent Change in Total Jobs, 2010 to 2016 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/JobChange2010-16.png)
-- [Percent Change in Total Jobs, 2015 to 2016 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/JobChange2015-16.png)
-- [2016 Employment as a Percentage of Pre-Recession Peak (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/PreRecessionPeakJobs2016.png)
-- [2016 Proprietor Job Share (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/ProprietorShare2016.png)
-- [Change in Unemployment Rate, 2010 to 2016 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Employment/Unemployment2010-16.png)
+- [Percent Change in Total Jobs, 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/JobChangePerc2010-17.png)
+- [Percent Change in Total Jobs, 2015 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/JobChangePercent2016-17.png)
+- [2017 Employment as a Percentage of Pre-Recession Peak (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/2017PctChngPreRecessionRevised.png)
+- [2017 Proprietor Job Share (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/ProprietorShare2017.png)
+- [2017 Top Proprietor Industry (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.cloud.google.com/maps-static/TopEmployer2017.png)
+- [Change in Unemployment Rate, 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/Unemployment_Change_1017.png)
 
 - - -
 
