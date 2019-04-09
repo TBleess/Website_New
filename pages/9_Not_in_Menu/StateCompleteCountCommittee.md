@@ -6,6 +6,17 @@ description: Colorado Complete Count Campaign
 published: true
 ---
 ## Colorado Complete Count Campaign
+
+Last Updated  4/9/2018
+
+### Local Complete Count Commuttees
+
+Local communitites are oganizing parallel complete count commitees.
+
+For Information contact:
+Census Partnership Coordinator - Lily Griego - [Lily.Romero.Griego@2020Census.gov](mailto:Lily.Romero.Griego@2020Census.gov) or 303-489-6293
+Website - [https://www.census.gov/programs-surveys/decennial-census/2020-census/complete_count.html](https://www.census.gov/programs-surveys/decennial-census/2020-census/complete_count.html)
+
  
 ### Kickoff Meeting Materials Updated 12/11/2018
 
