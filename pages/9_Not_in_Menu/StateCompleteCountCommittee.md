@@ -11,7 +11,7 @@ Last Updated  4/9/2018
 
 ### Local Complete Count Committees
 
-Local communities are organizing parallel complete count committees.
+Local communities are organizing parallel committees to support local efforts to generate a complete count.
 
 For Information contact:
 
