@@ -9,9 +9,9 @@ published: true
 
 Last Updated  4/9/2018
 
-### Local Complete Count Commuttees
+### Local Complete Count Committees
 
-Local communitites are oganizing parallel complete count commitees.
+Local communities are organizing parallel complete count committees.
 
 For Information contact:
 
