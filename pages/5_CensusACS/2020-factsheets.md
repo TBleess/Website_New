@@ -13,7 +13,7 @@ for additional fact sheets, please contact the State Demography Office.
 
 Last Updated 04/16/2019
 
-*	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University](https://gwipp.gwu.edu/counting-dollars-2020-role-decennial-census-geographic-distribution-federal-funds) 
+*	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
 
 * [Census 2020 Fact Sheet: Census 101  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1rIPKdEJv3N9cqdRX5yNsqoPJ83lYikKo) Basic information about Census 2020
 
