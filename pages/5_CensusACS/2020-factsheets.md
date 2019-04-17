@@ -11,7 +11,9 @@ These fact sheets are developed to provide basic information about Census 2020 o
 for additional fact sheets, please contact the State Demography Office.
 
 
-Last Updated 03/01/2019
+Last Updated 04/16/2019
+
+*	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University](https://gwipp.gwu.edu/counting-dollars-2020-role-decennial-census-geographic-distribution-federal-funds) 
 
 * [Census 2020 Fact Sheet: Census 101  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1rIPKdEJv3N9cqdRX5yNsqoPJ83lYikKo) Basic information about Census 2020
 
