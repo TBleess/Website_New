@@ -11,7 +11,9 @@ These fact sheets are developed to provide basic information about Census 2020 o
 for additional fact sheets, please contact the State Demography Office.
 
 
-Last Updated 04/16/2019
+Last Updated 04/22/2019
+
+* [How Businesses Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')] (https://drive.google.com/uc?export=download&id=1Ar59mNyOk4jBZn8vgz9OjvKJLoC5hwzV
 
 *	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
 
