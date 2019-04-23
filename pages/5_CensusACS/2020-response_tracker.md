@@ -19,6 +19,15 @@ description: "Census 2020 Response Tracker"
  
  See the ROAM tool at [https://www.census.gov/roam](https://www.census.gov/roam)
  
+ * [ROAM Fact Sheet](https://www2.census.gov/geo/pdfs/maps-data/maps/roam/ROAM_Flyer.pdf)
+ 
+ * [ROAM Users Guide](https://www2.census.gov/geo/pdfs/maps-data/maps/roam/ROAM_User_Guide.pdf)
+ 
+*  [ROAM Data Dictionary](https://www2.census.gov/geo/pdfs/maps-data/maps/roam/ROAM_Data_Dictionary.pdf)
+
+* [ROAM Quick Tips Guide](https://www2.census.gov/geo/pdfs/maps-data/maps/roam/ROAM_Quick_Tips.pdf)
+ 
+ 
 ## Census Type of Enumeraton Area Viewer (TEA)<br>
  
  The *Census Type of Enumeration Area Viewer (TEA)* shows census tracts that will receive census forms through the "Update/Leave" and "Update/Enumerate" programs. These programs are designed to serve rural areas with homes that do not have standard street addresses. The census bureau estimates that five percent of  homes nationwide will be enumerated using these programs. 
