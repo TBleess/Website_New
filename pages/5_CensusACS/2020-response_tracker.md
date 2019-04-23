@@ -6,6 +6,8 @@ datalink: "/data/#census-data-tools"
 description: "Census 2020 Response Tracker"
 ---
 
+Last Updated: 4/23/2019
+
 ## Census 2020 Response Tracker<br>
  
  This page will host the *Census 2020 Response Tracker.*
