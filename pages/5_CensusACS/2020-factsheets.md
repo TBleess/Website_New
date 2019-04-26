@@ -17,7 +17,7 @@ Last Updated 04/26/2019
 
 * [Census 2020 Fact Sheet: How Non-Profits and Foundations Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1wWFvddOhUi_dRvwuq7r-C7I6QXcAvXaH) Census Information for Non-Profit Organizations and Foundations
 
-* [Census 2020 Fact Sheet: How Businesses Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Ar59mNyOk4jBZn8vgz9OjvKJLoC5hwzV) Census Information for Businesses
+* [Census 2020 Fact Sheet: How Businesses Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xcqH3Ru6cz6OPeg6HGfD3DEwWxx4GTn-) Census Information for Businesses
 
 *	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
 
