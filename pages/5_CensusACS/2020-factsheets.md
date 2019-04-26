@@ -11,7 +11,11 @@ These fact sheets are developed to provide basic information about Census 2020 o
 for additional fact sheets, please contact the State Demography Office.
 
 
-Last Updated 04/22/2019
+Last Updated 04/26/2019
+
+* [Census 2020 Fact Sheet: Privacy ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Iu42PQoEYtJd98j_4x_sYusuDkPaJGi3) Census policy on data privacy
+
+* [Census 2020 Fact Sheet: How Non-Profits and Foundations Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1wWFvddOhUi_dRvwuq7r-C7I6QXcAvXaH) Census Information for Non-Profit Organizations and Foundations
 
 * [Census 2020 Fact Sheet: How Businesses Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Ar59mNyOk4jBZn8vgz9OjvKJLoC5hwzV) Census Information for Businesses
 
@@ -33,3 +37,4 @@ Last Updated 04/22/2019
 * [Census 2020 Fact Sheet: Counting the Homeless  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=13ByTLcA6K2eusbxzojrbb7EbxbvCZIM-) Procedures to count the homeless
 
 * [Census 2020 Fact Sheet: Counting College Students and Others in Institutions  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1nHo3O3VYkinLzdxhGP0Qr4sRhhdAG1Qd) Procedures to count college students and people living in institutions
+
