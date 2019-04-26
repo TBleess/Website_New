@@ -13,7 +13,7 @@ for additional fact sheets, please contact the State Demography Office.
 
 Last Updated 04/26/2019
 
-* [Census 2020 Fact Sheet: Privacy ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Iu42PQoEYtJd98j_4x_sYusuDkPaJGi3) Census policy on data privacy
+* [Census 2020 Fact Sheet: Privacy and Confidentiality ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Iu42PQoEYtJd98j_4x_sYusuDkPaJGi3) Census policy on data privacy
 
 * [Census 2020 Fact Sheet: How Non-Profits and Foundations Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1wWFvddOhUi_dRvwuq7r-C7I6QXcAvXaH) Census Information for Non-Profit Organizations and Foundations
 
