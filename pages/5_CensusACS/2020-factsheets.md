@@ -13,24 +13,31 @@ for additional fact sheets, please contact the State Demography Office.
 
 Last Updated 04/26/2019
 
-* [Census 2020 Fact Sheet: Privacy and Confidentiality ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Iu42PQoEYtJd98j_4x_sYusuDkPaJGi3) Census policy on data privacy
-
-* [Census 2020 Fact Sheet: How Non-Profits and Foundations Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1wWFvddOhUi_dRvwuq7r-C7I6QXcAvXaH) Census Information for Non-Profit Organizations and Foundations
-
-* [Census 2020 Fact Sheet: How Businesses Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xcqH3Ru6cz6OPeg6HGfD3DEwWxx4GTn-) Census Information for Businesses
-
-*	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
+### General Information
 
 * [Census 2020 Fact Sheet: Census 101  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1rIPKdEJv3N9cqdRX5yNsqoPJ83lYikKo) Basic information about Census 2020
-
 
 * [Census 2020 Fact Sheet: How to get involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ytPPwv72D9cM3JQjErXUsvE3IgOGA_Qq) Resources for supporting the Census
 
 * [Census 2020 Fact Sheet: Timeline  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1e7G3DxlOETABoLzSm2KpiQrC3UVK_tI1) Census 2020 timeline
 
-* [Census 2020 Fact Sheet:  Information  for Libraries  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1zf9rDwCO0E_krBGCL77booqjiuPHCr9q) Census information for libraries and Librarians
+*	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
+
+### Citizenship and Privacy
 
 * [Census 2020 Fact Sheet: Citizenship  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vPIn39C4Vur0EJcNLC0jdVvNCNhYHZbq) Background on the proposed citizenship question
+
+* [Census 2020 Fact Sheet: Privacy and Confidentiality ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Iu42PQoEYtJd98j_4x_sYusuDkPaJGi3) Census policy on data privacy
+
+### Getting Involved
+
+* [Census 2020 Fact Sheet: How Businesses Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1xcqH3Ru6cz6OPeg6HGfD3DEwWxx4GTn-) Census Information for Businesses
+
+* [Census 2020 Fact Sheet: How Non-Profits and Foundations Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1wWFvddOhUi_dRvwuq7r-C7I6QXcAvXaH) Census Information for Non-Profit Organizations and Foundations
+
+* [Census 2020 Fact Sheet:  Information  for Libraries  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1zf9rDwCO0E_krBGCL77booqjiuPHCr9q) Census information for libraries and Librarians
+
+### Residence Criteria
 
 * [Census 2020 Fact Sheet: Residence Criteria ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vOcBEhKW8xbraf-bZ9lpc6AuhSsmWeAM)  Discussion of Census Residence Criteria
 
