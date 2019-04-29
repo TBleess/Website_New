@@ -21,12 +21,6 @@ Last Updated 04/26/2019
 
 *	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
 
-### Citizenship and Privacy
-
-* [Census 2020 Fact Sheet: Citizenship  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vPIn39C4Vur0EJcNLC0jdVvNCNhYHZbq) Background on the Proposed Citizenship Question
-
-* [Census 2020 Fact Sheet: Privacy and Confidentiality ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Iu42PQoEYtJd98j_4x_sYusuDkPaJGi3) Census Policy on Data Privacy and Confidentiality
-
 ### Getting Involved
 
 * [Census 2020 Fact Sheet: How to Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ytPPwv72D9cM3JQjErXUsvE3IgOGA_Qq) Resources for Supporting the Census
@@ -36,6 +30,13 @@ Last Updated 04/26/2019
 * [Census 2020 Fact Sheet: How Non-Profits and Foundations Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1wWFvddOhUi_dRvwuq7r-C7I6QXcAvXaH) Census Information for Non-Profit Organizations and Foundations
 
 * [Census 2020 Fact Sheet:  Information  for Libraries  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1zf9rDwCO0E_krBGCL77booqjiuPHCr9q) Census information for Libraries and Librarians
+
+### Citizenship and Privacy
+
+* [Census 2020 Fact Sheet: Citizenship  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vPIn39C4Vur0EJcNLC0jdVvNCNhYHZbq) Background on the Proposed Citizenship Question
+
+* [Census 2020 Fact Sheet: Privacy and Confidentiality ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Iu42PQoEYtJd98j_4x_sYusuDkPaJGi3) Census Policy on Data Privacy and Confidentiality
+
 
 ### Residence Criteria
 
