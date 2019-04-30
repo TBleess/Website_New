@@ -31,11 +31,17 @@ Last Updated 04/26/2019
 
 * [Census 2020 Fact Sheet:  Information  for Libraries  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1zf9rDwCO0E_krBGCL77booqjiuPHCr9q) Census information for Libraries and Librarians
 
+* [Census Partnrships Fact Sheet (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www2.census.gov/about/partners/general/fact-sheet-partnerships.pdf?#)
+
+* [Census Partnrships at a Glance (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www2.census.gov/about/partners/general/partnerships-at-a-glance.pdf?#)
+
 ### Citizenship and Privacy
 
 * [Census 2020 Fact Sheet: Citizenship  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vPIn39C4Vur0EJcNLC0jdVvNCNhYHZbq) Background on the Proposed Citizenship Question
 
 * [Census 2020 Fact Sheet: Privacy and Confidentiality ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1Iu42PQoEYtJd98j_4x_sYusuDkPaJGi3) Census Policy on Data Privacy and Confidentiality
+
+* [The 2020 Census and Confidentiality (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www.census.gov/content/dam/Census/library/factsheets/2019/comm/2020-confidentiality-factsheet.pdf)
 
 
 ### Residence Criteria
