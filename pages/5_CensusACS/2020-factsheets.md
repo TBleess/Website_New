@@ -31,9 +31,9 @@ Last Updated 04/26/2019
 
 * [Census 2020 Fact Sheet:  Information  for Libraries  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1zf9rDwCO0E_krBGCL77booqjiuPHCr9q) Census information for Libraries and Librarians
 
-* [Census Partnrships Fact Sheet (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www2.census.gov/about/partners/general/fact-sheet-partnerships.pdf?#)
+* [Census Partnerships Fact Sheet (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www2.census.gov/about/partners/general/fact-sheet-partnerships.pdf?#)
 
-* [Census Partnrships at a Glance (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www2.census.gov/about/partners/general/partnerships-at-a-glance.pdf?#)
+* [Census Partnerships at a Glance (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www2.census.gov/about/partners/general/partnerships-at-a-glance.pdf?#)
 
 ### Citizenship and Privacy
 
