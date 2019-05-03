@@ -62,34 +62,32 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 #### Population
 
-- [Total Population Change for Age < 18, 2000 to 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Population/Absolute2000to2010.png)
-- [Projected Population Change for Age < 18, 2010 to 2020 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Population/Absolute2010to2020.png)
-- [Percent Population Change for Age < 18, 2000 to 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Population/Percent2000to2010.png)
+- [Total Population Change for Age < 18, 2000 to 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/Absolute2000to2010.png)
+- [Projected Population Change for Age < 18, 2010 to 2020 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/Absolute2010to2020.png)
+- [Percent Population Change for Age < 18, 2000 to 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/Percent2000to2010.png)
 - [Total Population Change, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/TtlChg1018.png)
 - [Percent Population Change, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctChg1018.png)
 - [Natural Population Increase 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/NatInc1017.png)
-- [Net Migration 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/NetMig1017.png)
-
 
 - - -
 
 #### Forecast
 
-- [Forecast Change in the Population > 65, 2010 to 2020 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Forecast/Chg65Plus1020.png)
-- [Colorado Population Growth, Forecast Average Annual Percent Change, 2010 to 2040 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Forecast/Forecast.png)
-- [Expectations of Growth, Eastern Plains and San Luis Valley, 2010 to 2040 ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Forecast/EastPlnsSanLuis.png)
-- [Expectations of Growth, Metropolitan Front Range, 2010 to 2040 ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Forecast/FrontRange.png)
-- [Expectations of Growth, Western Slope and Central Mountains, 2010 to 2040 ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Forecast/WestCentrMtn.png)
-- [Projected Total Population Change by County, 2010 to 2040 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Forecast/TotalPopChange2010_2040.pdf)
+- [Forecast Change in the Population > 65, 2010 to 2020 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/Chg65Plus1020.png)
+- [Colorado Population Growth, Forecast Average Annual Percent Change, 2010 to 2040 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/Forecast.png)
+- [Expectations of Growth, Eastern Plains and San Luis Valley, 2010 to 2040 ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/EastPlnsSanLuis.png)
+- [Expectations of Growth, Metropolitan Front Range, 2010 to 2040 ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/FrontRange.png)
+- [Expectations of Growth, Western Slope and Central Mountains, 2010 to 2040 ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/WestCentrMtn.png)
+- [Projected Total Population Change by County, 2010 to 2040 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/TotalPopChange2010_2040.pdf)
 
 - - -
 
 #### Migration
 
-- [County Net Migration, 2011 to 2012 ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Migration/NetMigration2011_2012.png)
-- [State to State Migration: Net, 2011 to 2012 ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Migration/State2StateMigrationNet.png)
-- [State to State Migration: In, 2011 to 2012 ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Migration/State2StateMigrationIn.png)
-- [State to State Migration: Out, 2011 to 2012 ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Migration/State2StateMigrationOut.png)
+- [Net Migration 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/NetMig1017.png)
+- [State to State Migration: Net, 2011 to 2012 ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/State2StateMigrationNet.png)
+- [State to State Migration: In, 2011 to 2012 ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/State2StateMigrationIn.png)
+- [State to State Migration: Out, 2011 to 2012 ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/State2StateMigrationOut.png)
 
 - - -
 
@@ -106,20 +104,20 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 #### Poverty
 
-- [Change in Poverty, ACS \'07-\'11 vs Census 2000 (Tract) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Poverty/ComparePoverty.png)
-- [Change in Poverty, Denver Metro, ACS \'07-\'11 vs Census 2000 (Tract) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Poverty/ComparePovertyMetro.png)
-- [Poverty Change for Age &lt;18, 2000 to 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Poverty/PovertyChgCounty2000to2010.png)
-- [Poverty Change for Age &lt;18, 2000 to 2010 (Tract) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Poverty/PovertyChgTract2000to2010.png)
-- [Senior Poverty in Colorado ACS \'07-\'11 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Poverty/SeniorPoverty0711ACS.png)
+- [Change in Poverty, ACS \'07-\'11 vs Census 2000 (Tract) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/ComparePoverty.png)
+- [Change in Poverty, Denver Metro, ACS \'07-\'11 vs Census 2000 (Tract) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/ComparePovertyMetro.png)
+- [Poverty Change for Age &lt;18, 2000 to 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PovertyChgCounty2000to2010.png)
+- [Poverty Change for Age &lt;18, 2000 to 2010 (Tract) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PovertyChgTract2000to2010.png)
+- [Senior Poverty in Colorado ACS \'07-\'11 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/SeniorPoverty0711ACS.png)
 
 - - -
 
 #### Rural
 
-- [Percent Change in Rural Population 2000-2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Rural/PctChgRuralMap.png)
-- [Percent Rural Population 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Rural/PctRuralPopMap.png)
-- [Share of Colorado\'s Rural Population 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Rural/RuralSharePopMap.png)
-- [Urban vs Rural Definitions, Census 2010 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Rural/UrbanRural.pdf)
+- [Percent Change in Rural Population 2000-2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctChgRuralMap.png)
+- [Percent Rural Population 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctRuralPopMap.png)
+- [Share of Colorado\'s Rural Population 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/RuralSharePopMap.png)
+- [Urban vs Rural Definitions, Census 2010 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/UrbanRural.pdf)
 
 
 -----
