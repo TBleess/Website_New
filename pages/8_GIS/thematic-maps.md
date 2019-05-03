@@ -45,18 +45,18 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 #### Census 2010
 
-- [Percent 65 or Older (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%2065%20or%20Older%20(County).pdf)
-- [Percent 65 or Older (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%2065%20or%20Older%20(Tract).pdf)
-- [Percent Age Less Than 18 (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%20Age%20Less%20Than%2018%20(County).pdf)
-- [Percent Age Less Than 18 (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%20Age%20Less%20Than%2018%20(Tract).pdf)
-- [Percent Asian (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%20Asian%20(County).pdf)
-- [Percent Asian (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%20Asian%20(Tract).pdf)
-- [Percent Black (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%20Black%20(County).pdf)
-- [Percent Black (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%20Black%20(Tract).pdf)
-- [Percent Hispanic (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%20Hispanic%20(County).pdf)
-- [Percent Hispanic (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%20Hispanic%20(Tract).pdf)
-- [Percent White (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%20White%20(County).pdf)
-- [Percent White (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Census%202010/Percent%20White%20(Tract).pdf)
+- [Percent 65 or Older (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%2065%20or%20Older%20(County).pdf)
+- [Percent 65 or Older (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%2065%20or%20Older%20(Tract).pdf)
+- [Percent Age Less Than 18 (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%20Age%20Less%20Than%2018%20(County).pdf)
+- [Percent Age Less Than 18 (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%20Age%20Less%20Than%2018%20(Tract).pdf)
+- [Percent Asian (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%20Asian%20(County).pdf)
+- [Percent Asian (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%20Asian%20(Tract).pdf)
+- [Percent Black (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%20Black%20(County).pdf)
+- [Percent Black (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%20Black%20(Tract).pdf)
+- [Percent Hispanic (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%20Hispanic%20(County).pdf)
+- [Percent Hispanic (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%20Hispanic%20(Tract).pdf)
+- [Percent White (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%20White%20(County).pdf)
+- [Percent White (Tract) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/Percent%20White%20(Tract).pdf)
 
 - - -
 
@@ -64,10 +64,12 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 - [Total Population Change for Age < 18, 2000 to 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Population/Absolute2000to2010.png)
 - [Projected Population Change for Age < 18, 2010 to 2020 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Population/Absolute2010to2020.png)
-- [Natural Population Increase 2011 to 2012 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Population/NaturalIncrease2011_2012.png)
-- [Percent Population Change, 2011 to 2012 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Population/PctChg11to12.png)
 - [Percent Population Change for Age < 18, 2000 to 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Population/Percent2000to2010.png)
-- [Total Population Change, 2011 to 2012 (County) ![image](/images/page_white_picture.png 'download image file')](https://dola.colorado.gov/gis-php/files/projects/thematic/Population/TtlChg11to12.png)
+- [Total Population Change, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/TtlChg1018.png)
+- [Percent Population Change, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctChg1018.png)
+- [Natural Population Increase 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/NatInc1017.png)
+- [Net Migration 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/NetMig1017.png)
+
 
 - - -
 
