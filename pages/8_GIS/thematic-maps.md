@@ -64,13 +64,13 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 - [Total Population Change, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/TtlChg1018.png)
 - [Percent Population Change, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctChg1018.png)
-- [Natural Population Increase 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/NatInc1017.png)
 - [Total Population Change for Age < 18, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/TtlChg1018_U18.png)
 - [Percent Population Change for Age < 18, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctChg1018_U18.png)
 - [Projected Population Change for Age < 18, 2018 to 2030 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctChg1830_U18.png)
-- [Total Population Change for Age > 65, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/TtlChg11018_O65.png)
+- [Total Population Change for Age > 65, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/TtlChg1018_O65.png)
 - [Percent Population Change for Age > 65, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctChg1018_O65.png)
 - [Projected Population Change for Age > 65, 2018 to 2030 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctChg1830_O65.png)
+- [Natural Population Increase 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/NatInc1017.png)
 
 - - -
 
