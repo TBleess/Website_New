@@ -27,16 +27,6 @@ The Census Barriers, Attitudes and Motivators Studt CBAMS study reports Census B
 * The 2020 CBAMS Survey, publicly called the 2020 Census Planning Survey, is a nationwide survey of 50,000 households that covers a range of topics related to census participation and completion. Results will allow the Census Bureau to understand and compare barriers, attitudes, and motivators across demographic subgroups such as Asian, Black, Hispanic, White, and, given sufficient sample size, additional groups like income and education levels. The survey period was February 20 through April 17, 2018; respondents were able to complete the survey in English or Spanish either online or by mailing back the questionnaire.
 
 [Final CBAMS Survey Report  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www.census.gov/programs-surveys/decennial-census/2020-census/planning-management/final-analysis/2020-report-cbams-study-survey.html?utm_campaign=20190124msc20s1ccnwsnl&utm_medium=email&utm_source=govdelivery)
-  
-   
-   
-### Census Media Vendor Day
-
-Census Media Vendor Day is April 3, 2019.  This event provides the opportunity for local, hyperlocal, small-minority owned and focused media to learn how they can possibly be involved in the 2020 Census Paid Media Campaign. 
-
-[Information](https://www.census.gov/about/business-opportunities/opportunities/2020-opps/2020-census-paid-media.html)
-
-[Registration](https://www.eventbrite.com/e/2020-census-media-vendor-day-new-york-tickets-56648283541)
 
 ### Census 2020 Communications Tagline: 'Shape your future. START HERE.'
 
