@@ -10,6 +10,12 @@ description: "Census 2020 Resources Page"
 
 Update 05/10/2019
 
+### Detailed Census Operational Plans
+
+The Census Bureau published detailed plans documenting all of its operations. The Operational Plans cover multiple subjects including plans for Service Based Enumeration (which will produce counts for people exteriencing homelessness), the Non-Response Follow-Up process (the process of enumerating households that do not respond to the census voluntarily), and many other topics.  The collection of operational plans can be accessed here:
+
+[Census Operational Plans](https://www.census.gov/programs-surveys/decennial-census/2020-census/planning-management/op-plans.All.html)
+
 ### Census Barriers, Attitudes, and Motivators Study (CBAMS)
 
 The Census Barriers, Attitudes and Motivators Studt CBAMS study reports Census Bureau research into the barriers and motivational issues that can impact census responses.  The CBAMS study combines a series of focus groups and a sample survey. 
