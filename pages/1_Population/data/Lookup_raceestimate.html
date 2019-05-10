@@ -8,8 +8,8 @@ custom_js:
 file: 
 - "https://storage.googleapis.com/co-publicdata/race-estimates-county.csv"
 - "https://storage.googleapis.com/co-publicdata/race-estimates-region.csv"
-description: "Search for information on population by year, sex, age and race."
-years: "2011-2017"
+description: "Search for information on population by year, sex, age, race and ethnicity."
+years: "2000-2017"
 tag: "popdata"
 
 ---
@@ -20,7 +20,7 @@ tag: "popdata"
 {% endif %}
 
 
-<h2 id="county-race-by-age-estimates">Race by Age Estimates - County</h2>
+<h2 id="county-race-by-age-estimates">Race and Ethnicity by Age Estimates - County</h2>
 
 <a href="/population/data/race-estimate-regions/">Need Region Data?</a><br /><br />
 <label for="countiesSelected" style="font-weight: bold;">Select 1 or more counties:</label><br />
@@ -36,13 +36,18 @@ tag: "popdata"
 <!-- populated from database -->
 </select><br /><br />
 <label for="raceGroups" style="font-weight: bold;">Select 1 or more race categories:</label><br />
-<select id="raceGroups" name="raceGroups" multiple="multiple" size="5">
+<select id="raceGroups" name="raceGroups" multiple="multiple" size="4">
+  <option value="1">White</option>
+	<option value="2">Asian/Pacific Islander</option>
+	<option value="3">American Indian</option>
+	<option value="4">Black</option>
+	<!--<option value="5">Black non Hispanic</option>
+	<option value="6">Total</option>-->
+</select><br /><br />
+<label for="ethnicityGroups" style="font-weight: bold;">Select 1 or more ethnicity categories:</label><br />
+<select id="ethnicityGroups" name="ethnicityGroups" multiple="multiple" size="2">
   <option value="1">Hispanic</option>
-	<option value="2">White non Hispanic</option>
-	<option value="3">Asian non Hispanic</option>
-	<option value="4">American Indian non Hispanic</option>
-	<option value="5">Black non Hispanic</option>
-	<!--<option value="6">Total</option>-->
+	<option value="2">Non Hispanic</option>
 </select><br /><br />
 <label for="groupBy" style="font-weight: bold;">Select 0 or more variables to summarize by:</label><br />
 <select id="groupBy" name="groupBy" multiple="multiple" size="4">
@@ -50,6 +55,7 @@ tag: "popdata"
 	<option value="b">County</option>
 	<option value="c">Age Group</option>
 	<option value="d">Race</option>
+	<option value="e">Ethnicity</option>
 </select><br /><br />
 <input type="radio" name="compressed" value="" checked>Sum Male and Female&nbsp;&nbsp;&nbsp;
 <input type="radio" name="compressed" value="&sex=m">Male Only&nbsp;&nbsp;&nbsp;
@@ -85,6 +91,7 @@ tag: "popdata"
         var selectedYears = getSelectValues(yearsSelected);
         var selectedAges = getSelectValues(ageGroups);
         var selectedRaces = getSelectValues(raceGroups);
+	var selectedEthnicity = getSelectValues(ethnicityGroups);
         var selectedGroupBy = getSelectValues(groupBy);
 
         if (selectedCounties.length === 0) {
@@ -101,6 +108,10 @@ tag: "popdata"
         }
         if (selectedRaces.length === 0) {
             alert('please choose a race selection');
+            return;
+        }
+	if (selectedEthnicity.length === 0) {
+            alert('please choose an ethnicity selection');
             return;
         }
 
@@ -177,6 +188,7 @@ tag: "popdata"
         var hcell5 = hrow.insertCell(4);
         var hcell6 = hrow.insertCell(5);
         var hcell7 = hrow.insertCell(6);
+	var hcell8 = hrow.insertCell(7);    
 
         hcell1.innerHTML = "COUNTY";
         hcell2.innerHTML = "CFIPS";
@@ -184,7 +196,8 @@ tag: "popdata"
         hcell4.innerHTML = "AGE";
         hcell5.innerHTML = "SEX";
         hcell6.innerHTML = "RACE";
-        hcell7.innerHTML = "COUNT";
+	hcell7.innerHTML = "ETHNICITY";    
+        hcell8.innerHTML = "COUNT";
 
         var body = table.appendChild(document.createElement('tbody'));
 
@@ -193,13 +206,13 @@ tag: "popdata"
             if (results[i].age === 0) {
                 pass_age = "0";
             }
-            addrow(i, clookup(results[i].county_fips) || "", results[i].county_fips || "", results[i].year || "", pass_age, results[i].sex || "", results[i].race || "", results[i].count);
+            addrow(i, clookup(results[i].county_fips) || "", results[i].county_fips || "", results[i].year || "", pass_age, results[i].sex || "", results[i].race || "", results[i].ethnicity || "", results[i].count);
         }
 
     }
 
 
-    function addrow(rownum, county, county_fips, year, age, sex, race, count) {
+    function addrow(rownum, county, county_fips, year, age, sex, race, ethnicity, count) {
 
         var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
 
@@ -214,6 +227,7 @@ tag: "popdata"
         var cell5 = row.insertCell(4);
         var cell6 = row.insertCell(5);
         var cell7 = row.insertCell(6);
+	var cell8 = row.insertCell(7);
 
         /* Add some text to the new cells:*/
         cell1.innerHTML = county;
@@ -222,7 +236,8 @@ tag: "popdata"
         cell4.innerHTML = age;
         cell5.innerHTML = sex;
         cell6.innerHTML = race;
-        cell7.innerHTML = Number(count).toLocaleString();
+	cell7.innerHTML = ethnicity;    
+        cell8.innerHTML = Number(count).toLocaleString();
 
     }
 
