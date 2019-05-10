@@ -8,8 +8,15 @@ description: "Census 2020 Resources Page"
 
 ## Census 2020 Resources Page
 
-Update 03/18/2019
+Update 05/10/2019
 
+
+<a href="https://www.census.gov/programs-surveys/decennial-census/2020-census/planning-management/final-analysis/2020-report-cbams-focus-group.html?utm_campaign=20190124msc20s1ccnwsnl&utm_medium=email&utm_source=govdelivery"
+   target="_blank"> Final CBAMS Focus Group Report</a> <br>
+<a href="https://www.census.gov/programs-surveys/decennial-census/2020-census/planning-management/final-analysis/2020-report-cbams-study-survey.html?utm_campaign=20190124msc20s1ccnwsnl&utm_medium=email&utm_source=govdelivery"
+   target="_blank"> Final CBAMS Survey Report</a>
+   
+   
 ### Census Media Vendor Day
 
 Census Media Vendor Day is April 3, 2019.  This event provides the opportunity for local, hyperlocal, small-minority owned and focused media to learn how they can possibly be involved in the 2020 Census Paid Media Campaign. 
