@@ -52,7 +52,7 @@ Please be aware that the program is offered and limited to those specific areas 
 
 *For those governments and areas not covered by postal delivery, the Census Bureau will be documenting newly constructed housing units during our Update/Leave field operation.
 
-
+ 
 
 **Census Resources from the State Demography Summit**
 
