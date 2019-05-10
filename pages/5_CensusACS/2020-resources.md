@@ -18,7 +18,7 @@ The Census Bureau published detailed plans documenting all of its operations. Th
 
 ### Census Barriers, Attitudes, and Motivators Study (CBAMS)
 
-The Census Barriers, Attitudes and Motivators Studt CBAMS study reports Census Bureau research into the barriers and motivational issues that can impact census responses.  The CBAMS study combines a series of focus groups and a sample survey. 
+The Census Barriers, Attitudes and Motivators Study (CBAMS) study reports Census Bureau research into the barriers and motivational issues that can impact census responses.  The CBAMS study combines a series of focus groups and a sample survey. 
 
 * The focus groups component of the 2020 CBAMS will provide deeper and more specific insights than can be obtained through the survey, especially for hard-to-count populations. A particular emphasis of the focus groups is on areas that may be underrepresented in the survey, such as households in rural areas; young, single, mobile individuals; and no or low internet proficiency. Included hard-to-count racial and ethnic minorities include American Indian and Alaska Natives (AIAN), Native Hawaiian and Pacific Islander (NHPI), and Middle Eastern and North African (MENA). Historically, these groups all have among the lowest propensities to respond to the decennial census. Focus groups will ensure we have sufficient and actionable research to guide outreach to these groups. There were 42 total focus groups that took place in 14 locations across the county from March 14 through April 19, 2018.
 
