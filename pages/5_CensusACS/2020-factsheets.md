@@ -44,7 +44,9 @@ Last Updated 04/26/2019
 * [The 2020 Census and Confidentiality (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www.census.gov/content/dam/Census/library/factsheets/2019/comm/2020-confidentiality-factsheet.pdf)
 
 
-### Residence Criteria
+### Residence Criteria and Special Populations
+
+* [Census 2020 Fact Sheet:  hard to Count Populations ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1uClPYTb_-hEmbe0ryFz3oG5tCBwgts9B) Identifying and engaging "Hard to Count" populations
 
 * [Census 2020 Fact Sheet: Residence Criteria ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vOcBEhKW8xbraf-bZ9lpc6AuhSsmWeAM)  Discussion of Census Residence Criteria
 
