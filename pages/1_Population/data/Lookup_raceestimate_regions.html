@@ -161,7 +161,7 @@ tag: ""
             group = 'opt14';
         }
 
-        var querystring = "year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&race=" + selectedRaces.join(",") + compressed + "&group=" + group;
+        var querystring = "year=" + selectedYears.join(",") + "&reg_num=" + selectedCounties.join(",") + "&age=" + selectedAges.join(",") + "&race=" + selectedRaces.join(",") + "&ethnicity=" + selectedEthnicity.join(",") + compressed + "&group=" + group;
 
         fetchJSONFile("https://gis.dola.colorado.gov/lookups/sya-race-estimates_regions?" + querystring, function(text) {
             /* make Download CSV button visible */
