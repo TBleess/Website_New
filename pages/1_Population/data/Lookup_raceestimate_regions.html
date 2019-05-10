@@ -5,8 +5,8 @@ permalink: "/population/data/race-estimate-regions/"
 custom_js:
 - /assets/js/FileSaver.min.js
 - /assets/js/common/dola_custom_functions.js
-description: "Search for information on population by region, year, sex, age and race."
-years: "2011-2017"
+description: "Search for information on population by region, year, sex, age, race and ethnicity."
+years: "2000-2017"
 tag: ""
 
 ---
@@ -34,13 +34,18 @@ tag: ""
 <!-- populated from database -->
 </select><br /><br />
 <label for="raceGroups" style="font-weight: bold;">Select 1 or more race categories:</label><br />
-<select id="raceGroups" name="raceGroups" multiple="multiple" size="5">
+<select id="raceGroups" name="raceGroups" multiple="multiple" size="4">
+  <option value="1">White</option>
+	<option value="2">Asian/Pacific Islander</option>
+	<option value="3">American Indian</option>
+	<option value="4">Black</option>
+	<!--<option value="5">Black non Hispanic</option>
+	<option value="6">Total</option>-->
+</select><br /><br />
+<label for="ethnicityGroups" style="font-weight: bold;">Select 1 or more ethnicity categories:</label><br />
+<select id="ethnicityGroups" name="ethnicityGroups" multiple="multiple" size="2">
   <option value="1">Hispanic</option>
-	<option value="2">White non Hispanic</option>
-	<option value="3">Asian non Hispanic</option>
-	<option value="4">American Indian non Hispanic</option>
-	<option value="5">Black non Hispanic</option>
-	<!--<option value="6">Total</option>-->
+	<option value="2">Non Hispanic</option>
 </select><br /><br />
 <label for="groupBy" style="font-weight: bold;">Select 0 or more variables to summarize by:</label><br />
 <select id="groupBy" name="groupBy" multiple="multiple" size="4">
@@ -48,6 +53,7 @@ tag: ""
 	<option value="b">Region</option>
 	<option value="c">Age Group</option>
 	<option value="d">Race</option>
+	<option value="e">Ethnicity</option>
 </select><br /><br />
 <input type="radio" name="compressed" value="" checked>Sum Male and Female&nbsp;&nbsp;&nbsp;
 <input type="radio" name="compressed" value="&sex=m">Male Only&nbsp;&nbsp;&nbsp;
@@ -83,6 +89,7 @@ tag: ""
         var selectedYears = getSelectValues(yearsSelected);
         var selectedAges = getSelectValues(ageGroups);
         var selectedRaces = getSelectValues(raceGroups);
+	var selectedEthnicity = getSelectValues(ethnicityGroups);
         var selectedGroupBy = getSelectValues(groupBy);
 
         if (selectedCounties.length === 0) {
@@ -99,6 +106,10 @@ tag: ""
         }
         if (selectedRaces.length === 0) {
             alert('please choose a race selection');
+            return;
+        }
+	if (selectedEthnicity.length === 0) {
+            alert('please choose an ethnicity selection');
             return;
         }
 
@@ -175,6 +186,7 @@ tag: ""
         var hcell5 = hrow.insertCell(4);
         var hcell6 = hrow.insertCell(5);
         var hcell7 = hrow.insertCell(6);
+	var hcell8 = hrow.insertCell(7); 
 
         hcell1.innerHTML = "REGION";
         hcell2.innerHTML = "REG_NUM";
@@ -182,7 +194,8 @@ tag: ""
         hcell4.innerHTML = "AGE";
         hcell5.innerHTML = "SEX";
         hcell6.innerHTML = "RACE";
-        hcell7.innerHTML = "COUNT";
+	hcell7.innerHTML = "ETHNICITY";    
+        hcell8.innerHTML = "COUNT";
 
         var body = table.appendChild(document.createElement('tbody'));
 
@@ -191,13 +204,13 @@ tag: ""
             if (results[i].age === 0) {
                 pass_age = "0";
             }
-            addrow(i, rlookup(results[i].reg_num) || "", results[i].reg_num || "", results[i].year || "", pass_age, results[i].sex || "", results[i].race || "", results[i].count);
+            addrow(i, rlookup(results[i].reg_num) || "", results[i].reg_num || "", results[i].year || "", pass_age, results[i].sex || "", results[i].race || "", results[i].ethnicity || "", results[i].count);
         }
 
     }
 
 
-    function addrow(rownum, region, reg_num, year, age, sex, race, count) {
+    function addrow(rownum, region, reg_num, year, age, sex, race, ethnicity, count) {
 
         var tableRef = document.getElementById('resultstable').getElementsByTagName('tbody')[0];
 
@@ -212,6 +225,7 @@ tag: ""
         var cell5 = row.insertCell(4);
         var cell6 = row.insertCell(5);
         var cell7 = row.insertCell(6);
+	var cell8 = row.insertCell(7);
 
         /* Add some text to the new cells:*/
         cell1.innerHTML = region;
@@ -220,7 +234,8 @@ tag: ""
         cell4.innerHTML = age;
         cell5.innerHTML = sex;
         cell6.innerHTML = race;
-        cell7.innerHTML = Number(count).toLocaleString();
+	cell7.innerHTML = ethnicity;    
+        cell8.innerHTML = Number(count).toLocaleString();
 
     }
 
