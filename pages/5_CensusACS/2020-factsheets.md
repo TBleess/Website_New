@@ -11,7 +11,7 @@ These fact sheets are developed to provide basic information about Census 2020 o
 for additional fact sheets, please contact the State Demography Office.
 
 
-Last Updated 05/10/2019
+Last Updated 05/16/2019
 
 ### General Information
 
@@ -20,6 +20,8 @@ Last Updated 05/10/2019
 * [Census 2020 Fact Sheet: Timeline  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1e7G3DxlOETABoLzSm2KpiQrC3UVK_tI1) Census 2020 Timeline
 
 *	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
+
+* [Census 101 and Data, bilingual (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1JtpX8LT311ZGr_6ZW-gPPZVM9jfTEMAP) Basic information about the Census  from the Census Bureau, in English and Spanish
 
 ### Getting Involved
 
@@ -43,6 +45,8 @@ Last Updated 05/10/2019
 
 * [The 2020 Census and Confidentiality (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www.census.gov/content/dam/Census/library/factsheets/2019/comm/2020-confidentiality-factsheet.pdf)
 
+* [Data Confidentiality, bilingual (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1kJBs7JmmuV80T-XakFRl98ohND7qYN6L) Information from the Census Bureau about data confidentiality, in English and Spanish
+
 
 ### Residence Criteria and Special Populations
 
@@ -54,3 +58,5 @@ Last Updated 05/10/2019
 
 * [Census 2020 Fact Sheet: Counting College Students and Others in Institutions  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1nHo3O3VYkinLzdxhGP0Qr4sRhhdAG1Qd) Procedures to Count College Students and People Living in Institutions
 
+* [Counting Yound Children (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1BHpiGpndrH6sBKVnVvQ3JnXygjiszbZy) Procedures for counting young children
+ 
