@@ -7,7 +7,12 @@ published: true
 ---
 ## Colorado Complete Count Campaign
 
-Last Updated  4/9/2018
+Last Updated  5/16/2019
+
+### "Census Questions" presentation
+
+Presentation given at May 14, 2019 Colorado Complete Count Campaign meeting addressing common questions abou the Census.
+[Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1AHjIYxIfBiyIhXE_W6lI3XGAVklp9Jr5)
 
 ### Local Complete Count Committees
 
