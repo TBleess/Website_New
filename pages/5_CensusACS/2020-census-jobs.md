@@ -8,9 +8,13 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
-Last Updated: 3/04/2019
+Last Updated: 5/16/2019
 
 ## The Census is Hiring - Apply Now!
 The Census Bureau is hiring temporary employees for the 2020 Census. Census jobs offer weekly pay, competitive pay rates, flexible hours, and paid training. By joining the 2020 Census team, you can support your community while getting paid to do it.  
 
 Click on the [Census Jobs Link](https://2020census.gov/jobs?utm_campaign=20190228msc20s1ccrcrsc&utm_medium=email&utm_source=govdelivery)
+
+* [Join the Census Team](https://drive.google.com/open?id=1qNtXrjcCS9ctbpR5J-lfc1eBvC3bDJ6h)
+
+* [Únete al equipo del censo](https://drive.google.com/open?id=1dazKUFOSc1EtuAMk1xgyjco8Ec7Uqk5L) 
