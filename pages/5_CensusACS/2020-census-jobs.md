@@ -20,6 +20,7 @@ PARTNERSHIP SPECIALIST - LGBTQ COMMUNITY OUTREACH
 PARTNERSHIP SPECIALIST - DISABLED COMMUNITY OUTREACH
 [https://www.usajobs.gov/GetJob/ViewDetails/534005200 ](https://www.usajobs.gov/GetJob/ViewDetails/534005200 )
 
+[What Partnership Specialists do](https://www.census.gov/library/stories/2019/05/who-knew-partnership-specialist-bridge-gaps-in-local-communities.html?utm_campaign=20190528msacos1ccstors&utm_medium=email&utm_source=govdelivery)
 
 ### Census Positions closing 6/03/2019
 MEDIA SPECIALIST
