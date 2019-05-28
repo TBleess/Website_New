@@ -15,10 +15,10 @@ Last Updated: 5/28/2019
 ### Census Positions closing 5/29/2019
 
 PARTNERSHIP SPECIALIST - LGBTQ COMMUNITY OUTREACH
-[https://www.usajobs.gov/GetJob/ViewDetails/534004000 ] (https://www.usajobs.gov/GetJob/ViewDetails/534004000)
+[https://www.usajobs.gov/GetJob/ViewDetails/534004000 ](https://www.usajobs.gov/GetJob/ViewDetails/534004000 )
  
 PARTNERSHIP SPECIALIST - DISABLED COMMUNITY OUTREACH
-[https://www.usajobs.gov/GetJob/ViewDetails/534005200 ](https://www.usajobs.gov/GetJob/ViewDetails/534005200)
+[https://www.usajobs.gov/GetJob/ViewDetails/534005200 ](https://www.usajobs.gov/GetJob/ViewDetails/534005200 )
 
 
 ### Census Positions closing 6/03/2019
