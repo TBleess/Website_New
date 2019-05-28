@@ -8,9 +8,29 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
-Last Updated: 5/16/2019
+Last Updated: 5/28/2019
 
 ## The Census is Hiring - Apply Now!
+
+### Census Positions closing 5/29/2019
+
+PARTNERSHIP SPECIALIST - LGBTQ COMMUNITY OUTREACH
+[https://www.usajobs.gov/GetJob/ViewDetails/534004000 ] (https://www.usajobs.gov/GetJob/ViewDetails/534004000)
+ 
+PARTNERSHIP SPECIALIST - DISABLED COMMUNITY OUTREACH
+[https://www.usajobs.gov/GetJob/ViewDetails/534005200 ](https://www.usajobs.gov/GetJob/ViewDetails/534005200)
+
+
+### Census Positions closing 6/03/2019
+MEDIA SPECIALIST
+[https://www.usajobs.gov/GetJob/ViewDetails/534351300 ](https://www.usajobs.gov/GetJob/ViewDetails/534351300)
+
+MEDIA SPECIALIST (English and Spanish)
+[https://www.usajobs.gov/GetJob/ViewDetails/534351700 ](https://www.usajobs.gov/GetJob/ViewDetails/534351700)
+
+
+
+## Field and Enumerator Positions
 The Census Bureau is hiring temporary employees for the 2020 Census. Census jobs offer weekly pay, competitive pay rates, flexible hours, and paid training. By joining the 2020 Census team, you can support your community while getting paid to do it.  
 
 Click on the [Census Jobs Link](https://2020census.gov/jobs?utm_campaign=20190228msc20s1ccrcrsc&utm_medium=email&utm_source=govdelivery)
