@@ -12,16 +12,6 @@ Last Updated: 5/28/2019
 
 ## The Census is Hiring - Apply Now!
 
-### Census Positions closing 5/29/2019
-
-PARTNERSHIP SPECIALIST - LGBTQ COMMUNITY OUTREACH
-[https://www.usajobs.gov/GetJob/ViewDetails/534004000 ](https://www.usajobs.gov/GetJob/ViewDetails/534004000 )
- 
-PARTNERSHIP SPECIALIST - DISABLED COMMUNITY OUTREACH
-[https://www.usajobs.gov/GetJob/ViewDetails/534005200 ](https://www.usajobs.gov/GetJob/ViewDetails/534005200 )
-
-[What Partnership Specialists do](https://www.census.gov/library/stories/2019/05/who-knew-partnership-specialist-bridge-gaps-in-local-communities.html?utm_campaign=20190528msacos1ccstors&utm_medium=email&utm_source=govdelivery)
-
 ### Census Positions closing 6/03/2019
 MEDIA SPECIALIST
 [https://www.usajobs.gov/GetJob/ViewDetails/534351300 ](https://www.usajobs.gov/GetJob/ViewDetails/534351300)
