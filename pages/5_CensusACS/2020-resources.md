@@ -8,7 +8,7 @@ description: "Census 2020 Resources Page"
 
 ## Census 2020 Resources Page
 
-Update 05/10/2019
+Update 06/05/2019
 
 ### Detailed Census Operational Plans
 
