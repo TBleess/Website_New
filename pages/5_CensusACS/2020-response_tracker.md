@@ -6,7 +6,7 @@ datalink: "/data/#census-data-tools"
 description: "Census 2020 Response Tracker"
 ---
 
-Last Updated: 4/23/2019
+Last Updated: 06/05/2019
 
 ## Census 2020 Response Tracker<br>
  
@@ -15,8 +15,10 @@ Last Updated: 4/23/2019
  Beginning in April 2020, communities can use this page to track the number of Census forms returned.  
  Information about census form returns and response rate goals will be available in an interactive format.
  
-## Census Response Outreach Area Mapper (ROAM)<br>
+## Census Response Outreach Area Mapper (ROAM) and other Hard To Count Resources
  
+###  Response Outreach Area Mapper (ROAM)
+
  The *Response Outreach Area Mapper (ROAM)* is a tool developed by the U.S. Census Bureau to identify hard-to-survey areas.
  
  See the ROAM tool at [https://www.census.gov/roam](https://www.census.gov/roam)
@@ -28,7 +30,26 @@ Last Updated: 4/23/2019
 *  [ROAM Data Dictionary](https://www2.census.gov/geo/pdfs/maps-data/maps/roam/ROAM_Data_Dictionary.pdf)
 
 * [ROAM Quick Tips Guide](https://www2.census.gov/geo/pdfs/maps-data/maps/roam/ROAM_Quick_Tips.pdf)
+
+### Hard to Count 2020 Map
+
+This visualization tool, maintained by the City University of New York, supplements the information provided by the ROAM tool by providing information on internet connectivity.
+
+* [HTC 2020](https://www.censushardtocountmaps2020.us/)
+
+
+### Census Planning Database
  
+The Planning Database (PDB) assembles a range of housing, demographic, socioeconomic, and census operational data that can be used for survey and census planning. Data are provided at both the census block group and the tract levels of geography.  It includes the Census *low Response Score (LRS)* used to identify tracts with high number of "hard to count" populations.
+
+*  [Census Planning Database](https://www.census.gov/research/data/planning_database/)
+
+### Research modelling the LRS.  
+This paper describes how the LRS is calculated and identifies population characteristics associated with high LRS percentages.
+
+* [The Low Response Score (LRS): A Metric to Locate, Predict, and Manage Hard-to-Survey Populations (2016)](https://academic.oup.com/poq/article/81/1/144/2649123?guestAccessKey=b8ecff7b-e929-400d-a35c-6a434a094fd0
+
+
  
 ## Census Type of Enumeraton Area Viewer (TEA)<br>
  
