@@ -12,14 +12,6 @@ Last Updated: 5/28/2019
 
 ## The Census is Hiring - Apply Now!
 
-### Census Positions closing 6/03/2019
-MEDIA SPECIALIST
-[https://www.usajobs.gov/GetJob/ViewDetails/534351300 ](https://www.usajobs.gov/GetJob/ViewDetails/534351300)
-
-MEDIA SPECIALIST (English and Spanish)
-[https://www.usajobs.gov/GetJob/ViewDetails/534351700 ](https://www.usajobs.gov/GetJob/ViewDetails/534351700)
-
-
 
 ## Field and Enumerator Positions
 The Census Bureau is hiring temporary employees for the 2020 Census. Census jobs offer weekly pay, competitive pay rates, flexible hours, and paid training. By joining the 2020 Census team, you can support your community while getting paid to do it.  
