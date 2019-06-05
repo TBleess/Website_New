@@ -44,8 +44,8 @@ The Census Planning Database (PDB) assembles a range of housing, demographic, so
 
 *  [Census Planning Database](https://www.census.gov/research/data/planning_database/)
 
-### Research modelling the LRS.  
-This paper describes how the LRS is calculated and identifies population characteristics associated with high LRS percentages.
+### Modelling the Low Response Score  
+This paper describes how the low response score (LRS) is calculated and identifies population characteristics associated with high LRS percentages.
 
 * [The Low Response Score (LRS): A Metric to Locate, Predict, and Manage Hard-to-Survey Populations (2016)](https://academic.oup.com/poq/article/81/1/144/2649123?guestAccessKey=b8ecff7b-e929-400d-a35c-6a434a094fd0)
 
