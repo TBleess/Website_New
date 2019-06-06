@@ -46,7 +46,10 @@ description: "Census 2020 Complete Count Committee"
 <body>
 
 <p>Last Updated  6/07/2019</p>
-
+<button class="accordion"></button>
+<div class="panel">
+</div>
+  
 <button class="accordion"><h2>Colorado Complete Count Campaign</h2></button>
 <div class="panel">
 <h3>"Census Questions" presentation</h3>
@@ -116,7 +119,7 @@ Census Partnership Coordinator <a href="mailto:Lily.Romero.Griego@2020Census.gov
 var acc = document.getElementsByClassName("accordion");
 var i;
 
-for (i = 0; i <= acc.length; i++) {
+for (i = 0; i < acc.length; i++) {
   acc[i].addEventListener("click", function() {
     this.classList.toggle("active");
     var panel = this.nextElementSibling;
