@@ -58,5 +58,5 @@ Last Updated 05/16/2019
 
 * [Census 2020 Fact Sheet: Counting College Students and Others in Institutions  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1nHo3O3VYkinLzdxhGP0Qr4sRhhdAG1Qd) Procedures to Count College Students and People Living in Institutions
 
-* [Counting Yound Children (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1BHpiGpndrH6sBKVnVvQ3JnXygjiszbZy) Procedures for counting young children
+* [Counting Young Children (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1BHpiGpndrH6sBKVnVvQ3JnXygjiszbZy) Procedures for counting young children
  
