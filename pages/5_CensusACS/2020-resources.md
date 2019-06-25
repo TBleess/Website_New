@@ -8,9 +8,51 @@ description: "Census 2020 Resources Page"
 
 ## Census 2020 Resources Page
 
-Update 06/05/2019
+Update 06/25/2019
+## Programs supporting local census outreach efforts
 
-### Detailed Census Operational Plans
+### Hard to Count Grant Program HB19-1239 (2019)
+$6,000,000 in grant funds to support outreach to Hard to Count populations (see Section 2.g of HB 1239).
+
+Grant applications will be posted by August 15.
+
+[Link to HB19-1239](https://leg.colorado.gov/bills/hb19-1239)
+
+Grant program website:  [https://www.colorado.gov/pacific/census-2020-outreach-grant-program](https://www.colorado.gov/pacific/census-2020-outreach-grant-program)
+
+All grant information is available on this page.
+
+#### Informational Meetings
+
+#### July 1 Grant Committee Meeting 
+
+Location: CML Offices 1144 Sherman St, Denver, CO 80203
+
+Time 10:30 a.m. to 1:00 p.m.
+
+[Meeting Agenda](https://drive.google.com/open?id=1Dgq1JKoqt5gF-VCdwYRypH5IQ6cZhqLQ) 
+
+This is the initial meeting for the Grant Committee, but there will be an opportunity for public comment.
+Details about conference lines etc. will be posted on the grant program website.
+
+#### July 8 Stakeholders Meeting
+
+Location: CML Offices 1144 Sherman St, Denver, CO 80203 
+
+Time 2:00 p.m. to 4:00 p.m.
+
+Details about this meeting will be posted on the grant program website.
+
+## Colorado Census Support Program
+
+$240,000 in Census Promotional Materials from the State Demography Office
+
+The State Demography Office will provide Posters, Flyers, Cups, Banners, Bumper Stickers, etc.
+
+Applications and program information will posted by August 15
+
+
+## Detailed Census Operational Plans
 
 The Census Bureau published detailed plans documenting all of its operations. The Operational Plans cover multiple subjects including plans for Service Based Enumeration (which will produce counts for people exteriencing homelessness), the Non-Response Follow-Up process (the process of enumerating households that do not respond to the census voluntarily), and many other topics.  The collection of operational plans can be accessed here:
 
