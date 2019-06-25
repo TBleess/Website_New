@@ -11,7 +11,7 @@ description: "Census 2020 Resources Page"
 Update 06/25/2019
 ## Programs supporting local census outreach efforts
 
-### Hard to Count Grant Program HB19-1239 (2019)
+### Census 2020 Outreach Grant Program HB19-1239 (2019)
 $6,000,000 in grant funds to support outreach to Hard to Count populations (see Section 2.g of HB 1239).
 
 Grant applications will be posted by August 15.
