@@ -9,6 +9,7 @@ description: "Census 2020 Resources Page"
 ## Census 2020 Resources Page
 
 Update 06/25/2019
+
 ## Programs supporting local census outreach efforts
 
 ### Census 2020 Outreach Grant Program HB19-1239 (2019)
