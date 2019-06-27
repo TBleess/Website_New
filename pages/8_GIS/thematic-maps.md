@@ -62,6 +62,7 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 #### Population
 
+- [Peak County Population ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/County%20Population%20Peak.png)
 - [Total Population Change, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/TtlChg1018.png)
 - [Percent Population Change, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctChg1018.png)
 - [Total Population Change for Age < 18, 2010 to 2018 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/TtlChg1018_U18.png)
