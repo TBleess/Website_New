@@ -27,7 +27,7 @@ All grant information is available on this page.
 
 #### July 1 Grant Committee Meeting 
 
-Location: Colorado Department of Local Affairs' 1313 Sherman Street, Room 220, Denver, CO 80203
+Location: Colorado Department of Local Affairs, 1313 Sherman Street, Room 220, Denver, CO 80203
 
 Time 10:30 a.m. to 1:00 p.m.
 
@@ -38,7 +38,7 @@ Details about conference lines etc. will be posted on the grant program website.
 
 #### July 8 Stakeholders Meeting
 
-Location: Colorado Department of Local Affairs' 1313 Sherman Street, Room 220, Denver, CO 80203
+Location: Colorado Department of Local Affairs, 1313 Sherman Street, Room 220, Denver, CO 80203
 
 Time 2:00 p.m. to 4:00 p.m.
 
