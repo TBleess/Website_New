@@ -25,24 +25,22 @@ All grant information is available on this page.
 
 #### Informational Meetings
 
-#### July 1 Grant Committee Meeting 
-
-Location: Colorado Department of Local Affairs, 1313 Sherman Street, Room 220, Denver, CO 80203
-
-Time 10:30 a.m. to 1:00 p.m.
-
-[Meeting Agenda](https://drive.google.com/open?id=1Dgq1JKoqt5gF-VCdwYRypH5IQ6cZhqLQ) 
-
-This is the initial meeting for the Grant Committee, but there will be an opportunity for public comment.
-Details about conference lines etc. will be posted on the grant program website.
-
 #### July 8 Stakeholders Meeting
 
 Location: Colorado Department of Local Affairs, 1313 Sherman Street, Room 220, Denver, CO 80203
 
-Time 2:00 p.m. to 4:00 p.m.
+Time 2:00 p.m. to 3:30 p.m.
 
-Details about this meeting will be posted on the grant program website.
+Log in Details:
+
+Join my meeting from your computer, tablet or smartphone. 
+[https://global.gotomeeting.com/join/567639141 ] (https://global.gotomeeting.com/join/567639141)
+
+You can also dial in using your phone. 
+United States: +1 (224) 501-3412 
+
+Access Code: 567-639-141 
+
 
 ## Colorado Census Support Program
 
