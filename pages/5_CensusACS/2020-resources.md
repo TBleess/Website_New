@@ -34,7 +34,7 @@ Time 2:00 p.m. to 3:30 p.m.
 Log in Details:
 
 Join my meeting from your computer, tablet or smartphone. 
-[https://global.gotomeeting.com/join/567639141 ] (https://global.gotomeeting.com/join/567639141)
+[https://global.gotomeeting.com/join/567639141](https://global.gotomeeting.com/join/567639141)
 
 You can also dial in using your phone. 
 United States: +1 (224) 501-3412 
