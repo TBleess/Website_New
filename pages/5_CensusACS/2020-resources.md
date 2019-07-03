@@ -25,7 +25,7 @@ All grant information is available on this page.
 
 #### Informational Meetings
 
-#### July 8 Stakeholders Meeting
+#### July 8 Informational Meeting
 
 Location: Colorado Department of Local Affairs, 1313 Sherman Street, Room 220, Denver, CO 80203
 
