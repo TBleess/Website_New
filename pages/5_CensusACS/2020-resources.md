@@ -41,6 +41,9 @@ United States: +1 (224) 501-3412
 
 Access Code: 567-639-141 
 
+## Materials Disstributed at July 8 Informational Meeting
+-[Resources and Messaging for the 2020 Census Outreach Grant Program ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1YHSq4A1V16p1wZFWvXXYG3qU1s_yx502)
+-[Census 2020 What Partners Should and Should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')]
 
 ## Colorado Census Support Program
 
