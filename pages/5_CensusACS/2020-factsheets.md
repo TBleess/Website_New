@@ -25,7 +25,7 @@ Last Updated 05/16/2019
 
 ### Getting Involved
 
-* [Census 2020 Fact Sheet: How to Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1ytPPwv72D9cM3JQjErXUsvE3IgOGA_Qq) Resources for Supporting the Census
+* [Census 2020 Fact Sheet: How to Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=14IEZbZZe7UvLg38VCsud681p97n4YV_O) Resources for Supporting the Census
 
 * [Census 2020 Fact Sheet: How Businesses Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1xcqH3Ru6cz6OPeg6HGfD3DEwWxx4GTn-) Census Information for Businesses
 
