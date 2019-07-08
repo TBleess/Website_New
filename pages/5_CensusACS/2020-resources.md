@@ -43,6 +43,11 @@ The State Demography Office will provide Posters, Flyers, Cups, Banners, Bumper 
 
 Applications and program information will posted by August 15
 
+## Reaching Hard to Count Populations
+
+A presentation by describing the definition of "Hard to Count" populations used by the Census Bureau.  
+* [Reaching Hard to Count Populations ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=10xvMqVVlkMPD25DJ0I9yxoiPONsgLJS1)
+
 
 ## Detailed Census Operational Plans
 
