@@ -31,19 +31,9 @@ Location: Colorado Department of Local Affairs, 1313 Sherman Street, Room 220, D
 
 Time 2:00 p.m. to 3:30 p.m.
 
-Log in Details:
-
-Join my meeting from your computer, tablet or smartphone. 
-[https://global.gotomeeting.com/join/567639141](https://global.gotomeeting.com/join/567639141)
-
-You can also dial in using your phone. 
-United States: +1 (224) 501-3412 
-
-Access Code: 567-639-141 
-
 ## Materials Disstributed at July 8 Informational Meeting
--[Resources and Messaging for the 2020 Census Outreach Grant Program ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1YHSq4A1V16p1wZFWvXXYG3qU1s_yx502)
--[Census 2020 What Partners Should and Should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')]
+* [Resources and Messaging for the 2020 Census Outreach Grant Program ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1YHSq4A1V16p1wZFWvXXYG3qU1s_yx502)
+* [What Partners should and should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1zAJ4Kbx32i71BIg2atgFFzwHxQlW_zo4) Guidance about canvassing and data confidentiality for for non-census partners  
 
 ## Colorado Census Support Program
 
