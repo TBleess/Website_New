@@ -31,7 +31,7 @@ Location: Colorado Department of Local Affairs, 1313 Sherman Street, Room 220, D
 
 Time 2:00 p.m. to 3:30 p.m.
 
-## Materials Disstributed at July 8 Informational Meeting
+#### Materials Distributed at the July 8 Informational Meeting
 * [Resources and Messaging for the 2020 Census Outreach Grant Program ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1YHSq4A1V16p1wZFWvXXYG3qU1s_yx502)
 * [What Partners should and should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1zAJ4Kbx32i71BIg2atgFFzwHxQlW_zo4) Guidance about canvassing and data confidentiality for for non-census partners  
 
