@@ -47,7 +47,7 @@ Last Updated 05/16/2019
 
 * [Data Confidentiality, Bilingual (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1kJBs7JmmuV80T-XakFRl98ohND7qYN6L) Information from the Census Bureau about data confidentiality, in English and Spanish
 
-* [What Partners should and should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1zAJ4Kbx32i71BIg2atgFFzwHxQlW_zo4) Guidance about canvassing and data confidentiality for for non-census partners  
+* [What Partners should and should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1zAJ4Kbx32i71BIg2atgFFzwHxQlW_zo4) Guidance about canvassing and data confidentiality for non-census partners  
 
 
 ### Residence Criteria and Special Populations
