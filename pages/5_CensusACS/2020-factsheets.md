@@ -19,6 +19,8 @@ Last Updated 05/16/2019
 
 * [Census 2020 Fact Sheet: Timeline  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1e7G3DxlOETABoLzSm2KpiQrC3UVK_tI1) Census 2020 Timeline
 
+* [What Partners should and should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1zAJ4Kbx32i71BIg2atgFFzwHxQlW_zo4) Guidance about canvassing and data confidentiality for non-census partners  
+
 *	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
 
 * [Census 101 and Data, Bilingual (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1JtpX8LT311ZGr_6ZW-gPPZVM9jfTEMAP) Basic information about the Census  from the Census Bureau, in English and Spanish
@@ -47,7 +49,7 @@ Last Updated 05/16/2019
 
 * [Data Confidentiality, Bilingual (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1kJBs7JmmuV80T-XakFRl98ohND7qYN6L) Information from the Census Bureau about data confidentiality, in English and Spanish
 
-* [What Partners should and should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1zAJ4Kbx32i71BIg2atgFFzwHxQlW_zo4) Guidance about canvassing and data confidentiality for non-census partners  
+
 
 
 ### Residence Criteria and Special Populations
