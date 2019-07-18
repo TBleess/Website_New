@@ -6,7 +6,7 @@ datalink: "/data/#census-data-tools"
 description: "Census 2020 Response Tracker"
 ---
 
-Last Updated: 06/05/2019
+Last Updated: 07/18/2019
 
 ## Census 2020 Response Tracker<br>
  
@@ -17,6 +17,12 @@ Last Updated: 06/05/2019
  
 ## Census Response Outreach Area Mapper (ROAM) and other resources to identify Hard to Count Populations
  
+### Colorado Counties and Census Tracts Identifier Map
+
+The *Colorado Counties and Census Tracts Identifier Map* is a tool produced by SDO to identify population characterists of Colorado counties and census tracts.  
+
+[Colorado Counties and Census Tracts Identifier Map](http://dola-online.maps.arcgis.com/apps/webappviewer/index.html?id=fe9f93b7221d44f195c5a8a46fbfcdea)
+
 ###  Response Outreach Area Mapper (ROAM)
 
  The *Response Outreach Area Mapper (ROAM)* is a tool developed by the U.S. Census Bureau to identify hard-to-survey areas.
