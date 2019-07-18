@@ -12,7 +12,9 @@ Last Updated: 7/18/2019
 
 ## The Census is Hiring - Apply Now!
 
-## Partnership Specialist (Language) (Aurora, CO—Work from Home)
+## Partnership Specialist Positions
+
+### Partnership Specialist (Language) (Aurora, CO—Work from Home)
 
 RCC2020DAL-2019-1118 (EXT)
 POSITION: Partnership Specialist (Language)
@@ -41,7 +43,7 @@ USAJOBS Announcement<br>
 
 [External Applicants apply here](https://www.usajobs.gov/GetJob/ViewDetails/539516800?#)
 
-## Partnership Specialist (Language) (Colorado—Work from Home)
+### Partnership Specialist (Language) (Colorado—Work from Home)
 RCC2020DAL-2019-1116 (EXT)
 
 POSITION: Partnership Specialist (Language)
@@ -75,7 +77,7 @@ USAJOBS Announcement
 
 [External Applicants apply here](https://www.usajobs.gov/GetJob/ViewDetails/539516200?#)
 
-## Partnership Specialist (Colorado—Work from Home)
+### Partnership Specialist (Colorado—Work from Home)
 
 RCC2020DAL-2019-1117 (EXT)
 POSITION: Partnership Specialist  
@@ -90,6 +92,7 @@ PROMOTION POTENTIAL: The full promotion potential for this position is to the Gr
 
 
 DUTY LOCATION: This is a Work At Home (WAH) position. The duty station will be the selectee's home address.
+
 AREA OF CONSIDERATION: In order to be considered, applicants MUST CURRENTLY RESIDE IN one of the following Colorado counties:  Pueblo, Otero, Bent, Baca, Las Animas, or Huerfano.
 
 WHO MAY APPLY: External – All qualified United States citizens.
