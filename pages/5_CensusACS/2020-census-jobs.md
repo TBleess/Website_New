@@ -43,25 +43,33 @@ USAJOBS Announcement<br>
 
 ## Partnership Specialist (Language) (Colorado—Work from Home)
 RCC2020DAL-2019-1116 (EXT)
+
 POSITION: Partnership Specialist (Language)
+
 
 This is a bi-lingual position. To be considered proficient you must be able to speak, read, and write in English and Spanish.
 
 ISSUE DATE: July 17, 2019
-CLOSING DATE: July 25, 2019
-SALARY RANGE: GG-0301-09/11/12:  $51,440 to $96,978 per year
 
-NUMBER OF POSITIONS: Few
+CLOSING DATE: July 25, 2019
+
+SALARY RANGE: GG-0301-09/11/12:  $51,440 to $96,978 per year
 
 PROMOTION POTENTIAL: The full promotion potential for this position is to the Grade 12.
 
+
 DUTY LOCATION: This is a Work At Home (WAH) position. The duty station will be the selectee's home address.
+
 AREA OF CONSIDERATION: In order to be considered, applicants MUST CURRENTLY RESIDE IN one of the following Colorado counties:  Pueblo, Otero, Bent, Baca, Las Animas, or Huerfano.
+
 WHO MAY APPLY: External – All qualified United States citizens.
+
 
 HOW TO APPLY: To apply on-line, you must complete and submit an application through the USAJOBS website using the job announcement links below. To begin, click the "Apply" button and follow the prompts to either create a profile or sign into your USAJOBS account, answer the questions, and submit all required documents.
 
+
 Your complete application, including required documents, must be received by 11:59 p.m. Eastern Time (ET) on the closing date of the announcement.
+
 
 USAJOBS Announcement
 
@@ -73,16 +81,19 @@ RCC2020DAL-2019-1117 (EXT)
 POSITION: Partnership Specialist  
 
 ISSUE DATE: July 17, 2019
-CLOSING DATE: July 25, 2019
-SALARY RANGE: GG-0301-09/11/12:  $51,440 to $96,978 per year
 
-NUMBER OF POSITIONS: Few
+CLOSING DATE: July 25, 2019
+
+SALARY RANGE: GG-0301-09/11/12:  $51,440 to $96,978 per year
 
 PROMOTION POTENTIAL: The full promotion potential for this position is to the Grade 12.
 
+
 DUTY LOCATION: This is a Work At Home (WAH) position. The duty station will be the selectee's home address.
 AREA OF CONSIDERATION: In order to be considered, applicants MUST CURRENTLY RESIDE IN one of the following Colorado counties:  Pueblo, Otero, Bent, Baca, Las Animas, or Huerfano.
+
 WHO MAY APPLY: External – All qualified United States citizens.
+
 
 HOW TO APPLY: To apply on-line, you must complete and submit an application through the USAJOBS website using the job announcement links below. To begin, click the "Apply" button and follow the prompts to either create a profile or sign into your USAJOBS account, answer the questions, and submit all required documents.
 
