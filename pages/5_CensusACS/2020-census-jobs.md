@@ -19,27 +19,25 @@ POSITION: Partnership Specialist (Language)
 
 This is a bi-lingual position. To be considered proficient you must be able to speak, read, and write in English and Spanish.<br>
 
-ISSUE DATE: July 17, 2019
+ISSUE DATE: July 17, 2019<br>
 
-CLOSING DATE: July 25, 2019
+CLOSING DATE: July 25, 2019<br>
 
-SALARY RANGE: GG-0301-12:  $81,451 to $105,890 per year
+SALARY RANGE: GG-0301-12:  $81,451 to $105,890 per year<br>
 
-NUMBER OF POSITIONS: Few
+PROMOTION POTENTIAL: The full promotion potential for this position is to the Grade 12.<br>
 
-PROMOTION POTENTIAL: The full promotion potential for this position is to the Grade 12.
+DUTY LOCATION: This is a Work At Home (WAH) position. The duty station will be the selectee's home address.<br>
 
-DUTY LOCATION: This is a Work At Home (WAH) position. The duty station will be the selectee's home address.
+AREA OF CONSIDERATION: In order to be considered, applicants MUST CURRENTLY RESIDE IN the Aurora, Colorado metropolitan commuting area.<br>
 
-AREA OF CONSIDERATION: In order to be considered, applicants MUST CURRENTLY RESIDE IN the Aurora, Colorado metropolitan commuting area.
+WHO MAY APPLY: External – All qualified United States citizens.<br>
 
-WHO MAY APPLY: External – All qualified United States citizens.
+HOW TO APPLY: To apply on-line, you must complete and submit an application through the USAJOBS website using the job announcement links below. To begin, click the "Apply" button and follow the prompts to either create a profile or sign into your USAJOBS account, answer the questions, and submit all required documents.<br>
 
-HOW TO APPLY: To apply on-line, you must complete and submit an application through the USAJOBS website using the job announcement links below. To begin, click the "Apply" button and follow the prompts to either create a profile or sign into your USAJOBS account, answer the questions, and submit all required documents.
+Your complete application, including required documents, must be received by 11:59 p.m. Eastern Time (ET) on the closing date of the announcement.<br>
 
-Your complete application, including required documents, must be received by 11:59 p.m. Eastern Time (ET) on the closing date of the announcement.
-
-USAJOBS Announcement
+USAJOBS Announcement<br>
 
 [External Applicants apply here](https://www.usajobs.gov/GetJob/ViewDetails/539516800?#)
 
