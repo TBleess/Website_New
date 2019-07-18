@@ -17,7 +17,7 @@ Last Updated: 7/18/2019
 RCC2020DAL-2019-1118 (EXT)
 POSITION: Partnership Specialist (Language)
 
-This is a bi-lingual position. To be considered proficient you must be able to speak, read, and write in English and Spanish.
+This is a bi-lingual position. To be considered proficient you must be able to speak, read, and write in English and Spanish.<br>
 
 ISSUE DATE: July 17, 2019
 
