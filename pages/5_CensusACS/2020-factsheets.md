@@ -15,7 +15,9 @@ Last Updated 05/16/2019
 
 ### General Information
 
-* [Census 2020 Fact Sheet: Census 101  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1rIPKdEJv3N9cqdRX5yNsqoPJ83lYikKo) Basic Information about Census 2020
+* [Census 2020 Fact Sheet: Census 101  (English) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1rIPKdEJv3N9cqdRX5yNsqoPJ83lYikKo) Basic Information about Census 2020
+
+* [Census 2020 Fact Sheet: Census 101 (Spanish) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1LhhO8tqWQ7Q6z2OfwFJTaV86LhKi1cTr) Basic Information about Census 2020
 
 * [Census 2020 Fact Sheet: Timeline  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1e7G3DxlOETABoLzSm2KpiQrC3UVK_tI1) Census 2020 Timeline
 
@@ -27,7 +29,7 @@ Last Updated 05/16/2019
 
 ### Getting Involved
 
-* [Census 2020 Fact Sheet: How to Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=14IEZbZZe7UvLg38VCsud681p97n4YV_O) Resources for Supporting the Census
+* [Census 2020 Fact Sheet: How to Get Involved (Engilsh and Spanish) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1C1rjX6WRSldoCyCq65uGIcAhx7CLvzCU) Resources for Supporting the Census
 
 * [Census 2020 Fact Sheet: How Businesses Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1xcqH3Ru6cz6OPeg6HGfD3DEwWxx4GTn-) Census Information for Businesses
 
@@ -43,7 +45,7 @@ Last Updated 05/16/2019
 
 * [Census 2020 Fact Sheet: Citizenship  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1vPIn39C4Vur0EJcNLC0jdVvNCNhYHZbq) Background on the Proposed Citizenship Question
 
-* [Census 2020 Fact Sheet: Privacy and Confidentiality ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1Iu42PQoEYtJd98j_4x_sYusuDkPaJGi3) Census Policy on Data Privacy and Confidentiality
+* [Census 2020 Fact Sheet: Privacy and Confidentiality (English and Spanish) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1LhxU2WTITQcol3L2eNXJRzGns96FLFo1) Census Policy on Data Privacy and Confidentiality
 
 * [The 2020 Census and Confidentiality (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www.census.gov/content/dam/Census/library/factsheets/2019/comm/2020-confidentiality-factsheet.pdf)
 
