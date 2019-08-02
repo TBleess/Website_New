@@ -8,11 +8,11 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
-Last Updated: 7/18/2019
+Last Updated: 8/02/2019
 
 ## The Census is Hiring - Apply Now!
 
-## Regional Technician Jobs  Listings open until August 12, 2020  
+## Regional Technician Jobs.  Listings open until August 12, 2020  
 
 * [Regional Technician – Colorado Springs](https://www.usajobs.gov/GetJob/ViewDetails/541137900?#)
 
