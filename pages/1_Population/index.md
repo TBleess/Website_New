@@ -32,7 +32,7 @@ datalink: "/population/data"
 
 ### Also Available:
 
-- [Estimates Methodology ![doc](/images/page_white_word.png 'download doc file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESNm5hb1NmQWZWdlU)
+- [Estimates Methodology ![doc](/images/page_white_word.png 'download doc file')](https://drive.google.com/uc?export=download&id=0B_M7zgfu2piFenFkejM5T1J6a1E)
 - [Forecasts Methodology ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B_M7zgfu2piFclJkbGM3VG55Nzg)
 - [Definitions of Sub-State Regions](/gis/colorado-regions/#understanding-colorado-regions)
 - [Planning Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
