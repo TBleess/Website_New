@@ -24,16 +24,10 @@ Phone: 303-864-7750
 Media Contact, Demographic and Economic Overviews  
 
 **Cindy DeGroen**  
-PROJECTIONS DEMOGRAPHER  
+DEMOGRAPHER  
 Phone: 303-864-7752  
 [cindy.degroen@state.co.us ![email](/images/email_link.png 'send email')](mailto:cindy.degroen@state.co.us)  
-Population Forecasts, Household and Labor Force Forecasts  
-
-**Heather Champeau**  
-DATA SCIENTIST AND DEMOGRAPHER  
-Phone: 303-864-7755  
-[heather.champeau@state.co.us ![email](/images/email_link.png 'send email')](mailto:heather.champeau@state.co.us)  
-Population Estimates, Demographic Methods
+Population Estimates and Forecasts, Demographic Methods, Household and Labor Force Forecasts  
 
 **Chris Akers**  
 ECONOMIST  
