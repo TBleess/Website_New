@@ -11,11 +11,12 @@ description: "Census 2020 Jobs"
 Last Updated: 8/19/2019
 
 ## The Census is Hiring - Apply Now!
-## Census Partnership Specialist Jobs.  Listings open until August 22, 2019
+
+## Census Partnership Specialist Jobs.  Listings open until August 22, 2019 
 
 * [Partnership Specialist (Denver or Aurora)](https://www.usajobs.gov/GetJob/ViewDetails/542128600) 
 
-## Census Field Manager Jobs.  Listings open until August 25, 2020  
+## Census Field Manager Jobs.  Listings open until August 25, 2020 
 
 * [Census Field Manager (Aurora)](https://www.usajobs.gov/GetJob/ViewDetails/542364700) 
 
