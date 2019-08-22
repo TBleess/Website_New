@@ -29,7 +29,7 @@ Last Updated 05/16/2019
 
 ### Getting Involved
 
-* [Census 2020 Fact Sheet: How to Get Involved (Engilsh and Spanish) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1C1rjX6WRSldoCyCq65uGIcAhx7CLvzCU) Resources for Supporting the Census, Recursos para apoyar el censo
+* [Census 2020 Fact Sheet: How to Get Involved (English and Spanish) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1C1rjX6WRSldoCyCq65uGIcAhx7CLvzCU) Resources for Supporting the Census, Recursos para apoyar el censo
 
 * [Census 2020 Fact Sheet: How Businesses Can Get Involved ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1xcqH3Ru6cz6OPeg6HGfD3DEwWxx4GTn-) Census Information for Businesses
 
