@@ -12,7 +12,7 @@ Last Updated: 07/18/2019
  
  This page will host the *Census 2020 Response Tracker.*
  
- Beginning in April 2020, communities can use this page to track the number of Census forms returned.  
+ Beginning in April 2020, communities can use this page to track the number of census forms returned.  
  Information about census form returns and response rate goals will be available in an interactive format.
  
 ## Census Response Outreach Area Mapper (ROAM) and other resources to identify Hard to Count Populations
@@ -46,12 +46,12 @@ This visualization tool, maintained by the City University of New York, suppleme
 
 ### Census Planning Database
  
-The Census Planning Database (PDB) assembles a range of housing, demographic, socioeconomic, and census operational data that can be used for survey and census planning. Data are provided at both the census block group and the tract levels of geography.  It includes the Census *low Response Score (LRS)* used to identify tracts with high number of "hard to count" populations.
+The Census Planning Database (PDB) assembles a range of housing, demographic, socioeconomic, and census operational data that can be used for survey and census planning. Data are provided at both the census block group and tract levels of geography.  It includes the Census *Low Response Score (LRS)* used to identify tracts with a high number of "hard to count" populations.
 
-*  [Census Planning Database](https://www.census.gov/research/data/planning_database/)
+*  [Census Planning Database](https://www.census.gov/topics/research/guidance/planning-databases.html)
 
 ### Modelling the Low Response Score  
-This paper describes how the low response score (LRS) is calculated and identifies population characteristics associated with high LRS percentages.
+This paper describes how the Low Response Score (LRS) is calculated and identifies population characteristics associated with high LRS percentages.
 
 * [The Low Response Score (LRS): A Metric to Locate, Predict, and Manage Hard-to-Survey Populations (2016)](https://academic.oup.com/poq/article/81/1/144/2649123?guestAccessKey=b8ecff7b-e929-400d-a35c-6a434a094fd0)
 
@@ -61,8 +61,8 @@ This paper describes how the low response score (LRS) is calculated and identifi
  
  The *Census Type of Enumeration Area Viewer (TEA)* shows census tracts that will receive census forms through the "Update/Leave" and "Update/Enumerate" programs. These programs are designed to serve rural areas with homes that do not have standard street addresses. The census bureau estimates that five percent of  homes nationwide will be enumerated using these programs. 
  
-- Homes part of the "Update/Leave" program will be visited by a census enumerator, who will leave a census form behind for the household to complete. 
-- Homes part of the "Update/Enumerate" program will be visited by an enumerator, who will complete the census form during their visit with a household.  The "Update/Enumerate" program is focused on remote areas in Alaska and Northern Maine. 
+- Homes that are part of the "Update/Leave" program will be visited by a census enumerator, who will leave a census form behind for the household to complete. 
+- Homes that are part of the "Update/Enumerate" program will be visited by an enumerator, who will complete the census form during their visit with a household.  The "Update/Enumerate" program is focused on remote areas in Alaska and Northern Maine. 
  
 See the Type of Enumeration Area Viewer at [https://www.census.gov/newsroom/press-releases/2019/tea-viewer.html](https://www.census.gov/newsroom/press-releases/2019/tea-viewer.html)
  
