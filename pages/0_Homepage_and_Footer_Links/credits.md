@@ -15,8 +15,6 @@ permalink: "/credits/"
 
 **Hosted-by:** [Github Pages](https://pages.github.com/)
 
-**Content Delivery Network:** [Kloudsec](https://kloudsec.com/)
-
 **Icons:** [Mark James](http://www.famfamfam.com/lab/icons/silk/)
 
 ---
