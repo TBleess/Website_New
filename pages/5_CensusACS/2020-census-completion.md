@@ -3,7 +3,7 @@
 layout: page
 title: "Why Respond to the Census"
 permalink: "/census-acs/2020-census-completion/"
-datalink: "/data/#census-data-tools"
+
 description: "Why Respond to the Census"
     
 ---
