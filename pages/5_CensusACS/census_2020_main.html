@@ -49,9 +49,16 @@ table, td {
     font-size: 12pt;
 	color:#0040ff;
 	}
-	
+/*Desktop Styling */
+@media only screen and (min-width: 481px) {
+	#content-desktop {display: block;}
+	#content-mobile {display: none;}
+	}
 /* Mobile Styling */
 @media only screen and (max-width: 480px) {
+	#content-desktop {display: none;}
+	#content-mobile {display: block;}
+	}
 
 </style>
 </head>
@@ -165,5 +172,105 @@ table, td {
 		</tr>
 </table>
 </div>
+
+<div id="content-mobile">
+	<table border="1" margin-left="0px">
+		<col width="50%">
+		<col width="50%">
+		<tr>
+		<td colspan="2" valign="top" align="left">
+		<b>Welcome to the Colorado Census 2020 Homepage</b><br>
+		<b>Census Day is April 1, 2020.</b><br>
+		</td>
+		</tr>
+		<tr>
+		<td align="left" colspan="2" > 
+			<b>Recent updates:</b>  
+			<b>8/6/2019</b><a href="https://demography.dola.colorado.gov/census-acs/2020-faq/"> Census FAQ: Address Canvassing</a><br>
+			<b>8/19/2019</b> <a href="https://demography.dola.colorado.gov/census-acs/2020-census-jobs/">Census Jobs</a>   
+			 <a href="https://demography.dola.colorado.gov/census-acs/2020-resources/">Resources for Communities</a>
+			 
+		</td>
+                </tr>	
+		<tr>
+		   <td valign="top" align="center">
+			 <div title="Link to Census 2020 Outreach Grant Program, Outreach to Hard to Count Communities">
+			   <a href="https://www.colorado.gov/pacific/census-2020-outreach-grant-program">
+			   <img src="/images/Grant_Button.png" alt="Link to Census 2020 Outreach Grant Program, Outreach to Hard to Count Communities">
+			   </a>
+			 </div>
+			</td>
+		    <td valign="top" align="center">
+				<div title="Everyone Counts in Colorado.  Show that you are here.">
+					<a href='https://demography.dola.colorado.gov/census-acs/2020-census-completion/'>
+					<img src="/images/Why_Complete_Button.png" alt="Everyone Counts in Colorado.  Show that you are here."></img>
+					</a>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" align="center">
+					<div title="Short descriptions of key census topics. Available for downloading.">
+							<a href='https://demography.dola.colorado.gov/census-acs/2020-factsheets/'>
+							<img src="/images/Fact_Sheets_Button.png" alt="Short descriptions of key census topics. Available for downloading."></img>
+							</a>
+					</div>
+			</td>	
+			<td valign="top" align="center">
+				<div title="Answers to your questions about the Census, its contents, and how you complete it.">
+					<a href='https://demography.dola.colorado.gov/census-acs/2020-faq/'>
+					<img src="/images/FAQ_Button.png" alt="Answers to your questions about the Census, its contents, and how you complete it."></img>
+					</a>
+				</div>
+			</td>
+		</tr><tr>
+			<td valign="top" align="center">
+				<div title="A listing of Census jobs offered by the U.S. Census Bureau.">
+					<a href='https://demography.dola.colorado.gov/census-acs/2020-census-jobs/'>
+					<img src="/images/Jobs_Button.png" alt="A listing of Census jobs offered by the U.S. Census Bureau."></img>
+					</a>
+				</div>
+                         </td>
+			<td valign="top" align="center">
+			  <div title="Link to Colorado 2020 Census Support Program, Funds for Promotional Materials">
+			    <a href="https://demography.dola.colorado.gov/census-acs/2020-CCSP">
+				<img src="/images/CCSP_Program_Button.png" alt="ink to Colorado 2020 Census Support Program, Funds for Promotional Materials">    
+			    </a>
+			  </div>
+			 </td> 
+		</tr>
+		<tr>
+			<td valign="top" align="center">
+				<div title="A collection of news stories concerning the 2020 Census.">
+						<a href='https://demography.dola.colorado.gov/census-acs/2020-news/'>
+						<img src="/images/News_Button.png" alt="A collection of news stories concerning the 2020 Census."></img>
+						</a>
+				</div>
+			</td>
+			<td valign="top" align="center">
+				<div title="State and Local Complete Count Committee Resources.">
+				<a href='https://demography.dola.colorado.gov/census-acs/2020-ccc/'>
+				<img src="/images/Complete_Count_Button.png" alt="State and Local Complete Count Committee Resources."></img>
+				</a>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" align="center">
+				<div title="Find resources, handouts, posters and other materials describing the 2020 Census.">
+				<a href='https://demography.dola.colorado.gov/census-acs/2020-resources/'>
+				<img src="/images/Community_Resources_Button.png" alt="Find resources, handouts, posters and other materials describing the 2020 Census."></img>
+				</a>
+			</td>
+			<td valign="top" align="center">
+				<div title="Online tools for identifying hard to count areas and to track census form submissions.">
+				<a href='https://demography.dola.colorado.gov/census-acs/2020-response-tracker/'>
+				<img src="/images/Data_Tools_Button.png" alt="Online tools for identifying hard to count areas and to track census form submissions."></img>
+				</a>
+			</td>
+		</tr>
+</table>
+</div>
+
 </body>
 </html>
