@@ -2,7 +2,7 @@
 layout: page
 title: "How to Respond to the Census"
 permalink: "/census-acs/2020-response/"
-datalink: "/data/#census-data-tools"
+
 description: "How to Respond to the Census"
 ---
 
