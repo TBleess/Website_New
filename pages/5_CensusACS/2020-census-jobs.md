@@ -2,7 +2,7 @@
 layout: page
 title: "Census 2020 Jobs"
 permalink: "/census-acs/2020-census-jobs/"
-datalink: "/data/#census-data-tools"
+
 description: "Census 2020 Jobs"
 ---
 
