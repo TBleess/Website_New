@@ -2,7 +2,7 @@
 layout: page
 title: "Census 2020 Fact Sheets"
 permalink: "/census-acs/2020-factsheets/"
-datalink: "/data/#census-data-tools"
+
 description: "State Demography Office Census 2020 Fact Sheets"
 ---
 
