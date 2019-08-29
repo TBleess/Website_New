@@ -2,7 +2,7 @@
 layout: page
 title: "Census 2020 Response Tracker"
 permalink: "/census-acs/2020-response-tracker/"
-datalink: "/data/#census-data-tools"
+
 description: "Census 2020 Response Tracker"
 ---
 
