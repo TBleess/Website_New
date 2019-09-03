@@ -41,9 +41,7 @@ Last Updated 05/16/2019
 
 * [Census Partnerships at a Glance (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www2.census.gov/about/partners/general/partnerships-at-a-glance.pdf?#)
 
-### Citizenship and Privacy
-
-* [Census 2020 Fact Sheet: Citizenship  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1vPIn39C4Vur0EJcNLC0jdVvNCNhYHZbq) Background on the Proposed Citizenship Question
+### Privacy
 
 * [Census 2020 Fact Sheet: Privacy and Confidentiality (English and Spanish) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1LhxU2WTITQcol3L2eNXJRzGns96FLFo1) Census Policy on Data Privacy and Confidentiality, Política del censo sobre privacidad y confidencialidad de datos
 
