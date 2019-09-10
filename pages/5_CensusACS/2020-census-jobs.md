@@ -15,12 +15,11 @@ Last Updated: 9/10/2019
 ## Census Job Fair  Friday, September 13, 2019
 Hosted by Congresswoman Diana DeGette.  Representing the 1st  District of Colorado.
  
-Learn about working got the 2020 U.S. Census
+Learn about working for the 2020 U.S. Census
 
-Location: Rodolfo "Corky" Gonzalez Library
+**Location: Rodolfo "Corky" Gonzalez Library
 1498 Irving Street, Denver, CO 80204
-
-10:00 a.m. to 12:00 p.m.
+10:00 a.m. to 12:00 p.m.**
 
 
 ## Field and Enumerator Positions
