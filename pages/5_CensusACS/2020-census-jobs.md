@@ -11,9 +11,9 @@ description: "Census 2020 Jobs"
 Last Updated: 9/10/2019
 ## The Census is Hiring - Apply Now!
 
-## Census Job Fair  Friday, Srptember 13, 2019
-Hosted by Congresswoman Diana DeGette.
-
+## Census Job Fair  Friday, September 13, 2019
+Hosted by Congresswoman Diana DeGette.  Representing the 1st  District of Colorado.
+ 
 Learn about working got the 2020 U.S. Census
 
 Location: Rodolfo "Corky" Gonzalez Library
