@@ -23,7 +23,7 @@ The 37th Annual State Demography Summit will be held on Friday, November 1, 2019
 In-Person Attendance:  $60.00 per person
 Livestream Attendance: $30.00 per person
 
-[Registration Link] (https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)
+[Registration Link](https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)
 
 ### Summit Agenda
 
@@ -43,7 +43,7 @@ CCertificates will be issued by November 15, 2019.
 
 
 ### Summit Evaluation 
-Please complete the  Evaluation form after November 1. [Evaluation] (https://docs.google.com/forms/d/e/1FAIpQLSeN5On2ipeWYmdwOVgTLkzF4eER_l82R6d-lxOZ2VL4O6Z46w/viewform?usp=sf_link)  
+Please complete the  Evaluation form after November 1. [Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSeN5On2ipeWYmdwOVgTLkzF4eER_l82R6d-lxOZ2VL4O6Z46w/viewform?usp=sf_link)  
 
 Note: Attendees receiving Continuing Education Credits **must** complete the evaluation form.
 
