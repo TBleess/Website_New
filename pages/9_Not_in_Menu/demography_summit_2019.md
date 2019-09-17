@@ -16,7 +16,7 @@ The 37th Annual State Demography Summit will be held on Friday, November 1, 2019
 
 **Location: Arapahoe Community College, 5900 S Santa Fe Dr, Littleton, CO 80120.  The Summit Room**
 
-[Venue map and directions](https://drive.google.com/uc?export=download&id=14JaBgH6UTqtC-9fnE0aYmUYTPh-LSg5P)
+**[Venue map and directions](https://drive.google.com/uc?export=download&id=14JaBgH6UTqtC-9fnE0aYmUYTPh-LSg5P)**
 
 **Date and Time: Friday, November 1, 2019.  8:30 a.m. to 4:00 p.m.**  Doors open at 8:00 a.m.
 
@@ -24,7 +24,7 @@ The 37th Annual State Demography Summit will be held on Friday, November 1, 2019
 In-Person Attendance:  $60.00 per person
 Livestream Attendance: $30.00 per person
 
-[Registration Link](https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)
+**[Registration Link](https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)**
 
 ### Summit Agenda
 
@@ -47,7 +47,7 @@ Certificates will be issued by November 15, 2019.
 
 
 ### Summit Evaluation 
-Please complete the  Evaluation form after November 1. [Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSeN5On2ipeWYmdwOVgTLkzF4eER_l82R6d-lxOZ2VL4O6Z46w/viewform?usp=sf_link)  
+Please complete the  Evaluation form after November 1. **[Evaluation Form](https://docs.google.com/forms/d/e/1FAIpQLSeN5On2ipeWYmdwOVgTLkzF4eER_l82R6d-lxOZ2VL4O6Z46w/viewform?usp=sf_link)** 
 
 Note: Attendees receiving Continuing Education Credits **must** complete the evaluation form.
 
