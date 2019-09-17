@@ -16,9 +16,9 @@ The 37th Annual State Demography Summit will be held on Friday, November 1, 2019
 
 **Location: Arapahoe Community College, 5900 S Santa Fe Dr, Littleton, CO 80120.  The Summit Room**
 
-**[Venue map and directions](https://drive.google.com/uc?export=download&id=14JaBgH6UTqtC-9fnE0aYmUYTPh-LSg5P)**
-
 **Date and Time: Friday, November 1, 2019.  8:30 a.m. to 4:00 p.m.**  Doors open at 8:00 a.m.
+
+**[Venue map and directions](https://drive.google.com/uc?export=download&id=14JaBgH6UTqtC-9fnE0aYmUYTPh-LSg5P)**
 
 ### Registration Information 
 In-Person Attendance:  $60.00 per person
