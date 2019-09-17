@@ -36,11 +36,12 @@ The 37th Annual State Demography Summit presents
 See the full [agenda](agenda link) for details. 
 
 ### Continuing Education Credits
-6 hours of continuing education credits are available for *Real Estate Appraisers* and *Real Estate Brokers* through the Colorado Department of Regulatory Affairs and 
-for members of the *American Institute of Certified Planners (AICP)* through the American Planning Association.
+6 hours of continuing education credits are available for *Real Estate Appraisers* and *Real Estate Brokers* through the Colorado Department of Regulatory Affairs and for members of the *American Institute of Certified Planners (AICP)* through the American Planning Association.
 
 You can register for Continuing Education Credits when you register for the summit. 
+
 Attendees receiving Continuing Education Credits **must** complete the evaluation form after November 1, 2019. 
+
 Certificates will be issued by November 15, 2019.
 
 
