@@ -10,7 +10,7 @@ description: " 2019 Demography Summit."
 
 ## 2019 Annual State Demography Summit: November 1, 2019
 
-<div style="text-align:center"><img src ="https://drive.google.com/file/d/uc?export=view&13QFs3gzNq1Vn1Up1sfQ1yZdjob4X4Ni4" width="100%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/file/d/13QFs3gzNq1Vn1Up1sfQ1yZdjob4X4Ni4/view?usp=sharing" width="100%"/></div>
 
 The 37th Annual State Demography Summit will be held on Friday, November 1, 2019. 
 
