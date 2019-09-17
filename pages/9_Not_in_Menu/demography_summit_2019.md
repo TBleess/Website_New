@@ -33,7 +33,7 @@ The 37th Annual State Demography Summit presents
 * Updates on State Demography Office population estimates and forecasts, 
 * Federal, State, and Local perspectives on the 2020 Census, 
 * Demonstration of the new Census data portal, [data.census.gov](https://data.census.gov/cedsci/) and data tools available from the State Demography Office, and
-* Views of population growth in Colorado from the perspective of local experts.
+* Views on population growth in Colorado from the perspective of local experts.
 
 See the full [agenda](agenda link) for details. 
 
