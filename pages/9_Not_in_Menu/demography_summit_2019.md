@@ -22,7 +22,8 @@ The 37th Annual State Demography Summit will be held on Friday, November 1, 2019
 
 ### Registration Information 
 In-Person Attendance:  $60.00 per person
-Livestream Attendance: $30.00 per person
+
+Livestream Attendance: $30.00 per connection
 
 **[Registration Link](https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)**
 
@@ -31,7 +32,7 @@ Livestream Attendance: $30.00 per person
 The 37th Annual State Demography Summit presents 
 * Updates on State Demography Office population estimates and forecasts, 
 * Discusses Federal, State, and Local perspectives on the 2020 Census, 
-* Demonstrates the new Census data portal, [data.census.gov](https://data.census.gov/cedsci/) and data tools available from the State demography Office, and
+* Demonstrates the new Census data portal, [data.census.gov](https://data.census.gov/cedsci/) and data tools available from the State Demography Office, and
 * Presents perspectives on population growth in Colorado from the perspective of local experts.
 
 See the full [agenda](agenda link) for details. 
