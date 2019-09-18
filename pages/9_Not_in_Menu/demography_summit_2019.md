@@ -10,7 +10,7 @@ description: " 2019 Demography Summit."
 
 ## 2019 Annual State Demography Summit: November 1, 2019
 
-<div style="text-align:center"><img src ="https://drive.google.com/export=view?id=16dg9cs0WRb84ezQ6UwwtY7hNgYr0JsQv" width="100%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/export=view&id=16dg9cs0WRb84ezQ6UwwtY7hNgYr0JsQv" width="100%"/></div>
 
 This one day conference offers attendees the opportunity to learn about the most current population and economic conditions and forecasts for the state and its regions.  These plenary sessions will not only cover the data and information but also implications for planning, policy, business, and public services.  Experts share recent research and programs surrounding housing demand and supply and future plans for the region. Sessions will also cover the latest status of Census 2020 and new tools for accessing Census and State Demography Office data. 
 
