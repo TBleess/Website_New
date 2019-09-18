@@ -59,7 +59,7 @@ Please complete the  Evaluation form after November 1. **[Evaluation Form](https
 
 Note: Attendees receiving Continuing Education Credits **must** complete the evaluation form.
 
-The 36th Annual State Demography Summit was held on November 2rd, 2018. [Click here](/demography/publications-and-presentations/#annual-demography-summit-2018) for video and presentations.
-
 ### Questions?
 Please contact Adam Bickford at [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) if you have any questions.
+
+The 36th Annual State Demography Summit was held on November 2rd, 2018. [Click here](/demography/publications-and-presentations/#annual-demography-summit-2018) for video and presentations.
