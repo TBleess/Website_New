@@ -26,9 +26,9 @@ Agenda Topics
 
 - Housing demand and supply: understand the conditions and a vision for the future of the region.
 
-### Location: Arapahoe Community College, 5900 S Santa Fe Dr, Littleton, CO 80120.  The Summit Room
+**Location: Arapahoe Community College, 5900 S Santa Fe Dr, Littleton, CO 80120.  The Summit Room**
 
-### Date and Time: Friday, November 1, 2019.  8:30 a.m. to 4:00 p.m.**  Doors open at 8:00 a.m.
+**Date and Time: Friday, November 1, 2019.  8:30 a.m. to 4:00 p.m.**  Doors open at 8:00 a.m.
 
 **[Venue map and directions](https://drive.google.com/uc?export=download&id=14JaBgH6UTqtC-9fnE0aYmUYTPh-LSg5P)**
 
