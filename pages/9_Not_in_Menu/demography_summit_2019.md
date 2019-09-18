@@ -10,9 +10,21 @@ description: " 2019 Demography Summit."
 
 ## 2019 Annual State Demography Summit: November 1, 2019
 
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=13QFs3gzNq1Vn1Up1sfQ1yZdjob4X4Ni4" width="100%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/export=view?id=16dg9cs0WRb84ezQ6UwwtY7hNgYr0JsQv" width="100%"/></div>
 
-The 37th Annual State Demography Summit will be held on Friday, November 1, 2019. 
+This one day conference offers attendees the opportunity to learn about the most current population and economic conditions and forecasts for the state and its regions.  These plenary sessions will not only cover the data and information but also implications for planning, policy, business, and public services.  Experts share recent research and programs surrounding housing demand and supply and future plans for the region. Sessions will also cover the latest status of Census 2020 and new tools for accessing Census and State Demography Office data. 
+
+Agenda Topics
+
+- Updates on State Demography Office population estimates and forecasts,
+
+- Federal, State, and Local updates and perspectives on the 2020 Census,
+
+- Demonstration of the new Census data portal, [data.census.gov](https://data.census.gov/cedsci/),
+
+- Data tools available from the State Demography Office, and
+
+- Housing demand and supply: understand the conditions and a vision for the future of the region.
 
 **Location: Arapahoe Community College, 5900 S Santa Fe Dr, Littleton, CO 80120.  The Summit Room**
 
@@ -21,6 +33,7 @@ The 37th Annual State Demography Summit will be held on Friday, November 1, 2019
 **[Venue map and directions](https://drive.google.com/uc?export=download&id=14JaBgH6UTqtC-9fnE0aYmUYTPh-LSg5P)**
 
 ### Registration Information 
+
 In-Person Attendance:  $60.00 per person
 
 Livestream Attendance: $30.00 per connection
@@ -28,16 +41,6 @@ Livestream Attendance: $30.00 per connection
 **[Registration Link](https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)**
 
 ### Summit Agenda
-
-The 37th Annual State Demography Summit presents 
-
-- Updates on State Demography Office population estimates and forecasts, 
-
-- Federal, State, and Local perspectives on the 2020 Census, 
-
-- Demonstration of the new Census data portal, [data.census.gov](https://data.census.gov/cedsci/) and data tools available from the State Demography Office, and
-
-- Views on population growth in Colorado from the perspective of local experts.
 
 See the full [agenda](agenda link) for details. 
 
