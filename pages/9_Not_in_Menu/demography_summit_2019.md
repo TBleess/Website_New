@@ -44,7 +44,7 @@ Livestream Attendance: $30.00 per connection
 
 ### Summit Agenda
 
-See the full [agenda](https://drive.google.com/uc?export=download&id=15IH4lAyNmx4KZFEQZKtNuYFKEgktjCiA) for details. 
+See the full **[agenda](https://drive.google.com/uc?export=download&id=15IH4lAyNmx4KZFEQZKtNuYFKEgktjCiA)** for details. 
 
 ### Continuing Education Credits
 6 hours of continuing education credits are available for *Real Estate Appraisers* and *Real Estate Brokers* through the Colorado Department of Regulatory Affairs and for members of the *American Institute of Certified Planners (AICP)* through the American Planning Association.
