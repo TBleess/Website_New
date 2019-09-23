@@ -57,7 +57,9 @@ Certificates will be issued by November 15, 2019.
 
 
 ### Summit Evaluation 
-Please complete the  Evaluation form after November 1. **[Evaluation Form](https://docs.google.com/forms/d/e/1FAIpQLSeN5On2ipeWYmdwOVgTLkzF4eER_l82R6d-lxOZ2VL4O6Z46w/viewform?usp=sf_link)** 
+Please complete the  Evaluation form after November 1. 
+
+**[Evaluation Form](https://docs.google.com/forms/d/e/1FAIpQLSeN5On2ipeWYmdwOVgTLkzF4eER_l82R6d-lxOZ2VL4O6Z46w/viewform?usp=sf_link)** 
 
 Note: Attendees receiving Continuing Education Credits **must** complete the evaluation form.
 
