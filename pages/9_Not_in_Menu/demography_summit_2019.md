@@ -12,7 +12,9 @@ description: " 2019 Demography Summit."
 
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=16dg9cs0WRb84ezQ6UwwtY7hNgYr0JsQv" width="100%"/></div>
 
-This one day conference offers attendees the opportunity to learn about the most current population and economic conditions and forecasts for the state and its regions.  These plenary sessions will not only cover the data and information but also implications for planning, policy, business, and public services.  Experts share recent research and programs surrounding housing demand and supply and future plans for the region. Sessions will also cover the latest status of Census 2020 and new tools for accessing Census and State Demography Office data. 
+**[Registration Link](https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)**
+  
+This one day conference offers attendees the opportunity to learn about the most current population and economic conditions and forecasts for the state and its regions.  These plenary sessions will not only cover the data and information but also implications for planning, policy, business, and public services.  Experts will share recent research and programs surrounding housing demand and supply and future plans for the region. Sessions will also cover the latest status of Census 2020 and new tools for accessing Census and State Demography Office data. 
 
 Agenda Topics
 
@@ -24,7 +26,7 @@ Agenda Topics
 
 - Data tools available from the State Demography Office, and
 
-- Housing demand and supply: understand the conditions and a vision for the future of the region.
+- Housing Supply and Demand: Why the disequilibrium? Impacts to households and potential solutions
 
 **Location: Arapahoe Community College, 5900 S Santa Fe Dr, Littleton, CO 80120.  The Summit Room**
 
