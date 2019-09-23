@@ -26,7 +26,7 @@ Agenda Topics
 
 - Data tools available from the State Demography Office, and
 
-- Housing Supply and Demand: Why the disequilibrium? Impacts to households and potential solutions
+- Housing Supply and Demand: Why the disequilibrium? Impacts on households and potential solutions
 
 **Location: Arapahoe Community College, 5900 S Santa Fe Dr, Littleton, CO 80120.  The Summit Room**
 
