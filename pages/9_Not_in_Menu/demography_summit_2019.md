@@ -10,7 +10,7 @@ description: " 2019 Demography Summit."
 
 ## 2019 Annual State Demography Summit: November 1, 2019
 
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=16dg9cs0WRb84ezQ6UwwtY7hNgYr0JsQv" width="100%"/></div>
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1a2XqUcR3ZVBrEi7p7AmkkagGisdUj0qQ" width="100%"/></div>
 
 **[Register for the 2019 Annual Demography Summit](https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)**
   
@@ -44,7 +44,7 @@ Livestream Attendance: $30.00 per connection
 
 ### Summit Agenda
 
-See the full [agenda](agenda link) for details. 
+See the full [agenda](https://drive.google.com/uc?export=download&id=15IH4lAyNmx4KZFEQZKtNuYFKEgktjCiA) for details. 
 
 ### Continuing Education Credits
 6 hours of continuing education credits are available for *Real Estate Appraisers* and *Real Estate Brokers* through the Colorado Department of Regulatory Affairs and for members of the *American Institute of Certified Planners (AICP)* through the American Planning Association.
