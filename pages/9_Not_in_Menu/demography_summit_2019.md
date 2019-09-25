@@ -57,11 +57,7 @@ Certificates will be issued by November 15, 2019.
 
 
 ### Summit Evaluation 
-Please complete the  Evaluation form after November 1. 
-
-**[Evaluation Form](https://docs.google.com/forms/d/e/1FAIpQLSeN5On2ipeWYmdwOVgTLkzF4eER_l82R6d-lxOZ2VL4O6Z46w/viewform?usp=sf_link)** 
-
-Note: Attendees receiving Continuing Education Credits **must** complete the evaluation form.
+We are collecting Summit evaluations online this year.  Please return to this page to complete your evaluation after 4:00 p.m. on  November 1, 2019.
 
 ### Questions?
 Please contact Adam Bickford at [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) if you have any questions.
