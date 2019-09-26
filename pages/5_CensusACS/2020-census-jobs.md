@@ -12,16 +12,6 @@ Last Updated: 9/10/2019
 
 ## The Census is Hiring - Apply Now!
 
-## Census Job Fair  Friday, September 13, 2019
-Hosted by Congresswoman Diana DeGette.  Representing the 1st  District of Colorado.
- 
-Learn about working for the 2020 U.S. Census
-
-**Location: Rodolfo "Corky" Gonzalez Library
-1498 Irving Street, Denver, CO 80204
-10:00 a.m. to 12:00 p.m.**
-
-
 ## Field and Enumerator Positions
 The Census Bureau is hiring temporary employees for the 2020 Census. Census jobs offer weekly pay, competitive pay rates, flexible hours, and paid training. By joining the 2020 Census team, you can support your community while getting paid to do it.  
 
