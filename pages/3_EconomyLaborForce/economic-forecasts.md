@@ -26,6 +26,4 @@ In the spreadsheets the region total is listed first followed by the counties wi
 - [Regions 1 through 8](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESR3k2TW1ZN0J5bTQ)
 - [Regions 9 through 14](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESMDhxN0ItSXB3NXM)
 
-Economic Variables
 
-- [State](https://drive.google.com/uc?export=download&id=1JgHf6Ox7lJ8Cvbu1wDEPWJZS44D9Za-9)
