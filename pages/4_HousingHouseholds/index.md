@@ -22,8 +22,8 @@ description: "Directory of Housing and Household resources."
 
 #### Also Available:
 
-- [Estimates Methodology ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRSl9pcU9Sek9aQzA)
-- [Definition of Sub-State Regions ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B0m67XbcqVYRMDUyMTRoRkdEVzg)
+- [Estimates Methodology ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1gmdFABEgBUrWan7_cSsCCE9V-oUjc-bb/view?usp=sharing)
+- [Definition of Sub-State Regions ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1VD0UHLHICMT2w3fjOFU1aXylzvzRRIpW/view?usp=sharing)
 - [Planning Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PlanningManagement8x11.pdf)
 
 - - -
