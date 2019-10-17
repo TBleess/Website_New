@@ -13,7 +13,10 @@ description: "Census Fraud Page"
  
  The decennial Census is the largest single non-defense activity conducted by the Federal Government. 
  The Census Bureau provides resources and information to identify legitimate census data collection efforts and avoid census scams.  
- The links below highlight ways to identify census scams and to protect your personal information 
+ The links below highlight ways to identify census scams and to protect your personal information. 
+ 
+### Types of Census Hoaxes
+[Beware of scammy census surveys] (https://www.consumeraffairs.com/news/beware-of-scammy-census-surveys-but-dont-ignore-the-real-ones-011215.html)
  
 ### Avoiding Phising Scams Online
  Phishing is a criminal act in which someone tries to get your information by pretending to be an entity that you trust. 
