@@ -6,7 +6,7 @@ datalink: "/data/#census-fraud"
 description: "Census Fraud Page"
 ---
 
- ## 2020 Census Fraud Detection
+ ## 2020 Census Fraud Detection and Census Scams
  
  Last Update:  10/19/2019
  
@@ -25,14 +25,13 @@ Further, during the 2020 Census, the Census Bureau will never ask for:
  - Your Social Security number.
  - Your bank account or credit card numbers.
  - Money or donations.
-In addition, the Census Bureau w
-ill not contact you on behalf of a political party. 
+ 
+In addition, the Census Bureau will not contact you on behalf of a political party. 
  
  See [Verify a Census Bureau Survey, Mailing, or Contact](https://www.census.gov/programs-surveys/surveyhelp/verify-a-survey.html)
  
  ### How Can You Verify That Someone Is a Census Worker?
- 
- 
+  
  If you are visited by someone from the Census Bureau, here are some ways to verify the individual is a Census Bureau employee:
 
 The field representative will present an ID badge that includes:
