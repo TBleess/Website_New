@@ -58,6 +58,8 @@ In fact, every employee takes an oath to protect your personal information for l
  ## Known Census Scams
 
  The list below identifies census scams the State Demography Office is aware of.
- Please help us keep this list updated.  Please contact Adam Bickford at [adam.bickford@state.co.us](maito:adam.bickford@state.co.us)
+ Please help us keep this list updated.  
+ 
+ Please contact Adam Bickford at [adam.bickford@state.co.us](maito:adam.bickford@state.co.us) if you encounter a Census Scam.
 
  - [RNC 2019 Congressional District Census](https://www.washingtonpost.com/politics/2019/09/30/rnc-solicited-money-trumps-reelection-with-forms-that-look-lot-like-official-census/) 
