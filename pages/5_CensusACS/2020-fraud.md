@@ -11,7 +11,7 @@ description: "Census Fraud Page"
  Last Update:  10/19/2019
  
  
- The 2020 Census is the largest single non-defense activity conducted by the Federal Government. 
+ The decennial Census is the largest single non-defense activity conducted by the Federal Government. 
  The Census Bureau provides resources and information to identify legitimate census data collection efforts and avoid census scams.  
  The links below highlight ways to identify census scams and to protect your personal information 
  
