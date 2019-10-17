@@ -50,6 +50,9 @@ The last day for Livestream Registration is **Wednesday, October 30.**
 
 See the full **[agenda](https://drive.google.com/uc?export=download&id=15IH4lAyNmx4KZFEQZKtNuYFKEgktjCiA)** for details. 
 
+### Conference Materials
+The State Demography Office is conserving resources by posting all conference documents online.  Please access the avaialble documents below:
+
 ### Continuing Education Credits
 6 hours of continuing education credits are available for *Real Estate Appraisers* and *Real Estate Brokers* through the Colorado Department of Regulatory Affairs and for members of the *American Institute of Certified Planners (AICP)* through the American Planning Association.
 
@@ -61,7 +64,8 @@ Certificates will be issued by November 15, 2019.
 
 
 ### Summit Evaluation 
-We are collecting Summit evaluations online this year.  Please return to this page to complete your evaluation after 4:00 p.m. on  November 1, 2019.
+We are collecting Summit evaluations online this year.  Please complete the evaluation by clicking [here.](https://docs.google.com/a/state.co.us/forms/d/e/1FAIpQLSeN5On2ipeWYmdwOVgTLkzF4eER_l82R6d-lxOZ2VL4O6Z46w/closedform)
+The evaluation form will accept responses after 4:00 p.m. on  November 1, 2019.  
 
 ### Questions?
 Please contact Adam Bickford at [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) if you have any questions.
