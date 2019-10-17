@@ -53,7 +53,7 @@ See [How to Identify a Census Employee?](https://www.census.gov/about/regions/de
 The U.S. Census Bureau is bound by law to protect your answers and keep them strictly confidential. 
 In fact, every employee takes an oath to protect your personal information for life.
  
- See[How the Census Bureau protects your data.](https://2020census.gov/en/data-protection.html)
+ See [How the Census Bureau protects your data.](https://2020census.gov/en/data-protection.html)
  
 ## Known Census Scams
 
