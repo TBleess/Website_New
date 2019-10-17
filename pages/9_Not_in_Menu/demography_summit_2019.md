@@ -64,7 +64,7 @@ Certificates will be issued by November 15, 2019.
 
 
 ### Summit Evaluation 
-We are collecting Summit evaluations online this year.  Please complete the evaluation by clicking [here.](https://docs.google.com/a/state.co.us/forms/d/e/1FAIpQLSeN5On2ipeWYmdwOVgTLkzF4eER_l82R6d-lxOZ2VL4O6Z46w/closedform)
+We are collecting Summit evaluations online this year.  Please complete the evaluation by clicking [here.](https://docs.google.com/a/state.co.us/forms/d/e/1FAIpQLSeN5On2ipeWYmdwOVgTLkzF4eER_l82R6d-lxOZ2VL4O6Z46w/viewform)
 The evaluation form will accept responses after 4:00 p.m. on  November 1, 2019.  
 
 ### Questions?
