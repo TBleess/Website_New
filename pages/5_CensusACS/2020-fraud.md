@@ -6,7 +6,7 @@ datalink: "/data/#census-fraud"
 description: "Census Fraud Page"
 ---
 
- ## 2020 Census Fraud Detection and Census Scams
+## 2020 Census Fraud Detection and Census Scams
  
  Last Update:  10/19/2019
  
@@ -15,7 +15,7 @@ description: "Census Fraud Page"
  The Census Bureau provides resources and information to identify legitimate census data collection efforts and avoid census scams.  
  The links below highlight ways to identify census scams and to protect your personal information 
  
- ### Avoiding Phising Scams Online
+### Avoiding Phising Scams Online
  Phishing is a criminal act in which someone tries to get your information by pretending to be an entity that you trust. 
  Phishing emails often direct you to a website that looks real but is fake—and may be infected with malware.
 
@@ -30,7 +30,7 @@ In addition, the Census Bureau will not contact you on behalf of a political par
  
  See [Verify a Census Bureau Survey, Mailing, or Contact](https://www.census.gov/programs-surveys/surveyhelp/verify-a-survey.html)
  
- ### How Can You Verify That Someone Is a Census Worker?
+### How Can You Verify That Someone Is a Census Worker?
   
  If you are visited by someone from the Census Bureau, here are some ways to verify the individual is a Census Bureau employee:
 
@@ -49,13 +49,13 @@ The Regional Office supervises the activities of all field representatives in yo
 
 See [How to Identify a Census Employee?](https://www.census.gov/about/regions/denver/contact/identify.html)
 
- ### How the Census Bureau Protects Your Data
+### How the Census Bureau Protects Your Data
 The U.S. Census Bureau is bound by law to protect your answers and keep them strictly confidential. 
 In fact, every employee takes an oath to protect your personal information for life.
  
  See[How the Census Bureau protects your data.](https://2020census.gov/en/data-protection.html)
  
- ## Known Census Scams
+## Known Census Scams
 
  The list below identifies census scams the State Demography Office is aware of.
  Please help us keep this list updated.  
