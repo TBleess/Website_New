@@ -22,9 +22,6 @@ Historical Census data is available from the [National Historical Geographic Inf
 
 These data are produced by the [U.S. Census Bureau](https://www.census.gov/programs-surveys/popest.html) for the U.S. and States, from 2010 to current.
 
-- [U.S. & States, Cumulative Change ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B_M7zgfu2piFWGNTR2EyQkFmZ1k)
-- [U.S. & States, Annual Change ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B_M7zgfu2piFZ3htcFJfOGhlSkk)
-
 - - -
 
 #### Population Forecasts - years
