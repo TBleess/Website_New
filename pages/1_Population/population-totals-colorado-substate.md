@@ -22,7 +22,7 @@ Historical Census data can also be obtained through the [National Historical Geo
 
 #### Population Estimates - years (1985 to Current)
 
-Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2017 and was finalized in August of 2018.
+Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2018 and was finalized in September of 2019.
 
 - [Final Estimates, State, Sub-state regions, and Counties 2000 to current ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1twwLftSlyrA1L6hzfxjueg8F1ohuCaNt)
 
