@@ -6,15 +6,17 @@ permalink: "/census-acs/2020-response-tracker/"
 description: "Census 2020 Response Tracker"
 ---
 
-Last Updated: 07/18/2019
+Last Updated:10/21/2019
 
-## Census 2020 Response Tracker<br>
+## Census Type of Enumeraton Area Viewer (TEA)
  
- This page will host the *Census 2020 Response Tracker.*
+ The *Census Type of Enumeration Area Viewer (TEA)* shows census tracts that will receive census forms through the "Update/Leave" and "Update/Enumerate" programs. These programs are designed to serve rural areas with homes that do not have standard street addresses. The census bureau estimates that five percent of  homes nationwide will be enumerated using these programs. 
  
- Beginning in April 2020, communities can use this page to track the number of census forms returned.  
- Information about census form returns and response rate goals will be available in an interactive format.
+- Homes that are part of the "Update/Leave" program will be visited by a census enumerator, who will leave a census form behind for the household to complete. 
+- Homes that are part of the "Update/Enumerate" program will be visited by an enumerator, who will complete the census form during their visit with a household.  The "Update/Enumerate" program is focused on remote areas in Alaska and Northern Maine. 
  
+See the Type of Enumeration Area Viewer at [https://www.census.gov/newsroom/press-releases/2019/tea-viewer.html](https://www.census.gov/newsroom/press-releases/2019/tea-viewer.html)
+
 ## Census Response Outreach Area Mapper (ROAM) and other resources to identify Hard to Count Populations
  
 ### Colorado Counties and Census Tracts Identifier Map
@@ -55,14 +57,11 @@ This paper describes how the Low Response Score (LRS) is calculated and identifi
 
 * [The Low Response Score (LRS): A Metric to Locate, Predict, and Manage Hard-to-Survey Populations (2016)](https://academic.oup.com/poq/article/81/1/144/2649123?guestAccessKey=b8ecff7b-e929-400d-a35c-6a434a094fd0)
 
-
  
-## Census Type of Enumeraton Area Viewer (TEA)<br>
+ ## Census 2020 Response Tracker<br>
  
- The *Census Type of Enumeration Area Viewer (TEA)* shows census tracts that will receive census forms through the "Update/Leave" and "Update/Enumerate" programs. These programs are designed to serve rural areas with homes that do not have standard street addresses. The census bureau estimates that five percent of  homes nationwide will be enumerated using these programs. 
+ This page will host the *Census 2020 Response Tracker.*
  
-- Homes that are part of the "Update/Leave" program will be visited by a census enumerator, who will leave a census form behind for the household to complete. 
-- Homes that are part of the "Update/Enumerate" program will be visited by an enumerator, who will complete the census form during their visit with a household.  The "Update/Enumerate" program is focused on remote areas in Alaska and Northern Maine. 
- 
-See the Type of Enumeration Area Viewer at [https://www.census.gov/newsroom/press-releases/2019/tea-viewer.html](https://www.census.gov/newsroom/press-releases/2019/tea-viewer.html)
+ Beginning in April 2020, communities can use this page to track the number of census forms returned.  
+ Information about census form returns and response rate goals will be available in an interactive format.
  
