@@ -20,7 +20,7 @@ datalink: "/population/data"
 - [Counties](/population/population-totals-counties#population-totals-for-colorado-counties)
 - [Municipalities](/population/population-totals-municipalities#population-totals-for-colorado-municipalities)
 
-**Note:** The State Demography Office has produced an update to its population estimates and forecasts to incorporate the recently released 2010 Census count population totals. The files are available with the 2010 Census data.
+**Note:** The State Demography Office updates its population estimates and forecasts annually in the fall. The current estimates are based on 2010 Census count population totals and are re-benched each decade with the release of the decennial Census count. 
 
 ### Additional Population information:
 
