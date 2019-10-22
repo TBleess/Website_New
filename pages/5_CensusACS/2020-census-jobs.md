@@ -8,7 +8,14 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
-Last Updated: 9/10/2019
+Last Updated: 10/22/2019
+
+## Nationwide Census Recruiting Events
+
+The U.S. Census Bureau launched a national recruitment effort today to hire approximately 500,000 temporary workers to help conduct the 2020 Census. Nearly 4,000 local recruiting events are scheduled to take place this week in communities across the nation.
+
+[Find an event near you](https://2020census.gov/en/news-events/recruitment-campaign.html?utm_campaign=20191022msc20s2ccallrs&utm_medium=email&utm_source=govdelivery)
+
 
 ## The Census is Hiring - Apply Now!
 
