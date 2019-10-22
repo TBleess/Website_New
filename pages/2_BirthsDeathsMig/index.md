@@ -14,8 +14,10 @@ description: "Colorado components of change data.  Births, deaths and migration 
 
 ### U.S. & States
 
-- [IRS State to State Migration ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7TVRiYlI5RnR0Tms) This excel table presents data prepared by the IRS on state-to-state migration flows. The data are taken from the Master File of Individual Income Tax returns filed with the IRS. For a more detailed description, open our [IRS State to State Migration Flows Information Document ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7QU1zLWdsV0NuMEE).
+- The [U.S. Population Migration Data (IRS.gov)](https://www.irs.gov/statistics/soi-tax-stats-migration-data) Migration data for the United States are based on year-to-year address changes reported on individual income tax returns filed with the IRS. They present migration patterns by State or by county for the entire United States and are available for inflows, the number of new residents who moved to a State or county and where they migrated from, and outflows, the number of residents leaving a State or county and where they went.
 - The [U.S. Census Bureau\'s Estimates Program (census.gov)](https://www.census.gov/programs-surveys/popest/data.html) produces annual data on births, deaths (natural increase) and net migration.
+- The [U.S. Census Bureau\'s Migration Flows Mapper (census.gov)](https://flowsmapper.geo.census.gov) is a web mapping application intended to provide users with a simple interface to view and save county-to-county migration flows maps of the United States. The data are from the 2006-2010, 2007-2011, 2008-2012, 2009-2013, 2010-2014, 2011-2015, 2012-2016, and 2013-2017 American Community Surveys.
+
 
 - - -
 
