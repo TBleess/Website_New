@@ -12,7 +12,7 @@ Last Updated: 10/23/2019
 
 ## Aurora Census Coordinator RFP 10/28/2019
 
-The City of Aurora has issued an RFP for a Census Coordinator to assist with its Census outreach work.  Applications are due on Octiber 28, 2019
+The City of Aurora has issued an RFP for a Census Coordinator to assist with its Census outreach work.  Applications are due on October 28, 2019.
 
 [Find the RFP here](https://drive.google.com/open?id=1YI6Dx3XYaiXulzu4_BYyMr3zm0J-bmiV)
 
