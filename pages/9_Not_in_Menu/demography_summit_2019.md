@@ -40,8 +40,6 @@ In-Person Registration has closed. Livestream Registration is still available.
 
 Livestream Attendance: $30.00 per connection
 
-The last day for In-Person Registration is **Friday, October 25.**
-
 The last day for Livestream Registration is **Wednesday, October 30.**
 
 **[Registration Link](https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)**
