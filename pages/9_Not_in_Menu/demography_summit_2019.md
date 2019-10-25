@@ -36,7 +36,7 @@ Agenda Topics
 
 ### Registration Information 
 
-In-Person Attendance:  $60.00 per person
+In-Person Registration has closed. Livestream Registration is still available.
 
 Livestream Attendance: $30.00 per connection
 
