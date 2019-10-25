@@ -20,11 +20,11 @@ Applications are due on November 6, 2019.
 
 [Find the RFP here](https://drive.google.com/open?id=1YI6Dx3XYaiXulzu4_BYyMr3zm0J-bmiV)
 
-## Nationwide Census Recruiting Events
+## Census 2020 National Recruiting Campaign
 
 The U.S. Census Bureau launched a national recruitment effort today to hire approximately 500,000 temporary workers to help conduct the 2020 Census. Nearly 4,000 local recruiting events are scheduled to take place this week in communities across the nation.
 
-[Find an event near you](https://2020census.gov/en/news-events/recruitment-campaign.html?utm_campaign=20191022msc20s2ccallrs&utm_medium=email&utm_source=govdelivery)
+[Find an event near you](https://www.census.gov/library/stories/2019/10/2020-census-recruitment-campaign-kicks-off-today.html?utm_campaign=20191025msacos1ccstors&utm_medium=email&utm_source=govdelivery)
 
 
 ## The Census is Hiring - Apply Now!
