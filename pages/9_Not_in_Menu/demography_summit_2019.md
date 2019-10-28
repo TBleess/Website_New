@@ -59,9 +59,9 @@ The State Demography Office is conserving resources by posting all conference do
 
 - [Population Projections by Region](https://drive.google.com/uc?export=download&id=1z0WIi0vUhdiNIDr_hhDci-Z75mweFet9)
 
--[Population Estimates for Counties and Municipalities](https://drive.google.com/uc?export=download&id=1S7ys_qBRoO5425t8JL8IorOhBoNLoBqx)
+- [Population Estimates for Counties and Municipalities](https://drive.google.com/uc?export=download&id=1S7ys_qBRoO5425t8JL8IorOhBoNLoBqx)
 
--[Components of Change](https://drive.google.com/uc?export=download&id=1SRM0nXP0CbEpy7BM7loAr1TBydFLP3G7)
+- [Components of Change](https://drive.google.com/uc?export=download&id=1SRM0nXP0CbEpy7BM7loAr1TBydFLP3G7)
 
 ### Continuing Education Credits
 6 hours of continuing education credits are available for *Real Estate Appraisers* and *Real Estate Brokers* through the Colorado Department of Regulatory Affairs and for members of the *American Institute of Certified Planners (AICP)* through the American Planning Association.
