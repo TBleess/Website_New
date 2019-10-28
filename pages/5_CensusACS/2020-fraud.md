@@ -37,9 +37,13 @@ In addition, the Census Bureau will not contact you on behalf of a political par
  If you are visited by someone from the Census Bureau, here are some ways to verify the individual is a Census Bureau employee:
 
 The field representative will present an ID badge that includes:
+
 - their name,
+
 - their photograph,
+
 - a Department of Commerce watermark, and
+
 - an expiration date.
  
 A field representative will be carrying an official bag with the Census Bureau logo or a laptop for conducting the survey.
