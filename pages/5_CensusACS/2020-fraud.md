@@ -33,6 +33,22 @@ In addition, the Census Bureau will not contact you on behalf of a political par
  
  See [Verify a Census Bureau Survey, Mailing, or Contact](https://www.census.gov/programs-surveys/surveyhelp/verify-a-survey.html)
  
+### Staying Safe at Home
+
+If someone visits your home to collect a response for the 2020 Census, you can do the following to verify their identity:
+
+Check to make sure that they have 
+- a valid ID badge, with their photograph, 
+
+- a U.S. Department of Commerce watermark, and 
+
+- an expiration date.
+If you still have questions about their identity, call 800-923-8282 to speak with a Census Bureau representative.
+
+### Reporting Suspected Fraud
+
+If you suspect fraud, call 800-923-8282 to speak with a Census Bureau representative. If it is determined that the visitor does not work for the Census Bureau, contact your local police department.
+ 
 ### How Can You Verify That Someone Is a Census Worker?
   
  If you are visited by someone from the Census Bureau, here are some ways to verify the individual is a Census Bureau employee:
