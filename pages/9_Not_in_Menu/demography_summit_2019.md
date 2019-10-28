@@ -45,23 +45,7 @@ The last day for Livestream Registration is **Wednesday, October 30.**
 **[Registration Link](https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)**
 
 ### Conference Materials
-The State Demography Office is conserving resources by posting all conference documents online.  Click on the links below to access the conference materails:
-
-- [Confernce Agenda](https://drive.google.com/uc?export=download&id=190FbrlpDo7-NGOlFjiwFvp4I0x7RLvfv)
-
-- [Speaker Biographies](https://drive.google.com/uc?export=download&?id=1U5_c7G_Mhn_CR7HRsPtqT3PQeu7nxNFJ)
-
-- [Colorado Planning and Management Regional Map](https://drive.google.com/uc?export=download&id=1dmP03jMT8ajh2AtyPycT9XcJYkTRwsFA)
-
-- [Demographic Glossary](https://drive.google.com/uc?export=download&id=13NtPanLZk7V1iRD-6W9JoPRY-HjoYkQP)
-
-- [Population Projections by County](https://drive.google.com/uc?export=download&id=1NK7IYsOx0eqzgxJXLnvaeQIru8KRmASF)
-
-- [Population Projections by Region](https://drive.google.com/uc?export=download&id=1z0WIi0vUhdiNIDr_hhDci-Z75mweFet9)
-
-- [Population Estimates for Counties and Municipalities](https://drive.google.com/uc?export=download&id=1S7ys_qBRoO5425t8JL8IorOhBoNLoBqx)
-
-- [Components of Change](https://drive.google.com/uc?export=download&id=1SRM0nXP0CbEpy7BM7loAr1TBydFLP3G7)
+The State Demography Office is conserving resources by posting all conference documents online on October 31.  
 
 ### Continuing Education Credits
 6 hours of continuing education credits are available for *Real Estate Appraisers* and *Real Estate Brokers* through the Colorado Department of Regulatory Affairs and for members of the *American Institute of Certified Planners (AICP)* through the American Planning Association.
