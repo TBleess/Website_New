@@ -36,13 +36,9 @@ Agenda Topics
 
 ### Registration Information 
 
-In-Person Registration has closed. Livestream Registration is still available.
+Tickets to the 37th State Demography Summit are sold out.  Thank you to everyone registered for this conference.
 
-Livestream Attendance: $30.00 per connection
-
-The last day for Livestream Registration is **Wednesday, October 30.**
-
-**[Registration Link](https://www.eventbrite.com/e/37th-annnual-state-demography-summit-tickets-59855650863)**
+Summit videos and presentations will be posted on the SDO [Publications and Presentations](/demography/publications-and-presentations/) page in December, 2019.
 
 ### Conference Materials
 The State Demography Office is conserving resources by posting all conference documents online on October 31.  
