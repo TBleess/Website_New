@@ -8,7 +8,11 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
-Last Updated: 10/23/2019
+Last Updated: 10/31/2019
+
+## Partnership Specialist, GG-0301-12-Census-EXT-DH Arora
+
+Full time partnership specialist posttion serving Aurora:  [Click here for details](https://www.usajobs.gov/GetJob/ViewDetails/550061700)
 
 ## Aurora Census Coordinator RFP 11/06/2019
 
