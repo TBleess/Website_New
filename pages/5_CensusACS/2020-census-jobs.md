@@ -8,21 +8,7 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
-Last Updated: 10/31/2019
-
-## Partnership Specialist, GG-0301-12-Census-EXT-DH Arora
-
-Full time partnership specialist posttion serving Aurora:  [Click here for details](https://www.usajobs.gov/GetJob/ViewDetails/550061700)
-
-## Aurora Census Coordinator RFP 11/06/2019
-
-The City of Aurora has issued an RFP for a Census Coordinator to assist with its Census outreach work.  
-
-The pre-proposal conferences is scheduled for 11:00 a.m. on October 28, 2019.
-
-Applications are due on November 6, 2019.
-
-[Find the RFP here](https://drive.google.com/open?id=1YI6Dx3XYaiXulzu4_BYyMr3zm0J-bmiV)
+Last Updated: 11/07/2019
 
 ## Census 2020 National Recruiting Campaign
 
