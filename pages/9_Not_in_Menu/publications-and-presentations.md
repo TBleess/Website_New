@@ -72,28 +72,30 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
 - - -
 
-#### Annual Demography Summit 2018
+#### Annual Demography Summit 2019
 
-- Handouts and Presentations
-  - [Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1l_vI5hM4FSn2_OdK8aLs2gaDoRhcwbXf)
-  - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=14KXxXvUmjybzQ5N11emrXyULa6bB3Uit)
-  - [Colorado Planning & Management Region Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2FMBVetYCVCcWRFN1lSZWFfRms)
-  - [Components of Change](https://demography.dola.colorado.gov/births-deaths-migration/)
-  - [County and Municipality Population Estimates Data](https://demography.dola.colorado.gov/population/population-totals-municipalities/#population-totals-for-colorado-municipalities)
-  - [Population Forecasts Data](https://demography.dola.colorado.gov/population/population-totals-counties/#population-totals-for-colorado-counties)
-  - [Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University](https://gwipp.gwu.edu/counting-dollars-2020-role-decennial-census-geographic-distribution-federal-funds) 
-  - [Estimating Colorado's Population ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1192LVTfiL3p8VBAYrqonKSnpLhd5IdZT)
-  - [Where do we Grow from Here? Population Projections ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1qIhkID40xuCwOYMYwjto4QQEBrxpuBxe)
-  - [Economic Outlook ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1rBhtW_I-L7ZonghR0jNUG4egYkSm22rg)
-  - [State Demography Office Data Tools ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1vXkuN6Wq5H4iNd1jjuiVRvdxvopHKmLi)
-  - [Preparing for 2020 Census ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1T2QAzoY-3JnkPe2g5QNg1gX3y2-7EYdI)
-  - [Tour of the State Demography Office Website ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1uBIqjFalnRC15wPLWl3IBwjblcfPbJTz)
-  - [Gigs vs. Jobs![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1uXcksCF8eZ3p1GF5P1JVUTzNG3sl1BJc)
-  - [What is Colorado Schools were Number 1? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=16M3eRItvykPfK8-fqMkANrQxNr3_EiuK)
-  - [Introduction to the Gallagher Amendment ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1_wcUwvL7Jx87VWExwR7VMn4l9pY723lq)
-  - [The Gallagher Amendment and Local Tax Revenues: Issues and Solutions? ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1KbbNrt7iOFBqaapPLq03lb0M18E7HSbB)
+- Handouts 
+ - [Conference Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1icenN570mJFaa7bAqCEncVfyVrhPfVj1)
+
+ - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1U5_c7G_Mhn_CR7HRsPtqT3PQeu7nxNFJ)
+
+ - [Colorado Planning and Management Regional Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1dmP03jMT8ajh2AtyPycT9XcJYkTRwsFA)
+
+ - [Demographic Glossary ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=13NtPanLZk7V1iRD-6W9JoPRY-HjoYkQP)
+
+ - [Population Projections by County ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1NK7IYsOx0eqzgxJXLnvaeQIru8KRmASF)
+
+ - [Population Projections by Region ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1z0WIi0vUhdiNIDr_hhDci-Z75mweFet9)
+
+ - [Population Estimates for Counties and Municipalities ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1S7ys_qBRoO5425t8JL8IorOhBoNLoBqx)
+
+ - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1SRM0nXP0CbEpy7BM7loAr1TBydFLP3G7)
+ 
+-Presentations
+
+ 
   
- **View the video of the Summit sessions [here](https://dola.ompnetwork.org/embed/sessions/94859?embedInPoint=1&embedOutPoint=31075&shareMethod=embed).**
+ **View the video of the Summit sessions [here](https://dola.ompnetwork.org/sessions/120159?embedInPoint=1&embedOutPoint=29819&shareMethod=embed).**
  
  
  
@@ -101,6 +103,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 ---
 
 #### Past Conferences
+ - [Annual Conference Page 2018](/demography/annual-demography-summit-2018/#annual-demography-summit-videos-2018)
  - [Annual Conference Page 2017](/demography/annual-demography-summit-2017/#annual-demography-summit-videos-2017)
  - [Annual Conference Page 2016](/demography/annual-demography-summit-2016/#annual-demography-summit-videos-2016)
  - [Annual Conference Page 2015](/demography/annual-demography-meeting-2015/#annual-demography-meeting-videos-2015)
