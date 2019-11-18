@@ -26,8 +26,6 @@ description: "Video Presentations from the 2018 Annual Demography Summit."
   - [The Gallagher Amendment and Local Tax Revenues: Issues and Solutions", Jo Ann Groff, DOLA and Larson Silbaugh, Legislative Council Staff ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1KbbNrt7iOFBqaapPLq03lb0M18E7HSbB)
   - [The Gallagher Amendment, Reeves Brown, Building a Better Colorado ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1KbbNrt7iOFBqaapPLq03lb0M18E7HSbB)
   
-- Video
-    
 
 - - -
   
