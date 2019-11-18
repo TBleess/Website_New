@@ -6,7 +6,17 @@ permalink: "/census-acs/2020-response-tracker/"
 description: "Census 2020 Response Tracker"
 ---
 
-Last Updated:10/21/2019
+Last Updated:11/18/2019
+
+## Census Mail Contact Strategies Viewer
+
+The U.S. Census Bureau today released the **Mail Contact Strategies Viewer** showing how the country will be asked to respond to the 2020 Census. Nearly every household will be invited to respond online, by phone or by mail to the census starting in mid-March 2020. Most areas—about three of every four households—will receive an invitation to respond online (or by phone), while the other households will receive a paper questionnaire along with an invitation to respond online. Regardless of which invitation they receive, all households that have not yet responded will receive a paper questionnaire by mid-April. This map also shows which households will receive English/Spanish bilingual invitations and questionnaires.
+
+The interactive map illustrates the contact strategy to inform the public and partners of the Census Bureau’s plan to count everyone by geographic location for the 2020 Census. A decade of research and testing has determined the best way to invite everyone to respond to the 2020 Census.
+
+Most households will first receive a letter asking them to complete the census questionnaire online with information about how to respond online or by phone in English plus 12 non-English languages. Areas less likely to respond online, approximately 21.8% of households, will receive a paper questionnaire along with the invitation to respond online or over the phone. Areas assigned to receive a paper questionnaire first have a low self-response rate to the Census Bureau’s ongoing American Community Survey (ACS), and have either low internet response rates, high population over age 65, or low rate of internet subscriptions.
+
+Access the [Census Mail Contact Strategies Viewer](https://gis-portal.data.census.gov/arcgis/apps/webappviewer/index.html?id=7ef5c37c68a64ef3b2f1b17eb9287427)
 
 ## Census Type of Enumeraton Area Viewer (TEA)
  
@@ -57,11 +67,4 @@ This paper describes how the Low Response Score (LRS) is calculated and identifi
 
 * [The Low Response Score (LRS): A Metric to Locate, Predict, and Manage Hard-to-Survey Populations (2016)](https://academic.oup.com/poq/article/81/1/144/2649123?guestAccessKey=b8ecff7b-e929-400d-a35c-6a434a094fd0)
 
- 
- ## Census 2020 Response Tracker<br>
- 
- This page will host the *Census 2020 Response Tracker.*
- 
- Beginning in April 2020, communities can use this page to track the number of census forms returned.  
- Information about census form returns and response rate goals will be available in an interactive format.
  
