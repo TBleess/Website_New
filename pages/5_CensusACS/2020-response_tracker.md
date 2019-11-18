@@ -20,7 +20,7 @@ Access the [Census Mail Contact Strategies Viewer](https://gis-portal.data.censu
 
 ## Census Type of Enumeraton Area Viewer (TEA)
  
- The *Census Type of Enumeration Area Viewer (TEA)* shows census tracts that will receive census forms through the "Update/Leave" and "Update/Enumerate" programs. These programs are designed to serve rural areas with homes that do not have standard street addresses. The census bureau estimates that five percent of  homes nationwide will be enumerated using these programs. 
+ The **Census Type of Enumeration Area Viewer (TEA)** shows census tracts that will receive census forms through the "Update/Leave" and "Update/Enumerate" programs. These programs are designed to serve rural areas with homes that do not have standard street addresses. The census bureau estimates that five percent of  homes nationwide will be enumerated using these programs. 
  
 - Homes that are part of the "Update/Leave" program will be visited by a census enumerator, who will leave a census form behind for the household to complete. 
 - Homes that are part of the "Update/Enumerate" program will be visited by an enumerator, who will complete the census form during their visit with a household.  The "Update/Enumerate" program is focused on remote areas in Alaska and Northern Maine. 
