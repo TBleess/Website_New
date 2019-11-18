@@ -76,19 +76,12 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
 - Handouts 
    - [Conference Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1icenN570mJFaa7bAqCEncVfyVrhPfVj1)
-
    - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1U5_c7G_Mhn_CR7HRsPtqT3PQeu7nxNFJ)
-
    - [Colorado Planning and Management Regional Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1dmP03jMT8ajh2AtyPycT9XcJYkTRwsFA)
-
    - [Demographic Glossary ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=13NtPanLZk7V1iRD-6W9JoPRY-HjoYkQP)
-
    - [Population Projections by County ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1NK7IYsOx0eqzgxJXLnvaeQIru8KRmASF)
-
    - [Population Projections by Region ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1z0WIi0vUhdiNIDr_hhDci-Z75mweFet9)
-
    - [Population Estimates for Counties and Municipalities ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1S7ys_qBRoO5425t8JL8IorOhBoNLoBqx)
-
    - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1SRM0nXP0CbEpy7BM7loAr1TBydFLP3G7)
  
 - Presentations
