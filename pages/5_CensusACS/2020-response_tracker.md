@@ -18,7 +18,7 @@ Most households will first receive a letter asking them to complete the census q
 
 Access the [Census Mail Contact Strategies Viewer](https://gis-portal.data.census.gov/arcgis/apps/webappviewer/index.html?id=7ef5c37c68a64ef3b2f1b17eb9287427)
 
-## Census Type of Enumeraton Area Viewer (TEA)
+## Census Type of Enumeration Area Viewer (TEA)
  
  The **Census Type of Enumeration Area Viewer (TEA)** shows census tracts that will receive census forms through the "Update/Leave" and "Update/Enumerate" programs. These programs are designed to serve rural areas with homes that do not have standard street addresses. The census bureau estimates that five percent of  homes nationwide will be enumerated using these programs. 
  
