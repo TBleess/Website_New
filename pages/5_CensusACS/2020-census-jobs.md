@@ -16,9 +16,11 @@ Working as a Census Enumerator will not impact your benefits from the Supplement
 
 Wages from part-time employmwent by the Census Bureau are considered "short-term" employment.  Colorado has received waivers from the United States Department of Agriculture (USDA) and the Department of health and Human Services (HHS) that exempt Census wages from SNAP and TANF eligibility calculations.
 
-See the executive order exempting Census employment from [SNAP and TANF benefit calculations](https://www.whitehouse.gov/wp-content/uploads/2018/09/M-18-26.pdf).
+* See the waiver for [Colorado SNAP Recipients](https://drive.google.com/open?id=10E8vOXsQ_fW1x_sTnPy5SU7G4TIgKTE9)
 
-See the [Census Bureau Jobs FAQ](https://2020census.gov/en/jobs/faqs.html) page for information about other exemptions.
+* See the executive order exempting Census employment from [SNAP and TANF benefit calculations](https://www.whitehouse.gov/wp-content/uploads/2018/09/M-18-26.pdf).
+
+* See the [Census Bureau Jobs FAQ](https://2020census.gov/en/jobs/faqs.html) page for information about other exemptions.
 
 
 ## Census 2020 National Recruiting Campaign
