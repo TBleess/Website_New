@@ -43,7 +43,7 @@ Last Updated 05/16/2019
 
 * [What Partners should and should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1zAJ4Kbx32i71BIg2atgFFzwHxQlW_zo4) Guidance about canvassing and data confidentiality for non-census partners  
 
-* [Questions and Answere for Statkeholders Supporting the 2020 Census ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1cK_5pxDEOQR1Chksk7AP0zsepTaDbi7q) Important information from the Census Bureau for stakeholders providing computers and other devices to facilitate Census completion.
+* [Questions and Answers for Statkeholders Supporting the 2020 Census ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1cK_5pxDEOQR1Chksk7AP0zsepTaDbi7q) Important information from the Census Bureau for stakeholders providing computers and other devices to facilitate Census completion
 
 ### Privacy
 
