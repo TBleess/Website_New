@@ -8,7 +8,16 @@ description: "Census 2020 Jobs"
 
 ## Census 2020 Jobs
 
-Last Updated: 11/07/2019
+Last Updated: 12/19/2019
+
+## Census work will not impact your SNAP and TANF benefits
+
+Working as a Census Enumerator will not impact your benefits from the Supplemental Nutrition Assistance Program (SNAP) or Temporary  Assistance for Needy Families program (TANF).
+
+Wages from part-time employmwent by the Census Bureau are considered "short-term" employment.  Colorado has received waivers from the United States Department of Agriculture (USDA) that exempt Census wages from SNAP and TANF eligibility calculations.
+
+See the executive order exempting Census employment from [SNAP and TANF benefit calculations](https://www.whitehouse.gov/wp-content/uploads/2018/09/M-18-26.pdf).
+
 
 ## Census 2020 National Recruiting Campaign
 
