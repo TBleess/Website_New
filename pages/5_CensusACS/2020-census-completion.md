@@ -19,7 +19,7 @@ description: "Why Respond to the Census"
 *	An accurate Census count is essential for our state. The federal, state and local governments, businesses, nonprofits and foundations, routinely rely on data from the Census to allocate funding, define where services are delivered, promote economic development, and understand current conditions.
 
 ### It’s Easy 
-*	The Census is easy to answer.  You can complete the census online, using your smartphone, over the phone, or by filling out a paper form.  It will ask for your name, address, citizenship, sex, age, race, ethnicity, relationship and housing tenure. 
+*	The Census is easy to answer.  You can complete the census online, using your smartphone, over the phone, or by filling out a paper form.  It will ask for your name, address, sex, age, race, ethnicity, relationship and housing tenure. 
 
 ### It’s Safe
 *	The privacy of your responses is guaranteed by law.  The form does not ask for your Social Security number or other personal identifiers.  Name and address are asked only to ensure that each person in the US is counted only once where they live.  
