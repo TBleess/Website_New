@@ -21,8 +21,6 @@ Last Updated 05/16/2019
 
 * [Census 2020 Fact Sheet: Timeline  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1e7G3DxlOETABoLzSm2KpiQrC3UVK_tI1) Census 2020 Timeline
 
-* [What Partners should and should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1zAJ4Kbx32i71BIg2atgFFzwHxQlW_zo4) Guidance about canvassing and data confidentiality for non-census partners  
-
 *	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
 
 * [Census 101 and Data, Bilingual (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1JtpX8LT311ZGr_6ZW-gPPZVM9jfTEMAP) Basic information about the Census  from the Census Bureau, in English and Spanish
@@ -37,9 +35,15 @@ Last Updated 05/16/2019
 
 * [Census 2020 Fact Sheet:  Information  for Libraries  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1zf9rDwCO0E_krBGCL77booqjiuPHCr9q) Census information for Libraries and Librarians
 
+### Important Information for Census Partners and Others Supporting Census Responses
+
 * [Census Partnerships Fact Sheet (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www2.census.gov/about/partners/general/fact-sheet-partnerships.pdf?#)
 
 * [Census Partnerships at a Glance (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www2.census.gov/about/partners/general/partnerships-at-a-glance.pdf?#)
+
+* [What Partners should and should not do ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1zAJ4Kbx32i71BIg2atgFFzwHxQlW_zo4) Guidance about canvassing and data confidentiality for non-census partners  
+
+* [Questions and Answere for Statkeholders Supporting the 2020 Census](https://drive.google.com/open?id=1cK_5pxDEOQR1Chksk7AP0zsepTaDbi7q) Important information from the Census Bureau for stakeholders providing computers and other devices to facilitate Census completion.
 
 ### Privacy
 
