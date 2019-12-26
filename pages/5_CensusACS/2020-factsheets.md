@@ -11,7 +11,7 @@ These fact sheets are developed to provide basic information about Census 2020 o
 for additional fact sheets, please contact the State Demography Office.
 
 
-Last Updated 05/16/2019
+Last Updated 12/26/2019
 
 ### General Information
 
@@ -24,6 +24,8 @@ Last Updated 05/16/2019
 *	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
 
 * [Census 101 and Data, Bilingual (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1JtpX8LT311ZGr_6ZW-gPPZVM9jfTEMAP) Basic information about the Census  from the Census Bureau, in English and Spanish
+
+* [Census Language Guides (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')]("https://www.census.gov/programs-surveys/decennial-census/2020-census/planning-management/language-resources/language-guides.html") Instructions about the  completed Census form in 59 languages.  Presented by the Census Bureau.
 
 ### Getting Involved
 
