@@ -25,7 +25,7 @@ Last Updated 12/26/2019
 
 * [Census 101 and Data, Bilingual (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1JtpX8LT311ZGr_6ZW-gPPZVM9jfTEMAP) Basic information about the Census  from the Census Bureau, in English and Spanish
 
-* [Census Language Guides (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')]("https://www.census.gov/programs-surveys/decennial-census/2020-census/planning-management/language-resources/language-guides.html") Instructions about the  completed Census form in 59 languages.  Presented by the Census Bureau.
+* [Census Language Guides (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')]("https://www.census.gov/programs-surveys/decennial-census/2020-census/planning-management/language-resources/language-guides.html") Instructions about completing the paper Census form in 59 languages.  Presented by the Census Bureau.
 
 ### Getting Involved
 
