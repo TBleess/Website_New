@@ -27,7 +27,7 @@ Last Updated 12/26/2019
 
 * [Census Language Guides (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://www.census.gov/programs-surveys/decennial-census/2020-census/planning-management/language-resources/language-guides.html) Instructions for completing the paper Census form in 59 languages.  Presented by the Census Bureau.
 
-* [Responding to the Census ![pdf](/images/page_white_acrobat.png 'download pdf file')] (https://drive.google.com/open?id=1t9MnY2BsZFXJwu5frQaJMI_kMGxsPSTO)  A description of the ways households will be invited to respond to the Census.
+* [Responding to the Census ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1t9MnY2BsZFXJwu5frQaJMI_kMGxsPSTO)  A description of the ways households will be invited to respond to the Census.
 
 ### Getting Involved
 
