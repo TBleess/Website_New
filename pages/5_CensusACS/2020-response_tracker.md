@@ -14,11 +14,6 @@ This map, developed by the State Demography Office, idenifies the response types
 
 Access the Colorado Census Contact Type map [here](http://dola-online.maps.arcgis.com/apps/webappviewer/index.html?id=6cb207fc1cb14c7caa16df45546f96a4)
 
-## Colorado Counties and Census Tract map
-
-This map, developed by the State Demography Office, provides demographic data about counties and census tracts in Colorado.  This information can be used to with the **Colorado Census Contact Type map** to understand the characteristics of the population receiving different types of invitations to complete the Census.
-
-Access the Colorado Counties and Census Tract map [here](http://dola-online.maps.arcgis.com/apps/webappviewer/index.html?id=fe9f93b7221d44f195c5a8a46fbfcdea)
 
 ## Census Mail Contact Strategies Viewer
 
