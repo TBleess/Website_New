@@ -29,6 +29,8 @@ Last Updated 12/26/2019
 
 * [Responding to the Census ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1t9MnY2BsZFXJwu5frQaJMI_kMGxsPSTO)  A description of the ways households will be invited to respond to the Census.
 
+* [Doubling Up and Counting Complex Households ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1R83xWQttZjseifGuKrWWFHRVbIbC4HkL) Guidence for counting people in living with relatives or people in complex living arrangements.
+
 ### Getting Involved
 
 * [Census 2020 Fact Sheet: How to Get Involved (English and Spanish) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1C1rjX6WRSldoCyCq65uGIcAhx7CLvzCU) Resources for Supporting the Census, Recursos para apoyar el censo
