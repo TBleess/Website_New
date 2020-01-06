@@ -8,7 +8,7 @@ description: "Census Fraud Page"
 
 ## 2020 Census Fraud Detection and Census Scams
  
- Last Update:  10/19/2019
+ Last Update:  1/6/2020
  
  
  The decennial Census is the largest single non-defense activity conducted by the Federal Government. 
@@ -17,7 +17,10 @@ description: "Census Fraud Page"
  
 ### Types of Census Rumors
 Keep track of rumors about the Census and its implementation.  [Fighting Census Rumors](https://2020census.gov/en/news-events/rumors.html)
- 
+
+### Cybersecurity and the U.S> Census
+Article from *Governing Magazine* [Will We Be Able to Secure and Protect the 2020 Census?](https://www.governing.com/security/will-we-be-able-to-secure-protect-the-2020-census.html)
+
 ### Avoiding Phising Scams Online
  Phishing is a criminal act in which someone tries to get your information by pretending to be an entity that you trust. 
  Phishing emails often direct you to a website that looks real but is fake—and may be infected with malware.
