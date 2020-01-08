@@ -21,7 +21,7 @@ Keep track of rumors about the Census and its implementation.  [Fighting Census 
 ### Cybersecurity and the U.S. Census
 Article from *Governing Magazine* [Will We Be Able to Secure and Protect the 2020 Census?](https://www.governing.com/security/will-we-be-able-to-secure-protect-the-2020-census.html)
 
-### Avoiding Phising Scams Online
+### Avoiding Phishing Scams Online
  Phishing is a criminal act in which someone tries to get your information by pretending to be an entity that you trust. 
  Phishing emails often direct you to a website that looks real but is fake—and may be infected with malware.
 
