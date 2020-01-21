@@ -25,6 +25,8 @@
   url: "population/data/profile-regions/"
 - name: "Resources for Colorado Area Agencies on Aging"
   url: "/demography/AAA-2018/"
+- name: "CSBG Dashboard"
+  url: "https://gis.dola.colorado.gov/apps/CSBG/"
 - name: "Training"
   url: "/demography/training#training"
 - name: "Estimate Review"
