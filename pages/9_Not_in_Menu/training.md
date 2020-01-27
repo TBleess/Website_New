@@ -29,7 +29,7 @@ This one-hour webinar will demonstrate the data and tools available from the SDO
 -	Interactive Mapping Tools
 
 Please join the Webinar using the information below:
-[https://global.gotomeeting.com/join/564095693](https://global.gotomeeting.com/join/564095693)
+- [https://global.gotomeeting.com/join/564095693](https://global.gotomeeting.com/join/564095693)
 
 SDO Conference Call Numbers
 - Local	  (720) 279-0026
