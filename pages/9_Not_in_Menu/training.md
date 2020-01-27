@@ -15,7 +15,7 @@ The State Demography Office periodically offers training sessions on a variety o
 
 - - -
 
-#### Upcoming Trainings
+#### SDO Quarterly Webinar Series
 
 **SDO Webinar: SDO Data Tools, January 30, 2020 12:00 p.m.**
 
