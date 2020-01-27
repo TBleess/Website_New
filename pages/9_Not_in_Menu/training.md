@@ -38,7 +38,7 @@ SDO Conference Call Numbers
 - Toll Free	  (877) 820-7831
 - Participant Passcode 830653
 
-**SDO Webinar: Navigrating data.census.gov, April 23, 2020 12:00 p.m.**
+**SDO Webinar: Navigating [data.census.gov](https://data.census.gov/cedsci/), April 23, 2020 12:00 p.m.**
 
 This webinar will demonstrate the new Census data portal, [data.census.gov](https://data.census.gov/cedsci/).  Particular attention will be paid to extracting data for specialized geographies, such as school districts.
 
