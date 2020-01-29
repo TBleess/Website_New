@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 
 This blog primarily highlights data from the [2017 Census of Agriculture](https://www.nass.usda.gov/AgCensus/).  This Census is conducted every 5 years by the USDA and provides data on any plot of land that produces more than $1,000 of fruit, vegetables, or livestock in a year.  
 
-<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view?id=1-ABuE6OGzwfervXB6utihYEMVmvyiVW9" width="100%"/></div>&nbsp;
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1-ABuE6OGzwfervXB6utihYEMVmvyiVW9" width="100%"/></div>&nbsp;
 
 The number of farms in Colorado rose by 7.5% or 2,713 since 2012, continuing an upward growth trend that began 20 years ago.  Most increase in farm operations occurred at smaller farms, with the number of farms on 50 acres or less rising by 26% since 2012 to just under 18,000. The 38,893 farms represents the most farms in the state since 1954 when Colorado had 40,749.  A total of 69,032 producers were reported, of which 26,837 claimed farming as their primary occupation.  These “primary farmers” are the basis of the 26,900 estimated agriculture proprietors in the [SDO total estimated jobs series](https://demography.dola.colorado.gov/economy-labor-force/data/jobs-by-sector/#jobs-by-sector-naics).  Additionally there are 23,500 wage & salary positions for producers or support positions for agriculture, bringing total Agriculture employment in Colorado to 50,400 in 2018.  Agriculture ranks as the 4th smallest industry in the state, just behind Federal Government; however, in many smaller, rural counties agriculture is the top employing industry. 
 
