@@ -13,7 +13,6 @@ excerpt_separator: <!--more-->
 This blog primarily highlights data from the [2017 Census of Agriculture](https://www.nass.usda.gov/AgCensus/).  This Census is conducted every 5 years by the USDA and provides data on any plot of land that produces more than $1,000 of fruit, vegetables, or livestock in a year.  
 
 <div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=16tmheVpZ2m4BCUJv0LtIgei1NK5vjLYZ" width="100%"/></div>&nbsp;
-<br>
 Photo by <a href="https://unsplash.com/@wildlittlethingsphoto" target="_blank">Helena Lopes</a>
 <br>
 
