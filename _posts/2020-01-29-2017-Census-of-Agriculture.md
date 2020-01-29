@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Highilghts from the 2017 Census of Agriculture"
+title:  "Highlights from the 2017 Census of Agriculture"
 date:   2020-01-29
 author: Colorado State Demography Office
 permalink: /crosstabs/Census of Agriculture 2017/
