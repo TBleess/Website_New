@@ -76,4 +76,5 @@ In fact, every employee takes an oath to protect your personal information for l
  
  Please contact Adam Bickford at [adam.bickford@state.co.us](maito:adam.bickford@state.co.us) if you encounter a Census Scam.
 
+ - [RNC 2020 Congressional District Census](https://www.fox21news.com/news/preparing-for-the-2020-u-s-census/)
  - [RNC 2019 Congressional District Census](https://www.washingtonpost.com/politics/2019/09/30/rnc-solicited-money-trumps-reelection-with-forms-that-look-lot-like-official-census/) 
