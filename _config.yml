@@ -16,8 +16,8 @@ url: 'https://demography.dola.colorado.gov'
 baseurl: ''
 
 
-gems:
-  - jekyll-feed
+#gems:
+#  - jekyll-feed
 
 # Compress Layout
 compress_html:
