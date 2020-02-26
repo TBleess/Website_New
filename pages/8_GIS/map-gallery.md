@@ -4,7 +4,7 @@ layout: page
 title: "Map Gallery"
 permalink: "/gis/map-gallery/"
 datalink: "/gis/gis-data#gis-data"
-description: "Webmap and Data Gallery for the Colorado State Demography Office"
+description: "Webmaps for the Colorado State Demography Office"
 
 ---
 <br />
