@@ -65,11 +65,11 @@ description: "Download GIS data produced by the Colorado State Demography Office
 
 #### Census and ACS
 
-- 2013-2017 American Community Survey (with demographic characteristics)
-  - [Block Groups](https://storage.googleapis.com/co-publicdata/ACS1317_bg.zip)
-  - [Tracts](https://storage.googleapis.com/co-publicdata/ACS1317_tract.zip)
-  - [Counties](https://storage.googleapis.com/co-publicdata/ACS1317_county.zip)
-  - [Places](https://storage.googleapis.com/co-publicdata/ACS1317_place.zip)
+- 2014-2018 American Community Survey (with demographic characteristics)
+  - [Block Groups](https://storage.googleapis.com/co-publicdata/ACS1418_bg.zip)
+  - [Tracts](https://storage.googleapis.com/co-publicdata/ACS1418_tract.zip)
+  - [Counties](https://storage.googleapis.com/co-publicdata/ACS1418_county.zip)
+  - [Places](https://storage.googleapis.com/co-publicdata/ACS1418_place.zip)
 
 - 2010 US Census (with demographic characteristics)
   - [Blocks](https://storage.googleapis.com/co-publicdata/Census%20Blocks%202010.zip)
