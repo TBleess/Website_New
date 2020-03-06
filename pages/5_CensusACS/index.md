@@ -18,7 +18,7 @@ If you\'re new to using American FactFinder, check out our [FAQ](/census-acs/cen
 
 **American Community Survey**
 
-- [American Community Survey (ACS) Data](/census-acs/american_ommunity_survey_data.html)
+- [American Community Survey (ACS) Data](american_ommunity_survey_data.html)
 - [American Community Survey Information](/census-acs/american-community-survey-information#american-community-survey-information)
 - [American Community Survey FAQ](/census-acs/american-community-survey-frequently-asked-questions#american-community-survey---frequently-asked-questions)
 
