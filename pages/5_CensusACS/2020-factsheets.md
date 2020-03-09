@@ -21,7 +21,9 @@ Last Updated 12/26/2019
 
 * [Census 2020 Fact Sheet: Timeline  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1e7G3DxlOETABoLzSm2KpiQrC3UVK_tI1) Census 2020 Timeline
 
-*	[Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
+*	Counting for Dollars (impact of population on Federal Transfers and Grants), George Washington University:
+* [FY2017 Estimates![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/Counting%20for%20Dollars%202020%20-%20Comprehensive%20Accounting_Report%207B%20Feb%202020%20rev.pdf) 
+* [FY2016 Estimates![pdf](/images/page_white_acrobat.png 'download pdf file')](https://gwipp.gwu.edu/sites/g/files/zaxdzs2181/f/downloads/IPP-1819-3%20CountingforDollars_CO.pdf) 
 
 * [Census 101 and Data, Bilingual (U.S. Census Bureau) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1JtpX8LT311ZGr_6ZW-gPPZVM9jfTEMAP) Basic information about the Census  from the Census Bureau, in English and Spanish
 
