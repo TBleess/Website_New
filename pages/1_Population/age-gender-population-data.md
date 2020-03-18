@@ -15,7 +15,7 @@ published: true
 
 #### United States
 
-- 2010 Census data are available through [American Factfinder (census.gov)](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml)
+- 2010 Census data are available through [data.census.gov](https://data.census.gov)
 - Estimates of age are available from the [U.S. Census Bureau](https://www.census.gov/topics/population/age-and-sex/data/tables.html)
 - Forecasts of age are available from the [U.S. Census Bureau](https://www.census.gov/programs-surveys/popproj.html) by 5 year and selected age groups 2000 to 2030
 
@@ -34,5 +34,5 @@ Click [here ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://
 
 #### Municipalities
 
-- Age level data are available using [American Factfinder (census.gov)](http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml).
+- Age level data are available using [data.census.gov](https://data.census.gov).
 - Estimates & Forecasts **are not** available by age & gender for municipalities
