@@ -14,7 +14,7 @@ description: "Housing and Household data by Colorado County or City."
 
 #### Census
 
-- Through [American FactFinder (census.gov)](https://factfinder.census.gov) you can obtain a multitude of housing data. Data are available from the 2010 Census and the American Community Survey.
+- Through [data.census.gov](https://data.census.gov) you can obtain a multitude of housing data. Data are available from the 2010 Census and the American Community Survey.
 - The State Demography Office has also prepared Colorado-specific housing data tables, available on our 2010 and ACS Census data page.
 
 - - -
