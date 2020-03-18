@@ -12,8 +12,6 @@ description: "A collection of resources for 2000 Census Data."
 
 - - -
 
-[Glossary of Census Terms (census.gov)](http://factfinder.census.gov/help/en/index.htm#glossary.htm)
-
 [2000 to 2010 Race and Ethnic Comparisons by County ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B5RRfcb8KXAsSXdLaEhmclRyelk). View population changes from 2000 to 2010 including absolute and percent changes for the total population and 18+. Please note this Excel file has multiple tabs.
 
 **Demographic Profiles** There are four different profiles available.  You can change or add geographies using the "Add/Remove Geographies" button to change to anywhere in the US.
