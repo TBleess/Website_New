@@ -44,12 +44,4 @@ This webinar will demonstrate the new Census data portal, [data.census.gov](http
 
 Login information will be posted in March, 2020
 
-- - -
-
-#### Printable Guides
-
-- [American FactFinder Quick Start Guide ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESN0JubGJRNktLT3M)
-- [American FactFinder Guide to Finding Tract and Block data ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESQVZJdWs5LXRkekU)
-- [American FactFinder2 Deep Linking Guide ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://factfinder2.census.gov/files/AFF_deep_linking_guide.pdf)
-- [American FactFinder 2 Guide to Demographic Profile for Cities, Towns and CDPs ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSy1qN29SNGVRZmc)
 
