@@ -27,7 +27,7 @@ permalink: "/data/"
 
  - [Census Search](/CensusAPI) Easy to use, custom search tool created by the State Demography Office.  Search Census and American Community Survey data from 1980 to 2014.  Covers Colorado and the nation: Block Groups, Tracts, Counties, Places, and States.
  
- - [data.census.gov (census.gov)](https://data.census.gov) Census tool for accessing the vast universe of Census Data products; includes population, housing, and economic data.
+ - [data.census.gov](https://data.census.gov) Census tool for accessing the vast universe of Census Data products; includes population, housing, and economic data.
 
 <br />
 
