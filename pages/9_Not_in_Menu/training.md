@@ -53,9 +53,3 @@ Login information will be posted in March, 2020
 - [American FactFinder2 Deep Linking Guide ![pdf](/images/page_white_acrobat.png 'download pdf file')](http://factfinder2.census.gov/files/AFF_deep_linking_guide.pdf)
 - [American FactFinder 2 Guide to Demographic Profile for Cities, Towns and CDPs ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESSy1qN29SNGVRZmc)
 
-- - -
-
-#### Other
-
-- [American FactFinder Quick FAQ](/census-acs/census-data-aff-faq#american-fact-finder---frequently-asked-questions)
-- [American FactFinder FAQs (census.gov)](https://ask.census.gov/faq.php?dept=769&id=5000)
