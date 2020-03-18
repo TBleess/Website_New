@@ -62,18 +62,6 @@ Released May 19th 2011, the Demographic Profiles provide 2010 Census data on age
 
 ----
 
-### Demographic Profiles by County
-
-{% include _2010profileCounty.html %}
-
-Use the menu below to access Demographic Profiles for all Cities and Towns within Colorado through American FactFinder.
-
-{% include _2010profileAFF.html %}
-
-Click [here ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.cloud.google.com/maps-static/Accessing%20the%20Demographic%20Profile%20for%20a%20City_April13.pdf) for step-by-step instructions on how to download Demographic Profiles for any City, Town or Census Designated Place.
-
-----
-
 ### Total Population Counts and Change from 2000 to 2010
 
 - [State and Counties ![xls](/images/page_white_excel.png 'download xls file')](https://storage.cloud.google.com/maps-static/total%20pop%20change%20counties.xls)
