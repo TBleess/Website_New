@@ -25,7 +25,7 @@ description: "A collection of resources for 2000 Census Data."
 
 **Census for Colorado School Districts** Census data for school districts can be found at the [National Center for Education Statistics (NCES)](http://nces.ed.gov/surveys/sdds/index.aspx). Also, the [Colorado Department of Education](http://www.cde.state.co.us/) provides data on Colorado School Districts.
 
-**Don't see what you want?** [American Fact Finder](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) Contains all Census and American Community Survey data from 2000 forward.  
+**Don't see what you want?** [data.census.gov](https://data.census.gov) Will contain all Census and American Community Survey data from 2000 forward.  The data can also be found at [Census.gov](https://www.census.gov/programs-surveys/decennial-census/data/datasets.2000.html)
 We've provided an instructional material and training [here](https://demography.dola.colorado.gov/demography/training/).
 
 
