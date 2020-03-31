@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Census 2020 Fact Sheets"
-permalink: "/census_2020/2020-factsheets/"
-datalink: "/census_2020/#2020-factsheets"
+permalink: "/census-acs/2020-factsheets/"
+datalink: "/census-acs/#2020-factsheets"
 description: "State Demography Office Census 2020 Fact Sheets"
 ---
 
