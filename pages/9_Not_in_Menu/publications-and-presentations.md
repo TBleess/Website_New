@@ -110,7 +110,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
 #### Press Releases
 
-   - [Colorado's Population and Economic Trends, 2019 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1ftugvPGk5GDFzxan0XAJKq9ytGr7sdCg/view)  
+   - [Colorado's Population and Economic Trends, 2019 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1ftugvPGk5GDFzxan0XAJKq9ytGr7sdCg)  
    
 - - -
 
