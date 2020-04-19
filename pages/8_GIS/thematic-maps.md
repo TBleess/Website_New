@@ -26,7 +26,7 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 #### ACS 2014-2018
 
-- [Bachelors Degree or Higher (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.cloud.google.com/maps-static/BachelorOrHigher.pdf)
+- [Bachelors Degree or Higher (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/BachelorOrHigher.pdf)
 - [Born in Colorado (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/PercentBornInColorado.pdf)
 - [Children in Poverty (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/ChildrenInPoverty.pdf)
 - [Commute Time (County) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/MeanTravelTime.pdf)
