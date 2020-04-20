@@ -29,4 +29,4 @@ The [US Census Bureau](http://www.census.gov/en.html) maintains the most compreh
 
 The State Demography Office periodically offers training for data users. Please check our [training page](/demography/training#training) or sign up for our [listserve](http://eepurl.com/b8msob) to receive notification!
 
-Also check out our [Resources page](/demography#resources), updated with information, links and handouts to help data users.
+
