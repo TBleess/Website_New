@@ -97,6 +97,7 @@ description: "Collection of PDF and PNG thematic maps produced by the Colorado S
 
 #### Employment
 
+- [Change in Total Jobs by County, 2017-18 (Absolute) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/JobChangeAbsolute2017-18.png)
 - [Percent Change in Total Jobs, 2010 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/JobChangePerc2010-17.png)
 - [Percent Change in Total Jobs, 2016 to 2017 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/JobChangePercent2016-17.png)
 - [2017 Employment as a Percentage of Pre-Recession Peak (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/2017PctChngPreRecessionRevised.png)
