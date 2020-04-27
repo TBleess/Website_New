@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Mobile viewport optimisation -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+<meta charset="UTF-8">
+<style>
+/* Base thermometer style, this is the slate */
+#thermometer {
+    width:70px;
+    height:300px;
+    position: relative;
+    background: #ddd;
+    border:1px solid #aaa;
+    -webkit-border-radius: 12px;
+       -moz-border-radius: 12px;
+        -ms-border-radius: 12px;
+         -o-border-radius: 12px;
+            border-radius: 12px;
+
+
+    -webkit-box-shadow: 1px 1px 4px #999, 5px 0 20px #999;
+       -moz-box-shadow: 1px 1px 4px #999, 5px 0 20px #999;
+        -ms-box-shadow: 1px 1px 4px #999, 5px 0 20px #999;
+         -o-box-shadow: 1px 1px 4px #999, 5px 0 20px #999;
+            box-shadow: 1px 1px 4px #999, 5px 0 20px #999;
+}
+
+
+/* This represents the track of the thermometer, the linear background 
+    with a background size set will generate a line every 5% of the track. */
+#thermometer .track {
+    height:280px;
+    top:10px;
+    width:20px;
+    border: 1px solid #aaa;
+    position: relative;
+    margin:0 auto;
+    background: rgb(255,255,255);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgb(0,0,0)), color-stop(1%,rgb(255,255,255)));
+    background: -webkit-linear-gradient(top, rgb(0,0,0) 0%,rgb(255,255,255) 10%);
+    background:      -o-linear-gradient(top, rgb(0,0,0) 0%,rgb(255,255,255) 10%);
+    background:     -ms-linear-gradient(top, rgb(0,0,0) 0%,rgb(255,255,255) 10%);
+    background:    -moz-linear-gradient(top, rgb(0,0,0) 0%,rgb(255,255,255) 10%);
+    background:   linear-gradient(to bottom, rgb(0,0,0) 0%,rgb(255,255,255) 10%);
+    background-position: 0 -1px;
+    background-size: 100% 5%;
+}
+
+
+/* The progress indicator (the mercury, if you will) */
+#thermometer .progress {
+    height:0%;
+    width:100%;
+    background: rgb(20,100,20);
+    background: rgba(20,100,20,0.6);
+    position: absolute;
+    bottom:0;
+    left:0;
+}
+
+/* let's position the goal */
+#thermometer .goal {
+    position:absolute;
+    top:0;
+}
+
+#thermometer .bottom {
+    position:absolute;
+	height: 0%;
+    bottom:0;
+}
+#thermometer .cens2010 {
+    position:absolute;
+	height: 67.2%;
+    bottom:0;
+}
+
+#thermometer .progressText {
+    position:absolute;
+	height:0%;
+    bottom:0;
+}
+
+/* just style the amounts a little bit */
+#thermometer .amount {
+    display: inline-block;
+    padding:0 5px 0 60px;
+    border-top:1px solid black;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    color:#333;
+}
+#thermometer .bottom .amount {
+    display: inline-block;
+    padding:0 5px 0 60px;
+    border-top:1px solid black;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    color:#333;
+}
+
+#thermometer .progress .amount {
+    display: inline-block; 
+    padding:0 5px 0 100px;
+    border-top:1px solid black;
+	font-size: 10px;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    color:#333;
+}
+
+#thermometer .cens2010 .amount {
+    display: inline-block; 
+    padding:0 5px 0 50px;
+    border-top:1px solid black;
+	font-size: 10px;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    color:#333;
+}
+
+</style>
+</head>
+<body>
+<h4 id="thermTitle"></h4>
+<div id="thermometer">
+
+    <div class="track">
+        <div class="goal">
+            <div class="amount"> 100%</div>
+        </div>
+		<div class="bottom">
+            <div class="amount"> 0%</div>
+        </div>
+        <div class="cens2010">
+            <div class="amount"> 67.2% Colorado 2010 Census Response Rate</div>
+        </div>
+        <div class="progress" id="progress">
+            <div class="amount" id="progressText"></div>
+        </div>
+    </div>
+
+</div>
+</body>
+<script>
+
+
+ let url = 'https://api.census.gov/data/2020/dec/responserate?get=CRRALL,RESP_DATE&for=state:08&key=08fe07c2a7bf781b7771d7cccb264fe7ff8965ce';
+ fetch(url)
+    .then(resp => resp.json())
+    .then(data => updatePage(data));
+
+  function updatePage(data) {
+     for (const q of data) {
+        let pctVal = q[1,0] + "%";
+		let rDate = q[1,1];
+		document.getElementById("thermTitle").innerHTML = "Colorado Census Response Rate for " + rDate;
+        document.getElementById("progress").style.height = pctVal;
+        document.getElementById("progressText").innerHTML = pctVal + " Colorado 2020 Census Response Rate";
+		}
+		}
+
+</script>
+</html>
