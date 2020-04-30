@@ -62,88 +62,17 @@ table, td {
 /* THERMOMETER  */	
 
 .thermbox {
-  margin: auto;
   width: 700px;
-  height:155px;
-  border: 10px solid green;
- // margin: 5px auto 20px;
-}
-
-#countdown-wrap {
-  margin: auto;
-  width: 700px;
-  height: 155px;
-  font-family: arial;
-  max-width: 700px;
-}
-
-#goal {
-  font-size: 15px;
-  text-align: right;
-  color: #000;
-  @media only screen and (max-width : 640px) {
-    text-align: center;  
-  }
-  
-}
-#glass1 {
-  width: 100%;
-  height: 20px;
-  background: #c7c7c7;
-  border-radius: 10px;
-  float: left;
-  overflow: hidden;
-}
-
-#glass2 {
-  width: 100%;
-  height: 20px;
-  background: #c7c7c7;
-  border-radius: 10px;
-  float: left;
-  overflow: hidden;
-}
-
-#cens2010 {
-  float: left;
-  width: 67.2%;
-  height: 20px;
-  background: #FF5D50;
-  z-index: 333;
-  //border-radius: 5px;
-}
-
-#progress {
-  float: left;
-  width: 0%;
-  height: 20px;
-  background: #4D79FF;
-  z-index: 333;
-  //border-radius: 5px;
-}
-
-
-.goal-stat {
- font-size: 15px;
-  width: 30%;
-  //height: 30px;
-  //padding: 10px;
-  float: left;
-  margin: 0;
-  color: #000;
-  
-  @media only screen and (max-width : 640px) {
-    width: 50%;
-    text-align: center;
-  }
-}
-
-.goal-number, .goal-label {
-  display: block;
+  height:50px
+  text-align: left;
+ border: 5px solid green;
+ margin: 5px auto 5px;
 }
 
 .goal-number {
+  font-size: 13pt;
   font-weight: bold;
+  line-height: normal;
 }
 </style>
 </head>
@@ -198,26 +127,11 @@ table, td {
 		<tr>
 		</tr>
 		<tr>
-        <td	colspan = "5" valign="middle" align="center">
-		<div id="countdown-wrap">
+         <td	colspan = "5" valign="middle" align="center" line-height= "normal">
 		<div class="thermbox">
-		<b id="thermTitle" align="center"></b>
-		<div id="goal">100%</div>
-		  <div id="glass1">
-			 <div id="cens2010"> </div>
-		  </div>
-		  <div id="glass2">
-			<div id="progress"> </div>
-		  </div>
-		  <div class="goal-stat">
-			<span class="goal-number" id="progressText" style="color:#4D79FF;"></span>
-			<span class="goal-label">2020 Colorado Census Response Rate</span>
-		  </div>
-		  <div class="goal-stat">
-			<span class="goal-number" style="color:#FF5D50;">67.2%</span>
-			<span class="goal-label">2010 Colorado Census Response Rate</span>
-		  </div>
-		</div>
+			<b id="thermTitle"></b>
+			<p class="goal-number" id="progressText" style="color:#4D79FF;"></p>
+			<p class="goal-number" >67.2% 2010 Colorado Census Response Rate</span>
 		</div>
        </td>
 	    </tr>
@@ -425,8 +339,8 @@ table, td {
         let pctVal = q[1,0] + "%";
 		let rDate = dateParse(q[1,1]);
 		document.getElementById("thermTitle").innerHTML = "Colorado Census Response Rate for " + rDate;
-        document.getElementById("progress").style.width = pctVal;
-        document.getElementById("progressText").innerHTML = pctVal;
+      //  document.getElementById("progress").style.width = pctVal;
+        document.getElementById("progressText").innerHTML = pctVal + " 2020 Colorado Census Response Rate";
 		}
 		}
    function dateParse(indate) {
