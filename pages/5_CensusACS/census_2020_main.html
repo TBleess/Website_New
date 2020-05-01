@@ -60,6 +60,34 @@ table, td {
 	#content-mobile {display: block;}
 	}
 
+/* THERMOMETER  */	
+
+.thermbox {
+  width: 700px;
+  height:100px
+  text-align: left;
+ border: 5px solid green;
+ margin: 5px auto 5px;
+}
+
+.thTitle {
+  font-size: 13pt;
+  font-weight: bold;
+  line-height: 50%;
+  text-align: center;
+}
+.goal-number1 {
+  font-size: 13pt;
+  line-height: 50%;
+  color:#0000ff;
+  text-align: left;
+}
+
+.goal-number2 {
+  font-size: 13pt;
+  line-height: 50%;
+  text-align: left;
+}
 </style>
 </head>
 <body>
@@ -103,7 +131,17 @@ table, td {
 			<a href="https://demography.dola.colorado.gov/census-acs/2020-resources/">Things you can do to promote the Census</a><br>
 			<a href="https://demography.dola.colorado.gov/census-acs/2020-resources/">Key Dates</a>
 		</td>
-                </tr>
+        </tr>
+		<tr>
+         <td colspan = "5" valign="middle" align="left" line-height= "normal">
+			<div class="thermbox">
+				<p  class="thTitle" id="thermTitle"></p>
+				<p class="goal-number1" id="progressText"></p>
+				<p class="goal-number2" >67.2% - 2010 Colorado Census Response Rate</p>
+			</div>
+        </td>
+	    </tr>
+
 		<tr>
 		    <td valign="top" align="center">
 			  <div title="Link to Colorado 2020 Census Support Program, Funds for Promotional Materials">
@@ -296,10 +334,28 @@ table, td {
 </tr>
 </table>
 </div>
-<script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; 
-         if (d.getElementById(id)) return; js = d.createElement(s); 
-		 js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; 
-		 pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));
+<script>
+ let url = 'https://api.census.gov/data/2020/dec/responserate?get=CRRALL,RESP_DATE&for=state:08&key=08fe07c2a7bf781b7771d7cccb264fe7ff8965ce';
+ fetch(url)
+    .then(resp => resp.json())
+    .then(data => updatePage(data));
+
+  function updatePage(data) {
+     for (const q of data) {
+        var pctVal = q[1,0] + "%";
+		var rDate = dateParse(q[1,1]);
+		document.getElementById("thermTitle").innerHTML = "Colorado Census Response Rate";
+        document.getElementById("progressText").innerHTML = pctVal + " - 2020 Colorado Census Response Rate for " + rDate;
+		}
+		}
+   function dateParse(indate) {
+       var YR = indate.substr(0,4);
+	   var MO = indate.substr(5,2);
+	   var DA = indate.substr(8,2);
+	   var outdate = MO + "/" + DA + "/" + YR;
+	   return(outdate);
+      }
+
 </script>
 </body>
 
