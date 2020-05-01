@@ -71,19 +71,16 @@ table, td {
 
 .thTitle {
   font-size: 13pt;
-  font-weight: bold;
   line-height: 50%;
 }
 .goal-number1 {
   font-size: 13pt;
-  font-weight: bold;
   line-height: 50%;
   color:#4D79FF;
 }
 
 .goal-number2 {
   font-size: 13pt;
-  font-weight: bold;
   line-height: 50%;
 }
 </style>
@@ -350,8 +347,8 @@ table, td {
      for (const q of data) {
         var pctVal = q[1,0] + "%";
 		var rDate = dateParse(q[1,1]);
-		document.getElementById("thermTitle").innerHTML = "Colorado Census Response Rate for " + rDate;
-        document.getElementById("progressText").innerHTML = pctVal + " 2020 Colorado Census Response Rate";
+		document.getElementById("thermTitle").innerHTML = "Colorado Census Response Rate";
+        document.getElementById("progressText").innerHTML = pctVal + " 2020 Colorado Census Response Rate for " + rDate;
 		}
 		}
    function dateParse(indate) {
