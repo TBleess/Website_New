@@ -144,7 +144,7 @@ table, td {
 		<div class="thermbox">
 			<p  class="thTitle" id="thermTitle"></p>
 			<p class="goal-number1" id="progressText"></p>
-			<p class="goal-number2" >2010 Colorado Census Response Rate: 67.2%</p>
+			<p class="goal-number2" >67.2% - 2010 Colorado Census Response Rate</p>
 		</div>
        </td>
 	    </tr>
@@ -352,7 +352,7 @@ table, td {
         var pctVal = q[1,0] + "%";
 		var rDate = dateParse(q[1,1]);
 		document.getElementById("thermTitle").innerHTML = "Colorado Census Response Rate";
-        document.getElementById("progressText").innerHTML = "2020 Colorado Census Response Rate for " + rDate + ": " + pctVal;
+        document.getElementById("progressText").innerHTML = pctVal + " - 2020 Colorado Census Response Rate for " + rDate;
 		}
 		}
    function dateParse(indate) {
