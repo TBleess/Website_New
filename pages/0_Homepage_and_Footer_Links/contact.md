@@ -45,7 +45,7 @@ Geographic Information Systems Design, Analysis, Development, Mapping support, G
 DATA ANALYST AND OUTREACH  
 Phone: 303-864-7753  
 [adam.bickford@state.co.us ![email](/images/email_link.png 'send email')](mailto:adam.bickford@state.co.us)  
-Census & ACS Data, Data Requests, User Training, Product Development  
+Census & ACS Data, Data Requests, User Training, Product Development, Population Estimates and Forecasts  
 
 **Nancy Gedeon**  
 DEMOGRAPHER  
