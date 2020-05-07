@@ -46,3 +46,9 @@ DATA ANALYST AND OUTREACH
 Phone: 303-864-7753  
 [adam.bickford@state.co.us ![email](/images/email_link.png 'send email')](mailto:adam.bickford@state.co.us)  
 Census & ACS Data, Data Requests, User Training, Product Development  
+
+**Nancy Gedeon**
+DEMOGRAPHER
+Phone: 303-864-7755
+[nancy.gedeon@state.co.us ![email](/images/email_link.png 'send email')](mailto:nancy.gedeon@state.co.us)  
+Population Estimates and Forecasts, Demographic Methods
