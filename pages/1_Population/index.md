@@ -25,7 +25,7 @@ datalink: "/population/data"
 ### Additional Population information:
 
 - [Age and Gender](/population/age-gender-population-data#age-and-gender-population-data)
-- [Demographic Profiles](/population/data/profile-county/)
+- [Demographic Profiles](/population/data/county-data-lookup/)
 - [Map of Births, Deaths, and Migration](/ComponentsOfChange/)
 - [Race and Hispanic Origin](/population/race-hispanic-origin#race-and-hispanic-origin)
 - [US Census Bureau (census.gov)](http://www.census.gov/)
