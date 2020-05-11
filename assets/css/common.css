@@ -475,6 +475,10 @@ button {
     #top-bar-right {
         float: right;
     }
+	
+    #top-bar-wrapper {
+	overflow: hidden;
+    }
  
 }
 
