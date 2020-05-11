@@ -33,7 +33,7 @@
 - name: "What are Metropolitan & Micropolitan Statistical Areas? (census.gov)"
   url: "https://www.census.gov/programs-surveys/metro-micro.html"
 - name: "Urban & Rural Definitions (census.gov)"
-  url: "http://www.census.gov/geo/reference/ua/urban-rural-2010.html"
+  url: "https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html"
 - name: "Net Migration by Age Charts"
   url: "https://gis.dola.colorado.gov/apps/netmigration_dashboard/"
 - name: "Join the State Demography Office Newsletter Listserv"
