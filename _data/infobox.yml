@@ -2,6 +2,8 @@
   # url: "/data/"
 # - name: "Webmap Gallery"
 #   url: "/gis/map-gallery/"
+- name: "US Census Bureau County and Incorporated Population Estimates Vintage 2019 - Used for CARES distribution"
+  url: "https://drive.google.com/file/d/1sweDxA5ipegGpGNlty9DW_ppNKb-JS07/view?usp=sharing"
 - name: "COVID Map Series"
   url: "https://arcg.is/mGPSK"
 - name: "State Demography Office Census 2020 Page"
