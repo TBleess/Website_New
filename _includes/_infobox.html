@@ -53,6 +53,7 @@ display: none;
                            <ul>
                              {% for link in site.data.infobox %}
                               <li>
+                                <a href="{{ link.url[0] }}" style="color: #555; background: #ffc;">{{ link.name[0] }}</a>  
                                 <a href="{{ link.url }}">{{ link.name }}</a>
                               </li>
                              {% endfor %}
