@@ -14,6 +14,8 @@ description: "A collection of resources dealing with Census and American Communi
 
 The State Demography Office maintains a library of Colorado-specific data products developed using [US Census Bureau](http://www.census.gov/) data. More information is also available on the [American Community Survey](/census-acs/american-community-survey-information#american-community-survey-information) (including information on Margins of Error and downloadable user guides) and the [2010 Census Information](/census-acs/2010-census-information#census-information-2010) page.
 
+[US Census Bureau County and Incorporated Population Estimates Vintage 2019 - Used for CARES distribution](https://drive.google.com/file/d/1sweDxA5ipegGpGNlty9DW_ppNKb-JS07/view?usp=sharing)
+
 **American Community Survey**
 
 - [American Community Survey (ACS) Data](/census-acs/american_community_survey_data)
