@@ -72,6 +72,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 - [Tourism Economies: Colorado Association of Ski Towns (January 2011) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B2oqdPZKJqK7bHZRV3ZYZUhTcVE)
 
 - - -
+
 #### Quarterly Webinars
 
 - Q2 2020 Navigating data.census.gov (April, 2020)
@@ -79,6 +80,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 - Q3 2020 Navigating data.census.gov (July, 2020) 
    - [Presentation![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=15bs1ZL3VVQc_W48I5yjGXrSXYdhwm2oS)   
    - [Video](https://youtu.be/WWNJneZXLCQ)
+
 - - -
 
 #### Annual Demography Summit 2019
