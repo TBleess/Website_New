@@ -18,7 +18,7 @@ published: true
 
 [Infographics](/demography/infographics#infographics) \| [Publications & Reports](#publications-and-reports) \| [Community Profiles](#community-profiles) \| [Presentations](#presentations) \| [Thematic Maps](/gis/thematic-maps#thematic-maps) \| [GIS Data](/gis/gis-data#gis-data)
 
-\|[Quarterly Webinars](#quarterly-webinars)\|[2019 Annual Demography Summit](#annual-demography-summit-2019) \|[Past Conferences](#past-conferences)\| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations#archived-publications-and-presentations)
+ [Quarterly Webinars](#quarterly-webinars)\| [2019 Annual Demography Summit](#annual-demography-summit-2019) \|[Past Conferences](#past-conferences)\| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations#archived-publications-and-presentations)
 
 </div>
 
@@ -75,12 +75,11 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 #### Quarterly Webinars
 
 - Q2 2020 Navigating data.census.gov (April, 2020)
-   -[Presentation![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1e5xNp_iA5vb7kNo0y1mAaZvtgbyYBplZ)
+   - [Presentation![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1e5xNp_iA5vb7kNo0y1mAaZvtgbyYBplZ)
 - Q3 2020 Navigating data.census.gov (July, 2020) 
-   -[Presentation![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=15bs1ZL3VVQc_W48I5yjGXrSXYdhwm2oS)
-   
-   -[Video](https://youtu.be/WWNJneZXLCQ)
-
+   - [Presentation![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=15bs1ZL3VVQc_W48I5yjGXrSXYdhwm2oS)   
+   - [Video](https://youtu.be/WWNJneZXLCQ)
+- - -
 
 #### Annual Demography Summit 2019
 
