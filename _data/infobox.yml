@@ -35,6 +35,6 @@
 - name: "Urban & Rural Definitions (census.gov)"
   url: "https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html"
 - name: "Net Migration by Age Charts"
-  url: "https://gis.dola.colorado.gov/apps/netmigration_dashboard/"
+  url: "https://demography.dola.colorado.gov/apps/netmigration_dashboard/"
 - name: "Join the State Demography Office Newsletter Listserv"
   url: "http://eepurl.com/gJPtZH"
