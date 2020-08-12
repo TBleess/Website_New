@@ -22,7 +22,7 @@ Historical Census data can also be obtained through the [University of Virginia]
 
 #### Current Population Estimates
 
-Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2018 and were finalized in September 2019.
+Population estimates are produced annually by the State Demography Office. The most recent estimate available is for the year of 2019 and were finalized in August 2020.
 
 - [Estimates, Counties, 2010 - Current ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1IuFZCD7KCdS3HpJ6BVxGkk4RoUW5f0GS)
 
