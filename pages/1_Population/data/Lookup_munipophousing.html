@@ -8,7 +8,7 @@ custom_js:
 - /assets/js/common/dola_custom_functions.js
 file: "https://storage.googleapis.com/co-publicdata/muni-pop-housing.csv"
 description: "Search for information on population, household population, group quarters population, household size, housing units, occupied housing units, vacant housing units, and vacancy rate by county, municipality, and year."
-years: "2010-2018"
+years: "2010-2019"
 tag: "popdata"
 
 ---
@@ -398,7 +398,7 @@ tag: "popdata"
         var yearstring;
 
         if (selectedYears.length === 0) {
-            yearstring = "2018";
+            yearstring = "2019";
         } else {
             yearstring = selectedYears.join(",");
         } /*if no year is selected, 2018 is chosen as default*/
