@@ -11,7 +11,7 @@ description: "2020 Demography Summit."
 
 ## 38th Annual State Demography Summit: Wednesday October 28, 2020
 
-<div style="text-align:center"><img src ="./img/summit2020.jpg" height="50%"/></div>
+<div style="text-align:center"><img src ="../../images/summit2020.jpg" height="50%"/></div>
 
 
 The 38th Annual State Demography Summit will be held virtually on Wednesday, October 28.
