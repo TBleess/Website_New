@@ -13,9 +13,9 @@ description: "2020 Demography Summit."
 
 ### The 38th Annual State Demography Summit will be held virtually on Wednesday, October 28.
 
-This one-day conference offers attendees the opportunity to learn about the most current population and economic conditions and forecasts for the state and its regions.  
-These plenary sessions will not only cover the data and information but also discuss implications for planning, policy, business, and public services.  
-Experts will provide a recap of the 2020 Census data collection and plans for Census Differential Privacy implementation, discuss impacts of the Coronavirus pandemic, and highlight State Demography Office tools for visualizing the impact of the pandemic on Colorado counties.
+- This one-day conference offers attendees the opportunity to learn about the most current population and economic conditions and forecasts for the state and its regions.  
+ - Experts will provide a recap of the 2020 Census data collection and plans for Census Differential Privacy implementation, discuss impacts of the Coronavirus pandemic, and highlight State Demography Office tools for visualizing the impact of the pandemic on Colorado counties.
+- Sessions will not only cover the data and information but also discuss implications for planning, policy, business, and public services. 
 
 ### Registration Details 
 
@@ -24,7 +24,7 @@ This year's Summit will offered over Zoom and will be free for all parcipants.
 Summit registration will open on October 1, 2020.  The registration link, conference agenda, and links to all Summit materials will be available on this page.
 
 ### Continuing Education Credits
-6 hours of continuing education credits are available for *Real Estate Appraisers* and *Real Estate Brokers* through the Colorado Department of Regulatory Affairs.
+Up to 6 hours of continuing education credits are available for *Real Estate Appraisers* and *Real Estate Brokers* through the Colorado Department of Regulatory Affairs.
 Attendees can register for Continuing Education credits when they complete the Summit evaluation beginning on October 28th.
  
 *Special note for members of the American Institute of City Planners (AICP):*
