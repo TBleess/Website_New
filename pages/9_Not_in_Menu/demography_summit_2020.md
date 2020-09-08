@@ -11,7 +11,7 @@ description: "2020 Demography Summit."
 
 ## 38th Annual State Demography Summit: Wednesday October 28, 2020
 
-<div style="text-align:center"><img src ="../img/summit2020.jpg" height="50%"/></div>
+<div style="text-align:center"><img src ="./img/summit2020.jpg" height="50%"/></div>
 
 
 The 38th Annual State Demography Summit will be held virtually on Wednesday, October 28.
@@ -36,4 +36,4 @@ AICP members can claim attendance to the Summit as part of their continuing educ
 ### Questions?
 Please contact Adam Bickford at [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) if you have any questions.
 
-The 37th Annual State Demography Summit was held on November 1st, 20198. [Click here](/demography/publications-and-presentations/#annual-demography-summit-20198) for video and presentations.
+The 37th Annual State Demography Summit was held on November 1st, 2019. [Click here](/demography/publications-and-presentations/#annual-demography-summit-2019) for video and presentations.
