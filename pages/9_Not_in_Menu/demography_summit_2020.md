@@ -14,10 +14,7 @@ description: "2020 Demography Summit."
 
 The 38th Annual State Demography Summit will be held virtually on Wednesday, October 28.
 
-This one-day conference offers attendees the opportunity to learn about the most current population and economic conditions and forecasts for the state and its regions.  
-These plenary sessions will not only cover the data and information but also discuss implications for planning, policy, business, and public services.  
-Experts will provide a recap of the 2020 Census data collection and plans for Census Differential Privacy implementation, discuss impacts of the Coronavirus pandemic, 
-and highlight State Demography Office tools for visualizing the impact of the pandemic on Colorado counties.
+This one-day conference offers attendees the opportunity to learn about the most current population and economic conditions and forecasts for the state and its regions.  These plenary sessions will not only cover the data and information but also discuss implications for planning, policy, business, and public services. Experts will provide a recap of the 2020 Census data collection and plans for Census Differential Privacy implementation, discuss impacts of the Coronavirus pandemic, and highlight State Demography Office tools for visualizing the impact of the pandemic on Colorado counties.
 
 ## Registration Details 
 
