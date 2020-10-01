@@ -15,6 +15,8 @@ published: true
 
 Population totals for Colorado, counties & places, 1870 to 2010 are available [here](/population/data/historical_census/).
 
+The boundaries and populations can also be viewed [here](https://arcg.is/1KXX05).
+
 Historical Census data can also be obtained through the [University of Virginia](http://mapserver.lib.virginia.edu/).  This site presents data for the people and the economy of the U.S. for each state and county from 1790 to 1960. 
 
 
