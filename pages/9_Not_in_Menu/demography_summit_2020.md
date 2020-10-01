@@ -32,7 +32,7 @@ Links to all Summit materials will be available on this page, however pre-regist
 Attendees can register for Continuing Education credits when they complete the Summit evaluation beginning on October 28th.
  
 *Special note for members of the American Institute of City Planners (AICP):*
-AICP members can claim attendance to the Summit as part of their continuing education activities.</p>
+AICP members can claim attendance to the Summit as part of their continuing education activities.
 
 ### Questions?
 Please contact Adam Bickford at [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) if you have any questions.
