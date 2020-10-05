@@ -18,11 +18,16 @@ This one-day conference offers attendees the opportunity to learn about the most
 
 ## Registration Details 
 
-This year's Summit will offered over Zoom and will be free for all partcipants.
+This year's Summit will offered over Zoom and is free for all partcipants.
 
 Click [here](https://zoom.us/webinar/register/WN_PugvQrwET3CI8cTO8-0e4Q) to register for this year's Summit.
 
 Links to all Summit materials will be available on this page, however pre-registration is required.
+
+## Summit Materials
+- [Summit Agenda](https://drive.google.com/file/d/1PZCw5d0YoEKvcZiFso9wje3Gc5154clq/view?usp=sharing)
+- [Presenter Biographies](https://drive.google.com/file/d/15Gu9D_Wzq9Y2KrmoeQc-llYZVrLY3Cbe/view?usp=sharing)
+- [Colorado Planning and Management Regions Map](https://drive.google.com/file/d/1rVVVeTO9Ym4E9DKewWvhoh1k023u-iWh/view?usp=sharing)
 
 ### Continuing Education Credits
 6 hours of continuing education credits are available for *Real Estate Appraisers* and *Real Estate Brokers* through the Colorado Department of Regulatory Affairs.
