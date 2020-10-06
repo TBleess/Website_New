@@ -20,7 +20,7 @@ This one-day conference offers attendees the opportunity to learn about the most
 
 This year's Summit will offered over Zoom and is free for all partcipants.
 
-Click [here](https://zoom.us/webinar/register/WN_PugvQrwET3CI8cTO8-0e4Q) to register for this year's Summit.
+**Click [here](https://zoom.us/webinar/register/WN_PugvQrwET3CI8cTO8-0e4Q) to register for this year's Summit.**
 
 Links to all Summit materials will be available on this page, however pre-registration is required.
 
