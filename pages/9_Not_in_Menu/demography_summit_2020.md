@@ -26,7 +26,7 @@ Links to all Summit materials will be available on this page, however pre-regist
 
 ## Summit Materials
 - [Summit Agenda](https://drive.google.com/file/d/1PZCw5d0YoEKvcZiFso9wje3Gc5154clq/view?usp=sharing)
-- [Presenter Biographies](https://drive.google.com/file/d/15Gu9D_Wzq9Y2KrmoeQc-llYZVrLY3Cbe/view?usp=sharing)
+- [Presenter Biographies](https://drive.google.com/file/d/115bwp-0s_uN4OCliOO7UGgVy_VjwnKKX/view?usp=sharing)
 - [Colorado Planning and Management Regions Map](https://drive.google.com/file/d/1rVVVeTO9Ym4E9DKewWvhoh1k023u-iWh/view?usp=sharing)
 
 ### Continuing Education Credits
