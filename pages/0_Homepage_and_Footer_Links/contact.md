@@ -11,9 +11,6 @@ published: true
 State Demography Office  
 1313 Sherman Street, Room 521  
 Denver, CO 80203  
-(303) 864-7720 (DLG main line)  
-(303) 864-7759 (Fax)  
-[dlg.helpdesk@state.co.us ![email](/images/email_link.png 'send email')](mailto:dlg.helpdesk@state.co.us)  
 
 The State Demography Office is the primary state agency for population and demographic information. Its data are used by state agencies to forecast demand for facilities and services. These data are also used by local governments and non-profit organizations in the state to anticipate growth or decline and to plan and develop programs and community resources. The office's location in the Department of Local Affairs insures that its data and information is developed in ways that account for local input and needs. The office makes the data publicly available on their website, answers requests for economic and demographic data and provides training workshops on accessing and using the data.  
 
