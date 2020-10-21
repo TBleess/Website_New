@@ -36,6 +36,9 @@ Attendees can register for Continuing Education credits when they complete the S
 *Special note for members of the American Institute of City Planners (AICP):*
 AICP members can claim attendance to the Summit as part of their continuing education activities.
 
+### Accessibility
+Please contact Adam Bickford at [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) if you have questions about the accessiblity of the Summit sessions for the hearing-impaired.
+
 ### Questions?
 Please contact Adam Bickford at [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) if you have any questions.
 
