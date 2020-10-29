@@ -18,7 +18,7 @@ published: true
 
 [Infographics](/demography/infographics#infographics) \| [Publications & Reports](#publications-and-reports) \| [Community Profiles](#community-profiles) \| [Presentations](#presentations) \| [Thematic Maps](/gis/thematic-maps#thematic-maps) \| [GIS Data](/gis/gis-data#gis-data)
 
- [Quarterly Webinars](#quarterly-webinars)\| [2019 Annual Demography Summit](#annual-demography-summit-2019) \|[Past Conferences](#past-conferences)\| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations#archived-publications-and-presentations)
+ [Quarterly Webinars](#quarterly-webinars)\| [2020 Annual Demography Summit](#annual-demography-summit-2020) \|[Past Conferences](#past-conferences)\| [Press Releases](#press-releases) \| [Archived Publications and Presentations](/demography/archived-publications-and-presentations#archived-publications-and-presentations)
 
 </div>
 
@@ -83,34 +83,63 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
 - - -
 
-#### Annual Demography Summit 2019
+#### Annual Demography Summit 2020
 
 - Conference Materials 
-   - [Conference Agenda ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1icenN570mJFaa7bAqCEncVfyVrhPfVj1)
-   - [Speaker Biographies ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1U5_c7G_Mhn_CR7HRsPtqT3PQeu7nxNFJ)
-   - [Colorado Planning and Management Regional Map ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1dmP03jMT8ajh2AtyPycT9XcJYkTRwsFA)
-   - [Demographic Glossary ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=13NtPanLZk7V1iRD-6W9JoPRY-HjoYkQP)
-   - [Population Projections by County ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1NK7IYsOx0eqzgxJXLnvaeQIru8KRmASF)
-   - [Population Projections by Region ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1z0WIi0vUhdiNIDr_hhDci-Z75mweFet9)
-   - [Population Estimates for Counties and Municipalities ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1S7ys_qBRoO5425t8JL8IorOhBoNLoBqx)
-   - [Components of Change ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1SRM0nXP0CbEpy7BM7loAr1TBydFLP3G7)
- 
-- Presentations
-  - [Population Estimates:  Elizabeth Garner, State Demographer ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1ioG-piOelz8Tm0ju_krbKlcOQnPxlL4k)
-  - [Economic Overview and Forecasts: Chris Akers, State Demography Office ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1gePpWaig9-P2o8uljx2xazEOra30yt1J)
-  - [Population Forecasts: Cindy DeGroen, State Demography Office ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1Bl79-42hqgd90KlK1JqoKr5Gy0FzQYuX)
-  - [Update on Census 2020, Federal, State and Local Perspective ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=17MeJIPwrDDj8JTI1gzkn5HOKOFEs_fS6)
-  - [Accessing Census Data: data.census.gov  Robert Chestnut, U.S. Census Bureau ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1uWHWxv4M2UNbK0SipP-joXwghe1Vjj1L)
-  - [Planning for a Better Balance in Housing - Supply and Demand Ideas ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=19sv56f44vRc3Av1HwST-y99RNz7UqzqZ)
+  - [Summit Agenda](https://drive.google.com/file/d/1PZCw5d0YoEKvcZiFso9wje3Gc5154clq/view?usp=sharing)
+  - [Presenter Biographies](https://drive.google.com/file/d/115bwp-0s_uN4OCliOO7UGgVy_VjwnKKX/view?usp=sharing)
+  - [Colorado Planning and Management Regions Map](https://drive.google.com/file/d/1rVVVeTO9Ym4E9DKewWvhoh1k023u-iWh/view?usp=sharing)
+  - [Population Estimates for Counties and Municipalities](https://demography.dola.colorado.gov/population/population-totals-municipalities/#population-totals-for-colorado-municipalities)
+  - [Population Projections by County](https://demography.dola.colorado.gov/population/population-totals-counties/#population-totals-for-colorado-counties)
+  - [Population Projections by Region](https://demography.dola.colorado.gov/population/population-totals-colorado-substate/#population-totals-for-colorado-and-sub-state-regions)
+  - [Components of Change](https://demography.dola.colorado.gov/births-deaths-migration/) 
+  
+- Presentations and Video
 
- **View the video of the Summit sessions [here](https://dola.ompnetwork.org/sessions/120159?embedInPoint=1&embedOutPoint=29819&shareMethod=embed).**
+  COVID-19 and Housing :: Rick M. Garcia
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1-4GdAqLsnCoTc3sYc5Rr1qzNTLcktkCb/view?usp=sharing)
+  - [Video](https://youtu.be/m4cI4EOPRVc)
+  
+  Where and Why is Colorado’s Current Population Changing? :: Nancy Gedeon
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/16J2LKEUH8W6J0gMX959ObBwrCg4F4egF/view?usp=sharing)
+  - [Video](https://youtu.be/r1H3nJIp048)
+  
+  Economic Conditions Pre and Post COVID-19 – Implications Across the State :: Elizabeth Garner
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1fqGIKAH5ByTDLuJ2gJREWnI4KAlFF0A5/view?usp=sharing)
+  - [Video](https://youtu.be/mD_enmgJe7U)
+  
+  Colorado Population Trends and the Impact of COVID-19 :: Cindy DeGroen
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1sH3yaJF-z_7YuA00dWRmEihR8U96akuK/view?usp=sharing)
+  - [Video](https://youtu.be/rtNxZtr0BOo)
+  
+  Growing Forward – What do the Trends and Conditions Mean for Colorado? :: Elizabeth Garner, Cindy DeGroen, Nancy Gedeon
+   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1Key2N-y6pmDQJ5OJdZggudtmPzEcr2Dt/view?usp=sharing)
+   - [Video](https://youtu.be/-ZRN3qXgvXE)
+   
+  SDO COVID-19 Maps and Data Tools :: Todd Bleess
+  - [Video](https://youtu.be/swxAr3D8Ii4)
+  
+  Colorado's public health response to a pandemic, and the direct and indirect impacts of COVID-19 :: Rachel Herlihy, MD, MPH and Kirk Bol, MSPH
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1KhpRwJUF2C2FQz_LzpmuRdGvaR44Sz4B/view?usp=sharing)
+  - [Video](https://youtu.be/zv3yXeH7mpc)
+  
+  Census 2020 Update, Differential Privacy, and What’s Next
+  
+  Census 2020 Operations :: Adam Bickford
+    - [Preentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
+    - [Video](https://youtu.be/umYMmqiHsv4)
+  
+  Differential Privacy :: Elizabeth Garner
+    - [Preentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing)
+    - [Video](https://youtu.be/Fun05VuHRNQ)
  
- 
- 
+
+
 
 ---
 
 #### Past Conferences
+ - [Annual Conference Page 2019](/demography/annual-demography-summit-2019/#annual-demography-summit-videos-2019)
  - [Annual Conference Page 2018](/demography/annual-demography-summit-2018/#annual-demography-summit-videos-2018)
  - [Annual Conference Page 2017](/demography/annual-demography-summit-2017/#annual-demography-summit-videos-2017)
  - [Annual Conference Page 2016](/demography/annual-demography-summit-2016/#annual-demography-summit-videos-2016)
@@ -126,4 +155,3 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 - - -
 
 Archived publications and presentations are available [here](/demography/archived-publications-and-presentations#archived-publications-and-presentations).
-
