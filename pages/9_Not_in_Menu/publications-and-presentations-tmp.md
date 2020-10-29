@@ -99,7 +99,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
     - [Video](https://youtu.be/m4cI4EOPRVc)
   - Where and Why is Colorado’s Current Population Changing? :: Nancy Gedeon
     - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/16J2LKEUH8W6J0gMX959ObBwrCg4F4egF/view?usp=sharing)
-	- [Video](https://youtu.be/r1H3nJIp048)
+    - [Video](https://youtu.be/r1H3nJIp048)
   - Economic Conditions Pre and Post COVID-19 – Implications Across the State :: Elizabeth Garner
     - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1fqGIKAH5ByTDLuJ2gJREWnI4KAlFF0A5/view?usp=sharing)
 	- [Video](https://youtu.be/mD_enmgJe7U)
