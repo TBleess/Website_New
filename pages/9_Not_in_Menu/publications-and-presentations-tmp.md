@@ -102,7 +102,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
     - [Video](https://youtu.be/r1H3nJIp048)
   - Economic Conditions Pre and Post COVID-19 – Implications Across the State :: Elizabeth Garner
     - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1fqGIKAH5ByTDLuJ2gJREWnI4KAlFF0A5/view?usp=sharing)
-	- [Video](https://youtu.be/mD_enmgJe7U)
+    - [Video](https://youtu.be/mD_enmgJe7U)
   - Colorado Population Trends and the Impact of COVID-19 :: Cindy DeGroen
     - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1sH3yaJF-z_7YuA00dWRmEihR8U96akuK/view?usp=sharing)
 	- [Video](https://youtu.be/rtNxZtr0BOo)
@@ -119,7 +119,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
       - [Preentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
       - [Video](https://youtu.be/umYMmqiHsv4)
     -  Differential Privacy :: Elizabeth Garner
-      - [Presentation](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing)
+      - [Preentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing)
       - [Video](https://youtu.be/Fun05VuHRNQ)
  
 
