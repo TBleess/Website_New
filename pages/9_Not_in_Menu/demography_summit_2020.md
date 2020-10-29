@@ -43,7 +43,7 @@ This year's Summit will offered over Zoom and is free for all partcipants.
  - SDO COVID-19 Maps and Data Tools :: Todd Bleess
  - [Colorado's public health response to a pandemic, and the direct and indirect impacts of COVID-19 :: Rachel Herlihy, MD, MPH and Kirk Bol, MSPH](https://drive.google.com/file/d/1KhpRwJUF2C2FQz_LzpmuRdGvaR44Sz4B/view?usp=sharing)
  - Census 2020 Update, Differential Privacy, and What’s Next
-	- [Ceusus 2020 Operations :: Adam Bickford](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
+	- [Census 2020 Operations :: Adam Bickford](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
 	- [Differential Privacy :: Elizabeth Garner](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing)
 	
 ### Continuing Education Credits
