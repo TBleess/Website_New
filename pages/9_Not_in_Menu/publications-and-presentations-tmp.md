@@ -114,6 +114,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   Growing Forward – What do the Trends and Conditions Mean for Colorado? :: Elizabeth Garner, Cindy DeGroen, Nancy Gedeon
    - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1Key2N-y6pmDQJ5OJdZggudtmPzEcr2Dt/view?usp=sharing)
    - [Video]()
+   
   SDO COVID-19 Maps and Data Tools :: Todd Bleess
   - [Video](https://youtu.be/swxAr3D8Ii4)
   
