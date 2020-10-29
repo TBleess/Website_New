@@ -94,7 +94,6 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Population Projections by Region](https://demography.dola.colorado.gov/population/population-totals-colorado-substate/#population-totals-for-colorado-and-sub-state-regions)
   - [Components of Change](https://demography.dola.colorado.gov/births-deaths-migration/) 
 - Presentations and Video
-  - [Population Estimates:  Elizabeth Garner, State Demographer ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=1ioG-piOelz8Tm0ju_krbKlcOQnPxlL4k)
   -  COVID-19 and Housing :: Rick M. Garcia
     - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1-4GdAqLsnCoTc3sYc5Rr1qzNTLcktkCb/view?usp=sharing)
     - [Video](https://youtu.be/m4cI4EOPRVc)
@@ -116,12 +115,12 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
     - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1KhpRwJUF2C2FQz_LzpmuRdGvaR44Sz4B/view?usp=sharing)
 	- [Video]()
   - Census 2020 Update, Differential Privacy, and What’s Next
-	- Ceusus 2020 Operations :: Adam Bickford
+    - Census 2020 Operations :: Adam Bickford
       - [Preentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
-	  - [Video](https://youtu.be/umYMmqiHsv4)
-	-  Differential Privacy :: Elizabeth Garner
-	  - [Presentation](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing)
-	  - [Video](https://youtu.be/Fun05VuHRNQ)
+      - [Video](https://youtu.be/umYMmqiHsv4)
+    -  Differential Privacy :: Elizabeth Garner
+      - [Presentation](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing)
+      - [Video](https://youtu.be/Fun05VuHRNQ)
  
 
 
