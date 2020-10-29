@@ -79,15 +79,15 @@ This year's Summit will offered over Zoom and is free for all partcipants.
   
   Census 2020 Operations :: Adam Bickford
   
-   - [Preentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
    
-    - [Video](https://youtu.be/umYMmqiHsv4)
+   - [Video](https://youtu.be/umYMmqiHsv4)
   
   Differential Privacy :: Elizabeth Garner
   
-    - [Preentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing)
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing)
 	
-    - [Video](https://youtu.be/Fun05VuHRNQ)
+  - [Video](https://youtu.be/Fun05VuHRNQ)
  
 	
 ### Continuing Education Credits
