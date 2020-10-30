@@ -69,7 +69,7 @@ This one-day conference offers attendees the opportunity to learn about the most
   Census 2020 Operations :: Adam Bickford
   
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing) 
-   - [Video](https://youtu.be/umYMmqiHsv4)
+   - [Video](https://youtu.be/xoUxVWcLE2c)
   
   Differential Privacy :: Elizabeth Garner
   
