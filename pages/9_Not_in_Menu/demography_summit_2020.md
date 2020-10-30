@@ -31,12 +31,10 @@ This one-day conference offers attendees the opportunity to learn about the most
 ### Summit Presentations and Video
 
   COVID-19 and Housing :: Rick M. Garcia
-  
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1-4GdAqLsnCoTc3sYc5Rr1qzNTLcktkCb/view?usp=sharing)
   - [Video](https://youtu.be/m4cI4EOPRVc)
   
   Where and Why is Colorado’s Current Population Changing? :: Nancy Gedeon
-  
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/16J2LKEUH8W6J0gMX959ObBwrCg4F4egF/view?usp=sharing)
   - [Video](https://youtu.be/r1H3nJIp048)
   
@@ -83,9 +81,6 @@ Please complete the [Summit evaluation](https://docs.google.com/forms/d/e/1FAIpQ
  
 *Special note for members of the American Institute of City Planners (AICP):*
 AICP members can claim attendance to the Summit as part of their continuing education activities.
-
-### Accessibility
-If you require closed-captioning, please view the recorded sessions on the [DOLA YouTube](https://www.youtube.com/playlist?list=PLY2KCiAmSzyiDN1TJwp3WSdXjW_IP8vYW) page.
 
 ### Questions?
 Please contact Adam Bickford at [adam.bickford@state.co.us](mailto:adam.bickford@state.co.us) if you have any questions.
