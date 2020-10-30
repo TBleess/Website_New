@@ -31,10 +31,12 @@ This one-day conference offers attendees the opportunity to learn about the most
 ### Summit Presentations and Video
 
   COVID-19 and Housing :: Rick M. Garcia
+  
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1-4GdAqLsnCoTc3sYc5Rr1qzNTLcktkCb/view?usp=sharing)
   - [Video](https://youtu.be/m4cI4EOPRVc)
   
   Where and Why is Colorado’s Current Population Changing? :: Nancy Gedeon
+  
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/16J2LKEUH8W6J0gMX959ObBwrCg4F4egF/view?usp=sharing)
   - [Video](https://youtu.be/r1H3nJIp048)
   
