@@ -16,11 +16,6 @@ The 38th Annual State Demography Summit will be held virtually on Wednesday, Oct
 
 This one-day conference offers attendees the opportunity to learn about the most current population and economic conditions and forecasts for the state and its regions.  These plenary sessions will not only cover the data and information but also discuss implications for planning, policy, business, and public services. Experts will provide a recap of the 2020 Census data collection and plans for Census Differential Privacy implementation, discuss impacts of the Coronavirus pandemic, and highlight State Demography Office tools for visualizing the impact of the pandemic on Colorado counties.
 
-## Registration Details 
-
-This year's Summit will offered over Zoom and is free for all partcipants.
-
-**Click [here](https://zoom.us/webinar/register/WN_PugvQrwET3CI8cTO8-0e4Q) to register for this year's Summit.**
 
 ## Summit Materials
 - [Summit Agenda](https://drive.google.com/file/d/1PZCw5d0YoEKvcZiFso9wje3Gc5154clq/view?usp=sharing)
@@ -38,7 +33,6 @@ This year's Summit will offered over Zoom and is free for all partcipants.
   COVID-19 and Housing :: Rick M. Garcia
   
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1-4GdAqLsnCoTc3sYc5Rr1qzNTLcktkCb/view?usp=sharing)
-  
   - [Video](https://youtu.be/m4cI4EOPRVc)
   
   Where and Why is Colorado’s Current Population Changing? :: Nancy Gedeon
