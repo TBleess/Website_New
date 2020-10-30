@@ -68,21 +68,18 @@ This year's Summit will offered over Zoom and is free for all partcipants.
   Colorado's public health response to a pandemic, and the direct and indirect impacts of COVID-19 :: Rachel Herlihy, MD, MPH and Kirk Bol, MSPH
   
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1KhpRwJUF2C2FQz_LzpmuRdGvaR44Sz4B/view?usp=sharing)
-  
   - [Video](https://youtu.be/zv3yXeH7mpc)
   
   Census 2020 Update, Differential Privacy, and What’s Next
   
   Census 2020 Operations :: Adam Bickford
   
-  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
-   
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing) 
    - [Video](https://youtu.be/umYMmqiHsv4)
   
   Differential Privacy :: Elizabeth Garner
   
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing)
-	
   - [Video](https://youtu.be/Fun05VuHRNQ)
  
 	
