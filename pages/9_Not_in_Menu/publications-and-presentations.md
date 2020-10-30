@@ -135,7 +135,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   Census 2020 Operations :: Adam Bickford
   
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
-  - [Video](https://youtu.be/umYMmqiHsv4)
+  - [Video](https://youtu.be/xoUxVWcLE2c)
   
   Differential Privacy :: Elizabeth Garner
   
