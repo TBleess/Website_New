@@ -98,7 +98,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
   COVID-19 and Housing :: Rick M. Garcia
   
-  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1-4GdAqLsnCoTc3sYc5Rr1qzNTLcktkCb/view?usp=sharing) 
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1-4GdAqLsnCoTc3sYc5Rr1qzNTLcktkCb/view?usp=sharing)
   - [Video](https://youtu.be/m4cI4EOPRVc)
   
   Where and Why is Colorado’s Current Population Changing? :: Nancy Gedeon
@@ -134,14 +134,13 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   
   Census 2020 Operations :: Adam Bickford
   
-   - [Preentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
-   - [Video](https://youtu.be/umYMmqiHsv4)
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1vPHO4nQcsoESMPP7AeaPu7vt2s-GcBQ9/view?usp=sharing)
+  - [Video](https://youtu.be/umYMmqiHsv4)
   
   Differential Privacy :: Elizabeth Garner
   
-    - [Preentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing
-    - [Video](https://youtu.be/Fun05VuHRNQ)
- 
+  - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1nfHCX_CZROZszcztLWD-7q9-Efa5Jhln/view?usp=sharing)
+  - [Video](https://youtu.be/Fun05VuHRNQ)
 
 
 
