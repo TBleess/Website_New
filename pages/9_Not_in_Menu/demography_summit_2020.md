@@ -44,25 +44,21 @@ This year's Summit will offered over Zoom and is free for all partcipants.
   Where and Why is Colorado’s Current Population Changing? :: Nancy Gedeon
   
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/16J2LKEUH8W6J0gMX959ObBwrCg4F4egF/view?usp=sharing)
-  
   - [Video](https://youtu.be/r1H3nJIp048)
   
   Economic Conditions Pre and Post COVID-19 – Implications Across the State :: Elizabeth Garner
   
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1fqGIKAH5ByTDLuJ2gJREWnI4KAlFF0A5/view?usp=sharing)
-  
   - [Video](https://youtu.be/mD_enmgJe7U)
   
   Colorado Population Trends and the Impact of COVID-19 :: Cindy DeGroen
   
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1sH3yaJF-z_7YuA00dWRmEihR8U96akuK/view?usp=sharing)
-  
   - [Video](https://youtu.be/rtNxZtr0BOo)
   
   Growing Forward – What do the Trends and Conditions Mean for Colorado? :: Elizabeth Garner, Cindy DeGroen, Nancy Gedeon
   
   - [Presentation ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1Key2N-y6pmDQJ5OJdZggudtmPzEcr2Dt/view?usp=sharing)
-  
   - [Video](https://youtu.be/-ZRN3qXgvXE)
    
   SDO COVID-19 Maps and Data Tools :: Todd Bleess
