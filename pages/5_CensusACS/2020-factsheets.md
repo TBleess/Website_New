@@ -11,8 +11,12 @@ These fact sheets are developed to provide basic information about Census 2020 o
 for additional fact sheets, please contact the State Demography Office.
 
 
-Last Updated 03/31/2019
+Last Updated 11/20/2019
 
+### Final Response Rate
+
+* [Colorado Final Census Response Rate  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1Z-bWY48p_qaUwWgnbJW_YjkiNPDdYha1/view?usp=sharing)
+Final Census 2020 Response Rate
 ### Responding to COVID-19
 
 * [Digital Engagement and non-Contact Outreach  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=16e4jdQX03oiZBKHeDcTmheWRw0pQmzNV) Resources and strategies to improve digital outreach
