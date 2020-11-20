@@ -17,6 +17,7 @@ Last Updated 11/20/2019
 
 * [Colorado Final Census Response Rate  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/file/d/1Z-bWY48p_qaUwWgnbJW_YjkiNPDdYha1/view?usp=sharing)
 Final Census 2020 Response Rate
+
 ### Responding to COVID-19
 
 * [Digital Engagement and non-Contact Outreach  ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/open?id=16e4jdQX03oiZBKHeDcTmheWRw0pQmzNV) Resources and strategies to improve digital outreach
