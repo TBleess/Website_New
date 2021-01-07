@@ -26,6 +26,9 @@ description: "Housing and Household data by Colorado County or City."
 - [County Profile:](/population/data/profile-county/)
 The County Profile database allows the user to select county-level population estimates along with other housing variables, for years 1985 to current.
 
+-[County and Municipality Population and Housing](/population/data/muni-pop-housing/) 2010-2919
+Search for information on population, household population, group quarters population, household size, housing units, occupied housing units, vacant housing units, and vacancy rate by county, municipality, and year.
+
 - - -
 
 #### Forecasts
