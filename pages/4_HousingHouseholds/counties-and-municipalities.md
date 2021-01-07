@@ -23,12 +23,10 @@ description: "Housing and Household data by Colorado County or City."
 
 - [Housing Unit and Household Estimates ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=1cNjNZsCqjA5TNEZytkAKu6lb5c2aC0tT) are prepared annually for Colorado, counties and municipalities by the State Demography Office.
 
-- [County Profile:](/population/data/profile-county/)
-
+- [County Profile:](/population/data/profile-county/) 
 The County Profile database allows the user to select county-level population estimates along with other housing variables, for years 1985 to current.
 
-- [County and Municipality Population and Housing](/population/data/muni-pop-housing/) 2010-2919
-
+- [County and Municipality Population and Housing](/population/data/muni-pop-housing/) 2010-2019 
 Search for information on population, household population, group quarters population, household size, housing units, occupied housing units, vacant housing units, and vacancy rate by county, municipality, and year.
 
 - - -
