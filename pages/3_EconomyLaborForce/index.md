@@ -27,3 +27,4 @@ The Office uses state and county economic analyses and forecasts to assist in th
 - [Labor Market Information (LMI)](https://www.colmigateway.com/vosnet/)
 - [Local Economic Information Summary Documentation (LEIFA) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=0B9kZxy54UDqMSWNFTzF1YV81MTY5Uk9Dc0xTc3RZeFpJTFRV)
 - [Economic Maps](https://demography.dola.colorado.gov/gis/thematic-maps/#employment)
+- [Visualizations](https://demography.dola.colorado.gov/gis/map-gallery/#economic)
