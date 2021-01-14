@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Residential Construction and Group Quarters Facility Survey
-permalink: /rcs-special-districts/
+permalink:
 description: >-
   Colorado Conservation Trust Fund Residential Construction and Group Quarters
   Facility Survey Information Page.
