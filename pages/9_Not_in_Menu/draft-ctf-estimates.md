@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Draft CTF Estimates
-permalink: /demography/draft-ctf-estimates/
+permalink: 
 description: Colorado Conservation Trust Fund Estimates Page
 published: true
 ---
