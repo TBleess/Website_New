@@ -71,7 +71,7 @@ description: "Download GIS data produced by the Colorado State Demography Office
 - 2015-2019 American Community Survey (with demographic characteristics)
   - [Block Groups](https://storage.googleapis.com/co-publicdata/ACS1519_bg.zip)
   - [Tracts](https://storage.googleapis.com/co-publicdata/ACS1519_tract.zip)
-  - [Counties](https://storage.googleapis.com/co-publicdata/ACS11519_county.zip)
+  - [Counties](https://storage.googleapis.com/co-publicdata/ACS1519_county.zip)
   - [Places](https://storage.googleapis.com/co-publicdata/ACS1519_place.zip)
 
 - 2010 US Census (with demographic characteristics)
