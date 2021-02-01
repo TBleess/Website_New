@@ -81,7 +81,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Registration Link](https://zoom.us/meeting/register/tJYkcO-vrT0uGNIcHTyDPmLTRKrda9RFjkaY)
 
 - Q2 2021 June 17, 12:00 p.m. – 1:00 p.m.:  Review of 2020 Census data release
-  - Discuss Reapporitionment Data
+  - Discuss reapporitionment data
   - Discuss the current state of Census Differential Privacy adjustments
   - Discuss current schedule of redistricting data file (PL-94-171) and other data releases
   - Discuss SDO data dissemination plans/tools
@@ -89,7 +89,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
  
 - Q3 2021 September, TBA
 
--Q4 2021 State Demogrpahy Summit, November, TBA
+- Q4 2021 State Demography Summit, November, TBA
 - - -
 - Q2 2020 Navigating data.census.gov (April, 2020)
    - [Presentation![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1e5xNp_iA5vb7kNo0y1mAaZvtgbyYBplZ)
