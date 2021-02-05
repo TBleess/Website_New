@@ -17,6 +17,7 @@ description: "Directory of Housing and Household resources."
 - [United States](/housing-and-households/united-states#united-states)
 - [Planning and Management Regions](/housing-and-households/planning-and-management-regions#planning-and-management-regions)
 - [Counties and Municipalities](/housing-and-households/counties-and-municipalities#counties-and-municipalities) 
+- [Housing Dashboard](https://gis.dola.colorado.gov/apps/HousingDashboard/).  An interactive application displaying information on housing units, occupied housing units, and vacant housing units for counties and municipalities.
 
 - - -
 
