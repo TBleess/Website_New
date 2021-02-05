@@ -29,6 +29,8 @@ The County Profile database allows the user to select county-level population es
 - [County and Municipality Population and Housing](/population/data/muni-pop-housing/) 2010-2019 
 Search for information on population, household population, group quarters population, household size, housing units, occupied housing units, vacant housing units, and vacancy rate by county, municipality, and year.
 
+- [Housing Dashboard](https://gis.dola.colorado.gov/apps/HousingDashboard/).  An interactive application displaying information on housing units, occupied housing units, and vacant housing units for counties and municipalities.
+
 - - -
 
 #### Forecasts
