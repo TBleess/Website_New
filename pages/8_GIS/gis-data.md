@@ -47,7 +47,7 @@ description: "Download GIS data produced by the Colorado State Demography Office
 
 #### DOLA Grants (Since 2010) - CSV
 
-- [All DOLA Grants](https://storage.googleapis.com/co-publicdata/ALL_grants.csv)
+- [All DOLA Grants](https://storage.googleapis.com/co-publicdata/grants.csv)
   - [Energy/Mineral Assistance Program](https://storage.googleapis.com/co-publicdata/EIAF_grants.csv)
   - [Rural Economic Development Initiative](https://storage.googleapis.com/co-publicdata/REDI_grants.csv)
   - [Limited Gaming Impact Program](https://storage.googleapis.com/co-publicdata/GAME_grants.csv)
@@ -60,6 +60,11 @@ description: "Download GIS data produced by the Colorado State Demography Office
   - [Search and Rescue](https://storage.googleapis.com/co-publicdata/SAR_grants.csv)
   - [Volunteer Firefighter Pension Fund](https://storage.googleapis.com/co-publicdata/VFP_grants.csv)
   - [Marijuana Impact Grants](https://storage.googleapis.com/co-publicdata/MJ_grants.csv)
+  - [Community Services Block Grants](https://storage.googleapis.com/co-publicdata/SBR_grants.csv)
+  - [Peace Officer Mental Health Support Grants](https://storage.googleapis.com/co-publicdata/POMH_grants.csv)
+  - [Main Street Program Grants](https://storage.googleapis.com/co-publicdata/MS_grants.csv)
+  - [Defense Counsel on First Appearance Grants](https://storage.googleapis.com/co-publicdata/DCFA_grants.csv)
+  - [Coronavirus Reliefe Fund Grants](https://storage.googleapis.com/co-publicdata/CVRF_grants.csv)
   
 ----
 
