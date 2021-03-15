@@ -41,6 +41,8 @@ The County Profile database allows the user to select county-level population es
 
 Population forecasts are produced annually by the State Demography Office.
 
+*Population totals and age by county, region and state were re-released March of 2021 after incorporating updated county birth, county death, and statewide net migration data and correcting an error which primarily impacted the older adult population in Colorado reducing its growth from 2019 to 2020 by approximately 3%. 
+
 These tables illustrate the population for future years, based on plausible courses of future population change (see Forecasts Methodology for more information.) The forecasts are for Colorado counties and are available for the years 2000 to 2050.
 
 - [5 year increments, 2000 - 2050 ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESV1NLOHZCVXoyVm8)
