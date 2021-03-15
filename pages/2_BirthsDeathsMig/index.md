@@ -23,6 +23,8 @@ description: "Colorado components of change data.  Births, deaths and migration 
 
 ### Colorado & Counties
 
+*Population totals and age by county, region and state were re-released March of 2021 after incorporating updated county birth, county death, and statewide net migration data and correcting an error which primarily impacted the older adult population in Colorado reducing its growth from 2019 to 2020 by approximately 3%. 
+
 - The [Components of Change for Colorado ![xls](/images/page_white_excel.png 'download xls file')](https://drive.google.com/uc?export=download&id=0B-vz6H4k4SESYk04anlab3BUNDQ) table is prepared annually by the State Demography Office. It shows estimated and forecasted births, deaths, natural increase and net migration for Colorado 1970 to 2025.
 - [Births, Deaths, and Migration](/births-deaths-migration/data/components-change#components-of-change).  This user defined lookup illustrates estimates and forecasts of births, deaths and net migration data as prepared annually by the State Demography Office for Colorado and counties 1970 to 2050.
 - [Net Migration by Age Comparison](https://demography.dola.colorado.gov/apps/netmigration_dashboard/): Interactive charts of net migration by 5 year age groups starting in 1995 through our current forecast.
