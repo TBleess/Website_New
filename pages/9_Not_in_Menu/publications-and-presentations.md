@@ -75,7 +75,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
 #### Quarterly Webinars
 
-- Q1  New SDO data tools and data.census.gov (March ,2021)
+- Q1  New SDO data tools and data.census.gov (March, 2021)
   - Demonstration of new data tools posted since December 2020.
   - Demonstration  of the SDO COVID map series
   - (Re) Introduction to American Community Survey and Census data using [data.census.gov](https://data.census.gov/cedsci/)
