@@ -79,7 +79,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - Demonstration of new data tools posted since December 2020.
   - Demonstration  of the SDO COVID map series
   - (Re) Introduction to American Community Survey and Census data using [data.census.gov](https://data.census.gov/cedsci/)
-  - [Presentation! [pdf](/images/page_white_acrobat.png 'download png file')](https://drive.google.com/uc?export=download&id=1omxPDndGyiDeL3w_MRocivJH844Taj6q)
+  - [Presentation![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1omxPDndGyiDeL3w_MRocivJH844Taj6q)
   - [Video](https://youtu.be/kDm54-OBKb0)
 - Q2 2021 June 17, 12:00 p.m. – 1:00 p.m.:  Review of 2020 Census data release
   - Discuss reapporitionment data
