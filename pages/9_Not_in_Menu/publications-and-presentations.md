@@ -75,11 +75,12 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 
 #### Quarterly Webinars
 
-- Q1 2021 March 17, 12:00 p.m. – 1:00 p.m.:  New SDO data tools and data.census.gov
+- Q1  New SDO data tools and data.census.gov (March ,2021)
   - Demonstration of new data tools posted since December 2020.
   - Demonstration  of the SDO COVID map series
   - (Re) Introduction to American Community Survey and Census data using [data.census.gov](https://data.census.gov/cedsci/)
-  - [Registration Link](https://zoom.us/meeting/register/tJYkcO-vrT0uGNIcHTyDPmLTRKrda9RFjkaY)
+  - [Presentation! [pdf](/images/page_white_acrobat.png 'download png file')](https://drive.google.com/uc?export=download&id=1omxPDndGyiDeL3w_MRocivJH844Taj6q)
+  - [Video](https://youtu.be/kDm54-OBKb0)
 - Q2 2021 June 17, 12:00 p.m. – 1:00 p.m.:  Review of 2020 Census data release
   - Discuss reapporitionment data
   - Discuss the current state of Census Differential Privacy adjustments
