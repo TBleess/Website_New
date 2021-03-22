@@ -82,7 +82,7 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - [Presentation![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1omxPDndGyiDeL3w_MRocivJH844Taj6q)
   - [Video](https://youtu.be/kDm54-OBKb0)
 - Q2 2021 June 17, 12:00 p.m. – 1:00 p.m.:  Review of 2020 Census data release
-  - Discuss reapporitionment data
+  - Discuss reapportionment data
   - Discuss the current state of Census Differential Privacy adjustments
   - Discuss current schedule of redistricting data file (PL-94-171) and other data releases
   - Discuss SDO data dissemination plans/tools
