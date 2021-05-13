@@ -32,6 +32,6 @@ U.S. States, the median percentage of persons identifying as Hispanic with at le
 identifying as Hispanic.  While Colorado ranks high in the proportion of the population identifying as 
 Hispanic, the educational attainment of Colorado Hispanics is about average relative to other states.
 
-Access the full paper [here](https://drive.google.com/uc?export=download&10xsjPoC0YFR5wr43hgLSt1X_PnRLQfXp)
+Access the full paper [here](https://drive.google.com/uc?id=10xsjPoC0YFR5wr43hgLSt1X_PnRLQfXp&export=download)
 
 
