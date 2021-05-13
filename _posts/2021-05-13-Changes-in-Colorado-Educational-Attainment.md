@@ -7,8 +7,6 @@ permalink: /crosstabs/Changes in Colorado's Educational Attainment 2010 to 2019/
 
 ---
 
-** Changes in Colorado's Educational Attainment 2010 to 2019 **
-
 A brief analysis of educational attainment among Colorado residents age 25 and older shows:
 
 - Between 2010 and 2019, the percentage of Colorado residents with at least a Bachelor's Degree increased by approximately forty percent, compared to approximately 18 percent for the United States.  
