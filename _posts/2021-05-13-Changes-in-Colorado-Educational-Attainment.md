@@ -7,7 +7,7 @@ permalink: /crosstabs/Changes in Colorado's Educational Attainment 2010 to 2019/
 
 ---
 
-## Changes in Colorado's Educational Attainment 2010 to 2019 ##
+** Changes in Colorado's Educational Attainment 2010 to 2019 **
 
 A brief analysis of educational attainment among Colorado residents age 25 and older shows:
 
@@ -34,6 +34,6 @@ U.S. States, the median percentage of persons identifying as Hispanic with at le
 identifying as Hispanic.  While Colorado ranks high in the proportion of the population identifying as 
 Hispanic, the educational attainment of Colorado Hispanics is about average relative to other states.
 
-Access the full paper [here](https://drive.google.com/uc?export=download&10xsjPoC0YFR5wr43hgLSt1X_PnRLQfXp)
+Access the full paper [here](https://drive.google.com/file/d/10xsjPoC0YFR5wr43hgLSt1X_PnRLQfXp/view?usp=sharing)
 
 
