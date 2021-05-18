@@ -31,7 +31,6 @@ published: true
 
 #### Employment Data
 
-- [Employment by Sector (SIC based) 1991-2001](https://dola.colorado.gov/demog_webapps/jss_parameters.jsf)
 - [Employment by Sector (NAICS based) 2001-Present](/economy-labor-force/data/jobs-by-sector#jobs-by-sector-naics)
 
 - - -
