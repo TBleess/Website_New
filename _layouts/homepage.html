@@ -19,7 +19,7 @@ layout: default
 <body>
   {% include _top-bar.html %}
   {% include _header.html %}
-  <div class="grid-item panel_1_1">
+  <div class="">
 			State Demography Office
 			<br>The State Demography Office is the primary state agency for population and demographic information.
   </div>
@@ -31,30 +31,30 @@ layout: default
       <div class="grid-container">
 
 
-          <div class="grid-item panel_2_2">
+          <div class="grid-item panel_1_1">
              <label for="county-dropdown">Select County:</label>
              <select class="county-dropdown" id="county-dropdown"></select>
              <p class="tbl-margin"></p>
              <div id="PopTab"></div>
              <div id="RaceTab"></div>
            </div>
-           <div class="grid-item panel_2_3">
+           <div class="grid-item panel_1_2">
              <p class="tbl-margin"></p>
              <div id="COCTab"></div>
              <div id="HousTab"></div>
            </div>
-           <div class="grid-item panel_2_4">
+           <div class="grid-item panel_1_3">
              <p class="tbl-margin"></p>
              <div id="ACSTab"></div>
            </div>
 
-            <div class="grid-item panel_4_2">
+            <div class="grid-item panel_3_1">
                     {% include _bodycontent1.html %}
              </div>
-            <div class="grid-item panel_4_3">
+            <div class="grid-item panel_3_2">
                     {% include _bodycontent2.html %}
             </div>
-            <div class="grid-item panel_4_4">
+            <div class="grid-item panel_3_3">
                     {% include _bodycontent3.html %}
             </div>
         </div> <!-- grid container -->
