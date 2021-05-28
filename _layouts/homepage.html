@@ -1,17 +1,35 @@
 ---
 layout: default
 ---
+<style>
+#wrapper {
+    width: 100%;
+    overflow: hidden; /* will contain if #first is longer than #second */
+}
+#first {
+    width: 27%;
+    float:left; /* add this */
+}
+#second {
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+    padding-left: 25px;
+}
+    </style>
 
 <body>
   {% include _top-bar.html %}
   {% include _header.html %}
-      <br>
-      <br>
+   <div id="wrapper">
+    <div id="first">
+      sidemenu
+     </div>
+     <div id="second">
+      main content
 
-      <div id="main-content">
+      
 
       </div>
-
+  </div>
   {% include _footer.html %}
 </body>
 
