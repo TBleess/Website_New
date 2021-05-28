@@ -806,9 +806,9 @@ br {
 /* Main Page Grid styles  This is has 4 columns and 4 rows*/
 .grid-container {
   display: grid;
-  grid-template-columns: 26.6% 26.6% 26.6%;
+  grid-template-columns: 33.3% 33.3% 33.3%;
   grid-gap: 1px;
-  
+  background-color: #7a853b;
   padding: 1px;
 }
 .grid-item {
@@ -823,33 +823,33 @@ br {
 
  /* Table Panel on Homepage*/ 
 .panel_1_1 {  
-   grid-column: 2;
-   grid-row: 2 /span 2;
+   grid-column: 1;
+   grid-row: 1 /span 2;
   }
 
 .panel_1_2 {  
-   grid-column: 3;
-   grid-row: 2 /span 2;
+   grid-column: 2;
+   grid-row: 1 /span 2;
   }
 
 .panel_1_3 {  
-   grid-column: 4;
-   grid-row: 2 /span 2;
+   grid-column: 3;
+   grid-row: 1 /span 2;
   }
   
  /* Bottom panels */ 
 .panel_3_1 {
-   grid-column: 2;
-   grid-row: 4;
+   grid-column: 1;
+   grid-row: 3;
   }
 .panel_3_2 {
-   grid-column: 3;
-   grid-row: 4;
+   grid-column: 2;
+   grid-row: 3;
   }
   
 .panel_3_3 {
-  grid-column: 4;
-  grid-row: 4;
+  grid-column: 3;
+  grid-row: 3;
 }
 
 /* Secondary Page Grid styles  This is has 7 columns and 4 rows*/
