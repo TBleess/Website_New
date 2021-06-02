@@ -72,14 +72,15 @@ layout: default
 <script src="./assets/js/funct.js" ></script>
 <script>
 //Setting HTML include and Accordion
-includeHTML(); 
+console.log("Is this thing on?");
+	includeHTML(); 
 //Function checks if selected div is loaded and runs Accordion
 
 window.onload = runAccordion;
 setInterval(function(){ runAccordion(); }, 50);
 
 /* Populate County Dropdown */
-
+console.log("Is this thing still on?");
 //Counties
 var counties = [{'county': 'Colorado', 'fips': '000'},{'county':'Adams County', 'fips': '001'},
                 {'county':'Alamosa County', 'fips': '003'},{'county':'Arapahoe County', 'fips': '005'},
