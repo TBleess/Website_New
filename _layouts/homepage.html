@@ -24,7 +24,15 @@ custom_js:
   {% endfor %}
 {% endif %}
 
-<body onload="console.log("Ready");">
+<body onload="callStart();callAgain();">
+        <script type="text/javascript">
+            function callStart() {
+                alert('First');
+            }
+            function callAgain() {
+                alert('Again');
+            }
+        </script>
   {% include _top-bar.html %}
   {% include _header.html %}
   
