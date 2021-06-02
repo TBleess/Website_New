@@ -1,5 +1,5 @@
-window.onload = runAccordion;
-setInterval(function(){ runAccordion(); }, 50);
+/*window.onload = runAccordion;
+setInterval(function(){ runAccordion(); }, 50);*/
 
 /* Populate County Dropdown */
 
