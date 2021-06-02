@@ -806,7 +806,7 @@ br {
 /* Main Page Grid styles  This is has 4 columns and 4 rows*/
 .grid-container {
   display: grid;
-  grid-template-columns: 33.3% 33.3% 33.3%;
+  grid-template-columns: 20% 26.6% 26.6% 26.6%;
   grid-gap: 1px;
   background-color: #7a853b;
   padding: 1px;
@@ -819,37 +819,44 @@ br {
 }
 /* Top Row */
 
-/* Left Hand Panel */  
-
- /* Table Panel on Homepage*/ 
 .panel_1_1 {  
+  grid-column: 1 / span 7;
+  grid-row: 1 ;
+  }
+/* Left Hand Panel */  
+.panel_2_1 {  
    grid-column: 1;
-   grid-row: 1 /span 2;
+   grid-row: 2/ span 3;
   }
-
-.panel_1_2 {  
+ /* Table Panel on Homepage*/ 
+.panel_2_2 {  
    grid-column: 2;
-   grid-row: 1 /span 2;
+   grid-row: 2 /span 2;
   }
 
-.panel_1_3 {  
+.panel_2_3 {  
    grid-column: 3;
-   grid-row: 1 /span 2;
+   grid-row: 2 /span 2;
+  }
+
+.panel_2_4 {  
+   grid-column: 4;
+   grid-row: 2 /span 2;
   }
   
  /* Bottom panels */ 
-.panel_3_1 {
-   grid-column: 1;
-   grid-row: 3;
-  }
-.panel_3_2 {
+.panel_4_2 {
    grid-column: 2;
-   grid-row: 3;
+   grid-row: 4;
+  }
+.panel_4_3 {
+   grid-column: 3;
+   grid-row: 4;
   }
   
-.panel_3_3 {
-  grid-column: 3;
-  grid-row: 3;
+.panel_4_4 {
+  grid-column: 4;
+  grid-row: 4;
 }
 
 /* Secondary Page Grid styles  This is has 7 columns and 4 rows*/
