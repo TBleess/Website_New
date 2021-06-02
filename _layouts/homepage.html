@@ -1,8 +1,5 @@
 ---
 layout: default
-custom_js:
-  - /assets/js/funct.js
-  - https://d3js.org/d3.v6.min.js
 ---
 <!--<style>
 #wrapper {
@@ -18,21 +15,10 @@ custom_js:
     padding-left: 25px;
 }
     </style>-->
-{% if default.custom_js %}
-  {% for js_file in default.custom_js %}
-  <script src='{{ js_file }}' type="text/javascript"></script>
-  {% endfor %}
-{% endif %}
 
-<body onload="callStart();callAgain();">
-        <script type="text/javascript">
-            function callStart() {
-                alert('First');
-            }
-            function callAgain() {
-                alert('Again');
-            }
-        </script>
+
+<body>
+       
   {% include _top-bar.html %}
   {% include _header.html %}
   
