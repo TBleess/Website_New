@@ -88,16 +88,16 @@ custom_js:
 </body>
 <!--<script src="https://d3js.org/d3.v6.min.js" type="text/javascript"></script>
 <script src="./assets/js/funct.js" type="text/javascript"></script>-->
-<script type="text/javascript">
+<script src="/assets/js/homepage.js" type="text/javascript">
 //Setting HTML include and Accordion
 
 	//includeHTML(); 
 //Function checks if selected div is loaded and runs Accordion
 
 //document.body.onload = runAccordion();
-setInterval(function(){ runAccordion(); }, 50);
+/*setInterval(function(){ runAccordion(); }, 50);
 
-/* Populate County Dropdown */
+ Populate County Dropdown 
 console.log("Is this thing still on?");
 //Counties
 var counties = [{'county': 'Colorado', 'fips': '000'},{'county':'Adams County', 'fips': '001'},
@@ -168,7 +168,7 @@ d3.select("#county-dropdown").on("change", function(d,i) {
 		genRaceEth(selectedfips,yrvalue);
 		genHousing(selectedfips,yrvalue);
     });
-}); //end of maximum year value
+});*/ //end of maximum year value
 
 </script>
 
