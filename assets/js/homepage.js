@@ -1,10 +1,13 @@
 /*window.onload = runAccordion;
 setInterval(function(){ runAccordion(); }, 50);*/
 
+window.onload = homestats;
+
 /* Populate County Dropdown */
 
 //Counties
-var counties = [{'county': 'Colorado', 'fips': '000'},{'county':'Adams County', 'fips': '001'},
+function homestats() {
+	var counties = [{'county': 'Colorado', 'fips': '000'},{'county':'Adams County', 'fips': '001'},
                 {'county':'Alamosa County', 'fips': '003'},{'county':'Arapahoe County', 'fips': '005'},
 				{'county':'Archuleta County', 'fips': '007'},{'county':'Baca County', 'fips': '009'},
 				{'county':'Bent County', 'fips': '011'},{'county':'Boulder County', 'fips': '013'},
@@ -73,3 +76,4 @@ d3.select("#county-dropdown").on("change", function(d,i) {
 		genHousing(selectedfips,yrvalue);
     });
 }); //end of maximum year value
+}
