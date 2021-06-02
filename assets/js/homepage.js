@@ -3,10 +3,13 @@ setInterval(function(){ runAccordion(); }, 50);*/
 
 window.onload = homestats;
 
+
 /* Populate County Dropdown */
 
 //Counties
 function homestats() {
+	//runAccordion;
+	setInterval(function(){ runAccordion(); }, 50);
 	var counties = [{'county': 'Colorado', 'fips': '000'},{'county':'Adams County', 'fips': '001'},
                 {'county':'Alamosa County', 'fips': '003'},{'county':'Arapahoe County', 'fips': '005'},
 				{'county':'Archuleta County', 'fips': '007'},{'county':'Baca County', 'fips': '009'},
