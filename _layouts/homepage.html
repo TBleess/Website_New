@@ -79,7 +79,7 @@ layout: default
 	//includeHTML(); 
 //Function checks if selected div is loaded and runs Accordion
 
-window.onload = runAccordion;
+document.body.onload = runAccordion();
 setInterval(function(){ runAccordion(); }, 50);
 
 /* Populate County Dropdown */
