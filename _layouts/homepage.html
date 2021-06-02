@@ -24,7 +24,7 @@ custom_js:
   {% endfor %}
 {% endif %}
 
-<body>
+<body onload="console.log("Ready");">
   {% include _top-bar.html %}
   {% include _header.html %}
   
@@ -86,7 +86,7 @@ custom_js:
 	//includeHTML(); 
 //Function checks if selected div is loaded and runs Accordion
 
-document.body.onload = runAccordion();
+//document.body.onload = runAccordion();
 setInterval(function(){ runAccordion(); }, 50);
 
 /* Populate County Dropdown */
