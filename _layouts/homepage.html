@@ -1,5 +1,8 @@
 ---
 layout: default
+custom_js:
+  - /assets/js/funct.js
+  - https://d3js.org/d3.v6.min.js
 ---
 <!--<style>
 #wrapper {
@@ -15,8 +18,12 @@ layout: default
     padding-left: 25px;
 }
     </style>-->
-<script src="https://d3js.org/d3.v6.min.js" type="text/javascript"></script>
-<script src="./assets/js/funct.js" type="text/javascript"></script>
+{% if default.custom_js %}
+  {% for js_file in default.custom_js %}
+  <script src='{{ js_file }}' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
+
 <body>
   {% include _top-bar.html %}
   {% include _header.html %}
