@@ -19,46 +19,48 @@ layout: default
 <body>
   {% include _top-bar.html %}
   {% include _header.html %}
-  <div class="">
-			State Demography Office
-			<br>The State Demography Office is the primary state agency for population and demographic information.
-  </div>
+  
    <div id="wrapper">
-    <div id="first">
+    <!--<div id="first">
       {% include _left-menu.html %}
     </div>
-    <div id="second">
+    <div id="second">-->
       <div class="grid-container">
-
-
-          <div class="grid-item panel_1_1">
+	<div class="grid-item panel_1_1">
+		State Demography Office
+		<br>The State Demography Office is the primary state agency for population and demographic information.
+  	</div>
+	<div class="grid-item panel_2_1" id="leftHand">
+		<div w3-include-html="./assets/html/left_hand.html"></div>
+  	</div>
+          <div class="grid-item panel_2_2">
              <label for="county-dropdown">Select County:</label>
              <select class="county-dropdown" id="county-dropdown"></select>
              <p class="tbl-margin"></p>
              <div id="PopTab"></div>
              <div id="RaceTab"></div>
            </div>
-           <div class="grid-item panel_1_2">
+           <div class="grid-item panel_2_3">
              <p class="tbl-margin"></p>
              <div id="COCTab"></div>
              <div id="HousTab"></div>
            </div>
-           <div class="grid-item panel_1_3">
+           <div class="grid-item panel_2_4">
              <p class="tbl-margin"></p>
              <div id="ACSTab"></div>
            </div>
 
-            <div class="grid-item panel_3_1">
+            <div class="grid-item panel_4_2">
                     {% include _bodycontent1.html %}
              </div>
-            <div class="grid-item panel_3_2">
+            <div class="grid-item panel_4_3">
                     {% include _bodycontent2.html %}
             </div>
-            <div class="grid-item panel_3_3">
+            <div class="grid-item panel_4_4">
                     {% include _bodycontent3.html %}
             </div>
         </div> <!-- grid container -->
-      </div> <!--second-->
+      <!--</div> second-->
     </div>  <!--wrapper-->
 
       
