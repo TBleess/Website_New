@@ -129,6 +129,7 @@ button {
   padding: 0;
   overflow: hidden;
   background-color: grey;
+  width: 100%;
 }
 .horiz_item {
   float: left;
