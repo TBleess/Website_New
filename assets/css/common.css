@@ -64,6 +64,8 @@ tbody tr:nth-child(odd){background-color: white}
 	width: 100%;
 }
 
+top-navigation-wrapper {width: 100%;}
+
 /* anchor tag hacks */
 
 h1:before { 
