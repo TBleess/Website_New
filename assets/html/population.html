@@ -92,13 +92,13 @@
 	<p></p>
   </div>
  <div class="grid-item panel2_4_2">
-		<div w3-include-html="../html/bodycontent1.html"></div>
+		<{% include _bodycontent1.html %}
 </div>
 	<div class="grid-item panel2_4_4">
-		<div w3-include-html="../html/bodycontent2.html"></div>
+		{% include _bodycontent2.html %}
 </div>
 <div class="grid-item panel2_4_6">
-	<div w3-include-html="../html/bodycontent3.html"></div>
+	{% include _bodycontent3.html %}
 </div>
 </div>  <!-- End of Grid -->
 
@@ -106,7 +106,7 @@
 <script>
 
 //Setting HTML include and Accordion
-includeHTML(); 
+//includeHTML(); 
 //Function checks if selected div is loaded and runs Accordion
 
 window.onload = runAccordion;
