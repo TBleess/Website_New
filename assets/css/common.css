@@ -119,6 +119,7 @@ button {
 /* New Horizontal Rule */
 #header-name {
        text-align: center;
+	line-height:30px;
    }
 
 .horiz {
