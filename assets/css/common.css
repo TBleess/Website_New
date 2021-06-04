@@ -58,10 +58,7 @@ td {
 tbody tr:nth-child(even){background-color: white}
 tbody tr:nth-child(odd){background-color: white}
 
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
 /* anchor tag hacks */
 
@@ -129,7 +126,7 @@ button {
 }
 
 .horiz_item {
-  /*float: left;*/
+  float: left;
   
 }
 
