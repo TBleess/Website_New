@@ -117,12 +117,18 @@ button {
 
 
 /* New Horizontal Rule */
+#header-name {
+       width:100%;
+   }
+
 .horiz {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: grey;
+	margin-right: auto;
+       margin-left: auto;
 }
 
 .horiz_item {
