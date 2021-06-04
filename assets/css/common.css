@@ -129,7 +129,8 @@ button {
 }
 
 .horiz_item {
-  float: left;
+  /*float: left;*/
+  
 }
 
 .horiz_item a {
