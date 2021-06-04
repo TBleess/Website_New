@@ -135,9 +135,9 @@ button {
 }
 
 .horiz_item a {
-  display: block;
+  display: inline;
   color: white;
-  text-align: left;
+  text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
