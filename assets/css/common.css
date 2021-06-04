@@ -118,7 +118,7 @@ button {
 
 /* New Horizontal Rule */
 #header-name {
-       width:100%;
+       text-align: center;
    }
 
 .horiz {
@@ -127,13 +127,11 @@ button {
   padding: 0;
   overflow: hidden;
   background-color: grey;
-	margin-right: auto;
-       margin-left: auto;
 }
 
 .horiz_item {
-  float: left;
-  
+  /*float: left;*/
+  display:inline;
 }
 
 .horiz_item a {
