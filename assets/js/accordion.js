@@ -1,2 +1,2 @@
 window.onload = runAccordion;
-setInterval(function(){ runAccordion(); }, 50);
+//setInterval(function(){ runAccordion(); }, 50);
