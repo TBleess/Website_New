@@ -4,15 +4,12 @@ layout: default
 
 <body>
   {% include _top-bar.html %}
-  <div id="page-wrapper">
-    <div id="page-wrapper-inner">
-      {% include _header.html %}
-      {% include _breadcrumb.html %}
-      {% include _datalink.html %}
+{% include _navheader.html %}
+  {% include _sdo_title.html %}
 
+  
         {{ content }}
 
-    </div>
-  </div>
+
   {% include _footer.html %}
 </body>
