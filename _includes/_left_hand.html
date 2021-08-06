@@ -4,19 +4,19 @@
 </ul>
 <p></p>
     <h4>Data by Topic</h4>
-		<div w3-include-html="./menu_pop.html"></div>
-		<div w3-include-html="./menu_coc.html"></div>
-		<div w3-include-html="./menu_housing.html"></div>
-		<div w3-include-html="./menu_econ.html"></div>
-		<div w3-include-html="./menu_census.html"></div>
+	{% include _menu_pop.html %}
+	{% include _menu_coc.html %}
+	{% include _menu_housing.html %}
+	{% include _menu_econ.html %}
+	{% include _menu_census.html %}
 	<details>
 	<summary><a href="https://demography.dola.colorado.gov/gis/gis-data/#gis-data">GIS Data and Resources</a></summary>
 	</details>
 <p></p>
 <h4>Data by Geography</h4>
-		<div w3-include-html="./menu_state.html"></div>
-		<div w3-include-html="./menu_county.html"></div>
-		<div w3-include-html="./menu_muni.html"></div>
+	{% include _menu_state.html %}
+	{% include _menu_county.html %}
+	{% include _menu_muni.html %}
 </div>  <!-- Accordion Wrapper -->
 <script>
 
