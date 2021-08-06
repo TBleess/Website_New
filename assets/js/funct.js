@@ -2,6 +2,7 @@
 //A. Bickford 5/2021
 
 //list of lookup statements  https://github.com/ColoradoDemography/MS_Demog_Lookups/tree/master/doc
+
 //Utility Function
 
 //hideButtons  selects and hides all "dropbtn" class buttons
@@ -21,6 +22,99 @@ function showButtons() {
 		}
 	};
 }; //end of showButtons
+
+//profileContent provides descriptive names for checked profile boxes...
+function profileContent(invalue) {
+	var outname;
+	switch(invalue) {
+	case "sel1" :
+	  outname = "Basic Statistics";
+	  break;
+	case "sel2":
+	   outname = "Population Trends";
+	   break;
+	case "sel3" :
+	   outname = "Population Characteristics: Age";
+	   break;
+	case "sel4" :
+	   outname = "Population Characteristics: Income, Education and Race";
+	   break;
+	case "sel5" :
+	   outname = "Housing and Households";
+	   break;
+	case "sel6" : 
+		outname = "Commuting and Job Growth";
+		break;
+	case "sel7" :
+		outname = "Employment by Industry";
+		break;
+	case "sel8" :
+		outname = "Employment Forecast and Wage Information";
+		break;
+	}
+	return(outname);
+}; //end of profileContent
+
+//removeAllChildNodes  taken from https://www.javascripttutorial.net/dom/manipulating/remove-all-child-nodes/
+function deleteElems() {
+        var e = document.querySelector("#tab-container");
+        e.remove();
+		var tablist = document.createElement('p');
+		tablist.id = 'tab-list';
+		var profilelist = document.createElement('p');
+		profilelist.id = "profileoutput"
+		
+		e.appendChild(tablist);
+		e.appendChils(profilelist);
+    }
+//addMainTabs  Adds the profile tabls to the selected tab container
+function addMainTabs(tabArr){
+	
+//Build ul list...
+      // Create an unordered list
+
+	  var container = document.querySelector("#tab-list");
+	  
+	  
+      var list = document.createElement('ul');
+		// Create a list item for each wizard
+		// and append it to the list
+		for(i = 0; i < tabArr.length; i++){
+		    var li = document.createElement('li');
+			li.textContent = profileContent(tabArr[i].value);
+			list.appendChild(li);
+			if(i == 3){
+				list.className = "profilelist";
+		        container.appendChild(list);
+				var list = document.createElement('ul');
+		      }; //i == 5
+		}; //for loop
+		list.className = "profilelist";
+		container.appendChild(list);
+     }; //End of addMainTabs
+	 
+	 
+function openTabs(evt, tabName) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}; //End of Open Tabs
+
 
 function restructure(inData) {
     var output = [];
@@ -81,6 +175,10 @@ var county = [{'location': 'Colorado', 'fips': '000'},{'location':'Adams County'
 				{'location':'Washington County', 'fips': '121'},{'location':'Weld County', 'fips': '123'},
 				{'location':'Yuma County', 'fips': '125'}];
 
+var countypro = [];
+for(i = 1; i < county.length; i++){
+   countypro.push({'location' : county[i].location, 'fips' : county[i].fips});
+   }
 //regions
 var region =  [{'location' : 'Denver PMSA', 'fips' : ['001', '005', '014', '031', '035', '059']},
 				  {'location' : 'Denver-Boulder Metro Area', 'fips' : ['001', '005', '013', '014', '031', '035', '059']},
@@ -338,10 +436,19 @@ var place =[{'location' :  'Acres Green CDP' , 'fips' : '00320'}, {'location' : 
 		{'location' :  'Westcreek CDP' , 'fips' : '83500'}, {'location' :  'Weston CDP' , 'fips' : '84000'},
 		{'location' :  'Wolcott CDP' , 'fips' : '85760'}, {'location' :  'Woodmoor CDP' , 'fips' : '86117'}]
 
+//Profile selection
+var profile = [{'location' :  'Select Profile' , 'fips' : ''},{'location' :  'Region' , 'fips' : 'region'}, {'location' :  'County' , 'fips' : 'countypro'},
+		{'location' :  'Municipality', 'fips' : 'municipality'}, {'location' :  'Census Defined Place' , 'fips' : 'place'},
+		{'location' :  'Region Comparison' , 'fips' : 'region'}, {'location' :  'County Comparison' , 'fips' : 'countypro'},
+		{'location' :  'Municipal Comparison', 'fips' : 'municipality'}, {'location' :  'Census Defined Place Comparison' , 'fips' : 'place'}]
+		
+
 if(level == 'county') { var locarr = county};
+if(level == 'countypro') {var locarr = countypro};
 if(level == 'region') { var locarr = region};
-if(level == 'minicipality') { var locarr = municipality};
+if(level == 'municipality') { var locarr = municipality};
 if(level == 'place') { var locarr = place};
+if(level == 'profile'){ var locarr = profile};
 
 d3.select(dropdown)
     .selectAll('option')
@@ -382,6 +489,7 @@ function includeHTML() {
     }
   }
 }
+
 
 function transpose(data) {
   let result = {};
@@ -653,7 +761,7 @@ function povData(indata,fips) {
 			 'total_est' : Number(proc_data[a].b06012001),
 			 'total_moe' : Number(proc_data[a].b06012_moe001),
 			 'pov_est' : Number(proc_data[a].b06012002),
-			 'pov_moe' : Number(proc_data[a].b06012_moe001),
+			 'pov_moe' : Number(proc_data[a].b06012_moe002),
 			 'pov_est_pct' : Number(proc_data[a].b06012002)/Number(proc_data[a].b06012001),
 			 'pov_moe_pct' : Number(proc_data[a].b06012_moe002)/Number(proc_data[a].b06012001)
 		 });
@@ -698,6 +806,97 @@ for(i = 0; i < outdata.length; i++){
  
   return(outdata3);
 }; //end of povData
+
+//tenureData reads in the ACS Poverty data file and output the summary file information
+function tenureData(indata,fips) {
+  //extract data from indata object
+
+	var proc_data = [];
+	for(i = 0; i < indata.data.length; i++) {
+	   proc_data.push(indata.data[i]);
+	};
+
+	var outdata = [];
+	for(a = 0; a < proc_data.length; a++){ 
+
+	 var temp = [];
+	 if(fips == "000"){
+	    temp.push({
+			 'state' : Number(proc_data[a].state),
+			 'total_est' : Number(proc_data[a].b07013001),
+			 'total_moe' : Number(proc_data[a].b07013_moe001),
+			 'oo_est' : Number(proc_data[a].b07013002),
+			 'oo_moe' : Number(proc_data[a].b07013_moe002),
+			 'oo_est_pct' : Number(proc_data[a].b07013002)/Number(proc_data[a].b07013001),
+			 'oo_moe_pct' : Number(proc_data[a].b07013_moe002)/Number(proc_data[a].b07013001),
+			 'rent_est' : Number(proc_data[a].b07013003),
+			 'rent_moe' : Number(proc_data[a].b07013_moe003),
+			 'rent_est_pct' : Number(proc_data[a].b07013003)/Number(proc_data[a].b07013001),
+			 'rent_moe_pct' : Number(proc_data[a].b07013_moe003)/Number(proc_data[a].b07013001) 
+		});
+	 } else {
+		temp.push({
+			 'county' : Number(proc_data[a].county),
+			 'total_est' : Number(proc_data[a].b07013001),
+			 'total_moe' : Number(proc_data[a].b07013_moe001),
+			 'oo_est' : Number(proc_data[a].b07013002),
+			 'oo_moe' : Number(proc_data[a].b07013_moe002),
+			 'oo_est_pct' : Number(proc_data[a].b07013002)/Number(proc_data[a].b07013001),
+			 'oo_moe_pct' : Number(proc_data[a].b07013_moe002)/Number(proc_data[a].b07013001),
+			 'rent_est' : Number(proc_data[a].b07013003),
+			 'rent_moe' : Number(proc_data[a].b07013_moe003),
+			 'rent_est_pct' : Number(proc_data[a].b07013003)/Number(proc_data[a].b07013001),
+			 'rent_moe_pct' : Number(proc_data[a].b07013_moe003)/Number(proc_data[a].b07013001) 
+		 });
+	 };
+	
+	 outdata.push(temp);	
+    }; //end of a loop
+
+ //flatten 
+var outdata_flat = [];
+for(i = 0; i < outdata.length; i++){
+	if(fips == "000") {
+		outdata_flat.push ({
+			'state' : outdata[i][0].state,
+			 'total_est' : outdata[i][0].total_est,
+			 'total_moe' : outdata[i][0].total_moe,
+			 'oo_est' : outdata[i][0].oo_est,
+			 'oo_moe' : outdata[i][0].oo_moe,
+			 'oo_est_pct' : outdata[i][0].oo_est_pct,
+			 'oo_moe_pct' : outdata[i][0].oo_moe_pct,
+			 'rent_est' : outdata[i][0].rent_est,
+			 'rent_moe' : outdata[i][0].rent_moe,
+			 'rent_est_pct' : outdata[i][0].rent_est_pct,
+			 'rent_moe_pct' : outdata[i][0].rent_moe_pct 			 
+		});
+	} else {
+		outdata_flat.push ({
+			'county' : outdata[i][0].county,
+			 'total_est' : outdata[i][0].total_est,
+			 'total_moe' : outdata[i][0].total_moe,
+			 'oo_est' : outdata[i][0].oo_est,
+			 'oo_moe' : outdata[i][0].oo_moe,
+			 'oo_est_pct' : outdata[i][0].oo_est_pct,
+			 'oo_moe_pct' : outdata[i][0].oo_moe_pct,
+			 'rent_est' : outdata[i][0].rent_est,
+			 'rent_moe' : outdata[i][0].rent_moe,
+			 'rent_est_pct' : outdata[i][0].rent_est_pct,
+			 'rent_moe_pct' : outdata[i][0].rent_moe_pct 			 
+	});
+    };
+	};
+ //removing Puerto Rico and the District of Columbia
+
+ if(fips == "000"){
+   var outdata2 = outdata_flat.sort(function(a, b){ return d3.ascending(a['state'], b['state']); });
+   var outdata3 = outdata2.filter(function(d) {return d.state != 11 & d.state != 72;});
+ } else {
+	var outdata3 = outdata_flat.sort(function(a, b){ return d3.ascending(a['county'], b['county']); });
+ };	
+ 
+  return(outdata3);
+}; //end of tenureData
 
 //incData reads in the ACS Median Household Income, Median Home Value and Median Gross Rent data file and output the summary file information
 function incData(indata, type, fips) {  //Type: HH: Household Income, MORT: home value, RENT : gross rent
@@ -877,12 +1076,12 @@ for (let[key2, value2] of value) {
 
 // Create table array for output
 var tbl_arr = []
-tbl_arr.push({'age_cat' : 'Total', 'curval' : fmt_comma(total_ann_flat[1].totalpopulation), 'pct_chg' : fmt_pct((total_ann_flat[1].totalpopulation - total_ann_flat[0].totalpopulation)/total_ann_flat[0].totalpopulation), 'forval' : fmt_comma(total_ann_flat[2].totalpopulation)});
+tbl_arr.push({'age_cat' : '<b>Total</b>', 'prevval' : "<b>"+ fmt_comma(total_ann_flat[0].totalpopulation) + "</b>", 'curval' : "<b>"+fmt_comma(total_ann_flat[1].totalpopulation) + "</b>", 'forval' : "<b>" + fmt_comma(total_ann_flat[2].totalpopulation) +"</b>"});
 
 var ages = [... new Set(total_age_flat.map(tag => tag.age_cat))];
 for(i = 0; i < ages.length; i++) {
 	var filt = total_age_flat.filter(function(d) {return d.age_cat == ages[i]});
-	tbl_arr.push({'age_cat' : ages[i], 'curval' : fmt_comma(filt[1].totalpopulation), 'pct_chg' : fmt_pct((filt[1].totalpopulation - filt[0].totalpopulation)/filt[0].totalpopulation), 'forval' : fmt_comma(filt[2].totalpopulation)});
+	tbl_arr.push({'age_cat' : ages[i], 'prevval' : fmt_comma(filt[0].totalpopulation), 'curval' : fmt_comma(filt[1].totalpopulation), 'forval' : fmt_comma(filt[2].totalpopulation)});
   };
 
 //Generate Table
@@ -890,7 +1089,7 @@ var tblcolumns1 = [
     {'text' :'Population Estimates by Age: '+ yrvalue, 'colspan' : 2},
 	{'text' : "<a href='https://demography.dola.colorado.gov/population/data/sya-county/' target=_blank>SDO Single Year of Age Lookup</a>", 'colspan' : 2}
 	 ];
-var tblcolumns2 = ['Ages','Number','Change from '+ prevyear,'2030 forecast'];
+var tblcolumns2 = ['Ages','Number, '+ prevyear,'Number, '+ yrvalue,'2030 Forecast'];
 // Output table 
 d3.select('#PopTab').html("");
 var syatab = d3.select('#PopTab')
@@ -938,12 +1137,12 @@ rows.append('td')
       .style("text-align", "right")
 	  .style('font-size','10pt')
 	  .attr("border-spacing","0")
-      .html(function(m) { return m.curval; });
+      .html(function(m) { return m.prevval; });
 rows.append('td')
        .style("text-align", "right") 
 	   .style('font-size','10pt')
 	   .attr("border-spacing","0")
-       .html(function(m) { return m.pct_chg; });
+       .html(function(m) { return m.curval; });
 rows.append('td')
       .style("text-align", "right")
 	  .style('font-size','10pt')
@@ -1088,8 +1287,8 @@ for(i = 1; i<= 100; i++){
 
  } 
 //estimates urls
-urlstr_hispest = "https://gis.dola.colorado.gov/lookups/sya-race-estimates?age="+ age_list + "&county="+ fips_list +"&year="+ yr_list +"&race=1,2,3,4&ethnicity=1&sex=b&group=opt7";
-urlstr_nonhispest = "https://gis.dola.colorado.gov/lookups/sya-race-estimates?age="+ age_list + "&county="+ fips_list +"&year="+ yr_list +"&race=1,2,3,4&ethnicity=2&sex=b&group=opt7";
+urlstr_hispest = "https://gis.dola.colorado.gov/lookups/sya-race-estimates?age="+ age_list + "&county="+ fips_list +"&year="+ yrvalue +"&race=1,2,3,4&ethnicity=1&sex=b&group=opt7";
+urlstr_nonhispest = "https://gis.dola.colorado.gov/lookups/sya-race-estimates?age="+ age_list + "&county="+ fips_list +"&year="+ yrvalue +"&race=1,2,3,4&ethnicity=2&sex=b&group=opt7";
 
 //forecast urls
 urlstr_for = "https://gis.dola.colorado.gov/lookups/sya-race-forecast?age=0,18,65&county=" + fips_list + "&year=" + year10 + "&race=1,2,3,4,5&group=opt7";
@@ -1148,12 +1347,12 @@ raceeth_est.concat(raceeth_for).forEach(function(obj) {
 
 // Create table array for output
 var tbl_arr = []
-
+var race_eth_sum = d3.sum(raceeth_est, d => d.population);
 var raceth = ["Hispanic", "White NH", "Black NH", "Asian/ Pacific Islander NH", "American Indian NH"];
 
 for(i = 0; i < raceth.length; i++) {
 	var filt = raceeth_fin.filter(function(d) {return d.race_eth == raceth[i]});
-	tbl_arr.push({'race_eth' : raceth[i], 'curval' : fmt_comma(filt[1].population), 'pct_chg' : fmt_pct((filt[1].population - filt[0].population)/filt[0].population), 'forval' : fmt_comma(filt[2].population)});
+	tbl_arr.push({'race_eth' : raceth[i], 'percent' : fmt_pct(filt[0].population/race_eth_sum), 'curval' : fmt_comma(filt[0].population), 'forval' : fmt_comma(filt[1].population)});
   };
 
 
@@ -1162,7 +1361,7 @@ var tblcolumns1 = [
     {'text' :'Race/ Ethnicity: '+ yrvalue, 'colspan' : 2},
 	{'text' : "<a href='https://demography.dola.colorado.gov/population/data/race-estimate/#county-race-by-age-estimates' target=_blank>SDO Race/Ethnicity Lookup</a>", 'colspan' : 2}
 	 ];
-var tblcolumns2 = ['Race/ Ethnicity','Number','Change from '+ prevyear,'2030 forecast'];
+var tblcolumns2 = ['Race/ Ethnicity','Percentage, ' + yrvalue,'Number,  '+ yrvalue,year10 + ' forecast'];
 // Output table 
 d3.select('#RaceTab').html("");
 var syatab = d3.select('#RaceTab')
@@ -1210,12 +1409,12 @@ rows.append('td')
       .style("text-align", "right")
 	  .style('font-size','10pt')
 	  .attr("border-spacing","0")
-      .html(function(m) { return m.curval; });
+      .html(function(m) { return m.percent; });
 rows.append('td')
        .style("text-align", "right") 
 	   .style('font-size','10pt')
 	   .attr("border-spacing","0")
-       .html(function(m) { return m.pct_chg; });
+       .html(function(m) { return m.curval; });
 rows.append('td')
       .style("text-align", "right")
 	  .style('font-size','10pt')
@@ -1228,6 +1427,153 @@ rows.append('td')
 }; //end of genRaceEth
 
 
+
+//genTenure Pulls multiple data sources from the ACS 5-year files to create final table
+//Housing Tenure B07013
+
+function genTenure(fips,yrvalue){
+
+var fmt_pct = d3.format(".2%");
+var fmt_count = d3.format(",");
+var fmt_dollar = d3.format("$,");
+var fmt_yr = d3.format("00");
+
+var curACS = "acs" + fmt_yr(yrvalue - 2004) + fmt_yr(yrvalue - 2000);
+
+if(fips == "000") {    
+	   var tenurestr_cur = "https://gis.dola.colorado.gov/capi/demog?limit=99999&db=" + curACS +"&schema=data&table=b07013&moe=yes&sumlev=40&type=json";
+   } else {
+      var tenurestr_cur = "https://gis.dola.colorado.gov/capi/demog?limit=99999&db=" + curACS +"&schema=data&table=b07013&moe=yes&sumlev=50&type=json&state=8";
+   };
+   
+  
+ //Housing Tenure Variables and Objests
+ var tenure_cur = [];
+ 
+d3.json(tenurestr_cur).then(function(data){
+
+//Housing Tenure Processing
+
+    tenure_cur = tenureData(data,fips);
+
+	//Calculate rank 
+	var oo_val = [];
+	var rental_val = [];
+	for(i = 0; i < tenure_cur.length; i++){
+		if(fips == "000") { 
+		  oo_val.push({"fips" : tenure_cur[i].state, "count" : tenure_cur[i].oo_est, "percent" :  tenure_cur[i].oo_est_pct});
+		  rental_val.push({"fips" : tenure_cur[i].state, "count" : tenure_cur[i].rent_est, "percent" :  tenure_cur[i].rent_est_pct});
+		} else {
+		  oo_val.push({"fips" : tenure_cur[i].county, "count" : tenure_cur[i].oo_est, "percent" :  tenure_cur[i].oo_est_pct});
+		  rental_val.push({"fips" : tenure_cur[i].county, "count" : tenure_cur[i].rent_est, "percent" :  tenure_cur[i].rent_est_pct});
+		}	
+	}
+
+//Building Table Array
+
+//Selcting fips
+if(fips == "000"){
+	oo_tab = oo_val.filter(function(d) {return d.fips == 8;});
+	rental_tab = rental_val.filter(function(d) {return d.fips == 8;});
+   } else {
+	oo_tab = oo_val.filter(function(d) {return d.fips == Number(fips);});
+	rental_tab = rental_val.filter(function(d) {return d.fips == Number(fips);});
+   };
+
+
+    out_tab = oo_tab.concat(rental_tab)
+
+var tbl_arr = [];
+var censstub = "https://data.census.gov/cedsci/table?q=";
+
+var tabno = "B07013";
+var tabname = ["Owner Occupied Housing Units", "Rental Housing Units"];
+
+if(fips == "000") {
+    var censgeo = "&g=0400000US08&tid=ACSDT5Y2019.";
+} else {
+	var censgeo = "&g=0500000US08"+ fips +"&tid=ACSDT5Y2019.";
+};
+
+for(i = 0; i < tabname.length;i++) {
+	var topic = "<a href='" + censstub + tabno + censgeo + tabno +"' target=_blank>" + tabname[i] + "</a>"
+    tbl_arr.push({'topic' : topic,
+	              'count' : fmt_count(out_tab[i].count),
+				  'percent' : fmt_pct(out_tab[i].percent)
+                 });
+	}
+	
+
+var curyr4 = yrvalue - 4;
+
+
+//Generate Table
+var tblcolumns1 = [
+    {'text' :'Housing Tenure '+ yrvalue},
+	{'text' : "<a href='https://data.census.gov/cedsci/' target=_blank>American Community Survey "+ curyr4 + "-" + yrvalue + " 5-year data</a>", 'colspan' : 2}
+	];
+
+     var tblcolumns2 = ['Housing Units', 'Number', 'Percentage'];
+
+
+// Output table 
+d3.select('#TenureTab').html("");
+var tenuretab = d3.select('#TenureTab')
+               .append('table')
+               .style('table-layout', 'fixed');
+			   
+thead = tenuretab.append('thead');
+tbody = tenuretab.append('tbody');
+//Header
+thead.append('tr')
+       .selectAll('th')
+   .data(tblcolumns1).enter()
+   .append('th')
+   .html(function(d) {return d.text;})
+   .attr("colspan", function(d) {return d.colspan;})
+   .style("border", "1px black solid")
+   .style("width","20%")
+ 	
+thead.append('tr')
+   .selectAll('th')
+   .data(tblcolumns2).enter()
+   .append('th')
+   .text(function(d) {return d;})
+   .style("border", "1px black solid")
+   .style("width","20%")
+   .style("text-align", "center")
+   .style("font-weight", "bold");
+   
+ //Rows   
+
+var rows = tbody
+    .selectAll('tr')
+    .data(tbl_arr).enter()
+    .append('tr')
+	.attr("width", "20%")
+	.attr("border-spacing","0")
+	.style("color","black");
+
+//Columns
+rows.append('td')
+      .style("text-align", "left")
+	  .style('font-size','10pt')
+	  .attr("border-spacing","0")
+	  .html(function(m) { return m.topic; });
+rows.append('td')
+      .style("text-align", "right")
+	  .style('font-size','10pt')
+	  .attr("border-spacing","0")
+      .html(function(m) { return m.count; });
+rows.append('td')
+       .style("text-align", "right") 
+	   .style('font-size','10pt')
+	   .attr("border-spacing","0")
+       .html(function(m) { return m.percent; });
+ }); //end of promise
+}; //end of genTenure
+
+
 //genACS Pulls multiple data sources from the ACS 5-year files to create final table
 //Poverty  B06012
 //Educ ACS B15003
@@ -1237,7 +1583,8 @@ rows.append('td')
 
 function genACS(fips,yrvalue){
 
-var fmt_pct = d3.format(".2%")
+var fmt_pct = d3.format(".2%");
+var fmt_count = d3.format(",");
 var fmt_dollar = d3.format("$,");
 var fmt_yr = d3.format("00");
 
@@ -1318,13 +1665,14 @@ if(fips == "000") {
  var rentRank;
  var rentDiff;
  
+  
  //Promise Structure
 var prom = [d3.json(povstr_prev),d3.json(povstr_cur),d3.json(educstr_prev),d3.json(educstr_cur),
             d3.json(incstr_prev),d3.json(incstr_cur),d3.json(homestr_prev),d3.json(homestr_cur),
 			d3.json(rentstr_prev),d3.json(rentstr_cur)];
 
 Promise.all(prom).then(function(data){
-	
+
 //Poverty Processing
     pov_prev = povData(data[0],fips);
 	pov_cur = povData(data[1],fips);
@@ -1401,7 +1749,7 @@ Promise.all(prom).then(function(data){
     };
 	homeDiff = chkDiff(home_comp[0]['inc_est'], home_comp[0]['inc_moe'], home_comp[1][0]['inc_est'], home_comp[1][0]['inc_moe']);
 	
-//Median Gorss Rent Processing
+//Median Gross Rent Processing
 
     rent_prev = incData(data[8],"RENT",fips);
 	rent_cur = incData(data[9],"RENT",fips);
@@ -1419,14 +1767,14 @@ Promise.all(prom).then(function(data){
 		rent_comp.push(rent_prev.filter(function(d) {return d.county == parseInt(fips);}));
     };
 	rentDiff = chkDiff(rent_comp[0]['inc_est'], rent_comp[0]['inc_moe'], rent_comp[1][0]['inc_est'], rent_comp[1][0]['inc_moe']);
-
+	
 //Building Table Array
 
 var tbl_arr = [];
 var censstub = "https://data.census.gov/cedsci/table?q=";
 
-var tabno = ["B06012","B15003","B19013","B25097","B25064"];
-var tabname = ["% living in Poverty","% with BA+",
+var tabno = ["B06012","B15003","B19013","B25097","B25064","","B07013","B07013"];
+var tabname = ["% living in Poverty","% with Bachelor's Degree+",
               "Median Household Income", "Median Home Value", "Median Gross Rent"];
 
 if(fips == "000") {
@@ -1507,6 +1855,7 @@ for(i = 0; i < 5; i++){
 	  };
 	 var rank = rentRank;
 	}; 
+	 
 	tbl_arr.push({ 'topic' : topic,
 	               'value' : value, 
 	               'diff' : diffIcon,
@@ -1523,7 +1872,7 @@ var tblcolumns1 = [
 	];
 
 if(fips == "000"){	
-     var tblcolumns2 = ['Topic', 'Value', 'Change from ' + prevyr4 + "-" + prevyr + " ACS","U. S. Rank"];
+     var tblcolumns2 = ['Topic', 'Number', 'Change from ' + prevyr4 + "-" + prevyr + " ACS","U. S. Rank"];
 } else {
 	 var tblcolumns2 = ['Topic', 'Value', 'Change from ' + prevyr4 + "-" + prevyr + " ACS","County Rank"];
 };
@@ -1679,7 +2028,11 @@ for(i = 1; i < housing_fint.length; i++){
 													   };
 	if(housing_fint[i][0][0].name == 'censusbuildingpermits') { out_name = "Annual Building Permits";
 	                                                     cVal = fmt_comma(currentVal);
-														 pctVal = fmt_pct((currentVal - prevVal)/prevVal);
+														 if(prevVal != 0) {
+														   pctVal = fmt_pct((currentVal - prevVal)/prevVal);
+														 } else {
+														   pctVal = " ";
+														 };
 													   };
 	tbl_arr.push({ 'row_name' : out_name,
 	               'curval' : cVal, 
@@ -1691,7 +2044,7 @@ var tblcolumns1 = [
     {'text' :'Housing Characteristics: '+ yrvalue, 'colspan' : 1},
 	{'text' : "<a href='https://demography.dola.colorado.gov/population/data/profile-county/' target=_blank>SDO County Profile Lookup</a>", 'colspan' : 2}
 	 ];
-var tblcolumns2 = ['Housing Type', 'Value', 'Change from ' + prevyear];
+var tblcolumns2 = ['Housing Type', 'Number', 'Change from ' + prevyear];
 // Output table 
 d3.select('#HousTab').html("");
 var syatab = d3.select('#HousTab')
@@ -1750,7 +2103,7 @@ rows.append('td')
 }; // End of genHousing
 
 //Plotting Fuctionc
-//genDEMO outputs Ploytly charts for the Demographic Dashboard
+//genDEMO outputs Plotly charts for the Demographic Dashboard
 function genDEMO(fips, ctyName, yrvalue){
 
     const formatDate = d3.timeFormat("%B %d, %Y");
@@ -1962,7 +2315,8 @@ var est_layout = {
 			linewidth: 2
 		  },
 		  yaxis: {
-			  title : 'Total Population',
+			title : 'Total Population',
+			automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2022,6 +2376,7 @@ var forec_layout = {
 		  },
 		  yaxis: {
 			title : 'Total Population',
+			automargin: true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2122,6 +2477,7 @@ var coc_layout = {
 		  },
 		  yaxis: {
 			title : 'Population Change',
+			automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2178,6 +2534,7 @@ var migr_layout = {
 		  },
 		  yaxis: {
 			title : 'Total Population',  
+			automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2235,6 +2592,7 @@ var age_layout = {
 		  },
 		  yaxis: {
             autorange : 'reversed',
+			automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2292,6 +2650,7 @@ var popchng_layout = {
 		  },
 		  yaxis: {
             autorange : 'reversed',
+			automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2598,6 +2957,7 @@ var line_layout = {
 		  },
 		  yaxis: {
 			  title : 'Total Population',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2636,6 +2996,7 @@ var white_layout = {
 		  },
 		  yaxis: {
 			  title : 'Total Population',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2674,6 +3035,7 @@ var hisp_layout = {
 		  },
 		  yaxis: {
 			  title : 'Total Population',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2712,6 +3074,7 @@ var black_layout = {
 		  },
 		  yaxis: {
 			  title : 'Total Population',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2750,6 +3113,7 @@ var asian_layout = {
 		  },
 		  yaxis: {
 			  title : 'Total Population',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2788,6 +3152,7 @@ var amind_layout = {
 		  },
 		  yaxis: {
 			  title : 'Total Population',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -2940,7 +3305,7 @@ var NetMig0010_line = {
 var NetMig1020_line = { 
                x: NetMigAge,
                y : NetMig1020,
-			   name : '1995 to 2000',
+			   name : '2010 to 2020',
 			   mode : 'lines+markers', 
 			    marker: {
                   color: 'green',
@@ -3025,6 +3390,7 @@ var NetMig_layout = {
 		  },
 		  yaxis: {
 			  title : 'Net Migration',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -3061,6 +3427,7 @@ var NetMig_layout = {
 		  },
 		  yaxis: {
 			  title : 'Net Migration Rate (per 1,000 Population)',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -3256,6 +3623,7 @@ var tot_layout = {
 		  },
 		  yaxis: {
 			  title : 'Persons',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -3293,6 +3661,7 @@ var rate_layout = {
 		  },
 		  yaxis: {
 			  title : 'Rate per 100 Persons',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -3491,6 +3860,7 @@ var birth_layout = {
 		  },
 		  yaxis: {
 			  title : 'Persons',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -3527,6 +3897,7 @@ var death_layout = {
 		  },
 		  yaxis: {
 			  title : 'Persons',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -3563,6 +3934,7 @@ var mig_layout = {
 		  },
 		  yaxis: {
 			  title : 'Persons',
+			  automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -3627,7 +3999,7 @@ function genHOUSEAGE(fipsVal,ctyName, varType, seriesType){
 	const formatDate = d3.timeFormat("%B %d, %Y");
 
 	var fips_list = parseInt(fipsVal);
-	debugger;
+
    var yr_trace = [2010];
 
  	var yr_list = 2010;
@@ -3713,7 +4085,7 @@ for(i = 0; i < hh_arr.length; i++){
 		       yData.push(tmphh[k].age_pct);
 			};	
 		};	
-debugger;
+
 	if(j == 0){
    	tr_0 = {x: yr_trace,
 			y :  yData,
@@ -3852,6 +4224,7 @@ for(i = 0; i < hh_arr.length; i++){
 		  },
 		  yaxis: {
 			title : y_title,
+			automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -3903,6 +4276,7 @@ ch_layout.push(layout);
 		  },
 		  yaxis: {
 			title : y_title,
+			automargin : true,
 			showgrid: true,
 			showline: true,
 			mirror: 'ticks',
@@ -3988,3 +4362,10 @@ if(varType == "hhold") {
 
 }); //end of d3 json
 }; //end of genHOUSEAGE
+
+//Community Profile Functions
+//genProfile is the base profile function
+
+function genProfile(fipsVal,ctyName, varType, seriesType){
+	const formatDate = d3.timeFormat("%B %d, %Y");
+}
