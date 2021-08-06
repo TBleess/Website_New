@@ -24,10 +24,12 @@
 <!-- First Grid, linked images -->
 <div class="grid-container2">
   <div class="grid-item panel2_1_1">
-	<div w3-include-html="./sdotitle.html"></div>
+	  {% include _sdotitle.html %}
+	
   </div>
   <div class="grid-item panel2_2_1" id="leftHand">
-	<div w3-include-html="./left_hand.html"></div>
+	  {% include _left_hand.html %}
+	
   </div> <!-- Grid  panel2_2_1 -->
   <div class="grid-item panel2_2_2">
 	<a href="https://demography.dola.colorado.gov/CensusAPI" title='Download American Community Survey 5-year data. Questions? Click on the "Contact Us" link below to contact a SDO Demographer.'><img class="map-thumbnail" alt="SDO Census API" src="../../map_gallery/img/censusapi.png" ></a>
