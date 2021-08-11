@@ -1,8 +1,5 @@
 <div id="accordionWrapper">
-<ul class="breadcrumb">
-  <li><a href="https://demography.dola.colorado.gov/">Home</a></li>
-  <li>Population</li>
-</ul>
+{% include _breadcrumb.html %}
 	<details>
 		<summary><a href='./population_spreadsheets.html'>Population Estimate and Forecast Spreadsheets <i class='fas fa-file-excel' style='color:green;'></i></a></summary>
 	</details>
@@ -23,19 +20,20 @@
 	</main>
 	</details>
 	<h4>Data by Topic</h4>
-		{% include _menu_coc.html %}
-		{% include _menu_housing.html %}
-		{% include _menu_econ.html %}
-		{% include _menu_census.html %}	
-	
+	{% include _menu_coc.html %}
+	{% include _menu_housing.html %}
+	{% include _menu_econ.html %}
+	{% include _menu_census.html %}
+
 	<details>
 	<summary><a href="https://demography.dola.colorado.gov/gis/gis-data/#gis-data">GIS Data and Resources</a></summary>
 	</details>
 <p></p>
 <h4>Data by Geography</h4>
-		{% include _menu_state.html %}
-		{% include _menu_county.html %}
-		{% include _menu_muni.html %}
+	{% include _menu_state.html %}
+	{% include _menu_county.html %}
+	{% include _menu_muni.html %}
+
 
 </div>  <!-- Accordion Wrapper -->
 
