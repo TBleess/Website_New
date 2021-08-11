@@ -8,11 +8,14 @@ layout: default
 {% include _navheader.html %}
   {% include _sdotitle.html %}
 
+<div class="grid-container">
+  <div class="grid-item panel2_2_1" id="leftHand">
+    {% include __left_hand_index.html %}
+  </div> <!-- Grid  panel_2_1 -->
 
-
-  
+  <div class="grid-item panel2_2_2">
         {{ content }}
-
+  </div>
 
   {% include _footer.html %}
 </body>
