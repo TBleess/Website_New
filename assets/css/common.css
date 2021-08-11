@@ -889,8 +889,14 @@ ul.breadcrumb li a:hover {
     padding: 20px;
 }
 
-.float-child {
-    width: 80%;
+.float-left {
+    width: 20%;
     float: left;
     padding: 20px;
 }  
+
+.float-right {
+    width: 80%;
+    float: left;
+    padding: 20px;
+} 
