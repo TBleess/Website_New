@@ -883,3 +883,14 @@ ul.breadcrumb li a:hover {
   border: 1px solid #ccc;
   border-top: none;
 }
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}  
